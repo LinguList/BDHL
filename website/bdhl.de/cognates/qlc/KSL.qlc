@@ -1,0 +1,1610 @@
+# Wordlist
+
+# META
+@compiler:Johann-Mattis List
+@date:2013-10-15 12:58:42.547472
+@source:Kesser (2001) <http://lingulist.de/evobib/evobib.php?key=Kessler2001>
+
+# DATA
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID
+#
+1	Albanian	all	ɟiθ	ɟ i θ	4
+2	English	all	ɔl	ɔ l	1
+3	French	all	tut	t u t	2
+4	German	all	al	a l	1
+5	Hawaiian	all	apau	a p a u	7
+6	Navajo	all	ʔayɬʦo	ʔ ay ɬ ʦ o	5
+7	Turkish	all	bytyn	b y t y n	3
+#
+8	Albanian	and	e	e	-916
+9	English	and	and	a n d	915
+10	French	and	e	e	916
+11	German	and	unt	u n t	915
+12	Hawaiian	and	aː	aː	919
+13	Navajo	and	doː	d oː	918
+14	Turkish	and	ve	v e	-917
+#
+15	Albanian	animal	kafʃ	k a f ʃ	-1018
+16	English	animal	anəməl	a n ə m ə l	-1016
+17	French	animal	animal	a n i m a l	-1016
+18	German	animal	tiːr	t iː r	1015
+19	Hawaiian	animal	holoholona	h o l o h o l o n a	1020
+20	Navajo	animal	naːldeːhiː	n aː l d eː h iː	1019
+21	Turkish	animal	hajvan	h a j v a n	-1017
+#
+22	Albanian	ashes	hir	h i r	274
+23	English	ashes	aʃ	a ʃ	271
+24	French	ashes	sɑ̃dr	s ɑ̃ d r	272
+25	German	ashes	aʃə	a ʃ ə	271
+26	Hawaiian	ashes	lehu	l e h u	276
+27	Navajo	ashes	ɬeːʃʧˀih	ɬ eː ʃ ʧˀ i h	275
+28	Turkish	ashes	kyl	k y l	273
+#
+29	Albanian	at	nə	n ə	954
+30	English	at	at	a t	952
+31	French	at	a	a	952
+32	German	at	an	a n	951
+33	Hawaiian	at	ma	m a	956
+34	Navajo	at	di	d i	955
+35	Turkish	at	de	d e	953
+#
+36	Albanian	back	ʃpin	ʃ p i n	-369
+37	English	back	bak	b a k	367
+38	French	back	do	d o	366
+39	German	back	rykən	r y k ə n	365
+40	Hawaiian	back	kua	k u a	372
+41	Navajo	back	nayɣah	n ay ɣ a h	370
+42	Turkish	back	arka	a r k a	368
+#
+43	Albanian	bad	kec	k e c	-281
+44	English	bad	bad	b a d	279
+45	French	bad	mɔvɛz	m ɔ v ɛ z	278
+46	German	bad	ʃlext	ʃ l e x t	277
+47	Hawaiian	bad	ʔino	ʔ i n o	283
+48	Navajo	bad	jayʔayʃõõ	j ay ʔ ay ʃ õ õ	282
+49	Turkish	bad	køty	k ø t y	-280
+#
+50	Albanian	bark	ʃkəlboz	ʃ k ə l b o z	413
+51	English	bark	bɑrk	b ɑ r k	-411
+52	French	bark	ekɔrs	e k ɔ r s	410
+53	German	bark	rində	r i n d ə	409
+54	Hawaiian	bark	ʔili	ʔ i l i	415
+55	Navajo	bark	kayʃtˀoːʒ	k ay ʃ tˀ oː ʒ	414
+56	Turkish	bark	kabuk	k a b u k	412
+#
+57	Albanian	because	sepse	s e p s e	336
+58	English	because	bəkɔz	b ə k ɔ z	-337
+59	French	because	pars	p a r s	336
+60	German	because	vail	v ai l	335
+61	Hawaiian	because	aːmea	aː m e a	341
+62	Navajo	because	haːlay	h aː l ay	339
+63	Turkish	because	ʧynky	ʧ y n k y	338
+#
+64	Albanian	belly	bark	b a r k	1012
+65	English	belly	bɛli	b ɛ l i	1010
+66	French	belly	vɑ̃tr	v ɑ̃ t r	1009
+67	German	belly	baux	b au x	1008
+68	Hawaiian	belly	ʔoːpuː	ʔ oː p uː	1014
+69	Navajo	belly	bid	b i d	1013
+70	Turkish	belly	karn	k a r n	1011
+#
+71	Albanian	big	mað	m a ð	198
+72	English	big	bɪg	b ɪ g	196
+73	French	big	grɑ̃d	g r ɑ̃ d	195
+74	German	big	groːs	g r oː s	194
+75	Hawaiian	big	nui	n u i	200
+76	Navajo	big	ʔayniɬʦo	ʔ ay n i ɬ ʦ o	199
+77	Turkish	big	byjyk	b y j y k	197
+#
+78	Albanian	bird	zog	z o g	-482
+79	English	bird	bərd	b ə r d	480
+80	French	bird	wazo	w a z o	479
+81	German	bird	foːgəl	f oː g ə l	478
+82	Hawaiian	bird	manu	m a n u	484
+83	Navajo	bird	ʦidiː	ʦ i d iː	483
+84	Turkish	bird	kuʃ	k u ʃ	481
+#
+85	Albanian	bite	kafʃo	k a f ʃ o	714
+86	English	bite	bait	b ai t	711
+87	French	bite	mɔr	m ɔ r	712
+88	German	bite	bais	b ai s	711
+89	Hawaiian	bite	nahu	n a h u	716
+90	Navajo	bite	ʔahayɬhaːʃ	ʔ a h ay ɬ h aː ʃ	715
+91	Turkish	bite	ɯsɯr	ɯ s ɯ r	713
+#
+92	Albanian	black	zez	z e z	133
+93	English	black	blak	b l a k	131
+94	French	black	nwar	n w a r	130
+95	German	black	ʃvarʦ	ʃ v a r ʦ	129
+96	Hawaiian	black	ʔeleʔele	ʔ e l e ʔ e l e	136
+97	Navajo	black	ɬiʒin	ɬ i ʒ i n	134
+98	Turkish	black	kara	k a r a	132
+#
+99	Albanian	blood	ɟakr	ɟ a k r	1115
+100	English	blood	bləd	b l ə d	1112
+101	French	blood	sɑ̃	s ɑ̃	1113
+102	German	blood	bluːt	b l uː t	1112
+103	Hawaiian	blood	koko	k o k o	1117
+104	Navajo	blood	diɬ	d i ɬ	1116
+105	Turkish	blood	kan	k a n	1114
+#
+106	Albanian	blow	fry	f r y	81
+107	English	blow	blo	b l o	78
+108	French	blow	vɑ̃te	v ɑ̃ t e	79
+109	German	blow	blaːz	b l aː z	78
+110	Hawaiian	blow	puhi	p u h i	83
+111	Navajo	blow	niʧˀi	n i ʧˀ i	82
+112	Turkish	blow	es	e s	80
+#
+113	Albanian	bone	koʦk	k o ʦ k	608
+114	English	bone	bon	b o n	606
+115	French	bone	ɔs	ɔ s	605
+116	German	bone	knoxən	k n o x ə n	604
+117	Hawaiian	bone	iwi	i w i	610
+118	Navajo	bone	ʦˀin	ʦˀ i n	609
+119	Turkish	bone	kemik	k e m i k	607
+#
+120	Albanian	breast	ɟir	ɟ i r	208
+121	English	breast	brɛst	b r ɛ s t	205
+122	French	breast	sɛ̃	s ɛ̃	206
+123	German	breast	brust	b r u s t	205
+124	Hawaiian	breast	uː	uː	211
+125	Navajo	breast	beʔ	b e ʔ	209
+126	Turkish	breast	meme	m e m e	207
+#
+127	Albanian	breathe	frym	f r y m	755
+128	English	breathe	brið	b r i ð	753
+129	French	breathe	rɛspire	r ɛ s p i r e	-752
+130	German	breathe	aːtm	aː t m	751
+131	Hawaiian	breathe	hanu	h a n u	757
+132	Navajo	breathe	ńdiʣih	ń d i ʣ i h	756
+133	Turkish	breathe	nefes	n e f e s	-754
+#
+134	Albanian	burn	diɟ	d i ɟ	516
+135	English	burn	bərn	b ə r n	514
+136	French	burn	bryle	b r y l e	-514
+137	German	burn	bren	b r e n	514
+138	Hawaiian	burn	ʔaː	ʔ aː	519
+139	Navajo	burn	diltˡiʔ	d i l tˡ i ʔ	517
+140	Turkish	burn	jan	j a n	515
+#
+141	Albanian	child	fəmiʎ	f ə m i ʎ	-804
+142	English	child	ʧaild	ʧ ai l d	802
+143	French	child	ɑ̃fɑ̃t	ɑ̃ f ɑ̃ t	801
+144	German	child	kind	k i n d	800
+145	Hawaiian	child	keiki	k e i k i	807
+146	Navajo	child	ʔʃkiː	ʔ ʃ k iː	805
+147	Turkish	child	ʧoʤuk	ʧ o ʤ u k	803
+#
+148	Albanian	claw	θon	θ o n	304
+149	English	claw	klɔ	k l ɔ	301
+150	French	claw	grif	g r i f	-302
+151	German	claw	klauə	k l au ə	301
+152	Hawaiian	claw	mikiʔao	m i k i ʔ a o	307
+153	Navajo	claw	keʃgaː	k e ʃ g aː	305
+154	Turkish	claw	tɯrnak	t ɯ r n a k	303
+#
+155	Albanian	cloud	re	r e	698
+156	English	cloud	klaud	k l au d	696
+157	French	cloud	nɥaʒ	n ɥ a ʒ	695
+158	German	cloud	volkə	v o l k ə	694
+159	Hawaiian	cloud	ao	a o	700
+160	Navajo	cloud	kˀos	kˀ o s	699
+161	Turkish	cloud	bulut	b u l u t	697
+#
+162	Albanian	cold	ftohət	f t o h ə t	75
+163	English	cold	kold	k o l d	72
+164	French	cold	frwad	f r w a d	73
+165	German	cold	kalt	k a l t	72
+166	Hawaiian	cold	anu	a n u	77
+167	Navajo	cold	sikˀaz	s i kˀ a z	76
+168	Turkish	cold	soɣuk	s o ɣ u k	74
+#
+169	Albanian	come	vjen	v j e n	-560
+170	English	come	kəm	k ə m	560
+171	French	come	vjɛ̃	v j ɛ̃	560
+172	German	come	kom	k o m	560
+173	Hawaiian	come	hele	h e l e	563
+174	Navajo	come	jiɣaːh	j i ɣ aː h	562
+175	Turkish	come	gel	g e l	561
+#
+176	Albanian	count	numəruar	n u m ə r u a r	-164
+177	English	count	kaunt	k au n t	-162
+178	French	count	kɔ̃te	k ɔ̃ t e	162
+179	German	count	ʦeːl	ʦ eː l	161
+180	Hawaiian	count	helu	h e l u	166
+181	Navajo	count	iːniɬtaʔ	iː n i ɬ t a ʔ	165
+182	Turkish	count	saj	s a j	163
+#
+183	Albanian	cut	pres	p r e s	88
+184	English	cut	kət	k ə t	-86
+185	French	cut	kupe	k u p e	-85
+186	German	cut	ʃnaid	ʃ n ai d	84
+187	Hawaiian	cut	ʔoki	ʔ o k i	91
+188	Navajo	cut	ʔahaygeːʃ	ʔ a h ay g eː ʃ	89
+189	Turkish	cut	kes	k e s	87
+#
+190	Albanian	day	dit	d i t	241
+191	English	day	de	d e	238
+192	French	day	ʒur	ʒ u r	239
+193	German	day	taːg	t aː g	238
+194	Hawaiian	day	laː	l aː	243
+195	Navajo	day	ʤĩ́	ʤ ĩ́	242
+196	Turkish	day	gyn	g y n	240
+#
+197	Albanian	die	vdes	v d e s	260
+198	English	die	dai	d ai	-258
+199	French	die	mœr	m œ r	257
+200	German	die	ʃterb	ʃ t e r b	256
+201	Hawaiian	die	make	m a k e	262
+202	Navajo	die	daːzʦã́	d aː z ʦ ã́	261
+203	Turkish	die	øl	ø l	259
+#
+204	Albanian	dig	gərmo	g ə r m o	543
+205	English	dig	dɪg	d ɪ g	-541
+206	French	dig	krøze	k r ø z e	-540
+207	German	dig	graːb	g r aː b	539
+208	Hawaiian	dig	ʔeli	ʔ e l i	546
+209	Navajo	dig	hahageːd	h a h a g eː d	544
+210	Turkish	dig	kaz	k a z	542
+#
+211	Albanian	dirty	ndyr	n d y r	900
+212	English	dirty	dərti	d ə r t i	-898
+213	French	dirty	sal	s a l	-897
+214	German	dirty	ʃmuʦix	ʃ m u ʦ i x	896
+215	Hawaiian	dirty	lepo	l e p o	903
+216	Navajo	dirty	baːʔih	b aː ʔ i h	901
+217	Turkish	dirty	pis	p i s	-899
+#
+218	Albanian	dog	cen	c e n	-1181
+219	English	dog	dɑg	d ɑ g	1182
+220	French	dog	ʃjɛn	ʃ j ɛ n	1181
+221	German	dog	hund	h u n d	1181
+222	Hawaiian	dog	ʔiːlio	ʔ iː l i o	1185
+223	Navajo	dog	ɬeːʧãːʔi	ɬ eː ʧ ãː ʔ i	1184
+224	Turkish	dog	køpek	k ø p e k	1183
+#
+225	Albanian	drink	pi	p i	1079
+226	English	drink	drɪŋk	d r ɪ ŋ k	1078
+227	French	drink	bwa	b w a	1079
+228	German	drink	triŋk	t r i ŋ k	1078
+229	Hawaiian	drink	inu	i n u	1082
+230	Navajo	drink	ʔadˡã́	ʔ a dˡ ã́	1081
+231	Turkish	drink	iʧ	i ʧ	1080
+#
+232	Albanian	dry	θat	θ a t	575
+233	English	dry	drai	d r ai	572
+234	French	dry	sɛʃ	s ɛ ʃ	573
+235	German	dry	trokən	t r o k ə n	572
+236	Hawaiian	dry	maloʔo	m a l o ʔ o	577
+237	Navajo	dry	jiɬʦeiː	j i ɬ ʦ e iː	576
+238	Turkish	dry	kuru	k u r u	574
+#
+239	Albanian	dull	mpreht	m p r e h t	823
+240	English	dull	dəl	d ə l	821
+241	French	dull	emuse	e m u s e	820
+242	German	dull	ʃtump͡f	ʃ t u m p͡f	819
+243	Hawaiian	dull	kuːmuːmuː	k uː m uː m uː	826
+244	Navajo	dull	deːni	d eː n i	824
+245	Turkish	dull	kør	k ø r	-822
+#
+246	Albanian	dust	pluhur	p l u h u r	1122
+247	English	dust	dəst	d ə s t	1120
+248	French	dust	pusjɛr	p u s j ɛ r	1119
+249	German	dust	ʃtaub	ʃ t au b	1118
+250	Hawaiian	dust	ʔehu	ʔ e h u	1124
+251	Navajo	dust	ɬeːʒ	ɬ eː ʒ	1123
+252	Turkish	dust	toz	t o z	1121
+#
+253	Albanian	ear	veʃ	v e ʃ	438
+254	English	ear	ɪr	ɪ r	438
+255	French	ear	ɔrɛj	ɔ r ɛ j	438
+256	German	ear	oːr	oː r	438
+257	Hawaiian	ear	pepeiao	p e p e i a o	441
+258	Navajo	ear	ʤaːʔ	ʤ aː ʔ	440
+259	Turkish	ear	kulak	k u l a k	439
+#
+260	Albanian	earth	ðer	ð e r	69
+261	English	earth	ərθ	ə r θ	66
+262	French	earth	tɛr	t ɛ r	67
+263	German	earth	eːrdə	eː r d ə	66
+264	Hawaiian	earth	lepo	l e p o	71
+265	Navajo	earth	ɬeːʒ	ɬ eː ʒ	70
+266	Turkish	earth	toprak	t o p r a k	68
+#
+267	Albanian	eat	ha	h a	119
+268	English	eat	it	i t	116
+269	French	eat	mɑ̃ʒe	m ɑ̃ ʒ e	117
+270	German	eat	es	e s	116
+271	Hawaiian	eat	ʔai	ʔ a i	121
+272	Navajo	eat	ʔajã́	ʔ a j ã́	120
+273	Turkish	eat	je	j e	118
+#
+274	Albanian	egg	vez	v e z	1222
+275	English	egg	ɛg	ɛ g	-1222
+276	French	egg	œf	œ f	1222
+277	German	egg	ai	ai	1222
+278	Hawaiian	egg	hua	h u a	1225
+279	Navajo	egg	jẽːʒiː	j ẽː ʒ iː	1224
+280	Turkish	egg	jumurta	j u m u r t a	1223
+#
+281	Albanian	eye	syr	s y r	708
+282	English	eye	ai	ai	706
+283	French	eye	œj	œ j	706
+284	German	eye	augə	au g ə	706
+285	Hawaiian	eye	maka	m a k a	710
+286	Navajo	eye	naːʔ	n aː ʔ	709
+287	Turkish	eye	gøz	g ø z	707
+#
+288	Albanian	fall	bie	b i e	223
+289	English	fall	fɔl	f ɔ l	220
+290	French	fall	tɔ̃be	t ɔ̃ b e	-221
+291	German	fall	fal	f a l	220
+292	Hawaiian	fall	hina	h i n a	226
+293	Navajo	fall	naːtˡiːʃ	n aː tˡ iː ʃ	224
+294	Turkish	fall	dyʃ	d y ʃ	222
+#
+295	Albanian	far	larg	l a r g	-191
+296	English	far	fɑr	f ɑ r	188
+297	French	far	lwɛ̃	l w ɛ̃	189
+298	German	far	fern	f e r n	188
+299	Hawaiian	far	mamao	m a m a o	193
+300	Navajo	far	nizah	n i z a h	192
+301	Turkish	far	uzak	u z a k	190
+#
+302	Albanian	father	babə	b a b ə	-107
+303	English	father	fɑðər	f ɑ ð ə r	106
+304	French	father	pɛr	p ɛ r	106
+305	German	father	faːtər	f aː t ə r	106
+306	Hawaiian	father	makuakaːne	m a k u a k aː n e	109
+307	Navajo	father	taːʔ	t aː ʔ	108
+308	Turkish	father	baba	b a b a	107
+#
+309	Albanian	feather	pend	p e n d	748
+310	English	feather	fɛðər	f ɛ ð ə r	745
+311	French	feather	plym	p l y m	746
+312	German	feather	feːdər	f eː d ə r	745
+313	Hawaiian	feather	hulu	h u l u	750
+314	Navajo	feather	tˀaʔ	tˀ a ʔ	749
+315	Turkish	feather	tyj	t y j	747
+#
+316	Albanian	few	pak	p a k	-741
+317	English	few	fju	f j u	741
+318	French	few	pø	p ø	741
+319	German	few	veːnig	v eː n i g	740
+320	Hawaiian	few	kakaʔikahi	k a k a ʔ i k a h i	744
+321	Navajo	few	dikwiː	d i k w iː	743
+322	Turkish	few	az	a z	742
+#
+323	Albanian	fight	lufto	l u f t o	-736
+324	English	fight	fait	f ai t	734
+325	French	fight	bat	b a t	733
+326	German	fight	kamp͡f	k a m p͡f	-732
+327	Hawaiian	fight	hakakaː	h a k a k aː	739
+328	Navajo	fight	ʔahigã́	ʔ a h i g ã́	737
+329	Turkish	fight	døvyʃ	d ø v y ʃ	735
+#
+330	Albanian	fire	zjarː	z j a rː	782
+331	English	fire	faiər	f ai ə r	779
+332	French	fire	fø	f ø	780
+333	German	fire	foiər	f oi ə r	779
+334	Hawaiian	fire	ahi	a h i	785
+335	Navajo	fire	kõʔ	k õ ʔ	783
+336	Turkish	fire	ateʃ	a t e ʃ	-781
+#
+337	Albanian	fish	peʃk	p e ʃ k	-353
+338	English	fish	fɪʃ	f ɪ ʃ	353
+339	French	fish	pwasɔ̃	p w a s ɔ̃	353
+340	German	fish	fiʃ	f i ʃ	353
+341	Hawaiian	fish	iʔa	i ʔ a	356
+342	Navajo	fish	ɬoːʔ	ɬ oː ʔ	355
+343	Turkish	fish	balɯk	b a l ɯ k	354
+#
+344	Albanian	five	pesə	p e s ə	201
+345	English	five	faiv	f ai v	201
+346	French	five	sɛ̃k	s ɛ̃ k	201
+347	German	five	fynf	f y n f	201
+348	Hawaiian	five	lima	l i m a	204
+349	Navajo	five	ʔaʃdˡaʔ	ʔ a ʃ dˡ a ʔ	203
+350	Turkish	five	beʃ	b e ʃ	202
+#
+351	Albanian	flow	rːeð	rː e ð	1177
+352	English	flow	flo	f l o	1174
+353	French	flow	kule	k u l e	1175
+354	German	flow	fliːs	f l iː s	1174
+355	Hawaiian	flow	kahe	k a h e	1180
+356	Navajo	flow	jigeːh	j i g eː h	1178
+357	Turkish	flow	ak	a k	1176
+#
+358	Albanian	flower	lul	l u l	-423
+359	English	flower	flauər	f l au ə r	-421
+360	French	flower	flœr	f l œ r	421
+361	German	flower	bluːm	b l uː m	421
+362	Hawaiian	flower	pua	p u a	425
+363	Navajo	flower	ʧˀilaytah	ʧˀ i l ay t a h	424
+364	Turkish	flower	ʧiʧek	ʧ i ʧ e k	422
+#
+365	Albanian	fly	fluturo	f l u t u r o	844
+366	English	fly	flai	f l ai	841
+367	French	fly	vɔle	v ɔ l e	842
+368	German	fly	fliːg	f l iː g	841
+369	Hawaiian	fly	lele	l e l e	846
+370	Navajo	fly	jitˀah	j i tˀ a h	845
+371	Turkish	fly	uʧ	u ʧ	843
+#
+372	Albanian	fog	mjeguł	m j e g u ł	470
+373	English	fog	fɑg	f ɑ g	-468
+374	French	fog	brujar	b r u j a r	-467
+375	German	fog	neːbəl	n eː b ə l	466
+376	Hawaiian	fog	ʔohu	ʔ o h u	472
+377	Navajo	fog	ayhi	ay h i	471
+378	Turkish	fog	sis	s i s	469
+#
+379	Albanian	foot	kəmb	k ə m b	-229
+380	English	foot	fʊt	f ʊ t	227
+381	French	foot	pje	p j e	227
+382	German	foot	fuːs	f uː s	227
+383	Hawaiian	foot	waːwae	w aː w a e	231
+384	Navajo	foot	keːʔ	k eː ʔ	230
+385	Turkish	foot	ajak	a j a k	228
+#
+386	Albanian	four	katər	k a t ə r	20
+387	English	four	fɔr	f ɔ r	20
+388	French	four	katr	k a t r	20
+389	German	four	fiːr	f iː r	20
+390	Hawaiian	four	haː	h aː	23
+391	Navajo	four	dĩːʔ	d ĩː ʔ	22
+392	Turkish	four	dørt	d ø r t	21
+#
+393	Albanian	freeze	ngri	n g r i	376
+394	English	freeze	friz	f r i z	373
+395	French	freeze	ʒɛle	ʒ ɛ l e	374
+396	German	freeze	friːr	f r iː r	373
+397	Hawaiian	freeze	hoʔopaʔa	h o ʔ o p a ʔ a	378
+398	Navajo	freeze	jiʃtin	j i ʃ t i n	377
+399	Turkish	freeze	don	d o n	375
+#
+400	Albanian	fruit	pem	p e m	-1102
+401	English	fruit	frut	f r u t	-1100
+402	French	fruit	frɥi	f r ɥ i	1100
+403	German	fruit	fruxt	f r u x t	-1100
+404	Hawaiian	fruit	hua	h u a	1104
+405	Navajo	fruit	bineːstˀãʔ	b i n eː s tˀ ã ʔ	1103
+406	Turkish	fruit	mejva	m e j v a	-1101
+#
+407	Albanian	full	plot	p l o t	503
+408	English	full	fʊl	f ʊ l	503
+409	French	full	plɛn	p l ɛ n	503
+410	German	full	fol	f o l	503
+411	Hawaiian	full	piha	p i h a	506
+412	Navajo	full	hadibin	h a d i b i n	505
+413	Turkish	full	dolu	d o l u	504
+#
+414	Albanian	give	jep	j e p	936
+415	English	give	gɪv	g ɪ v	-933
+416	French	give	dɔne	d ɔ n e	934
+417	German	give	geːb	g eː b	933
+418	Hawaiian	give	haːʔawi	h aː ʔ a w i	938
+419	Navajo	give	niʔaːh	n i ʔ aː h	937
+420	Turkish	give	ver	v e r	935
+#
+421	Albanian	go	ʃko	ʃ k o	62
+422	English	go	go	g o	59
+423	French	go	v	v	60
+424	German	go	geː	g eː	59
+425	Hawaiian	go	hele	h e l e	65
+426	Navajo	go	jiɣaːh	j i ɣ aː h	63
+427	Turkish	go	jyry	j y r y	61
+#
+428	Albanian	good	mir	m i r	-170
+429	English	good	gʊd	g ʊ d	167
+430	French	good	bɔn	b ɔ n	168
+431	German	good	guːt	g uː t	167
+432	Hawaiian	good	maikaʔi	m a i k a ʔ i	172
+433	Navajo	good	jayʔaytˀeːh	j ay ʔ ay tˀ eː h	171
+434	Turkish	good	iji	i j i	169
+#
+435	Albanian	grass	bar	b a r	907
+436	English	grass	gras	g r a s	904
+437	French	grass	ɛrb	ɛ r b	905
+438	German	grass	graːz	g r aː z	904
+439	Hawaiian	grass	mauʔu	m a u ʔ u	910
+440	Navajo	grass	tˡˀoh	tˡˀ o h	908
+441	Turkish	grass	ot	o t	906
+#
+442	Albanian	grease	ðjam	ð j a m	-393
+443	English	grease	gris	g r i s	-391
+444	French	grease	grɛs	g r ɛ s	391
+445	German	grease	fet	f e t	-390
+446	Hawaiian	grease	ʔaila	ʔ a i l a	-396
+447	Navajo	grease	kˀah	kˀ a h	394
+448	Turkish	grease	jaɣ	j a ɣ	392
+#
+449	Albanian	green	ɟelbər	ɟ e l b ə r	-1194
+450	English	green	grin	g r i n	1191
+451	French	green	vɛrt	v ɛ r t	1192
+452	German	green	gryːn	g r yː n	1191
+453	Hawaiian	green	ʔoːmaʔomaʔo	ʔ oː m a ʔ o m a ʔ o	1196
+454	Navajo	green	doːtˡˀiʒ	d oː tˡˀ i ʒ	1195
+455	Turkish	green	jeʃil	j e ʃ i l	1193
+#
+456	Albanian	guts	zorː	z o rː	103
+457	English	guts	gət	g ə t	101
+458	French	guts	ɛ̃tɛstɛ̃	ɛ̃ t ɛ s t ɛ̃	-100
+459	German	guts	darm	d a r m	99
+460	Hawaiian	guts	naʔau	n a ʔ a u	105
+461	Navajo	guts	ʧˀiːʔ	ʧˀ iː ʔ	104
+462	Turkish	guts	barsak	b a r s a k	102
+#
+463	Albanian	hair	flok	f l o k	-382
+464	English	hair	hɛr	h ɛ r	-379
+465	French	hair	ʃəvø	ʃ ə v ø	380
+466	German	hair	haːr	h aː r	379
+467	Hawaiian	hair	lauoho	l a u o h o	384
+468	Navajo	hair	ʦiːɣaʔ	ʦ iː ɣ a ʔ	383
+469	Turkish	hair	saʧ	s a ʧ	381
+#
+470	Albanian	hand	dor	d o r	1097
+471	English	hand	hand	h a n d	1094
+472	French	hand	mɛ̃	m ɛ̃	1095
+473	German	hand	hand	h a n d	1094
+474	Hawaiian	hand	lima	l i m a	1099
+475	Navajo	hand	laʔ	l a ʔ	1098
+476	Turkish	hand	el	e l	1096
+#
+477	Albanian	he	ai	a i	837
+478	English	he	hi	h i	835
+479	French	he	il	i l	834
+480	German	he	eːr	eː r	833
+481	Hawaiian	he	ia	i a	840
+482	Navajo	he	bi	b i	838
+483	Turkish	he	on	o n	836
+#
+484	Albanian	head	kok	k o k	762
+485	English	head	hɛd	h ɛ d	760
+486	French	head	tɛt	t ɛ t	759
+487	German	head	kop͡f	k o p͡f	-758
+488	Hawaiian	head	poʔo	p o ʔ o	764
+489	Navajo	head	ʦiːʔ	ʦ iː ʔ	763
+490	Turkish	head	baʃ	b a ʃ	761
+#
+491	Albanian	hear	dəɟo	d ə ɟ o	789
+492	English	hear	hɪr	h ɪ r	786
+493	French	hear	ɑ̃tɑ̃d	ɑ̃ t ɑ̃ d	787
+494	German	hear	høːr	h øː r	786
+495	Hawaiian	hear	lohe	l o h e	792
+496	Navajo	hear	diːʦˀaʔ	d iː ʦˀ a ʔ	790
+497	Turkish	hear	iʃit	i ʃ i t	788
+#
+498	Albanian	heart	zemər	z e m ə r	922
+499	English	heart	hɑrt	h ɑ r t	920
+500	French	heart	kœr	k œ r	920
+501	German	heart	herʦən	h e r ʦ ə n	920
+502	Hawaiian	heart	puʔuwai	p u ʔ u w a i	924
+503	Navajo	heart	ʤeidiʃʤoːl	ʤ e i d i ʃ ʤ oː l	923
+504	Turkish	heart	jyrek	j y r e k	921
+#
+505	Albanian	heavy	rənd	r ə n d	331
+506	English	heavy	hɛvi	h ɛ v i	329
+507	French	heavy	lurd	l u r d	328
+508	German	heavy	ʃveːr	ʃ v eː r	327
+509	Hawaiian	heavy	kaumaha	k a u m a h a	334
+510	Navajo	heavy	ndaːz	n d aː z	332
+511	Turkish	heavy	aɣɯr	a ɣ ɯ r	330
+#
+512	Albanian	here	kətu	k ə t u	523
+513	English	here	hɪr	h ɪ r	520
+514	French	here	isi	i s i	521
+515	German	here	hiːr	h iː r	520
+516	Hawaiian	here	nei	n e i	526
+517	Navajo	here	kweʔe	kw e ʔ e	524
+518	Turkish	here	bura	b u r a	522
+#
+519	Albanian	hit	cəło	c ə ł o	177
+520	English	hit	hɪt	h ɪ t	-175
+521	French	hit	frape	f r a p e	-174
+522	German	hit	ʃlaːg	ʃ l aː g	173
+523	Hawaiian	hit	kuʔi	k u ʔ i	180
+524	Navajo	hit	ńdiːɬʦˀin	ń d iː ɬ ʦˀ i n	178
+525	Turkish	hit	vur	v u r	176
+#
+526	Albanian	hold	mba	m b a	811
+527	English	hold	hold	h o l d	808
+528	French	hold	tən	t ə n	809
+529	German	hold	halt	h a l t	808
+530	Hawaiian	hold	paʔa	p a ʔ a	813
+531	Navajo	hold	jotãʔ	j o t ã ʔ	812
+532	Turkish	hold	tut	t u t	810
+#
+533	Albanian	horn	brir	b r i r	1085
+534	English	horn	hɔrn	h ɔ r n	1083
+535	French	horn	kɔrn	k ɔ r n	1083
+536	German	horn	horn	h o r n	1083
+537	Hawaiian	horn	kiwi	k i w i	1087
+538	Navajo	horn	deːʔ	d eː ʔ	1086
+539	Turkish	horn	bojnuz	b o j n u z	1084
+#
+540	Albanian	hot	nʣeht	n ʣ e h t	999
+541	English	hot	hɑt	h ɑ t	996
+542	French	hot	ʃod	ʃ o d	997
+543	German	hot	hais	h ai s	996
+544	Hawaiian	hot	wela	w e l a	1001
+545	Navajo	hot	sido	s i d o	1000
+546	Turkish	hot	sɯjak	s ɯ j a k	998
+#
+547	Albanian	human	ɲeri	ɲ e r i	49
+548	English	human	hjumən	h j u m ə n	-47
+549	French	human	ymɛn	y m ɛ n	-47
+550	German	human	menʃən	m e n ʃ ə n	46
+551	Hawaiian	human	kanaka	k a n a k a	51
+552	Navajo	human	dine	d i n e	50
+553	Turkish	human	adam	a d a m	-48
+#
+554	Albanian	hunt	ɟua	ɟ u a	267
+555	English	hunt	hənt	h ə n t	265
+556	French	hunt	ʃase	ʃ a s e	264
+557	German	hunt	jaːg	j aː g	263
+558	Hawaiian	hunt	hahai	h a h a i	270
+559	Navajo	hunt	haːlʒeːh	h aː l ʒ eː h	268
+560	Turkish	hunt	avla	a v l a	266
+#
+561	Albanian	husband	burː	b u rː	324
+562	English	husband	həzbənd	h ə z b ə n d	-322
+563	French	husband	mari	m a r i	321
+564	German	husband	gatə	g a t ə	320
+565	Hawaiian	husband	kaːne	k aː n e	326
+566	Navajo	husband	hastiːn	h a s t iː n	325
+567	Turkish	husband	koʤa	k o ʤ a	-323
+#
+568	Albanian	I	unə	u n ə	1068
+569	English	I	ai	ai	1066
+570	French	I	ʒə	ʒ ə	1066
+571	German	I	ix	i x	1066
+572	Hawaiian	I	au	a u	1070
+573	Navajo	I	ʃi	ʃ i	1069
+574	Turkish	I	ben	b e n	1067
+#
+575	Albanian	ice	akuł	a k u ł	451
+576	English	ice	ais	ai s	448
+577	French	ice	glas	g l a s	449
+578	German	ice	ais	ai s	448
+579	Hawaiian	ice	hau	h a u	453
+580	Navajo	ice	tin	t i n	452
+581	Turkish	ice	buz	b u z	450
+#
+582	Albanian	if	coft	c o f t	972
+583	English	if	ɪf	ɪ f	970
+584	French	if	si	s i	969
+585	German	if	ven	v e n	968
+586	Hawaiian	if	inaː	i n aː	974
+587	Navajo	if	dãː	d ãː	973
+588	Turkish	if	eɣer	e ɣ e r	-971
+#
+589	Albanian	in	nə	n ə	957
+590	English	in	ɪn	ɪ n	957
+591	French	in	dɑ̃	d ɑ̃	957
+592	German	in	in	i n	957
+593	Hawaiian	in	loko	l o k o	960
+594	Navajo	in	iːʔ	iː ʔ	959
+595	Turkish	in	iʧin	i ʧ i n	958
+#
+596	Albanian	kill	vr	v r	42
+597	English	kill	kɪl	k ɪ l	40
+598	French	kill	tye	t y e	39
+599	German	kill	tøːt	t øː t	38
+600	Hawaiian	kill	pepehiaːmake	p e p e h i aː m a k e	45
+601	Navajo	kill	ʔiːɣe	ʔ iː ɣ e	43
+602	Turkish	kill	øldyr	ø l d y r	41
+#
+603	Albanian	knee	ɟur	ɟ u r	1127
+604	English	knee	ni	n i	1125
+605	French	knee	ʒənu	ʒ ə n u	1125
+606	German	knee	kniː	k n iː	1125
+607	Hawaiian	knee	kuli	k u l i	1129
+608	Navajo	knee	god	g o d	1128
+609	Turkish	knee	diz	d i z	1126
+#
+610	Albanian	knife	θik	θ i k	489
+611	English	knife	naif	n ai f	487
+612	French	knife	kuto	k u t o	486
+613	German	knife	mesər	m e s ə r	485
+614	Hawaiian	knife	pahi	p a h i	491
+615	Navajo	knife	beːʃ	b eː ʃ	490
+616	Turkish	knife	bɯʧak	b ɯ ʧ a k	488
+#
+617	Albanian	know	di	d i	1242
+618	English	know	no	n o	1240
+619	French	know	sa	s a	1239
+620	German	know	vis	v i s	1238
+621	Hawaiian	know	ʔike	ʔ i k e	1245
+622	Navajo	know	beːhozin	b eː h o z i n	1243
+623	Turkish	know	bil	b i l	1241
+#
+624	Albanian	lake	licen	l i c e n	-113
+625	English	lake	lek	l e k	-111
+626	French	lake	lak	l a k	-111
+627	German	lake	zeː	z eː	110
+628	Hawaiian	lake	loko	l o k o	115
+629	Navajo	lake	toːh	t oː h	114
+630	Turkish	lake	gøl	g ø l	112
+#
+631	Albanian	laugh	ceʃ	c e ʃ	679
+632	English	laugh	laf	l a f	676
+633	French	laugh	ri	r i	677
+634	German	laugh	lax	l a x	676
+635	Hawaiian	laugh	ʔaka	ʔ a k a	681
+636	Navajo	laugh	jidˡoh	j i dˡ o h	680
+637	Turkish	laugh	gyl	g y l	678
+#
+638	Albanian	leaf	ɟeθ	ɟ e θ	430
+639	English	leaf	lif	l i f	428
+640	French	leaf	fœj	f œ j	427
+641	German	leaf	blat	b l a t	426
+642	Hawaiian	leaf	lau	l a u	432
+643	Navajo	leaf	tˀãːʔ	tˀ ãː ʔ	431
+644	Turkish	leaf	japrak	j a p r a k	429
+#
+645	Albanian	left	majt	m a j t	1218
+646	English	left	lɛft	l ɛ f t	1216
+647	French	left	goʃ	g o ʃ	-1215
+648	German	left	liŋk	l i ŋ k	1214
+649	Hawaiian	left	hema	h e m a	1221
+650	Navajo	left	niʃtˡˀa	n i ʃ tˡˀ a	1219
+651	Turkish	left	sol	s o l	1217
+#
+652	Albanian	lie	ʃtrir	ʃ t r i r	978
+653	English	lie	lai	l ai	975
+654	French	lie	alɔ̃ʒe	a l ɔ̃ ʒ e	976
+655	German	lie	liːg	l iː g	975
+656	Hawaiian	lie	moe	m o e	981
+657	Navajo	lie	sitĩ́	s i t ĩ́	979
+658	Turkish	lie	jat	j a t	977
+#
+659	Albanian	liver	məlʧi	m ə l ʧ i	796
+660	English	liver	lɪvər	l ɪ v ə r	793
+661	French	liver	fwa	f w a	-794
+662	German	liver	leːbər	l eː b ə r	793
+663	Hawaiian	liver	ake	a k e	799
+664	Navajo	liver	zid	z i d	797
+665	Turkish	liver	ʤiɣer	ʤ i ɣ e r	-795
+#
+666	Albanian	long	ɟat	ɟ a t	728
+667	English	long	lɔŋ	l ɔ ŋ	728
+668	French	long	lɔ̃g	l ɔ̃ g	728
+669	German	long	laŋ	l a ŋ	728
+670	Hawaiian	long	loa	l o a	731
+671	Navajo	long	nineːz	n i n eː z	730
+672	Turkish	long	uzun	u z u n	729
+#
+673	Albanian	louse	morː	m o rː	601
+674	English	louse	laus	l au s	598
+675	French	louse	pu	p u	599
+676	German	louse	lauz	l au z	598
+677	Hawaiian	louse	ʔuku	ʔ u k u	603
+678	Navajo	louse	jaːʔ	j aː ʔ	602
+679	Turkish	louse	bit	b i t	600
+#
+680	Albanian	man	burː	b u rː	1146
+681	English	man	man	m a n	1143
+682	French	man	ɔm	ɔ m	1144
+683	German	man	man	m a n	1143
+684	Hawaiian	man	kaːne	k aː n e	1149
+685	Navajo	man	hastiːn	h a s t iː n	1147
+686	Turkish	man	erkek	e r k e k	1145
+#
+687	Albanian	many	ʃum	ʃ u m	-594
+688	English	many	mɛni	m ɛ n i	592
+689	French	many	boku	b o k u	591
+690	German	many	fiːl	f iː l	590
+691	Hawaiian	many	nui	n u i	597
+692	Navajo	many	lãʔi	l ã ʔ i	595
+693	Turkish	many	ʧok	ʧ o k	-593
+#
+694	Albanian	meat	miʃ	m i ʃ	252
+695	English	meat	mit	m i t	250
+696	French	meat	vjɑ̃d	v j ɑ̃ d	249
+697	German	meat	flaiʃ	f l ai ʃ	248
+698	Hawaiian	meat	ʔiʔo	ʔ i ʔ o	255
+699	Navajo	meat	ʦĩʔ	ʦ ĩ ʔ	253
+700	Turkish	meat	et	e t	251
+#
+701	Albanian	moon	hən	h ə n	457
+702	English	moon	mun	m u n	454
+703	French	moon	lyn	l y n	455
+704	German	moon	moːnd	m oː n d	454
+705	Hawaiian	moon	mahina	m a h i n a	459
+706	Navajo	moon	ʔoːlʤeːʔ	ʔ oː l ʤ eː ʔ	458
+707	Turkish	moon	aj	a j	456
+#
+708	Albanian	mother	nən	n ə n	1199
+709	English	mother	məðər	m ə ð ə r	1197
+710	French	mother	mɛr	m ɛ r	1197
+711	German	mother	mutər	m u t ə r	1197
+712	Hawaiian	mother	makuahine	m a k u a h i n e	1201
+713	Navajo	mother	may	m ay	1200
+714	Turkish	mother	anne	a n n e	1198
+#
+715	Albanian	mountain	mal	m a l	1063
+716	English	mountain	mauntən	m au n t ə n	-1061
+717	French	mountain	mɔ̃taɲ	m ɔ̃ t a ɲ	1061
+718	German	mountain	berg	b e r g	1060
+719	Hawaiian	mountain	mauna	m a u n a	1065
+720	Navajo	mountain	ʣiɬ	ʣ i ɬ	1064
+721	Turkish	mountain	daɣ	d a ɣ	1062
+#
+722	Albanian	mouth	goj	g o j	-1108
+723	English	mouth	mauθ	m au θ	1105
+724	French	mouth	buʃ	b u ʃ	1106
+725	German	mouth	mund	m u n d	1105
+726	Hawaiian	mouth	waha	w a h a	1111
+727	Navajo	mouth	zeːʔ	z eː ʔ	1109
+728	Turkish	mouth	aɣz	a ɣ z	1107
+#
+729	Albanian	name	emər	e m ə r	244
+730	English	name	nem	n e m	244
+731	French	name	nɔ̃	n ɔ̃	244
+732	German	name	naːmən	n aː m ə n	244
+733	Hawaiian	name	inoa	i n o a	247
+734	Navajo	name	ʒiʔ	ʒ i ʔ	246
+735	Turkish	name	ad	a d	245
+#
+736	Albanian	narrow	nguʃt	n g u ʃ t	-630
+737	English	narrow	naro	n a r o	632
+738	French	narrow	etrwat	e t r w a t	631
+739	German	narrow	eŋ	e ŋ	630
+740	Hawaiian	narrow	laːʔiki	l aː ʔ i k i	635
+741	Navajo	narrow	ʔayɬʦˀoːzi	ʔ ay ɬ ʦˀ oː z i	634
+742	Turkish	narrow	dar	d a r	633
+#
+743	Albanian	near	afər	a f ə r	892
+744	English	near	nɪr	n ɪ r	889
+745	French	near	prɛ	p r ɛ	890
+746	German	near	naː	n aː	889
+747	Hawaiian	near	kokoke	k o k o k e	895
+748	Navajo	near	ʔayhayni	ʔ ay h ay n i	893
+749	Turkish	near	jakɯn	j a k ɯ n	891
+#
+750	Albanian	neck	caf	c a f	-1158
+751	English	neck	nɛk	n ɛ k	1156
+752	French	neck	ku	k u	1155
+753	German	neck	halz	h a l z	1155
+754	Hawaiian	neck	ʔaːʔiː	ʔ aː ʔ iː	1160
+755	Navajo	neck	kˀos	kˀ o s	1159
+756	Turkish	neck	bojn	b o j n	1157
+#
+757	Albanian	new	ri	r i	475
+758	English	new	nu	n u	473
+759	French	new	nuvɛl	n u v ɛ l	473
+760	German	new	noi	n oi	473
+761	Hawaiian	new	hou	h o u	477
+762	Navajo	new	niːd	n iː d	476
+763	Turkish	new	jeni	j e n i	474
+#
+764	Albanian	night	nat	n a t	289
+765	English	night	nait	n ai t	289
+766	French	night	nɥi	n ɥ i	289
+767	German	night	naxt	n a x t	289
+768	Hawaiian	night	poː	p oː	292
+769	Navajo	night	tˡˀeːʔ	tˡˀ eː ʔ	291
+770	Turkish	night	geʤe	g e ʤ e	290
+#
+771	Albanian	nose	hund	h u n d	286
+772	English	nose	noz	n o z	284
+773	French	nose	ne	n e	284
+774	German	nose	naːzə	n aː z ə	284
+775	Hawaiian	nose	ihu	i h u	288
+776	Navajo	nose	ʧĩ́ːh	ʧ ĩ́ː h	287
+777	Turkish	nose	burn	b u r n	285
+#
+778	Albanian	not	nuk	n u k	27
+779	English	not	nɑt	n ɑ t	24
+780	French	not	pa	p a	25
+781	German	not	nixt	n i x t	24
+782	Hawaiian	not	ʔaʔole	ʔ a ʔ o l e	29
+783	Navajo	not	doː	d oː	28
+784	Turkish	not	deɣil	d e ɣ i l	26
+#
+785	Albanian	now	tani	t a n i	235
+786	English	now	nau	n au	232
+787	French	now	mɛ̃tnɑ̃	m ɛ̃ t n ɑ̃	233
+788	German	now	nuːn	n uː n	232
+789	Hawaiian	now	ʔaːnoː	ʔ aː n oː	237
+790	Navajo	now	kˀad	kˀ a d	236
+791	Turkish	now	ʃimdi	ʃ i m d i	234
+#
+792	Albanian	old	vjetər	v j e t ə r	-343
+793	English	old	old	o l d	342
+794	French	old	vjɛj	v j ɛ j	343
+795	German	old	alt	a l t	342
+796	Hawaiian	old	oʔo	o ʔ o	346
+797	Navajo	old	sayni	s ay n i	345
+798	Turkish	old	ihtijar	i h t i j a r	-344
+#
+799	Albanian	one	ɲə	ɲ ə	663
+800	English	one	wən	w ə n	661
+801	French	one	œ̃	œ̃	661
+802	German	one	ain	ai n	661
+803	Hawaiian	one	ʔekahi	ʔ e k a h i	665
+804	Navajo	one	ɬayʔiː	ɬ ay ʔ iː	664
+805	Turkish	one	bir	b i r	662
+#
+806	Albanian	other	tjetər	t j e t ə r	1005
+807	English	other	əðər	ə ð ə r	1002
+808	French	other	otr	o t r	1003
+809	German	other	andər	a n d ə r	1002
+810	Hawaiian	other	ʔeː	ʔ eː	1007
+811	Navajo	other	ɬah	ɬ a h	1006
+812	Turkish	other	baʃka	b a ʃ k a	1004
+#
+813	Albanian	path	ʃteg	ʃ t e g	557
+814	English	path	paθ	p a θ	554
+815	French	path	sɑ̃tje	s ɑ̃ t j e	555
+816	German	path	p͡faːd	p͡f aː d	554
+817	Hawaiian	path	ala	a l a	559
+818	Navajo	path	tiːn	t iː n	558
+819	Turkish	path	jol	j o l	556
+#
+820	Albanian	play	lua	l u a	1051
+821	English	play	ple	p l e	1049
+822	French	play	ʒue	ʒ u e	1048
+823	German	play	ʃpiːl	ʃ p iː l	1047
+824	Hawaiian	play	paːʔani	p aː ʔ a n i	1054
+825	Navajo	play	naːne	n aː n e	1052
+826	Turkish	play	ojna	o j n a	1050
+#
+827	Albanian	pull	tərhec	t ə r h e c	851
+828	English	pull	pʊl	p ʊ l	849
+829	French	pull	tire	t i r e	848
+830	German	pull	ʦiː	ʦ iː	847
+831	Hawaiian	pull	huki	h u k i	854
+832	Navajo	pull	jiʣĩ́ːs	j i ʣ ĩ́ː s	852
+833	Turkish	pull	ʧek	ʧ e k	850
+#
+834	Albanian	push	ʃty	ʃ t y	1202
+835	English	push	pʊʃ	p ʊ ʃ	-1203
+836	French	push	puse	p u s e	1203
+837	German	push	ʃtoːs	ʃ t oː s	1202
+838	Hawaiian	push	pahu	p a h u	1207
+839	Navajo	push	beɣiːɬ	b e ɣ iː ɬ	1205
+840	Turkish	push	it	i t	1204
+#
+841	Albanian	rain	ʃi	ʃ i	1091
+842	English	rain	ren	r e n	1088
+843	French	rain	plɥi	p l ɥ i	1089
+844	German	rain	reːgən	r eː g ə n	1088
+845	Hawaiian	rain	ua	u a	1093
+846	Navajo	rain	niɬʦã́	n i ɬ ʦ ã́	1092
+847	Turkish	rain	jaɣmur	j a ɣ m u r	1090
+#
+848	Albanian	red	kuc	k u c	-703
+849	English	red	rɛd	r ɛ d	701
+850	French	red	ruʒ	r u ʒ	701
+851	German	red	roːt	r oː t	701
+852	Hawaiian	red	ʔula	ʔ u l a	705
+853	Navajo	red	ɬiʧiːh	ɬ i ʧ iː h	704
+854	Turkish	red	kɯzɯl	k ɯ z ɯ l	702
+#
+855	Albanian	right	djaθt	d j a θ t	673
+856	English	right	rait	r ai t	671
+857	French	right	drwat	d r w a t	671
+858	German	right	rext	r e x t	671
+859	Hawaiian	right	ʔaːkau	ʔ aː k a u	675
+860	Navajo	right	niʃnay	n i ʃ n ay	674
+861	Turkish	right	saɣ	s a ɣ	672
+#
+862	Albanian	river	lum	l u m	312
+863	English	river	rɪvər	r ɪ v ə r	-310
+864	French	river	fløv	f l ø v	-309
+865	German	river	flus	f l u s	308
+866	Hawaiian	river	kahawai	k a h a w a i	314
+867	Navajo	river	toːh	t oː h	313
+868	Turkish	river	nehir	n e h i r	-311
+#
+869	Albanian	root	rːəɲ	rː ə ɲ	911
+870	English	root	rut	r u t	-911
+871	French	root	rasin	r a s i n	911
+872	German	root	vurʦəl	v u r ʦ ə l	911
+873	Hawaiian	root	aʔa	a ʔ a	914
+874	Navajo	root	ketˡˀoːl	k e tˡˀ oː l	913
+875	Turkish	root	køk	k ø k	912
+#
+876	Albanian	rotten	kalbur	k a l b u r	463
+877	English	rotten	rɑtən	r ɑ t ə n	-461
+878	French	rotten	puri	p u r i	460
+879	German	rotten	faul	f au l	460
+880	Hawaiian	rotten	pilau	p i l a u	465
+881	Navajo	rotten	diɬʣiːd	d i ɬ ʣ iː d	464
+882	Turkish	rotten	ʧyryk	ʧ y r y k	462
+#
+883	Albanian	round	rːumbułak	rː u m b u ł a k	317
+884	English	round	raund	r au n d	-315
+885	French	round	rɔ̃d	r ɔ̃ d	315
+886	German	round	rund	r u n d	-315
+887	Hawaiian	round	poepoe	p o e p o e	319
+888	Navajo	round	nimaz	n i m a z	318
+889	Turkish	round	juvarlak	j u v a r l a k	316
+#
+890	Albanian	rub	fərko	f ə r k o	-511
+891	English	rub	rəb	r ə b	509
+892	French	rub	frɔte	f r ɔ t e	508
+893	German	rub	raib	r ai b	507
+894	Hawaiian	rub	ʔaːnai	ʔ aː n a i	513
+895	Navajo	rub	bidiniɣiʃ	b i d i n i ɣ i ʃ	512
+896	Turkish	rub	syrt	s y r t	510
+#
+897	Albanian	salt	krip	k r i p	1171
+898	English	salt	sɔlt	s ɔ l t	1169
+899	French	salt	sɛl	s ɛ l	1169
+900	German	salt	zalʦ	z a l ʦ	1169
+901	Hawaiian	salt	paʔakai	p a ʔ a k a i	1173
+902	Navajo	salt	ʔayʃĩːh	ʔ ay ʃ ĩː h	1172
+903	Turkish	salt	tuz	t u z	1170
+#
+904	Albanian	sand	rər	r ə r	-445
+905	English	sand	sand	s a n d	442
+906	French	sand	sabl	s a b l	443
+907	German	sand	zand	z a n d	442
+908	Hawaiian	sand	one	o n e	447
+909	Navajo	sand	sei	s e i	446
+910	Turkish	sand	kum	k u m	444
+#
+911	Albanian	say	θ	θ	942
+912	English	say	se	s e	939
+913	French	say	di	d i	940
+914	German	say	zaːg	z aː g	939
+915	Hawaiian	say	ʔoːlelo	ʔ oː l e l o	944
+916	Navajo	say	ni	n i	943
+917	Turkish	say	de	d e	941
+#
+918	Albanian	scratch	gərviʃ	g ə r v i ʃ	8
+919	English	scratch	skraʧ	s k r a ʧ	9
+920	French	scratch	grat	g r a t	-8
+921	German	scratch	kraʦ	k r a ʦ	8
+922	Hawaiian	scratch	walu	w a l u	13
+923	Navajo	scratch	ʔaʧˀid	ʔ a ʧˀ i d	11
+924	Turkish	scratch	tɯrmala	t ɯ r m a l a	10
+#
+925	Albanian	sea	det	d e t	400
+926	English	sea	si	s i	397
+927	French	sea	mɛr	m ɛ r	398
+928	German	sea	zeː	z eː	397
+929	Hawaiian	sea	kai	k a i	402
+930	Navajo	sea	tonteːl	t o n t eː l	401
+931	Turkish	sea	deniz	d e n i z	399
+#
+932	Albanian	see	ʃ	ʃ	385
+933	English	see	si	s i	385
+934	French	see	vwa	v w a	386
+935	German	see	zeː	z eː	385
+936	Hawaiian	see	ʔike	ʔ i k e	389
+937	Navajo	see	jiʔĩ́	j i ʔ ĩ́	388
+938	Turkish	see	gør	g ø r	387
+#
+939	Albanian	seed	far	f a r	948
+940	English	seed	sid	s i d	945
+941	French	seed	grɛn	g r ɛ n	946
+942	German	seed	zaːmən	z aː m ə n	945
+943	Hawaiian	seed	ʔanoʔano	ʔ a n o ʔ a n o	950
+944	Navajo	seed	kˀeːljei	kˀ eː l j e i	949
+945	Turkish	seed	tohum	t o h u m	-947
+#
+946	Albanian	sew	cep	c e p	646
+947	English	sew	so	s o	644
+948	French	sew	kuz	k u z	644
+949	German	sew	neː	n eː	643
+950	Hawaiian	sew	humu	h u m u	648
+951	Navajo	sew	nayiɬkad	n ay i ɬ k a d	647
+952	Turkish	sew	dik	d i k	645
+#
+953	Albanian	sharp	mpreht	m p r e h t	964
+954	English	sharp	ʃarp	ʃ a r p	961
+955	French	sharp	trɑ̃ʃɑ̃t	t r ɑ̃ ʃ ɑ̃ t	962
+956	German	sharp	ʃarf	ʃ a r f	961
+957	Hawaiian	sharp	ʔoi	ʔ o i	967
+958	Navajo	sharp	deːni	d eː n i	965
+959	Turkish	sharp	keskin	k e s k i n	963
+#
+960	Albanian	short	ʃkurtər	ʃ k u r t ə r	-1150
+961	English	short	ʃɔrt	ʃ ɔ r t	1150
+962	French	short	kurt	k u r t	1150
+963	German	short	kurʦ	k u r ʦ	-1150
+964	Hawaiian	short	poːkole	p oː k o l e	1154
+965	Navajo	short	jayʒi	j ay ʒ i	1152
+966	Turkish	short	kɯsa	k ɯ s a	1151
+#
+967	Albanian	sing	kəndo	k ə n d o	-683
+968	English	sing	sɪŋ	s ɪ ŋ	682
+969	French	sing	ʃɑ̃te	ʃ ɑ̃ t e	683
+970	German	sing	ziŋ	z i ŋ	682
+971	Hawaiian	sing	mele	m e l e	686
+972	Navajo	sing	hataːɬ	h a t aː ɬ	685
+973	Turkish	sing	ʃarkɯ	ʃ a r k ɯ	684
+#
+974	Albanian	sit	ndeɲ	n d e ɲ	984
+975	English	sit	sɪt	s ɪ t	982
+976	French	sit	asiz	a s i z	982
+977	German	sit	ziʦ	z i ʦ	982
+978	Hawaiian	sit	noho	n o h o	986
+979	Navajo	sit	siday	s i d ay	985
+980	Turkish	sit	otur	o t u r	983
+#
+981	Albanian	skin	ləkur	l ə k u r	56
+982	English	skin	skin	s k i n	-54
+983	French	skin	po	p o	53
+984	German	skin	haut	h au t	52
+985	Hawaiian	skin	ʔili	ʔ i l i	58
+986	Navajo	skin	kaygi	k ay g i	57
+987	Turkish	skin	deri	d e r i	55
+#
+988	Albanian	sky	cieł	c i e ł	-650
+989	English	sky	skai	s k ai	-651
+990	French	sky	sjɛl	s j ɛ l	650
+991	German	sky	himəl	h i m ə l	649
+992	Hawaiian	sky	lani	l a n i	654
+993	Navajo	sky	yay	y ay	653
+994	Turkish	sky	gøk	g ø k	652
+#
+995	Albanian	sleep	fle	f l e	830
+996	English	sleep	slip	s l i p	827
+997	French	sleep	dɔr	d ɔ r	828
+998	German	sleep	ʃlaːf	ʃ l aː f	827
+999	Hawaiian	sleep	moe	m o e	832
+1000	Navajo	sleep	ʔaɬhoʃ	ʔ a ɬ h o ʃ	831
+1001	Turkish	sleep	uju	u j u	829
+#
+1002	Albanian	small	vogəl	v o g ə l	297
+1003	English	small	smɔl	s m ɔ l	295
+1004	French	small	pətit	p ə t i t	294
+1005	German	small	klain	k l ai n	293
+1006	Hawaiian	small	iki	i k i	300
+1007	Navajo	small	jayʒi	j ay ʒ i	298
+1008	Turkish	small	kyʧyk	k y ʧ y k	296
+#
+1009	Albanian	smell	er	e r	-1037
+1010	English	smell	smel	s m e l	1035
+1011	French	smell	sɑ̃t	s ɑ̃ t	1034
+1012	German	smell	riːx	r iː x	1033
+1013	Hawaiian	smell	honi	h o n i	1040
+1014	Navajo	smell	jiʃʧã́ː	j i ʃ ʧ ã́ː	1038
+1015	Turkish	smell	kokla	k o k l a	1036
+#
+1016	Albanian	smoke	tym	t y m	-612
+1017	English	smoke	smok	s m o k	613
+1018	French	smoke	fyme	f y m e	612
+1019	German	smoke	raux	r au x	611
+1020	Hawaiian	smoke	uahi	u a h i	616
+1021	Navajo	smoke	ɬid	ɬ i d	615
+1022	Turkish	smoke	duman	d u m a n	614
+#
+1023	Albanian	smooth	ləmo	l ə m o	880
+1024	English	smooth	smuð	s m u ð	878
+1025	French	smooth	lis	l i s	877
+1026	German	smooth	glat	g l a t	876
+1027	Hawaiian	smooth	malino	m a l i n o	883
+1028	Navajo	smooth	dilkõːh	d i l k õː h	881
+1029	Turkish	smooth	dyz	d y z	879
+#
+1030	Albanian	snake	ɟarpər	ɟ a r p ə r	656
+1031	English	snake	snek	s n e k	657
+1032	French	snake	sɛrpɑ̃	s ɛ r p ɑ̃	656
+1033	German	snake	ʃlaŋə	ʃ l a ŋ ə	655
+1034	Hawaiian	snake	naheka	n a h e k a	-657
+1035	Navajo	snake	tˡˀiːʃ	tˡˀ iː ʃ	659
+1036	Turkish	snake	jɯlan	j ɯ l a n	658
+#
+1037	Albanian	snow	bor	b o r	989
+1038	English	snow	sno	s n o	987
+1039	French	snow	nɛʒ	n ɛ ʒ	987
+1040	German	snow	ʃneː	ʃ n eː	987
+1041	Hawaiian	snow	hau	h a u	991
+1042	Navajo	snow	zas	z a s	990
+1043	Turkish	snow	kar	k a r	988
+#
+1044	Albanian	some	disa	d i s a	361
+1045	English	some	səm	s ə m	359
+1046	French	some	kɛlkə	k ɛ l k ə	358
+1047	German	some	ainig	ai n i g	357
+1048	Hawaiian	some	kekahi	k e k a h i	364
+1049	Navajo	some	ɬaʔ	ɬ a ʔ	362
+1050	Turkish	some	bazɯ	b a z ɯ	-360
+#
+1051	Albanian	spit	pəʃty	p ə ʃ t y	769
+1052	English	spit	spɪt	s p ɪ t	767
+1053	French	spit	kraʃe	k r a ʃ e	-766
+1054	German	spit	ʃpuk	ʃ p u k	-765
+1055	Hawaiian	spit	kuha	k u h a	771
+1056	Navajo	spit	diʒeːh	d i ʒ eː h	770
+1057	Turkish	spit	tykyr	t y k y r	768
+#
+1058	Albanian	split	ʧa	ʧ a	152
+1059	English	split	splɪit	s p l ɪi t	-149
+1060	French	split	fɑ̃d	f ɑ̃ d	150
+1061	German	split	ʃpalt	ʃ p a l t	149
+1062	Hawaiian	split	waːhi	w aː h i	154
+1063	Navajo	split	ʔaɬtayniːgeːʃ	ʔ a ɬ t ay n iː g eː ʃ	153
+1064	Turkish	split	jar	j a r	151
+#
+1065	Albanian	squeeze	ʃtryð	ʃ t r y ð	551
+1066	English	squeeze	skwiz	s k w i z	549
+1067	French	squeeze	prɛse	p r ɛ s e	548
+1068	German	squeeze	dryk	d r y k	547
+1069	Hawaiian	squeeze	ʔuwiː	ʔ u w iː	553
+1070	Navajo	squeeze	jiːnih	j iː n i h	552
+1071	Turkish	squeeze	sɯk	s ɯ k	550
+#
+1072	Albanian	stab	θer	θ e r	621
+1073	English	stab	stab	s t a b	619
+1074	French	stab	pwaɲarde	p w a ɲ a r d e	618
+1075	German	stab	ʃtex	ʃ t e x	617
+1076	Hawaiian	stab	hou	h o u	624
+1077	Navajo	stab	biɣayʔniɬgeːd	b i ɣ ay ʔ n i ɬ g eː d	622
+1078	Turkish	stab	hanʧerle	h a n ʧ e r l e	-620
+#
+1079	Albanian	stand	kəmb	k ə m b	1044
+1080	English	stand	stand	s t a n d	1041
+1081	French	stand	dəbu	d ə b u	-1042
+1082	German	stand	ʃteː	ʃ t eː	1041
+1083	Hawaiian	stand	kuː	k uː	1046
+1084	Navajo	stand	sizĩ́	s i z ĩ́	1045
+1085	Turkish	stand	dur	d u r	1043
+#
+1086	Albanian	star	ył	y ł	1057
+1087	English	star	stɑr	s t ɑ r	1055
+1088	French	star	etwal	e t w a l	1055
+1089	German	star	ʃtern	ʃ t e r n	1055
+1090	Hawaiian	star	hoːkuː	h oː k uː	1059
+1091	Navajo	star	sõʔ	s õ ʔ	1058
+1092	Turkish	star	jɯldɯz	j ɯ l d ɯ z	1056
+#
+1093	Albanian	stick	ʃkop	ʃ k o p	929
+1094	English	stick	stɪk	s t ɪ k	927
+1095	French	stick	batɔ̃	b a t ɔ̃	-926
+1096	German	stick	ʃtok	ʃ t o k	925
+1097	Hawaiian	stick	laːʔau	l aː ʔ a u	932
+1098	Navajo	stick	ʦin	ʦ i n	930
+1099	Turkish	stick	deɣnek	d e ɣ n e k	928
+#
+1100	Albanian	stone	gur	g u r	581
+1101	English	stone	ston	s t o n	578
+1102	French	stone	pjɛr	p j ɛ r	-579
+1103	German	stone	ʃtain	ʃ t ai n	578
+1104	Hawaiian	stone	poːhaku	p oː h a k u	584
+1105	Navajo	stone	ʦe	ʦ e	582
+1106	Turkish	stone	taʃ	t a ʃ	580
+#
+1107	Albanian	straight	drejt	d r e j t	-871
+1108	English	straight	stret	s t r e t	872
+1109	French	straight	drwat	d r w a t	871
+1110	German	straight	gəraːdə	g ə r aː d ə	870
+1111	Hawaiian	straight	pololei	p o l o l e i	875
+1112	Navajo	straight	kˀehozdon	kˀ e h o z d o n	874
+1113	Turkish	straight	doɣru	d o ɣ r u	873
+#
+1114	Albanian	suck	θiθ	θ i θ	1132
+1115	English	suck	sək	s ə k	1130
+1116	French	suck	syse	s y s e	1130
+1117	German	suck	zaug	z au g	1130
+1118	Hawaiian	suck	omo	o m o	1134
+1119	Navajo	suck	jiɬtˀoʔ	j i ɬ tˀ o ʔ	1133
+1120	Turkish	suck	em	e m	1131
+#
+1121	Albanian	sun	dieł	d i e ł	435
+1122	English	sun	sən	s ə n	433
+1123	French	sun	sɔlɛj	s ɔ l ɛ j	433
+1124	German	sun	zonə	z o n ə	433
+1125	Hawaiian	sun	laː	l aː	437
+1126	Navajo	sun	ʃay	ʃ ay	436
+1127	Turkish	sun	gyneʃ	g y n e ʃ	434
+#
+1128	Albanian	swell	əɲ	ə ɲ	1074
+1129	English	swell	swɛl	s w ɛ l	1071
+1130	French	swell	ɑ̃fle	ɑ̃ f l e	1072
+1131	German	swell	ʃvel	ʃ v e l	1071
+1132	Hawaiian	swell	hoʔopehu	h o ʔ o p e h u	1077
+1133	Navajo	swell	niːʧaːd	n iː ʧ aː d	1075
+1134	Turkish	swell	ʃiʃ	ʃ i ʃ	1073
+#
+1135	Albanian	swim	noto	n o t o	158
+1136	English	swim	swɪm	s w ɪ m	155
+1137	French	swim	naʒe	n a ʒ e	156
+1138	German	swim	ʃvim	ʃ v i m	155
+1139	Hawaiian	swim	ʔau	ʔ a u	160
+1140	Navajo	swim	ʔaɬkõːh	ʔ a ɬ k õː h	159
+1141	Turkish	swim	jyz	j y z	157
+#
+1142	Albanian	tail	biʃt	b i ʃ t	126
+1143	English	tail	tel	t e l	124
+1144	French	tail	kø	k ø	123
+1145	German	tail	ʃvanʦ	ʃ v a n ʦ	122
+1146	Hawaiian	tail	huelo	h u e l o	128
+1147	Navajo	tail	ʦeːʔ	ʦ eː ʔ	127
+1148	Turkish	tail	kujruk	k u j r u k	125
+#
+1149	Albanian	that	ai	a i	775
+1150	English	that	ðat	ð a t	772
+1151	French	that	səla	s ə l a	773
+1152	German	that	das	d a s	772
+1153	Hawaiian	that	keːlaː	k eː l aː	778
+1154	Navajo	that	ʔeiː	ʔ e iː	776
+1155	Turkish	that	on	o n	774
+#
+1156	Albanian	there	aty	a t y	720
+1157	English	there	ðɛr	ð ɛ r	717
+1158	French	there	la	l a	718
+1159	German	there	daː	d aː	717
+1160	Hawaiian	there	laila	l a i l a	723
+1161	Navajo	there	ʔaːdi	ʔ aː d i	721
+1162	Turkish	there	ora	o r a	719
+#
+1163	Albanian	they	ata	a t a	216
+1164	English	they	ðe	ð e	-214
+1165	French	they	il	i l	213
+1166	German	they	ziː	z iː	212
+1167	Hawaiian	they	laːkou	l aː k o u	219
+1168	Navajo	they	bi	b i	217
+1169	Turkish	they	on	o n	215
+#
+1170	Albanian	thick	traʃ	t r a ʃ	690
+1171	English	thick	θɪk	θ ɪ k	687
+1172	French	thick	epɛs	e p ɛ s	688
+1173	German	thick	dik	d i k	687
+1174	Hawaiian	thick	maːnoa	m aː n o a	693
+1175	Navajo	thick	ditã́	d i t ã́	691
+1176	Turkish	thick	kalɯn	k a l ɯ n	689
+#
+1177	Albanian	thin	hoł	h o ł	495
+1178	English	thin	θɪn	θ ɪ n	492
+1179	French	thin	mɛ̃s	m ɛ̃ s	493
+1180	German	thin	dyn	d y n	492
+1181	Hawaiian	thin	wiːwiː	w iː w iː	497
+1182	Navajo	thin	ʔayɬtˀã́ʔi	ʔ ay ɬ tˀ ã́ ʔ i	496
+1183	Turkish	thin	inʤe	i n ʤ e	494
+#
+1184	Albanian	think	mendo	m e n d o	-639
+1185	English	think	θɪŋk	θ ɪ ŋ k	636
+1186	French	think	pɑ̃se	p ɑ̃ s e	-637
+1187	German	think	deŋk	d e ŋ k	636
+1188	Hawaiian	think	manaʔo	m a n a ʔ o	642
+1189	Navajo	think	nizin	n i z i n	640
+1190	Turkish	think	dyʃyn	d y ʃ y n	638
+#
+1191	Albanian	this	k	k	866
+1192	English	this	ðɪs	ð ɪ s	863
+1193	French	this	səsi	s ə s i	864
+1194	German	this	diːz	d iː z	863
+1195	Hawaiian	this	keːia	k eː i a	869
+1196	Navajo	this	diː	d iː	867
+1197	Turkish	this	bun	b u n	865
+#
+1198	Albanian	thou	t	t	585
+1199	English	thou	ju	j u	586
+1200	French	thou	ty	t y	585
+1201	German	thou	duː	d uː	585
+1202	Hawaiian	thou	ʔoe	ʔ o e	589
+1203	Navajo	thou	ni	n i	588
+1204	Turkish	thou	sen	s e n	587
+#
+1205	Albanian	three	tre	t r e	724
+1206	English	three	θri	θ r i	724
+1207	French	three	trwa	t r w a	724
+1208	German	three	drai	d r ai	724
+1209	Hawaiian	three	kolu	k o l u	727
+1210	Navajo	three	taːʔ	t aː ʔ	726
+1211	Turkish	three	yʧ	y ʧ	725
+#
+1212	Albanian	throw	heð	h e ð	568
+1213	English	throw	θro	θ r o	566
+1214	French	throw	lɑ̃se	l ɑ̃ s e	-565
+1215	German	throw	verf	v e r f	564
+1216	Hawaiian	throw	nou	n o u	571
+1217	Navajo	throw	hiɬhan	h i ɬ h a n	569
+1218	Turkish	throw	at	a t	567
+#
+1219	Albanian	tie	lið	l i ð	1025
+1220	English	tie	tai	t ai	1023
+1221	French	tie	ataʃe	a t a ʃ e	-1022
+1222	German	tie	bind	b i n d	1021
+1223	Hawaiian	tie	hiːkiʔi	h iː k i ʔ i	1027
+1224	Navajo	tie	beʔetˡˀo	b e ʔ e tˡˀ o	1026
+1225	Turkish	tie	baɣla	b a ɣ l a	1024
+#
+1226	Albanian	tongue	ɟuh	ɟ u h	627
+1227	English	tongue	təŋ	t ə ŋ	625
+1228	French	tongue	lɑ̃g	l ɑ̃ g	625
+1229	German	tongue	ʦuŋə	ʦ u ŋ ə	625
+1230	Hawaiian	tongue	alelo	a l e l o	629
+1231	Navajo	tongue	ʦoːʔ	ʦ oː ʔ	628
+1232	Turkish	tongue	dil	d i l	626
+#
+1233	Albanian	tooth	ðəmb	ð ə m b	1188
+1234	English	tooth	tuθ	t u θ	1186
+1235	French	tooth	dɑ̃	d ɑ̃	1186
+1236	German	tooth	ʦaːn	ʦ aː n	1186
+1237	Hawaiian	tooth	niho	n i h o	1190
+1238	Navajo	tooth	ɣoːʔ	ɣ oː ʔ	1189
+1239	Turkish	tooth	diʃ	d i ʃ	1187
+#
+1240	Albanian	tree	drur	d r u r	349
+1241	English	tree	tri	t r i	349
+1242	French	tree	arbr	a r b r	348
+1243	German	tree	baum	b au m	347
+1244	Hawaiian	tree	laːʔau	l aː ʔ a u	352
+1245	Navajo	tree	ʦin	ʦ i n	351
+1246	Turkish	tree	aɣaʤ	a ɣ a ʤ	350
+#
+1247	Albanian	true	vərtet	v ə r t e t	-814
+1248	English	true	tru	t r u	815
+1249	French	true	vrɛ	v r ɛ	814
+1250	German	true	vaːr	v aː r	814
+1251	Hawaiian	true	ʔoiaʔiʔo	ʔ o i a ʔ i ʔ o	818
+1252	Navajo	true	ʔaːniː	ʔ aː n iː	817
+1253	Turkish	true	doɣru	d o ɣ r u	816
+#
+1254	Albanian	two	dy	d y	145
+1255	English	two	tu	t u	145
+1256	French	two	dø	d ø	145
+1257	German	two	ʦvai	ʦ v ai	145
+1258	Hawaiian	two	lua	l u a	148
+1259	Navajo	two	naːki	n aː k i	147
+1260	Turkish	two	iki	i k i	146
+#
+1261	Albanian	vomit	vjeł	v j e ł	1211
+1262	English	vomit	vɑmət	v ɑ m ə t	-1209
+1263	French	vomit	vɔmi	v ɔ m i	-1209
+1264	German	vomit	erbrex	e r b r e x	1208
+1265	Hawaiian	vomit	luaʔi	l u a ʔ i	1213
+1266	Navajo	vomit	naykwi	n ay kw i	1212
+1267	Turkish	vomit	kus	k u s	1210
+#
+1268	Albanian	wash	la	l a	667
+1269	English	wash	wɑʃ	w ɑ ʃ	666
+1270	French	wash	lave	l a v e	667
+1271	German	wash	vaʃ	v a ʃ	666
+1272	Hawaiian	wash	holoi	h o l o i	670
+1273	Navajo	wash	jiːgis	j iː g i s	669
+1274	Turkish	wash	jɯka	j ɯ k a	668
+#
+1275	Albanian	water	uj	u j	527
+1276	English	water	wɑtər	w ɑ t ə r	527
+1277	French	water	o	o	528
+1278	German	water	vasər	v a s ə r	527
+1279	Hawaiian	water	wai	w a i	531
+1280	Navajo	water	to	t o	530
+1281	Turkish	water	suj	s u j	529
+#
+1282	Albanian	we	n	n	499
+1283	English	we	wi	w i	498
+1284	French	we	nu	n u	499
+1285	German	we	viːr	v iː r	498
+1286	Hawaiian	we	maːkou	m aː k o u	502
+1287	Navajo	we	nihi	n i h i	501
+1288	Turkish	we	b	b	500
+#
+1289	Albanian	wet	lagət	l a g ə t	141
+1290	English	wet	wɛt	w ɛ t	139
+1291	French	wet	muje	m u j e	138
+1292	German	wet	nas	n a s	137
+1293	Hawaiian	wet	pulu	p u l u	144
+1294	Navajo	wet	ditˡeːʔ	d i tˡ eː ʔ	142
+1295	Turkish	wet	ɯslak	ɯ s l a k	140
+#
+1296	Albanian	what	ʧ	ʧ	418
+1297	English	what	wɑt	w ɑ t	416
+1298	French	what	kwa	k w a	416
+1299	German	what	v	v	416
+1300	Hawaiian	what	aha	a h a	420
+1301	Navajo	what	haʔaytˀiːʃ	h a ʔ ay tˀ iː ʃ	419
+1302	Turkish	what	ne	n e	417
+#
+1303	Albanian	white	barð	b a r ð	535
+1304	English	white	wait	w ai t	532
+1305	French	white	blɑ̃ʃ	b l ɑ̃ ʃ	-533
+1306	German	white	vais	v ai s	532
+1307	Hawaiian	white	keʔokeʔo	k e ʔ o k e ʔ o	538
+1308	Navajo	white	ɬigai	ɬ i g a i	536
+1309	Turkish	white	ak	a k	534
+#
+1310	Albanian	who	k	k	992
+1311	English	who	hu	h u	992
+1312	French	who	ki	k i	992
+1313	German	who	veː	v eː	992
+1314	Hawaiian	who	wai	w a i	995
+1315	Navajo	who	hayi	h ay i	994
+1316	Turkish	who	kim	k i m	993
+#
+1317	Albanian	wide	ɟer	ɟ e r	184
+1318	English	wide	waid	w ai d	181
+1319	French	wide	larʒ	l a r ʒ	182
+1320	German	wide	vait	v ai t	181
+1321	Hawaiian	wide	aːkea	aː k e a	187
+1322	Navajo	wide	niteːl	n i t eː l	185
+1323	Turkish	wide	geniʃ	g e n i ʃ	183
+#
+1324	Albanian	wife	gru	g r u	1165
+1325	English	wife	waif	w ai f	1163
+1326	French	wife	fam	f a m	1162
+1327	German	wife	gatin	g a t i n	1161
+1328	Hawaiian	wife	wahine	w a h i n e	1168
+1329	Navajo	wife	ʔaːd	ʔ aː d	1166
+1330	Turkish	wife	karɯ	k a r ɯ	1164
+#
+1331	Albanian	wind	er	e r	-1235
+1332	English	wind	wɪnd	w ɪ n d	1233
+1333	French	wind	vɑ̃	v ɑ̃	1233
+1334	German	wind	vind	v i n d	1233
+1335	Hawaiian	wind	makani	m a k a n i	1237
+1336	Navajo	wind	niɬʧˀi	n i ɬ ʧˀ i	1236
+1337	Turkish	wind	ryzgaːr	r y z g aː r	-1234
+#
+1338	Albanian	wing	flet	f l e t	1230
+1339	English	wing	wɪŋ	w ɪ ŋ	-1228
+1340	French	wing	ɛl	ɛ l	1227
+1341	German	wing	flyːgəl	f l yː g ə l	1226
+1342	Hawaiian	wing	ʔeːheu	ʔ eː h e u	1232
+1343	Navajo	wing	tˀaʔ	tˀ a ʔ	1231
+1344	Turkish	wing	kanad	k a n a d	1229
+#
+1345	Albanian	wipe	fʃi	f ʃ i	1139
+1346	English	wipe	waip	w ai p	1137
+1347	French	wipe	esɥije	e s ɥ i j e	1136
+1348	German	wipe	viʃ	v i ʃ	1135
+1349	Hawaiian	wipe	kaːwele	k aː w e l e	-1142
+1350	Navajo	wipe	naynitˀod	n ay n i tˀ o d	1140
+1351	Turkish	wipe	sil	s i l	1138
+#
+1352	Albanian	with	me	m e	92
+1353	English	with	wɪθ	w ɪ θ	94
+1354	French	with	avɛk	a v ɛ k	93
+1355	German	with	mit	m i t	92
+1356	Hawaiian	with	me	m e	98
+1357	Navajo	with	iɬ	i ɬ	96
+1358	Turkish	with	ile	i l e	95
+#
+1359	Albanian	woman	gru	g r u	859
+1360	English	woman	wʊmən	w ʊ m ə n	857
+1361	French	woman	fam	f a m	856
+1362	German	woman	frau	f r au	855
+1363	Hawaiian	woman	wahine	w a h i n e	862
+1364	Navajo	woman	ʔasʣayni	ʔ a s ʣ ay n i	860
+1365	Turkish	woman	kadɯn	k a d ɯ n	-858
+#
+1366	Albanian	woods	pył	p y ł	-34
+1367	English	woods	wʊd	w ʊ d	32
+1368	French	woods	bwa	b w a	-31
+1369	German	woods	vald	v a l d	30
+1370	Hawaiian	woods	ululaːʔau	u l u l aː ʔ a u	37
+1371	Navajo	woods	ʦintah	ʦ i n t a h	35
+1372	Turkish	woods	orman	o r m a n	33
+#
+1373	Albanian	worm	krimb	k r i m b	886
+1374	English	worm	wərm	w ə r m	884
+1375	French	worm	vɛr	v ɛ r	884
+1376	German	worm	vurm	v u r m	884
+1377	Hawaiian	worm	koʔe	k o ʔ e	888
+1378	Navajo	worm	ʧˀoʃ	ʧˀ o ʃ	887
+1379	Turkish	worm	soluʤan	s o l u ʤ a n	-885
+#
+1380	Albanian	year	vit	v i t	406
+1381	English	year	jɪr	j ɪ r	403
+1382	French	year	ane	a n e	404
+1383	German	year	jaːr	j aː r	403
+1384	Hawaiian	year	makahiki	m a k a h i k i	408
+1385	Navajo	year	hai	h ai	407
+1386	Turkish	year	sene	s e n e	-405
+#
+1387	Albanian	yellow	verð	v e r ð	-16
+1388	English	yellow	jɛlo	j ɛ l o	14
+1389	French	yellow	ʒon	ʒ o n	14
+1390	German	yellow	gelb	g e l b	14
+1391	Hawaiian	yellow	melemele	m e l e m e l e	19
+1392	Navajo	yellow	ɬiʦo	ɬ i ʦ o	17
+1393	Turkish	yellow	sarɯ	s a r ɯ	15
+#
+1394	Albanian	you	ju	j u	1029
+1395	English	you	ju	j u	1028
+1396	French	you	vu	v u	1029
+1397	German	you	iːr	iː r	1028
+1398	Hawaiian	you	ʔou	ʔ o u	1032
+1399	Navajo	you	nihi	n i h i	1031
+1400	Turkish	you	s	s	1030
+# Created using LingPy-2.1 (http://www.lingpy.org)

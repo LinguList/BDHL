@@ -1,0 +1,27 @@
+{
+	"pages": {
+		"query" : "query",
+		"about" : "about",
+		"download" : "download",
+		"intro" : "intro",
+		"sources" : "sources",
+		"faq":"faq",
+		"contact":"contact",
+		"all" : "all",
+		"direct" : "direct",
+		"alignments" : "alignments",
+		"browse" : "browse",
+		"sources" : "sources",
+		"align_sources" : "sources",
+		"cognates" : "cognates",
+		"align_intro" : "intro",
+		"proto" : "proto",
+		"pairwise" : "pairwise",
+		"multiple" : "multiple",
+		"cognates_browse":"cognates_browse",
+		"cognates_sources":"cognates_sources",
+		"cognates":"cognates",
+		"proto_browse":"proto_browse",
+		"proto_sources":"proto_sources"
+	}
+}
