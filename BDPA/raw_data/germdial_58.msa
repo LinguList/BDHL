@@ -1,0 +1,46 @@
+GermDial (ref_50, 31)
+mother
+ame_std	m	ʌ	ð	ɚ	-
+can_std	m	ʌ	ð	-	ɹ
+cgr_col	m	ʊ	t	ɒ	-
+cgr_hon	m	e	t	ə	ɾ
+cgr_mur	m	uə	d	ɔ	ʁ
+dan_std	m	u	ð	ɔ	-
+dut_ant	m	oː	d	ə	s
+dut_bel	m	o	d	ə	r
+dut_lim	m	ɔ	d	ə	χ
+dut_ost	m	oː	d	-	r̩
+dut_std	m	ʊ	d	ə	ʁ
+eng_auc	m	ɜ	ð	ə	-
+eng_buc	m	ɪ	d	ɐ	ɾ
+eng_del	m	ɜ	ð	ɜ	-
+eng_igb	m	ʌ	ð	ə	-
+eng_joh	m	ɐ	ð	ɜ	-
+eng_lin	m	ɔ	ð	ɐ	ʁ
+eng_liv	m	ʊ	ð	ə	-
+eng_lon	m	ɐ	ð	ə	-
+eng_nca	m	œː	ð	-	ɹ
+eng_per	m	ɐ	ð	ɜ	-
+eng_sin	m	ɑ	ð	ɜ	-
+eng_std	m	ɐ	ð	ə	-
+eng_tyr	m	ɔ	ð	ɚ	-
+far_std	m	ɒʊ	wː	ə	ɹ
+grm_std	m	ʊ	tʰ	ɐ	-
+hgr_als	m	øə	t	ə	χ
+hgr_bie	m	oə	t	ə	ɾ
+hgr_bod	m	ʊə	t	ə	ʁ
+hgr_gra	m	oɔ	t	-	r
+hgr_her	m	øə	t	ə	χ
+hgr_ort	m	ʊə	t	ə	χ
+hgr_tue	m	ʊə	t	ɔ	-
+ice_std	m	ɔʊ	ð	ɪ	r
+lgr_ach	m	oː	d	-	ʁ
+lgr_bar	m	ʊ	ɾ	ɐ	-
+nor_sta	m	oː	-	-	χ
+sco_std	m	ʌ	ð	ə	ɹ
+swe_ska	m	øʉ	-	-	ʁ
+swe_sto	m	oː	-	-	ɾ
+wfr_gro	m	oə	-	-	r
+yid_nyo	m	u	tʰ	ɛ	ʁ
+LOCAL..	*	*	*	*	*
+SWAPS..					

@@ -1,0 +1,48 @@
+GermDial (ref_25, 22)
+all
+ame_std	-	ɑː	ɫ	-	-
+can_std	-	ɒː	ɫ	-	-
+cgr_col	ʔ	a	l	-	-
+cgr_hon	ʔ	ɒ	ɫ	-	-
+cgr_lux	ʔ	a	l	-	-
+cgr_mur	ʔ	a	l	-	-
+dan_std	ʔ	ɛ	lˀ	-	-
+dut_ant	-	a	ɫ	-	-
+dut_bel	-	ɑ	ɫ	-	-
+dut_lim	-	a	l	-	-
+dut_ost	-	ɑo	-	-	-
+dut_std	-	ɑ	ɫ	-	-
+eng_auc	-	ɔː	ɫ	-	-
+eng_buc	-	ɑː	-	-	-
+eng_del	-	ɔ	l	-	-
+eng_igb	-	ɔː	ɫ	-	-
+eng_joh	-	ɔː	ɫ	-	-
+eng_lin	-	ɒː	-	-	-
+eng_liv	-	ɔː	ɫ	-	-
+eng_lon	-	oʊ	-	-	-
+eng_nca	-	ɑː	ɫ	-	-
+eng_per	-	ɔː	ɫ	-	-
+eng_sin	-	ɔʊ	-	-	-
+eng_std	-	ɔː	ɫ	-	-
+eng_tyr	-	ɑː	l	-	-
+far_std	-	a	l̥	ʌ	ɹ
+grm_std	ʔ	a	l	-	-
+hgr_als	ʔ	ɔ	l	-	-
+hgr_bie	-	ɔʊ	-	-	-
+hgr_bod	ʔ	a	l	-	-
+hgr_gra	ʔ	a	l	-	-
+hgr_her	ʔ	ɔ	l	-	-
+hgr_ort	ʔ	a	l	-	-
+hgr_tue	ʔ	a	l	-	-
+hgr_wal	ʔ	a	l	-	-
+ice_std	-	a	ɬ̥	-	-
+lgr_ach	-	a	ɫ	-	-
+lgr_bar	ʔ	aː	l	-	-
+nor_sta	-	a	l	-	-
+sco_std	-	ɔː	ɫ	-	-
+swe_ska	-	a	l	-	-
+swe_sto	-	ɑ	l	-	-
+wfr_gro	-	ɒ	ɫ	-	-
+yid_nyo	ʔ	a	ɫ	-	-
+LOCAL..		*	*		
+SWAPS..					

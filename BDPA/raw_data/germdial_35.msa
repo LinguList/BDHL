@@ -1,0 +1,48 @@
+GermDial (ref_50, 29)
+thunder
+ame_std	θ	ʌ	n	d	ɚ	-	-	-
+can_std	θ	ʌ	n	d	-	-	ɹ	-
+cgr_col	d	o	n	-	ɒ	-	-	-
+cgr_hon	d	ɑ	n	-	ɛ	-	r	-
+cgr_lux	d	ɔ	n	-	ʌ	-	-	-
+cgr_mur	d	ɔ	n	-	ə	-	ʁ	-
+dan_std	ʧ	oɐ	-	d	-	n	-	-
+dut_ant	d	ɔ	n	d	ə	-	s	-
+dut_bel	d	ʌ	n	d	ə	-	r	-
+dut_lim	d	ʊ	n	d	ə	-	χ	-
+dut_ost	d	œ	n	d	-	-	r̩	-
+dut_std	d	ʌ	n	d	ə	-	ʁ	-
+eng_auc	θ	ɐ	n	d	ɜ	-	-	-
+eng_buc	θ	ʌ	n	-	ɐ	-	ɾ	-
+eng_del	t	ɜ	n	d	ɜ	-	-	-
+eng_igb	θ	ʌ	n	d	ə	-	-	-
+eng_joh	θ	ɜ	n	d	ə	-	-	-
+eng_lin	θ	ɔ	n	-	ɐ	-	ʁ	-
+eng_liv	θ	ʊ	n	d	ə	-	-	-
+eng_lon	f	ɐ	n	d	ə	-	-	-
+eng_nca	θ	œː	n	d	-	-	ɹ	-
+eng_per	θ	ɐ	n	d	ɜ	-	-	-
+eng_sin	t	ɑ	n	d	ɜ	-	-	-
+eng_std	θ	ɐ	n	d	ə	-	-	-
+eng_tyr	θ	ɔ	n	-	ɚ	-	-	-
+far_std	tʰ	oː	-	-	-	-	ɹ	a
+grm_std	d	ɒ	n	-	ɐ	-	-	-
+hgr_als	d	o	n	-	ə	-	χ	-
+hgr_bie	d	ɔ	n	-	ə	-	ɾ	-
+hgr_bod	d	ɔ	n	-	ə	-	ʁ	-
+hgr_gra	d	o	n	-	-	-	ɾ	-
+hgr_her	d	o	n	-	ə	-	χ	-
+hgr_ort	d	ɔ	n	-	ə	-	χ	-
+hgr_tue	d	ɔ	n	-	ɔ	-	χ	-
+hgr_wal	d	ɔ	n	-	ɛ	-	ɾ	-
+ice_std	θ	ɔː	-	-	-	-	r	a
+lgr_ach	d	ʊ	n	d	-	-	ʁ	-
+lgr_bar	d	ɔ	n	-	ɐ	-	-	-
+nor_sta	tʰ	oː	-	d	-	n	-	-
+sco_std	θ	ʌ	n	d	ə	-	ɹ	-
+swe_ska	tʰ	oː	-	d	ə	n	-	-
+swe_sto	tʰ	oː	-	d	œ	n	-	-
+wfr_gro	t	ʌ	ŋ	-	-	-	r	-
+yid_nyo	d	u	n	-	ɛ	-	ʁ	-
+LOCAL..	*	*	*	*	*		*
+SWAPS..							

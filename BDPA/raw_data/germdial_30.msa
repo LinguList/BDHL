@@ -1,0 +1,48 @@
+GermDial (ref_25, 19)
+three
+ame_std	θ	ɻ	iː	-	-
+can_std	θ	ɹ	ɪi	-	-
+cgr_col	d	ʀ	eɪ	-	-
+cgr_hon	t	ɾ	ɑ	w	eɪ
+cgr_lux	d	ʀ	aɪ	-	-
+cgr_mur	d	ʁ	ɛi	-	-
+dan_std	t	χ	ɛɪˀ	-	-
+dut_ant	d	ɾ	aː	-	-
+dut_bel	d	ɾ	iː	-	-
+dut_lim	d	ʁ	ɛɪ	-	-
+dut_ost	d	ɾ	iə	-	-
+dut_std	d	ʁ	i	-	-
+eng_auc	θ	ɹ	ɪi	-	-
+eng_buc	θ	ɾ	iː	-	-
+eng_del	t	ɹ	iː	-	-
+eng_igb	θ	ɾ	iː	-	-
+eng_joh	θ	ɹ	iː	-	-
+eng_lin	θ	χ	ɛi	-	-
+eng_liv	θ	ɾ	iː	-	-
+eng_lon	f	ɹ	ɪi	-	-
+eng_nca	θ	ɹ	ɪi	-	-
+eng_per	θ	ɹ	ɪi	-	-
+eng_sin	tʰ	ɹ	i	-	-
+eng_std	θ	ɹ	ɪi	-	-
+eng_tyr	θ	ɾ	iː	-	-
+far_std	tʰ	ɹ	ʊi	-	-
+grm_std	d	ʁ	ae	-	-
+hgr_als	t	χ	ɛi	-	-
+hgr_bie	t	ɾ	yː	-	-
+hgr_bod	d	ʁ	yː	-	-
+hgr_gra	d	ɾ	ei	-	-
+hgr_her	t	χ	ɛi	-	-
+hgr_ort	d	ʁ	aɪ	-	-
+hgr_tue	d	ʁ	ɛi	-	-
+hgr_wal	d	ɾ	yː	-	-
+ice_std	θ	ɾ	ɪu	-	-
+lgr_ach	d	ʁ	eː	-	-
+lgr_bar	d	ʁ	ɛɪ	-	-
+nor_sta	t	χ	iː	-	-
+sco_std	θ	ɾ	iː	-	-
+swe_ska	tʰ	ʁ	ɛɪ	-	-
+swe_sto	t	ɾ	i	-	-
+wfr_gro	t	ɾ	ɛ	j	ə
+yid_nyo	d	ɾ	aɪ	-	-
+LOCAL..	*	*	*
+SWAPS..					

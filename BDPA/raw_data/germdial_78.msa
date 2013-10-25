@@ -1,0 +1,45 @@
+GermDial (ref_50, 43)
+naked
+ame_std	n	-	ɛɪ	k	ɪ	-	d
+can_std	n	-	ɛɪ	k	ɪ	-	d
+cgr_col	n	-	a	k	-	-	-
+cgr_hon	n	-	ɒ	k	-	-	tʰ
+cgr_mur	n	-	a	k	-	-	t
+dut_ant	n	-	a	k	-	-	t
+dut_bel	n	-	aː	k	-	-	t
+dut_lim	n	-	ɑ	k	-	-	s
+dut_ost	n	-	a̠	k	-	-	t
+dut_std	n	-	aː	k	-	-	t
+eng_auc	n	-	ɛɪ	k	ə	-	d
+eng_buc	n	j	ɑ	kʰ	ə	-	tʰ
+eng_del	n	-	e	k	ɪ	-	d
+eng_igb	n	-	e	k	ə	-	d
+eng_joh	n	-	eɪ	kʰ	ə	-	d
+eng_lin	n	j	ɛ	k	ɪ	-	d
+eng_liv	n	-	eɪ	k	ə	-	ð
+eng_lon	n	-	ʌɪ	k	ɪ	-	d
+eng_nca	n	-	ɛɪ	k	ɪ	-	d
+eng_per	n	-	ɛɪ	k	ə	-	d
+eng_sin	n	-	eɪ	k	ə	-	d
+eng_std	n	-	eɪ	k	ɪ	-	d
+eng_tyr	n	-	e	k	ə	-	t
+far_std	n	-	ɛa	ʧ	ɪ	n	-
+grm_std	n	-	a	k	-	-	t
+hgr_als	n	-	ɔ	k	ə	-	tʰ
+hgr_bie	n	-	ɒ	k	-	χ	t
+hgr_bod	n	-	a	k	ɪ	k	-
+hgr_gra	n	-	a	k	-	-	t
+hgr_her	n	-	ɔ	k	ə	-	tʰ
+hgr_ort	n	-	ɔ	k	-	-	ʦ
+hgr_tue	n	-	a	k	ə	-	t
+hgr_wal	n	-	a	k	ɪ	k	-
+ice_std	n	-	aː	c	ɪ	n	-
+lgr_ach	n	-	aː	k	ə	n	t
+lgr_bar	n	-	a	k	ɪ	ç	-
+nor_sta	n	-	ɑː	k	ɪ	n	-
+sco_std	n	-	e	k	ɪ	-	d
+swe_sto	n	-	ɒː	k	ɛ	n	-
+wfr_gro	n	-	iə	k	-	ŋ	-
+yid_nyo	n	-	a	kʰ	ɪ	-	t
+LOCAL..	*		*	*	*		*
+SWAPS..							

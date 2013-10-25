@@ -1,0 +1,48 @@
+GermDial (ref_25, 13)
+earth
+ame_std	-	ɚ	-	θ	-
+can_std	-	ɚː	-	θ	-
+cgr_col	ʔ	ɛ	-	tʰ	-
+cgr_hon	ʔ	iɛ	ɾ	tʰ	-
+cgr_lux	ʔ	eɐ	-	t	-
+cgr_mur	ʔ	ɛ	ʁ	d	ɛ
+dan_std	j	oɔ	-	-	-
+dut_ant	-	ɑː	r	d	ə
+dut_bel	-	aː	r	d	ə
+dut_lim	-	eə	-	t	-
+dut_ost	-	aː	r	d	ə
+dut_std	-	a	ɹ	d	ə
+eng_auc	-	œ	-	θ	-
+eng_buc	-	ɛ	ɾ	θ	-
+eng_del	-	ɜ	-	t͡θ	-
+eng_igb	-	ɚ	-	θ	-
+eng_joh	-	ɜ	-	θ	-
+eng_lin	-	ɛ	ʁ	θ	-
+eng_liv	-	ɛː	-	θ	-
+eng_lon	-	ɜː	-	f	-
+eng_nca	-	ɚː	-	θ	-
+eng_per	-	ɜː	-	θ	-
+eng_sin	-	ɜ	-	θ	-
+eng_std	-	ɜː	-	θ	-
+eng_tyr	-	ɛɚ	-	θ	-
+far_std	j	øː	ɹ	-	-
+grm_std	ʔ	ɛɐ	-	d	ə
+hgr_als	ʔ	a	χ	t	-
+hgr_bie	-	aː	r	t	ə
+hgr_bod	ʔ	ɛ	ʁ	d	ɛ
+hgr_gra	-	ɛ	r	d	ə
+hgr_her	ʔ	a	χ	t	-
+hgr_ort	ʔ	ɛ	ʁ	d	ɛ
+hgr_tue	ʔ	ɛ	ʁ	d	ɛ
+hgr_wal	ʔ	a	r	d	ə
+ice_std	j	œ	r	θ	-
+lgr_ach	-	i	ʁ	d	ə
+lgr_bar	ʔ	iə	-	-	-
+nor_sta	j	oː	χ	-	-
+sco_std	-	ɛ	ɹ	θ	-
+swe_ska	j	ʉ	ʁ	-	-
+swe_sto	ʝ	oː	-	d	-
+wfr_gro	-	iə	-	d	ə
+yid_nyo	ʔ	ɛ	ɾ	d	-
+LOCAL..		*	*	*	*
+SWAPS..					

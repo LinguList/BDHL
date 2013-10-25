@@ -1,0 +1,48 @@
+GermDial (ref_25, 8)
+ear
+ame_std	-	iɚ	-	-
+can_std	-	i	ɹ	-
+cgr_col	ʔ	oɐ	-	-
+cgr_hon	ʔ	iuə	r	-
+cgr_lux	ʔ	œʊɑ	-	-
+cgr_mur	ʔ	oː	ʁ	-
+dan_std	ʔ	yɔ	-	-
+dut_ant	-	oː	r	-
+dut_bel	-	oː	r	-
+dut_lim	-	ʊə	χ	-
+dut_ost	-	ɔː	ɾ	ə
+dut_std	-	oə	ɹ	-
+eng_auc	-	iɛ	-	-
+eng_buc	-	iɐ	ɾ	-
+eng_del	-	ɪɜ	ɹ	-
+eng_igb	-	iə	-	-
+eng_joh	-	iɛ	-	-
+eng_lin	-	iɐ	ʁ	-
+eng_liv	-	iə	-	-
+eng_lon	-	ɪə	-	-
+eng_nca	-	i	ɹ	-
+eng_per	-	iɜ	-	-
+eng_sin	-	i	ɹ	-
+eng_std	-	ɪə	-	-
+eng_tyr	-	iɚ	-	-
+far_std	-	ɔɪ	ɹ	a
+grm_std	ʔ	oɐ	-	-
+hgr_als	ʔ	oː	χ	-
+hgr_bie	-	ɔː	r	-
+hgr_bod	-	oː	ʁ	-
+hgr_gra	-	ɔː	r	-
+hgr_her	ʔ	oː	χ	-
+hgr_ort	ʔ	oː	χ	-
+hgr_tue	ʔ	ɑʊɔ	-	-
+hgr_wal	ʔ	oː	ɹ	-
+ice_std	-	ɛɪ	r	a
+lgr_ach	-	oɐ	-	-
+lgr_bar	ʔ	uə	-	-
+nor_sta	-	øː	ʁ	ə
+sco_std	-	iə	ɹ	-
+swe_ska	-	œː	ʁ	ɐ
+swe_sto	-	ɔː	ɾ	ə
+wfr_gro	-	iə	r	-
+yid_nyo	ʔ	ɔɪɛ	ɾ	-
+LOCAL..		*	*	
+SWAPS..				

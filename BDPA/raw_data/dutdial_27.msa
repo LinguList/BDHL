@@ -1,0 +1,57 @@
+DutDial
+'n been,27
+A007p	ə	m	-	_	b	iː	n
+B003p	-	-	-	-	b	iə	n
+C033p	ɔi	-	-	_	b	ɔi	n
+C041a	-	m̩	-	_	b	ɑːi	n
+C068p	-	m̩	-	_	b	ɑi	n
+C070a	-	n̩	-	_	b	ɑi	n
+D001p	ə	m	-	_	b	i	n
+D006p	-	-	-	-	b	ei	n
+E006p	ə	m	-	_	b	i	n
+E009p	ə	m	-	_	b	i	n
+E019p	ə	m	-	_	b	i	nː
+E030p	-	m̩	-	_	b	ei	n
+F043p	ə	m	-	_	b	i	n
+G002p	ə	m	-	_	b	iː	-
+G015q	-	m	-	_	b	ei	n
+G036p	ə	-	-	_	b	aːi	n
+G037p	-	-	-	-	b	ʌiː	n
+H002p	-	n	ə	_	b	eə	n
+H016p	ə	-	-	_	b	ɛː	n
+H061p	ə	ɱ	-	_	b	eɛ	n
+H076p	ə	-	-	_	b	iə	-
+I009p	-	m̩	-	_	b	ei	n
+I029p	-	-	-	-	b	ei	n
+I033p	ə	m	-	_	b	ɪə	n
+I036p	ə	m	-	_	b	ɪə	n
+K014p	-	-	-	-	b	eːi	n
+K027p	-	n̩	-	_	b	ɪə	n
+K079p	-	-	-	-	b	eː	n
+K101p	ə	n	-	_	b	eə	n
+L005p	ə	m	-	_	b	eə	n
+L014p	ə	n	-	_	b	e	n
+L033p	-	m̩	-	_	b	eː	n
+L071p	ə	m	-	_	b	e	n
+M004p	ə	m	-	_	b	e	n
+M040p	ə	m	-	_	b	eː	n
+M042p	ə	m	-	_	b	e	n
+N067p	ə	-	-	_	b	eə	n
+N078p	ə	m	-	_	b	iə	n
+N141p	ə	m	-	_	b	iə	n
+N175p	ə	m	-	_	b	eə	n
+O018p	ə	m	-	_	b	iə	n
+O080p	ə	m	-	_	b	iə	n
+O093p	ə	m	-	_	b	iə	n
+P002p	ə	m	-	_	b	ii	n
+P078p	ə	-	-	_	b	iə	n
+P212p	-	-	-	-	b	ii	n
+Q005p	ə	-	-	_	b	ai	n
+Q032p	ɛ	-	-	_	b	ɛːi	n
+Q083p	-	-	-	-	b	eːə	n
+Q121p	ə	-	-	_	b	eː	-
+s007p	-	-	-	-	b	eə	n
+s015p	ɛ	-	-	_	b	eə	n
+s021a	ɛ	-	-	_	b	eə	n
+LOCAL					*	*	*
+SWAPS	+	-	+				
