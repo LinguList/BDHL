@@ -1,0 +1,698 @@
+"I"	Germanic
+"I"	Bai
+"all"	Germanic
+"all"	Japanese
+"all"	Norwegian
+"ant"	Bai
+"ash"	Germanic
+"ashes"	Ob-Ugrian
+"bamboo"	Bai
+"bark"	Bai
+"barley"	Bai
+"bath"	Germanic
+"bed"	Bai
+"bee"	Bai
+"behind"	Bai
+"belly"	Andean
+"better"	Germanic
+"big"	Bai
+"big"	Ob-Ugrian
+"bird"	Ob-Ugrian
+"bird"	Japanese
+"bird"	Bai
+"bite"	Japanese
+"bitter"	Bai
+"black"	Bai
+"black"	Ob-Ugrian
+"blood"	Germanic
+"blood"	Andean
+"blood"	Bai
+"bone"	Germanic
+"bone"	Bai
+"bone"	Ob-Ugrian
+"bone"	Andean
+"breast "	Bai
+"breast "	Ob-Ugrian
+"bridge "	Bai
+"brother"	Germanic
+"buckwheat"	Bai
+"calf"	Germanic
+"chicken"	Bai
+"chopsticks"	Bai
+"classifier (chicken)"	Bai
+"classifier (clothes)"	Bai
+"classifier (grain of rice)"	Bai
+"claw"	Japanese
+"cloth"	Bai
+"cloud"	Ob-Ugrian
+"cold"	Bai
+"cold"	Ob-Ugrian
+"cold"	Germanic
+"comb"	Bai
+"corn"	Germanic
+"cow"	Germanic
+"daughter"	Bai
+"daughter"	Germanic
+"day"	Bai
+"day"	Andean
+"day"	Germanic
+"dog"	Andean
+"dog"	Japanese
+"dog"	Bai
+"door"	Bai
+"dragon "	Bai
+"drink"	Japanese
+"dry"	Bai
+"ear"	Andean
+"ear"	Germanic
+"early"	Bai
+"earring"	Bai
+"earth"	Germanic
+"earth"	Bai
+"earthworm, worm "	Bai
+"egg"	Bai
+"eight"	Germanic
+"eight"	Andean
+"eight"	Bai
+"eye"	Andean
+"eye"	Germanic
+"eye"	Bai
+"far"	Bai
+"fast"	Germanic
+"fat"	Bai
+"father"	Germanic
+"finger "	Bai
+"fingernail"	Ob-Ugrian
+"fingernail"	Bai
+"fingernail"	Andean
+"fire"	Ob-Ugrian
+"fire"	Bai
+"fire"	Andean
+"firewood"	Bai
+"fish"	Ob-Ugrian
+"fish"	Germanic
+"fish"	Bai
+"five"	Andean
+"five"	Bai
+"five"	Germanic
+"fly"	Ob-Ugrian
+"fly"	Bai
+"foot"	Andean
+"foot"	Ob-Ugrian
+"foot"	Bai
+"foot"	Germanic
+"four"	Germanic
+"four"	Bai
+"four"	Andean
+"fragrant"	Bai
+"frog"	Bai
+"frost"	Bai
+"full"	Germanic
+"full"	Ob-Ugrian
+"ghost"	Bai
+"give"	Bai
+"glutinous rice "	Bai
+"good"	Bai
+"good"	Germanic
+"goose"	Germanic
+"grease (fat)"	Japanese
+"green"	Germanic
+"hair"	Andean
+"hair"	Bai
+"hair"	Ob-Ugrian
+"hand"	Bai
+"hand"	Germanic
+"hand"	Andean
+"he/she "	Andean
+"head"	Bai
+"head"	Ob-Ugrian
+"head"	Germanic
+"hear"	Ob-Ugrian
+"hear"	Japanese
+"heart"	Andean
+"heart"	Japanese
+"heart"	Germanic
+"heart"	Bai
+"heavy"	Ob-Ugrian
+"heavy"	Bai
+"hemp"	Bai
+"here"	Andean
+"high, tall"	Bai
+"hoe"	Bai
+"holy"	Germanic
+"home"	Germanic
+"honey"	Germanic
+"horn"	Andean
+"horn"	Germanic
+"horn"	Ob-Ugrian
+"horn"	Bai
+"horse"	Bai
+"hot"	Bai
+"hound"	Germanic
+"house"	Bai
+"house"	Germanic
+"hundred"	Germanic
+"hundred"	Bai
+"hunger"	Germanic
+"ice"	Germanic
+"ill, sick"	Bai
+"in"	Germanic
+"interest"	Bai
+"intestine, gut"	Bai
+"is"	Germanic
+"kill"	Japanese
+"knee"	Ob-Ugrian
+"knee"	Germanic
+"knee"	Japanese
+"know"	Japanese
+"lake"	Andean
+"lamb"	Germanic
+"leaf"	Germanic
+"leaf"	Japanese
+"leaf"	Ob-Ugrian
+"liver"	Germanic
+"liver"	Japanese
+"long"	Ob-Ugrian
+"long"	Japanese
+"long"	Germanic
+"louse"	Japanese
+"louse"	Ob-Ugrian
+"meat"	Ob-Ugrian
+"mid"	Germanic
+"milk"	Germanic
+"moon"	Andean
+"moon"	Ob-Ugrian
+"moon"	Sinitic
+"moon"	Germanic
+"mother"	Germanic
+"mouse"	Germanic
+"mouth"	Germanic
+"mouth"	Andean
+"mouth"	Ob-Ugrian
+"mouth"	Japanese
+"nail"	Germanic
+"naked"	Germanic
+"name"	Germanic
+"name"	Andean
+"neck"	Andean
+"neck"	Ob-Ugrian
+"needle"	Germanic
+"new"	Ob-Ugrian
+"new"	Germanic
+"night"	Germanic
+"night"	Andean
+"nine"	Germanic
+"nine"	Andean
+"north"	Germanic
+"nose"	Andean
+"nose"	Ob-Ugrian
+"not"	Ob-Ugrian
+"not"	Andean
+"oak"	Germanic
+"one"	Japanese
+"one"	Andean
+"one"	Germanic
+"open"	Germanic
+"out"	Germanic
+"oven"	Germanic
+"over"	Germanic
+"person "	Andean
+"person "	Ob-Ugrian
+"person "	Japanese
+"quick"	Germanic
+"rain"	Ob-Ugrian
+"rain"	Sinitic
+"rain"	Germanic
+"red"	Germanic
+"red"	Ob-Ugrian
+"right"	Germanic
+"ring"	Germanic
+"road"	Ob-Ugrian
+"root"	Ob-Ugrian
+"salt"	Germanic
+"say"	Ob-Ugrian
+"seven"	Andean
+"seven"	Germanic
+"sharp"	Germanic
+"six"	Germanic
+"six"	Andean
+"skin"	Ob-Ugrian
+"skin"	Andean
+"sleep"	Ob-Ugrian
+"small"	Japanese
+"smoke"	Ob-Ugrian
+"snow"	Germanic
+"snow"	Sinitic
+"sore"	Germanic
+"stand"	Ob-Ugrian
+"star"	Ob-Ugrian
+"star"	Sinitic
+"stone"	Ob-Ugrian
+"stone"	Germanic
+"stool"	Germanic
+"storm"	Germanic
+"sun"	Ob-Ugrian
+"sun"	Sinitic
+"sun"	Andean
+"swim"	Ob-Ugrian
+"tail"	Andean
+"tail"	Ob-Ugrian
+"tear"	Germanic
+"ten"	Andean
+"ten"	Germanic
+"that"	Andean
+"that"	Japanese
+"they"	Andean
+"thing"	Germanic
+"this"	Andean
+"thorn"	Germanic
+"three"	Andean
+"three"	Germanic
+"thunder"	Germanic
+"to ask"	Bai
+"to bark"	Bai
+"to bite"	Germanic
+"to blow"	Bai
+"to boil"	Bai
+"to buy"	Bai
+"to catch a cold"	Sinitic
+"to chirp"	Bai
+"to close"	Bai
+"to comb"	Bai
+"to cry"	Bai
+"to cut up"	Bai
+"to cut"	Bai
+"to die"	Bai
+"to drink"	Bai
+"to drink"	Germanic
+"to eat"	Bai
+"to eat"	Germanic
+"to fall down, to drop"	Bai
+"to fight"	Germanic
+"to grind"	Bai
+"to hear"	Germanic
+"to hide"	Bai
+"to itch"	Bai
+"to see"	Germanic
+"to sit"	Germanic
+"to swear"	Germanic
+"to wash"	Germanic
+"today"	Sinitic
+"toe"	Germanic
+"tomato"	Sinitic
+"tomorrow"	Sinitic
+"tongue"	Germanic
+"tongue"	Andean
+"tongue"	Japanese
+"tongue"	Ob-Ugrian
+"tooth"	Andean
+"tooth"	Germanic
+"top"	Germanic
+"two"	Germanic
+"two"	Japanese
+"two"	Andean
+"walk"	Ob-Ugrian
+"warm"	Germanic
+"water"	Andean
+"we"	Andean
+"what"	Germanic
+"white"	Germanic
+"who	Andean
+"who"	Japanese
+"wind"	Germanic
+"woman"	Andean
+"woman"	Japanese
+"wool"	Germanic
+"word"	Germanic
+"world"	Andean
+"yard"	Germanic
+"year"	Germanic
+"year"	Andean
+"yesterday"	Sinitic
+"you"	Andean
+"young"	Germanic
+Bulgarian агне ("lamb")	Bulgarian
+Bulgarian аз ("I")	Bulgarian
+Bulgarian бели ("white" — plural)	Bulgarian
+Bulgarian берат ("pick up" — 3rd plural)	Bulgarian
+Bulgarian беше ("was" — 3rd person)	Bulgarian
+Bulgarian бране ("picking" — up;gathering-verbal noun)	Bulgarian
+Bulgarian брашно ("flour")	Bulgarian
+Bulgarian бързо ("quickly")	Bulgarian
+Bulgarian бяхме ("were" — 1st plural)	Bulgarian
+Bulgarian вежда ("eyebrow")	Bulgarian
+Bulgarian вече ("already")	Bulgarian
+Bulgarian вечер ("evening")	Bulgarian
+Bulgarian видях ("saw" — 1st singular)	Bulgarian
+Bulgarian вие ("you" — plural)	Bulgarian
+Bulgarian вино ("wine")	Bulgarian
+Bulgarian влизам ("enter" — 1st singular)	Bulgarian
+Bulgarian вода ("water")	Bulgarian
+Bulgarian вол ("ox")	Bulgarian
+Bulgarian време ("time")	Bulgarian
+Bulgarian връх ("peak")	Bulgarian
+Bulgarian връщам ("give back" — 1st singular)	Bulgarian
+Bulgarian вълк ("wolf")	Bulgarian
+Bulgarian вълна ("wool")	Bulgarian
+Bulgarian вънка ("outside")	Bulgarian
+Bulgarian вътре ("inside")	Bulgarian
+Bulgarian вятър ("wind")	Bulgarian
+Bulgarian глава ("head")	Bulgarian
+Bulgarian гладен ("hungry")	Bulgarian
+Bulgarian говедо ("bovine animal, beef")	Bulgarian
+Bulgarian горе ("up")	Bulgarian
+Bulgarian гости ("guests")	Bulgarian
+Bulgarian градът ("the town")	Bulgarian
+Bulgarian грозде ("grapes")	Bulgarian
+Bulgarian дадоха ("gave" — 3rd plural)	Bulgarian
+Bulgarian две ("two")	Bulgarian
+Bulgarian двор ("yard")	Bulgarian
+Bulgarian ден ("day")	Bulgarian
+Bulgarian дера ("flay" — 1st singular)	Bulgarian
+Bulgarian десет ("ten")	Bulgarian
+Bulgarian дете ("child")	Bulgarian
+Bulgarian джоб ("pocket")	Bulgarian
+Bulgarian днес ("today")	Bulgarian
+Bulgarian добре ("well" — adv)	Bulgarian
+Bulgarian долу ("down")	Bulgarian
+Bulgarian дошъл ("has come" — 3rd singular)	Bulgarian
+Bulgarian дъжд ("rain")	Bulgarian
+Bulgarian дълбок ("deep")	Bulgarian
+Bulgarian дъно ("bottom")	Bulgarian
+Bulgarian дърво ("tree")	Bulgarian
+Bulgarian един ("one" — masc)	Bulgarian
+Bulgarian едно ("one" — neut)	Bulgarian
+Bulgarian език ("tongue")	Bulgarian
+Bulgarian ечемик ("barley")	Bulgarian
+Bulgarian желязо ("iron")	Bulgarian
+Bulgarian жена ("woman")	Bulgarian
+Bulgarian жив ("alive")	Bulgarian
+Bulgarian жълт ("yellow")	Bulgarian
+Bulgarian жътва ("harvest")	Bulgarian
+Bulgarian звезда ("star")	Bulgarian
+Bulgarian здрав ("healthy")	Bulgarian
+Bulgarian земя ("earth")	Bulgarian
+Bulgarian зет ("son" — in-law;brother-in-law)	Bulgarian
+Bulgarian им ("them" — dative, short form;their)	Bulgarian
+Bulgarian й ("her" — dative, short form)	Bulgarian
+Bulgarian камък ("stone")	Bulgarian
+Bulgarian ключ ("key")	Bulgarian
+Bulgarian кое ("which" — neut)	Bulgarian
+Bulgarian кон ("horse")	Bulgarian
+Bulgarian кръв ("blood")	Bulgarian
+Bulgarian къде ("where")	Bulgarian
+Bulgarian лесно ("easy")	Bulgarian
+Bulgarian леща ("lentils")	Bulgarian
+Bulgarian майка ("mother")	Bulgarian
+Bulgarian месец ("month")	Bulgarian
+Bulgarian месо ("meat")	Bulgarian
+Bulgarian млякото ("the milk")	Bulgarian
+Bulgarian много ("much;many")	Bulgarian
+Bulgarian мъж ("man")	Bulgarian
+Bulgarian мъже ("men")	Bulgarian
+Bulgarian мъжът ("the man")	Bulgarian
+Bulgarian наше ("ours")	Bulgarian
+Bulgarian неделя ("Sunday")	Bulgarian
+Bulgarian неще ("does not want" — 3rd singular)	Bulgarian
+Bulgarian нещо ("something")	Bulgarian
+Bulgarian нея ("her")	Bulgarian
+Bulgarian носят ("carry" — 3rd plural)	Bulgarian
+Bulgarian нощ ("night")	Bulgarian
+Bulgarian няма ("there is no, will not")	Bulgarian
+Bulgarian овца ("sheep" — sg)	Bulgarian
+Bulgarian овце ("sheep" — pl)	Bulgarian
+Bulgarian овчар ("shepherd")	Bulgarian
+Bulgarian овчари ("shepherds")	Bulgarian
+Bulgarian огън ("fire")	Bulgarian
+Bulgarian онези ("those")	Bulgarian
+Bulgarian орех ("walnut")	Bulgarian
+Bulgarian пека ("bake" — 1st singular)	Bulgarian
+Bulgarian пепел ("ash")	Bulgarian
+Bulgarian петел ("rooster")	Bulgarian
+Bulgarian петък ("Friday")	Bulgarian
+Bulgarian плащам ("pay" — 1st singular)	Bulgarian
+Bulgarian понеделник ("Monday")	Bulgarian
+Bulgarian пръч ("he-goat")	Bulgarian
+Bulgarian първият ("first" — he)	Bulgarian
+Bulgarian път ("road")	Bulgarian
+Bulgarian пясък ("sand")	Bulgarian
+Bulgarian река ("river")	Bulgarian
+Bulgarian ръка ("hand")	Bulgarian
+Bulgarian ръце ("hands")	Bulgarian
+Bulgarian се ("one's, self")	Bulgarian
+Bulgarian сега ("now")	Bulgarian
+Bulgarian седя ("sit" — 1st singular)	Bulgarian
+Bulgarian сестра ("sister")	Bulgarian
+Bulgarian сирене ("cheese")	Bulgarian
+Bulgarian сол ("salt")	Bulgarian
+Bulgarian средата ("the middle")	Bulgarian
+Bulgarian сряда ("Wednesday")	Bulgarian
+Bulgarian старец ("old man")	Bulgarian
+Bulgarian страх ("fear")	Bulgarian
+Bulgarian сух ("dry")	Bulgarian
+Bulgarian събота ("Saturday")	Bulgarian
+Bulgarian сърп ("sickle")	Bulgarian
+Bulgarian със ("with")	Bulgarian
+Bulgarian такъв ("such")	Bulgarian
+Bulgarian твой ("yours")	Bulgarian
+Bulgarian това ("this" — neut)	Bulgarian
+Bulgarian тогава ("then")	Bulgarian
+Bulgarian трева ("grass")	Bulgarian
+Bulgarian тъмно ("dark" — neut)	Bulgarian
+Bulgarian тънко ("thin" — neut;thinly)	Bulgarian
+Bulgarian утре ("tomorrow")	Bulgarian
+Bulgarian ухо ("ear")	Bulgarian
+Bulgarian фурна ("oven")	Bulgarian
+Bulgarian хляб ("bread")	Bulgarian
+Bulgarian хоро ("chain dance")	Bulgarian
+Bulgarian хубав ("pretty" — masc)	Bulgarian
+Bulgarian хубаво ("pretty" — neut;good-neut)	Bulgarian
+Bulgarian цял ("whole")	Bulgarian
+Bulgarian чакат ("wait" — 3rd plural)	Bulgarian
+Bulgarian червен ("red" — masc)	Bulgarian
+Bulgarian черен ("black" — masc)	Bulgarian
+Bulgarian череша ("cherry")	Bulgarian
+Bulgarian чета ("read" — 1st singular)	Bulgarian
+Bulgarian чешма ("fountain")	Bulgarian
+Bulgarian човек ("person")	Bulgarian
+Bulgarian ще ("will, shall")	Bulgarian
+Bulgarian я ("her" — accusative, short form)	Bulgarian
+Bulgarian ябълка ("apple")	Bulgarian
+Bulgarian ябълки ("apples")	Bulgarian
+Bulgarian ядеш ("eat" — 2nd singular)	Bulgarian
+Bulgarian яйца ("eggs")	Bulgarian
+Bulgarian яйце ("egg")	Bulgarian
+Bulgarian ям ("eat" — 1st singular)	Bulgarian
+Dutch <i id="form">'n aap  </i>	Dutch
+Dutch <i id="form">'n appel        </i>	Dutch
+Dutch <i id="form">'n arm  </i>	Dutch
+Dutch <i id="form">'n baard        </i>	Dutch
+Dutch <i id="form">'n been </i>	Dutch
+Dutch <i id="form">'n beest        </i>	Dutch
+Dutch <i id="form">'n beitel       </i>	Dutch
+Dutch <i id="form">'n berg </i>	Dutch
+Dutch <i id="form">'n blad </i>	Dutch
+Dutch <i id="form">'n bloem        </i>	Dutch
+Dutch <i id="form">'n brief        </i>	Dutch
+Dutch <i id="form">'n broer        </i>	Dutch
+Dutch <i id="form">'n burgemeester </i>	Dutch
+Dutch <i id="form">'n dag  </i>	Dutch
+Dutch <i id="form">'n dak  </i>	Dutch
+Dutch <i id="form">'n dief </i>	Dutch
+Dutch <i id="form">'n dochter      </i>	Dutch
+Dutch <i id="form">'n gans </i>	Dutch
+Dutch <i id="form">'n gast </i>	Dutch
+Dutch <i id="form">'n glas </i>	Dutch
+Dutch <i id="form">'n kalf </i>	Dutch
+Dutch <i id="form">'n kat  </i>	Dutch
+Dutch <i id="form">'n roos </i>	Dutch
+Dutch <i id="form">'n stapel       </i>	Dutch
+Dutch <i id="form">'n wijf </i>	Dutch
+Dutch <i id="form">aarde   </i>	Dutch
+Dutch <i id="form">adem    </i>	Dutch
+Dutch <i id="form">blaadje </i>	Dutch
+Dutch <i id="form">bloempje        </i>	Dutch
+Dutch <i id="form">buiten  </i>	Dutch
+Dutch <i id="form">goed    </i>	Dutch
+Dutch <i id="form">gras    </i>	Dutch
+Dutch <i id="form">graven  </i>	Dutch
+Dutch <i id="form">grijs   </i>	Dutch
+Dutch <i id="form">groot   </i>	Dutch
+Dutch <i id="form">handje  </i>	Dutch
+Dutch <i id="form">kaas    </i>	Dutch
+Dutch <i id="form">kopen   </i>	Dutch
+Dutch <i id="form">kort    </i>	Dutch
+Dutch <i id="form">lang    </i>	Dutch
+Dutch <i id="form">melk    </i>	Dutch
+Dutch <i id="form">regen   </i>	Dutch
+Dutch <i id="form">spelen  </i>	Dutch
+Dutch <i id="form">tam     </i>	Dutch
+Dutch <i id="form">twaalf  </i>	Dutch
+Dutch <i id="form">twijfel </i>	Dutch
+Dutch <i id="form">vader   </i>	Dutch
+Dutch <i id="form">zand    </i>	Dutch
+Dutch <i id="form">zeker   </i>	Dutch
+Dutch <i id="form">zeven   </i>	Dutch
+French <i id="form">(au) cœur</i> (< Latin <i id="form">cor</i>)	French
+French <i id="form">(au) genou</i> (< Latin <i id="form">genuclu</i>	French
+French <i id="form">(au) pouce</i> (< Latin <i id="form">pollice</i>)	French
+French <i id="form">(cela m’a) aidé</i> (< Latin <i id="form">adjutatu</i>	French
+French <i id="form">(de la) viande</i> (< Latin <i id="form">carne</i>)	French
+French <i id="form">(du) fromage</i> (< Latin <i id="form">formaticu</i>)	French
+French <i id="form">(je) sais</i> (< Latin <i id="form">sa(p)io</i>)	French
+French <i id="form">(un) fléau</i> (< Latin <i id="form">flagellu</i>)	French
+French <i id="form">(un) joug</i> (< Latin <i id="form">jugu</i>)	French
+French <i id="form">(un) lit</i> (< Latin <i id="form">lectu</i>	French
+French <i id="form">(une) cuillerée, (des) cuillerées</i> (< Latin <i id="form">cochlearata, -atas</i>	French
+French <i id="form">(une) cuve</i> (< Latin <i id="form">cupa</i>)	French
+French <i id="form">(à la) cuisse</i> (< Latin <i id="form">coxa</i>	French
+French <i id="form">as-tu</i> (< Latin <i id="form">ha(be)s tu</i>	French
+French <i id="form">aujourd‘hui</i> (< Latin <i id="form">hodie</i>)	French
+French <i id="form">contre</i> (< Latin <i id="form">contra</i>)	French
+French <i id="form">croître</i> (< Latin <i id="form">crescere</i>	French
+French <i id="form">cru</i> (< Latin <i id="form">crudu</i>	French
+French <i id="form">c’est</i> (< Latin <i id="form">est</i>	French
+French <i id="form">de cendres</i> (< Latin <i id="form">cineres</i>	French
+French <i id="form">de chou</i> (< Latin <i id="form">caule</i>	French
+French <i id="form">de ma sœur</i> (< Latin <i id="form">soror</i>	French
+French <i id="form">de nœuds</i> (< Latin <i id="form">nodos</i>)	French
+French <i id="form">descendre</i> (< Latin <i id="form">descendere</i>	French
+French <i id="form">doucement</i> (< Latin <i id="form">-mente</i>)	French
+French <i id="form">du pain</i> (< Latin <i id="form">pane</i>)	French
+French <i id="form">du poivre</i> (< Latin <i id="form">piper</i>	French
+French <i id="form">est maigre</i> (< Latin <i id="form">macru</i>	French
+French <i id="form">faim</i> (< Latin <i id="form">fame</i>	French
+French <i id="form">il fait</i> (< Latin <i id="form">facit</i>	French
+French <i id="form">il faudra</i> (< Latin <i id="form">fallere + habet</i>	French
+French <i id="form">il faut</i> (< Latin <i id="form">fallit</i>	French
+French <i id="form">il ferme</i> (< Latin <i id="form">claudit</i>	French
+French <i id="form">ils peuvent</i> (< Latin <i id="form">potunt</i>)	French
+French <i id="form">la clef</i> (< Latin <i id="form">clave</i>)	French
+French <i id="form">la cuiller</i> (< Latin <i id="form">cochleare</i>)	French
+French <i id="form">la fenêtre</i> (< Latin <i id="form">fenestra</i>)	French
+French <i id="form">la fièvre</i> (< Latin <i id="form">febre</i>)	French
+French <i id="form">la hache</i> (< Latin <i id="form">happia (+ itta)</i>)	French
+French <i id="form">la main</i> (< Latin <i id="form">manu</i>)	French
+French <i id="form">largeur</i> (< Latin <i id="form">largu + ore</i>)	French
+French <i id="form">le cercle</i> (< Latin <i id="form">circulu</i>	French
+French <i id="form">le chasseur</i> (< Latin <i id="form">captiatore</i>)	French
+French <i id="form">le grenier</i> (< Latin <i id="form">granariu</i>)	French
+French <i id="form">le médecin</i> (< Latin <i id="form">medicu</i>	French
+French <i id="form">le saule</i> (< Latin <i id="form">salice</i>)	French
+French <i id="form">le sentier</i> (< Latin <i id="form">semitariu</i>	French
+French <i id="form">le „chable“</i> (< Latin <i id="form">catabolu</i>)	French
+French <i id="form">les deux moitiés</i> (< Latin <i id="form">duas medietates</i>)	French
+French <i id="form">lire</i> (< Latin <i id="form">legere</i>)	French
+French <i id="form">l‘oiseau</i> (< Latin <i id="form">aucellu</i>)	French
+French <i id="form">l’eau</i> (< Latin <i id="form">aqua</i>	French
+French <i id="form">mieux qu‘elle</i> (< Latin <i id="form">melius, illæi</i>	French
+French <i id="form">moudre</i> (< Latin <i id="form">molere</i>)	French
+French <i id="form">mûr</i> (< Latin <i id="form">maturu</i>)	French
+French <i id="form">m’appeler</i> (< Latin <i id="form">appellare (quiriare)</i>	French
+French <i id="form">ne savent pas</i> (< Latin <i id="form">sapunt</i>	French
+French <i id="form">notre</i> (< Latin <i id="form">nostru</i>	French
+French <i id="form">oiseau vert</i> (< Latin <i id="form">aucellu viride</i>	French
+French <i id="form">pauvreté</i> (< Latin <i id="form">paupertate</i>	French
+French <i id="form">perdu</i> (< Latin <i id="form">perdutu</i>	French
+French <i id="form">quatre</i> (< Latin <i id="form">quatt(u)or</i>	French
+French <i id="form">racérer</i> (< Latin <i id="form">reaciariare</i>	French
+French <i id="form">sans</i> (< Latin <i id="form">sine</i>)	French
+French <i id="form">six</i> (< Latin <i id="form">sex</i>	French
+French <i id="form">suivre</i> (< Latin <i id="form">sequere</i>)	French
+French <i id="form">tondre</i> (< Latin <i id="form">tondere</i>	French
+French <i id="form">un lièvre</i> (< Latin <i id="form">lepore</i>)	French
+French <i id="form">une fourmi</i> (< Latin <i id="form">formicu, -a</i>)	French
+French <i id="form">une perte</i> (< Latin <i id="form">perdita</i>)	French
+French <i id="form">était</i> (< Latin <i id="form">erat (est + ebat)</i>	French
+Latin <i id="form">aquam</i>  "water"	Romance
+Latin <i id="form">auriculam</i>  "ear"	Romance
+Latin <i id="form">brācchium</i>  "arm"	Romance
+Latin <i id="form">bēstiam</i>  "beast"	Romance
+Latin <i id="form">caelum</i>  "sky"	Romance
+Latin <i id="form">capram</i>  "goat"	Romance
+Latin <i id="form">cornū</i>  "horn"	Romance
+Latin <i id="form">decem</i>  "ten"	Romance
+Latin <i id="form">dentem</i>  "tooth"	Romance
+Latin <i id="form">digitum</i>  "finger"	Romance
+Latin <i id="form">duo</i>  "two"	Romance
+Latin <i id="form">lacrimam</i>  "tear"	Romance
+Latin <i id="form">linguam</i>  "tongue"	Romance
+Latin <i id="form">lānam</i>  "wool"	Romance
+Latin <i id="form">lūnam</i>  "moon"	Romance
+Latin <i id="form">manum</i>  "hand"	Romance
+Latin <i id="form">mare</i>  "sea"	Romance
+Latin <i id="form">novem</i>  "nine"	Romance
+Latin <i id="form">octō</i>  "eight"	Romance
+Latin <i id="form">oculum</i>  "eye"	Romance
+Latin <i id="form">pedem</i>  "foot"	Romance
+Latin <i id="form">quattuor</i>  "four"	Romance
+Latin <i id="form">quīnque</i>  "five"	Romance
+Latin <i id="form">septem</i>  "seven"	Romance
+Latin <i id="form">sex</i>  "six"	Romance
+Latin <i id="form">terram</i>  "earth"	Romance
+Latin <i id="form">trēs</i>  "three"	Romance
+Latin <i id="form">ungulam</i>  "nail"	Romance
+Latin <i id="form">ōvum</i>  "egg"	Romance
+Latin <i id="form">ūnum</i>  "one"	Romance
+Norwegian <i id="form">andre</i>	Norwegian
+Norwegian <i id="form">blåste </i>	Norwegian
+Norwegian <i id="form">enige</i>	Norwegian
+Norwegian <i id="form">frakk</i>	Norwegian
+Norwegian <i id="form">frakken</i>	Norwegian
+Norwegian <i id="form">fram</i>	Norwegian
+Norwegian <i id="form">få</i>	Norwegian
+Norwegian <i id="form">først</i>	Norwegian
+Norwegian <i id="form">gav</i>	Norwegian
+Norwegian <i id="form">gjelde/regne</i>	Norwegian
+Norwegian <i id="form">gåande </i>	Norwegian
+Norwegian <i id="form">inrømme</i>	Norwegian
+Norwegian <i id="form">kjekla </i>	Norwegian
+Norwegian <i id="form">kom</i>	Norwegian
+Norwegian <i id="form">kven</i>	Norwegian
+Norwegian <i id="form">kʉɲ</i>	Norwegian
+Norwegian <i id="form">makt</i>	Norwegian
+Norwegian <i id="form">mann</i>	Norwegian
+Norwegian <i id="form">mannen </i>	Norwegian
+Norwegian <i id="form">med</i>	Norwegian
+Norwegian <i id="form">meir</i>	Norwegian
+Norwegian <i id="form">måtte</i>	Norwegian
+Norwegian <i id="form">nordavinden</i>	Norwegian
+Norwegian <i id="form">opp</i>	Norwegian
+Norwegian <i id="form">på</i>	Norwegian
+Norwegian <i id="form">rund</i>	Norwegian
+Norwegian <i id="form">seg</i>	Norwegian
+Norwegian <i id="form">sist</i>	Norwegian
+Norwegian <i id="form">skein/skinte</i>	Norwegian
+Norwegian <i id="form">skulle </i>	Norwegian
+Norwegian <i id="form">sola</i>	Norwegian
+Norwegian <i id="form">som</i>	Norwegian
+Norwegian <i id="form">sterkare</i>	Norwegian
+Norwegian <i id="form">sterkaste</i>	Norwegian
+Norwegian <i id="form">straks </i>	Norwegian
+Norwegian <i id="form">tettare</i>	Norwegian
+Norwegian <i id="form">trakk</i>	Norwegian
+Norwegian <i id="form">var</i>	Norwegian
+Norwegian <i id="form">varm</i>	Norwegian
+Norwegian <i id="form">varmt</i>	Norwegian
+Norwegian <i id="form">vart</i>	Norwegian
+Norwegian <i id="form">ɡodt</i>	Norwegian
+Proto-Slavic <i id="form">*ajɪce</i>	Slavic
+Proto-Slavic <i id="form">*azə</i>	Slavic
+Proto-Slavic <i id="form">*edinə</i>	Slavic
+Proto-Slavic <i id="form">*jɪmẽ</i>	Slavic
+Proto-Slavic <i id="form">*korenɪ </i>	Slavic
+Proto-Slavic <i id="form">*kortəkə</i>	Slavic
+Proto-Slavic <i id="form">*kostɪ</i>	Slavic
+Proto-Slavic <i id="form">*leʒati </i>	Slavic
+Proto-Slavic <i id="form">*mẽso</i>	Slavic
+Proto-Slavic <i id="form">*novə</i>	Slavic
+Proto-Slavic <i id="form">*ognɪ</i>	Slavic
+Proto-Slavic <i id="form">*pepelə </i>	Slavic
+Proto-Slavic <i id="form">*piti</i>	Slavic
+Proto-Slavic <i id="form">*sɐdɐti </i>	Slavic
+Proto-Slavic <i id="form">*səlnɪce</i>	Slavic
+Proto-Slavic <i id="form">*sɪrdɪce</i>	Slavic
+Proto-Slavic <i id="form">*zelenə </i>	Slavic
+Proto-Slavic <i id="form">*zemlja </i>	Slavic
+Proto-Slavic <i id="form">*ʒɪltə</i>	Slavic
+Proto-Slavic <i id="form">*ẽzykə</i>	Slavic

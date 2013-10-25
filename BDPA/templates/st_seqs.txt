@@ -1,0 +1,1114 @@
+French_1	French <i id="form">il fait</i> (< Latin <i id="form">facit</i>)
+French_2	French <i id="form">chaud</i> (< Latin <i id="form">caldu</i>
+French_3	French <i id="form">aujourd‘hui</i> (< Latin <i id="form">hodie</i>)
+French_4	French <i id="form">c’est</i> (< Latin <i id="form">est</i>
+French_5	French <i id="form">un bon</i> (< Latin <i id="form">bonu</i>)
+French_6	French <i id="form">temps</i> (< Latin <i id="form">tempus</i>
+French_7	French <i id="form">une</i> (< Latin <i id="form">una</i>)
+French_8	French <i id="form">bonne</i> (< Latin <i id="form">bona</i>
+French_9	French <i id="form">saison</i> (< Latin <i id="form">satione</i>)
+French_10	French <i id="form">il pleut</i> (< Latin <i id="form">plovet</i>
+French_11	French <i id="form">chaque</i> (< Latin <i id="form">cata + quisque</i>)
+French_12	French <i id="form">jour</i> (< Latin <i id="form">diurnu</i>
+French_13	French <i id="form">hier</i> (< Latin <i id="form">heri</i>)
+French_14	French <i id="form">il y avait</i> (< Latin <i id="form">habebat</i>
+French_15	French <i id="form">peu de</i> (< Latin <i id="form">paucu</i>)
+French_16	French <i id="form">rosée</i> (< Latin <i id="form">rosata</i>
+French_17	French <i id="form">il faisait</i> (< Latin <i id="form">faciebat</i>)
+French_18	French <i id="form">froid</i> (< Latin <i id="form">frigidu</i>
+French_19	French <i id="form">la matinée</i> (< Latin <i id="form">matutinata</i>)
+French_20	French <i id="form">était</i> (< Latin <i id="form">erat (est + ebat)</i>
+French_21	French <i id="form">froide</i> (< Latin <i id="form">frigida</i>)
+French_22	French <i id="form">les matinées</i> (< Latin <i id="form">matutinatas</i>
+French_23	French <i id="form">sont</i> (< Latin <i id="form">sunt</i>)
+French_24	French <i id="form">froides</i> (< Latin <i id="form">frigidas</i>
+French_25	French <i id="form">la gelée</i> (< Latin <i id="form">gelata</i>)
+French_26	French <i id="form">est dangereuse</i> (< Latin <i id="form">dominiariu + osa</i>
+French_27	French <i id="form">les gelées</i> (< Latin <i id="form">gelatas</i>)
+French_28	French <i id="form">sont dangereuses</i> (< Latin <i id="form">dominiariu + osas</i>
+French_29	French <i id="form">la nuit</i> (< Latin <i id="form">nocte</i>)
+French_30	French <i id="form">on voit</i> (< Latin <i id="form">homo videt</i>
+French_31	French <i id="form">la lune</i> (< Latin <i id="form">luna</i>)
+French_32	French <i id="form">les étoiles</i> (< Latin <i id="form">stellas</i>
+French_33	French <i id="form">il ne faut pas</i> (< Latin <i id="form">fallit</i>)
+French_34	French <i id="form">avoir</i> (< Latin <i id="form">habere</i>
+French_35	French <i id="form">peur</i> (< Latin <i id="form">pavore</i>)
+French_36	French <i id="form">du tonnerre</i> (< Latin <i id="form">tonitru</i>
+French_37	French <i id="form">au mois</i> (< Latin <i id="form">mese</i>)
+French_38	French <i id="form">de février</i> (< Latin <i id="form">febrariu</i>
+French_39	French <i id="form">il y a</i> (< Latin <i id="form">habet</i>)
+French_40	French <i id="form">de la neige</i> (< Latin <i id="form">nive</i>
+French_41	French <i id="form">de la glace</i> (< Latin <i id="form">glacia</i>)
+French_42	French <i id="form">il fait</i> (< Latin <i id="form">facit</i>
+French_43	French <i id="form">du vent</i> (< Latin <i id="form">ventu (aura)</i>)
+French_44	French <i id="form">l’hiver</i> (< Latin <i id="form">hibernu</i>
+French_45	French <i id="form">arrive</i> (< Latin <i id="form">adripat</i>)
+French_46	French <i id="form">il est là</i> (< Latin <i id="form">illac</i>
+French_47	French <i id="form">je dois</i> (< Latin <i id="form">debeo</i>)
+French_48	French <i id="form">descendre</i> (< Latin <i id="form">descendere</i>
+French_49	French <i id="form">en ville</i> (< Latin <i id="form">villa</i>)
+French_50	French <i id="form">il faut</i> (< Latin <i id="form">fallit</i>
+French_51	French <i id="form">suivre</i> (< Latin <i id="form">sequere</i>)
+French_52	French <i id="form">le sentier</i> (< Latin <i id="form">semitariu</i>
+French_53	French <i id="form">jusqu’à</i> (< Latin <i id="form">tantu + que</i>)
+French_54	French <i id="form">la croisée</i> (< Latin <i id="form">cruciata</i>
+French_55	French <i id="form">traverser</i> (< Latin <i id="form">transversare</i>)
+French_56	French <i id="form">le champ</i> (< Latin <i id="form">campu</i>
+French_57	French <i id="form">le pré</i> (< Latin <i id="form">pratu</i>)
+French_58	French <i id="form">passer</i> (< Latin <i id="form">passare</i>
+French_59	French <i id="form">vers la croix</i> (< Latin <i id="form">cruce</i>)
+French_60	French <i id="form">le puits</i> (< Latin <i id="form">puteu</i>
+French_61	French <i id="form">le „chable“</i> (< Latin <i id="form">catabolu</i>)
+French_62	French <i id="form">c‘est</i> (< Latin <i id="form">est</i>
+French_63	French <i id="form">un lieu</i> (< Latin <i id="form">unu locu</i>)
+French_64	French <i id="form">dangereux</i> (< Latin <i id="form">dominiariu + osu</i>
+French_65	French <i id="form">la rive</i> (< Latin <i id="form">ripa</i>)
+French_66	French <i id="form">est étroite</i> (< Latin <i id="form">stricta</i>
+French_67	French <i id="form">le grenier</i> (< Latin <i id="form">granariu</i>)
+French_68	French <i id="form">et le „battoir“</i> (< Latin <i id="form">batt + atoriu</i>
+French_69	French <i id="form">sont tout près</i> (< Latin <i id="form">pressu</i>)
+French_70	French <i id="form">du village</i> (< Latin <i id="form">villaticu</i>
+French_71	French <i id="form">allons-y</i> (< Latin <i id="form">ambulemus</i>)
+French_72	French <i id="form">ensemble</i> (< Latin <i id="form">insimul</i>
+French_73	French <i id="form">prends garde</i> (< Latin <i id="form">cavica</i>)
+French_74	French <i id="form">de t‘“encoubler“</i> (< Latin <i id="form">incopulare</i>
+French_75	French <i id="form">le pont</i> (< Latin <i id="form">ponte</i>)
+French_76	French <i id="form">est en</i> (< Latin <i id="form">est in</i>
+French_77	French <i id="form">pierre</i> (< Latin <i id="form">petra</i>)
+French_78	French <i id="form">en fer</i> (< Latin <i id="form">ferru</i>
+French_79	French <i id="form">il est neuf</i> (< Latin <i id="form">novu</i>)
+French_80	French <i id="form">large</i> (< Latin <i id="form">largu</i>
+French_81	French <i id="form">le mur</i> (< Latin <i id="form">muru</i>)
+French_82	French <i id="form">est commencé</i> (< Latin <i id="form">cuminitiatu</i>
+French_83	French <i id="form">la tour</i> (< Latin <i id="form">turre</i>)
+French_84	French <i id="form">(est) commencée</i> (< Latin <i id="form">cuminitiata</i>
+French_85	French <i id="form">les tours</i> (< Latin <i id="form">turres</i>)
+French_86	French <i id="form">(sont) commencées</i> (< Latin <i id="form">cuminitatias</i>
+French_87	French <i id="form">le bœuf</i> (< Latin <i id="form">bove</i>)
+French_88	French <i id="form">a des cornes</i> (< Latin <i id="form">habet corn(u)as</i>
+French_89	French <i id="form">l‘échelle</i> (< Latin <i id="form">scala</i>)
+French_90	French <i id="form">est dressé</i> (< Latin <i id="form">directiata</i>
+French_91	French <i id="form">contre</i> (< Latin <i id="form">contra</i>)
+French_92	French <i id="form">le faîte</i> (< Latin <i id="form">fresta</i>
+French_93	French <i id="form">du toit</i> (< Latin <i id="form">tectu</i>)
+French_94	French <i id="form">il ferme</i> (< Latin <i id="form">claudit</i>
+French_95	French <i id="form">la fenêtre</i> (< Latin <i id="form">fenestra</i>)
+French_96	French <i id="form">de la chambre</i> (< Latin <i id="form">pe(n)sile</i>
+French_97	French <i id="form">il balaie</i> (< Latin <i id="form">scopat</i>)
+French_98	French <i id="form">devant</i> (< Latin <i id="form">de + abante</i>
+French_99	French <i id="form">la porte</i> (< Latin <i id="form">porta</i>)
+French_100	French <i id="form">de la grange</i> (< Latin <i id="form">granica</i>
+French_101	French <i id="form">on a</i> (< Latin <i id="form">homo habet</i>)
+French_102	French <i id="form">perdu</i> (< Latin <i id="form">perdutu</i>
+French_103	French <i id="form">la clef</i> (< Latin <i id="form">clave</i>)
+French_104	French <i id="form">du clocher</i> (< Latin <i id="form">cloccariu</i>
+French_105	French <i id="form">elle est</i> (< Latin <i id="form">illa est</i>)
+French_106	French <i id="form">perdue</i> (< Latin <i id="form">perduta</i>
+French_107	French <i id="form">qui a</i> (< Latin <i id="form">cui / qualis habet</i>)
+French_108	French <i id="form">fait cela?</i> (< Latin <i id="form">factu</i>
+French_109	French <i id="form">je vais</i> (< Latin <i id="form">vado</i>)
+French_110	French <i id="form">au marché</i> (< Latin <i id="form">mercatu</i>
+French_111	French <i id="form">chercher</i> (< Latin <i id="form">circare</i>)
+French_112	French <i id="form">une pelle</i> (< Latin <i id="form">pala</i>
+French_113	French <i id="form">(une) faux</i> (< Latin <i id="form">falce</i>)
+French_114	French <i id="form">(un) manche de faux</i> (< Latin <i id="form">falcariu</i>
+French_115	French <i id="form">(un) fléau</i> (< Latin <i id="form">flagellu</i>)
+French_116	French <i id="form">(un) van</i> (< Latin <i id="form">vannu</i>
+French_117	French <i id="form">(une) chaudière</i> (< Latin <i id="form">caldaria</i>)
+French_118	French <i id="form">(une) charrue</i> (< Latin <i id="form">carruca</i>
+French_119	French <i id="form">(une) cuve</i> (< Latin <i id="form">cupa</i>)
+French_120	French <i id="form">(un) pétrin</i> (< Latin <i id="form">magide</i>
+French_121	French <i id="form">(un) joug</i> (< Latin <i id="form">jugu</i>)
+French_122	French <i id="form">(un) manche</i> (< Latin <i id="form">manicu</i>
+French_123	French <i id="form">(une) cage</i> (< Latin <i id="form">cavea</i>)
+French_124	French <i id="form">(un) lit</i> (< Latin <i id="form">lectu</i>
+French_125	French <i id="form">(une) bouteille</i> (< Latin <i id="form">buttucula</i>)
+French_126	French <i id="form">(un) couteau</i> (< Latin <i id="form">cultellu</i>
+French_127	French <i id="form">(des) ciseaux</i> (< Latin <i id="form">forfices</i>)
+French_128	French <i id="form">(un) miroir</i> (< Latin <i id="form">miratoriu</i>
+French_129	French <i id="form">(une) bobine</i> (< Latin <i id="form">spola</i>)
+French_130	French <i id="form">(une) couronne</i> (< Latin <i id="form">corona</i>
+French_131	French <i id="form">j‘achèterai</i> (< Latin <i id="form">accaptare + habeo</i>)
+French_132	French <i id="form">aussi</i> (< Latin <i id="form">alesic + bene</i>
+French_133	French <i id="form">„des“ pantalons</i> (< Latin <i id="form">calceas</i>)
+French_134	French <i id="form">(une) ceinture</i> (< Latin <i id="form">cinctura</i>
+French_135	French <i id="form">(de la) toile</i> (< Latin <i id="form">tela</i>)
+French_136	French <i id="form">(de la) soie</i> (< Latin <i id="form">seta</i>
+French_137	French <i id="form">(de la) laine</i> (< Latin <i id="form">lana</i>)
+French_138	French <i id="form">(du) cuir</i> (< Latin <i id="form">coriu</i>
+French_139	French <i id="form">ce drap de lit</i> (< Latin <i id="form">linteolu</i>)
+French_140	French <i id="form">est meilleur</i> (< Latin <i id="form">meliore</i>
+French_141	French <i id="form">que l’autre</i> (< Latin <i id="form">alteru</i>)
+French_142	French <i id="form">il a une</i> (< Latin <i id="form">habet</i>
+French_143	French <i id="form">largeur</i> (< Latin <i id="form">largu + ore</i>)
+French_144	French <i id="form">double</i> (< Latin <i id="form">dupla</i>
+French_145	French <i id="form">la couture</i> (< Latin <i id="form">co(n)sutura</i>)
+French_146	French <i id="form">est droite</i> (< Latin <i id="form">directa</i>
+French_147	French <i id="form">le char</i> (< Latin <i id="form">carru</i>)
+French_148	French <i id="form">est léger</i> (< Latin <i id="form">leviariu</i>
+French_149	French <i id="form">la chaîne</i> (< Latin <i id="form">catena</i>)
+French_150	French <i id="form">(est) légère</i> (< Latin <i id="form">leviaria</i>
+French_151	French <i id="form">la corde</i> (< Latin <i id="form">corda</i>)
+French_152	French <i id="form">neuve</i> (< Latin <i id="form">nova</i>
+French_153	French <i id="form">est meilleure</i> (< Latin <i id="form">meliore</i>)
+French_154	French <i id="form">le cercle</i> (< Latin <i id="form">circulu</i>
+French_155	French <i id="form">est rond</i> (< Latin <i id="form">rotundu</i>)
+French_156	French <i id="form">la roue</i> (< Latin <i id="form">rota</i>
+French_157	French <i id="form">(est) ronde</i> (< Latin <i id="form">rotunda</i>)
+French_158	French <i id="form">il faudra</i> (< Latin <i id="form">fallere + habet</i>
+French_159	French <i id="form">bientôt</i> (< Latin <i id="form">bene tostu</i>)
+French_160	French <i id="form">tondre</i> (< Latin <i id="form">tondere</i>
+French_161	French <i id="form">les brebis</i> (< Latin <i id="form">fetas</i>)
+French_162	French <i id="form">racérer</i> (< Latin <i id="form">reaciariare</i>
+French_163	French <i id="form">la hache</i> (< Latin <i id="form">happia (+ itta)</i>)
+French_164	French <i id="form">battre en grange</i> (< Latin <i id="form">excutere</i>
+French_165	French <i id="form">moudre</i> (< Latin <i id="form">molere</i>)
+French_166	French <i id="form">le blé</i> (< Latin <i id="form">blatu</i>
+French_167	French <i id="form">garder</i> (< Latin <i id="form">wardare</i>)
+French_168	French <i id="form">les bêtes</i> (< Latin <i id="form">bestias</i>
+French_169	French <i id="form">tourner</i> (< Latin <i id="form">(re)virare</i>)
+French_170	French <i id="form">la terre</i> (< Latin <i id="form">terra</i>
+French_171	French <i id="form">semer</i> (< Latin <i id="form">seminare</i>)
+French_172	French <i id="form">(le) chanvre</i> (< Latin <i id="form">cannapu</i>
+French_173	French <i id="form">les fèves</i> (< Latin <i id="form">fabas</i>)
+French_174	French <i id="form">le cheval</i> (< Latin <i id="form">caballu</i>
+French_175	French <i id="form">est vendu</i> (< Latin <i id="form">vendutu</i>)
+French_176	French <i id="form">la vache</i> (< Latin <i id="form">vacca</i>
+French_177	French <i id="form">(est) vendue</i> (< Latin <i id="form">venduta</i>)
+French_178	French <i id="form">les chèvres</i> (< Latin <i id="form">capras</i>
+French_179	French <i id="form">(sont) vendues</i> (< Latin <i id="form">vendutas</i>)
+French_180	French <i id="form">il est cher</i> (< Latin <i id="form">caru</i>
+French_181	French <i id="form">(elle est) chère</i> (< Latin <i id="form">cara</i>)
+French_182	French <i id="form">(elles sont) chères</i> (< Latin <i id="form">caras</i>
+French_183	French <i id="form">le porc</i> (< Latin <i id="form">porcu</i>)
+French_184	French <i id="form">est gros</i> (< Latin <i id="form">grossu</i>
+French_185	French <i id="form">la truie</i> (< Latin <i id="form">troia</i>)
+French_186	French <i id="form">(est) grosse</i> (< Latin <i id="form">grossa</i>
+French_187	French <i id="form">le foin</i> (< Latin <i id="form">fenu</i>)
+French_188	French <i id="form">est sec</i> (< Latin <i id="form">siccu</i>
+French_189	French <i id="form">l’herbe</i> (< Latin <i id="form">herba</i>)
+French_190	French <i id="form">(est) sèche</i> (< Latin <i id="form">sicca</i>
+French_191	French <i id="form">Que veux-tu?</i> (< Latin <i id="form">quid voles tu</i>)
+French_192	French <i id="form">je voudrais</i> (< Latin <i id="form">volere + habebam</i>
+French_193	French <i id="form">du sel</i> (< Latin <i id="form">sal</i>)
+French_194	French <i id="form">du poivre</i> (< Latin <i id="form">piper</i>
+French_195	French <i id="form">une feuille</i> (< Latin <i id="form">folia</i>)
+French_196	French <i id="form">de chou</i> (< Latin <i id="form">caule</i>
+French_197	French <i id="form">une gerbe</i> (< Latin <i id="form">garba</i>)
+French_198	French <i id="form">de paille</i> (< Latin <i id="form">palea</i>
+French_199	French <i id="form">un sac</i> (< Latin <i id="form">saccu</i>)
+French_200	French <i id="form">d’avoine</i> (< Latin <i id="form">avena</i>
+French_201	French <i id="form">de farine</i> (< Latin <i id="form">farina</i>)
+French_202	French <i id="form">une brassée</i> (< Latin <i id="form">braciata</i>
+French_203	French <i id="form">(des) brassées</i> (< Latin <i id="form">braciatas</i>)
+French_204	French <i id="form">de bois</i> (< Latin <i id="form">boscu</i>
+French_205	French <i id="form">(une) pelletée</i> (< Latin <i id="form">palata</i>)
+French_206	French <i id="form">(des) pelletées</i> (< Latin <i id="form">palatas</i>
+French_207	French <i id="form">de charbon</i> (< Latin <i id="form">carbone</i>)
+French_208	French <i id="form">une poignée</i> (< Latin <i id="form">pugnata</i>
+French_209	French <i id="form">(des) poignées</i> (< Latin <i id="form">pugnatas</i>)
+French_210	French <i id="form">de cendres</i> (< Latin <i id="form">cineres</i>
+French_211	French <i id="form">j’avais</i> (< Latin <i id="form">habebam</i>)
+French_212	French <i id="form">faim</i> (< Latin <i id="form">fame</i>
+French_213	French <i id="form">et soif</i> (< Latin <i id="form">site</i>)
+French_214	French <i id="form">j’ai mangé</i> (< Latin <i id="form">manducatu</i>
+French_215	French <i id="form">du pain</i> (< Latin <i id="form">pane</i>)
+French_216	French <i id="form">(du) miel</i> (< Latin <i id="form">mel</i>
+French_217	French <i id="form">un œuf</i> (< Latin <i id="form">ovu</i>)
+French_218	French <i id="form">cru</i> (< Latin <i id="form">crudu</i>
+French_219	French <i id="form">(de la) viande</i> (< Latin <i id="form">carne</i>)
+French_220	French <i id="form">crue</i> (< Latin <i id="form">cruda</i>
+French_221	French <i id="form">(du) fromage</i> (< Latin <i id="form">formaticu</i>)
+French_222	French <i id="form">(du) „sérac“</i> (< Latin <i id="form">seraceu</i>
+French_223	French <i id="form">la moitié</i> (< Latin <i id="form">medietate</i>)
+French_224	French <i id="form">d’une pomme</i> (< Latin <i id="form">poma</i>
+French_225	French <i id="form">cuite</i> (< Latin <i id="form">cocta</i>)
+French_226	French <i id="form">(la pomme est) mangée</i> (< Latin <i id="form">manducata</i>
+French_227	French <i id="form">les deux moitiés</i> (< Latin <i id="form">duas medietates</i>)
+French_228	French <i id="form">(sont) mangées</i> (< Latin <i id="form">manducatas</i>
+French_229	French <i id="form">il m’a fallu</i> (< Latin <i id="form">fallutu</i>)
+French_230	French <i id="form">boire</i> (< Latin <i id="form">bibere</i>
+French_231	French <i id="form">du lait</i> (< Latin <i id="form">lacticellu</i>)
+French_232	French <i id="form">du petit-lait</i> (< Latin <i id="form">lactata</i>
+French_233	French <i id="form">le vin</i> (< Latin <i id="form">vinu</i>)
+French_234	French <i id="form">est clair</i> (< Latin <i id="form">claru</i>
+French_235	French <i id="form">tiède</i> (< Latin <i id="form">tepidu</i>)
+French_236	French <i id="form">l’eau</i> (< Latin <i id="form">aqua</i>
+French_237	French <i id="form">(est) claire</i> (< Latin <i id="form">clara</i>)
+French_238	French <i id="form">tiède</i> (< Latin <i id="form">tepida</i>
+French_239	French <i id="form">le verre</i> (< Latin <i id="form">vitru</i>)
+French_240	French <i id="form">est plein</i> (< Latin <i id="form">plenu</i>
+French_241	French <i id="form">la cuiller</i> (< Latin <i id="form">cochleare</i>)
+French_242	French <i id="form">(est) pleine</i> (< Latin <i id="form">plena</i>
+French_243	French <i id="form">il a bu</i> (< Latin <i id="form">bibutu</i>)
+French_244	French <i id="form">(une) cuillerée, (des) cuillerées</i> (< Latin <i id="form">cochlearata, -atas</i>
+French_245	French <i id="form">de poison</i> (< Latin <i id="form">potione</i>)
+French_246	French <i id="form">il meurt</i> (< Latin <i id="form">morit</i>
+French_247	French <i id="form">ce fruit</i> (< Latin <i id="form">fructu, fructa</i>)
+French_248	French <i id="form">est rouge</i> (< Latin <i id="form">rubeu</i>
+French_249	French <i id="form">mûr</i> (< Latin <i id="form">maturu</i>)
+French_250	French <i id="form">doux</i> (< Latin <i id="form">dulce</i>
+French_251	French <i id="form">la prune</i> (< Latin <i id="form">pruma</i>)
+French_252	French <i id="form">(est) mûre</i> (< Latin <i id="form">matura</i>
+French_253	French <i id="form">douce</i> (< Latin <i id="form">dulce + a</i>)
+French_254	French <i id="form">notre</i> (< Latin <i id="form">nostru</i>
+French_255	French <i id="form">pommier</i> (< Latin <i id="form">pomariu</i>)
+French_256	French <i id="form">perd</i> (< Latin <i id="form">perdit</i>
+French_257	French <i id="form">sa sève</i> (< Latin <i id="form">sapa</i>)
+French_258	French <i id="form">il ne peut</i> (< Latin <i id="form">potet</i>
+French_259	French <i id="form">plus</i> (< Latin <i id="form">plus</i>)
+French_260	French <i id="form">croître</i> (< Latin <i id="form">crescere</i>
+French_261	French <i id="form">le gland</i> (< Latin <i id="form">glande</i>)
+French_262	French <i id="form">croît</i> (< Latin <i id="form">crescit</i>
+French_263	French <i id="form">sur</i> (< Latin <i id="form">su(r)su</i>)
+French_264	French <i id="form">le chêne</i> (< Latin <i id="form">cassinu</i>
+French_265	French <i id="form">le saule</i> (< Latin <i id="form">salice</i>)
+French_266	French <i id="form">a moins</i> (< Latin <i id="form">minus</i>
+French_267	French <i id="form">de nœuds</i> (< Latin <i id="form">nodos</i>)
+French_268	French <i id="form">que le hêtre</i> (< Latin <i id="form">fagu</i>
+French_269	French <i id="form">voilà</i> (< Latin <i id="form">*- </i>)
+French_270	French <i id="form">une plante</i> (< Latin <i id="form">planta</i>
+French_271	French <i id="form">sans</i> (< Latin <i id="form">sine</i>)
+French_272	French <i id="form">épines</i> (< Latin <i id="form">spinas</i>
+French_273	French <i id="form">on vient</i> (< Latin <i id="form">homo venit</i>)
+French_274	French <i id="form">m’appeler</i> (< Latin <i id="form">appellare (quiriare)</i>
+French_275	French <i id="form">pour</i> (< Latin <i id="form">pro</i>)
+French_276	French <i id="form">manger</i> (< Latin <i id="form">manducare</i>
+French_277	French <i id="form">chasser</i> (< Latin <i id="form">captiare</i>)
+French_278	French <i id="form">un chien</i> (< Latin <i id="form">cane</i>
+French_279	French <i id="form">prendre</i> (< Latin <i id="form">pre(he)ndere</i>)
+French_280	French <i id="form">un voleur</i> (< Latin <i id="form">latro</i>
+French_281	French <i id="form">(il est) pris, (elle est) prise</i> (< Latin <i id="form">pre(hen)su, -e(hen)sa</i>)
+French_282	French <i id="form">le meunier</i> (< Latin <i id="form">molinariu</i>
+French_283	French <i id="form">moud</i> (< Latin <i id="form">molit</i>)
+French_284	French <i id="form">on croit</i> (< Latin <i id="form">credit</i>
+French_285	French <i id="form">(qu’il est) riche</i> (< Latin <i id="form">riccu</i>)
+French_286	French <i id="form">il a fait</i> (< Latin <i id="form">factu</i>
+French_287	French <i id="form">une perte</i> (< Latin <i id="form">perdita</i>)
+French_288	French <i id="form">sa femme</i> (< Latin <i id="form">femina</i>
+French_289	French <i id="form">est riche</i> (< Latin <i id="form">ricca</i>)
+French_290	French <i id="form">ils ont</i> (< Latin <i id="form">habent</i>
+French_291	French <i id="form">un beau</i> (< Latin <i id="form">bellu</i>)
+French_292	French <i id="form">jardin</i> (< Latin <i id="form">co(ho)rtile</i>
+French_293	French <i id="form">une belle</i> (< Latin <i id="form">bella</i>)
+French_294	French <i id="form">vigne</i> (< Latin <i id="form">vinea</i>
+French_295	French <i id="form">ils peuvent</i> (< Latin <i id="form">potunt</i>)
+French_296	French <i id="form">payer</i> (< Latin <i id="form">pacare</i>
+French_297	French <i id="form">la fille</i> (< Latin <i id="form">filia</i>)
+French_298	French <i id="form">de ma sœur</i> (< Latin <i id="form">soror</i>
+French_299	French <i id="form">chante</i> (< Latin <i id="form">cantat</i>)
+French_300	French <i id="form">nien</i> (< Latin <i id="form">bene</i>
+French_301	French <i id="form">tu chantes</i> (< Latin <i id="form">cantas</i>)
+French_302	French <i id="form">mieux qu‘elle</i> (< Latin <i id="form">melius, illæi</i>
+French_303	French <i id="form">ces gens</i> (< Latin <i id="form">gentes</i>)
+French_304	French <i id="form">ont chanté</i> (< Latin <i id="form">cantatu</i>
+French_305	French <i id="form">(une) chanson</i> (< Latin <i id="form">cantione</i>)
+French_306	French <i id="form">elle a été</i> (< Latin <i id="form">statu habutu</i>
+French_307	French <i id="form">mal chantée</i> (< Latin <i id="form">male cantata</i>)
+French_308	French <i id="form">elles ont été (mal) chantées</i> (< Latin <i id="form">cantatas</i>
+French_309	French <i id="form">(ils) devraient</i> (< Latin <i id="form">debere + (hab)ebant</i>)
+French_310	French <i id="form">tous</i> (< Latin <i id="form">totti</i>
+French_311	French <i id="form">se taire</i> (< Latin <i id="form">qu(i)etiare</i>)
+French_312	French <i id="form">toutes</i> (< Latin <i id="form">tottas</i>
+French_313	French <i id="form">ces femmes</i> (< Latin <i id="form">feminas</i>)
+French_314	French <i id="form">ne savent pas</i> (< Latin <i id="form">sapunt</i>
+French_315	French <i id="form">chanter</i> (< Latin <i id="form">cantare</i>)
+French_316	French <i id="form">on ne peut pas</i> (< Latin <i id="form">potet</i>
+French_317	French <i id="form">tout savoir</i> (< Latin <i id="form">sapere</i>)
+French_318	French <i id="form">cela ne prouve</i> (< Latin <i id="form">probat</i>
+French_319	French <i id="form">rien</i> (< Latin <i id="form">rem</i>)
+French_320	French <i id="form">on défend</i> (< Latin <i id="form">defendit</i>
+French_321	French <i id="form">aux enfants</i> (< Latin <i id="form">infantes</i>)
+French_322	French <i id="form">(de) jurer</i> (< Latin <i id="form">jurare</i>
+French_323	French <i id="form">(de) pleurer</i> (< Latin <i id="form">plorare</i>)
+French_324	French <i id="form">(de) sauter</i> (< Latin <i id="form">saltare</i>
+French_325	French <i id="form">cette fillette</i> (< Latin <i id="form">filia + itta</i>)
+French_326	French <i id="form">a fait</i> (< Latin <i id="form">factu</i>
+French_327	French <i id="form">sa prière</i> (< Latin <i id="form">precaria</i>)
+French_328	French <i id="form">elle a sommeil</i> (< Latin <i id="form">somnu</i>
+French_329	French <i id="form">elle dort</i> (< Latin <i id="form">dormit</i>)
+French_330	French <i id="form">déjà</i> (< Latin <i id="form">jam</i>
+French_331	French <i id="form">quand</i> (< Latin <i id="form">quando</i>)
+French_332	French <i id="form">vous venez</i> (< Latin <i id="form">venitis</i>
+French_333	French <i id="form">vous coucher</i> (< Latin <i id="form">collocare</i>)
+French_334	French <i id="form">mon frère</i> (< Latin <i id="form">fratre</i>
+French_335	French <i id="form">s’ennuie</i> (< Latin <i id="form">inodat</i>)
+French_336	French <i id="form">tout seul</i> (< Latin <i id="form">solittu</i>
+French_337	French <i id="form">vous voudriez</i> (< Latin <i id="form">volere + (hab)ebatis</i>)
+French_338	French <i id="form">que je ne le</i> (< Latin <i id="form">illu</i>
+French_339	French <i id="form">sache pas</i> (< Latin <i id="form">sapiam</i>)
+French_340	French <i id="form">je pleure</i> (< Latin <i id="form">ploro</i>
+French_341	French <i id="form">doucement</i> (< Latin <i id="form">-mente</i>)
+French_342	French <i id="form">pour qu’on n’entende pas</i> (< Latin <i id="form">homo audiat</i>
+French_343	French <i id="form">(je) sais</i> (< Latin <i id="form">sa(p)io</i>)
+French_344	French <i id="form">un peu</i> (< Latin <i id="form">paucu</i>
+French_345	French <i id="form">lire</i> (< Latin <i id="form">legere</i>)
+French_346	French <i id="form">je ne le dis</i> (< Latin <i id="form">dico</i>
+French_347	French <i id="form">qu’à eux</i> (< Latin <i id="form">illoru</i>)
+French_348	French <i id="form">il frappe</i> (< Latin <i id="form">ferit</i>
+French_349	French <i id="form">une heure</i> (< Latin <i id="form">hora</i>)
+French_350	French <i id="form">pas de fumée</i> (< Latin <i id="form">fumaria</i>
+French_351	French <i id="form">sans feu</i> (< Latin <i id="form">focu</i>)
+French_352	French <i id="form">la flamme</i> (< Latin <i id="form">flamma</i>
+French_353	French <i id="form">est chaude</i> (< Latin <i id="form">cal(i)da</i>)
+French_354	French <i id="form">le voisin</i> (< Latin <i id="form">vicinu</i>
+French_355	French <i id="form">est arrivé</i> (< Latin <i id="form">adripatu</i>)
+French_356	French <i id="form">la voisine</i> (< Latin <i id="form">vicina</i>
+French_357	French <i id="form">(est) arrivée</i> (< Latin <i id="form">adripata</i>)
+French_358	French <i id="form">(il est) vieux, (elle est) vieille</i> (< Latin <i id="form">veclu, -cla</i>
+French_359	French <i id="form">laid, laide</i> (< Latin <i id="form">putidu, -da</i>)
+French_360	French <i id="form">sourd, sourde</i> (< Latin <i id="form">surdu, -da</i>
+French_361	French <i id="form">pauvre (m. et f.)</i> (< Latin <i id="form">pauperu, -ra</i>)
+French_362	French <i id="form">fier, fière</i> (< Latin <i id="form">feru, -ra</i>
+French_363	French <i id="form">dimanche</i> (< Latin <i id="form">die dominica</i>)
+French_364	French <i id="form">lundi</i> (< Latin <i id="form">die lunæ</i>
+French_365	French <i id="form">jeudi</i> (< Latin <i id="form">die jovis</i>)
+French_366	French <i id="form">combien</i> (< Latin <i id="form">waigaro</i>
+French_367	French <i id="form">de monnaie</i> (< Latin <i id="form">moneta</i>)
+French_368	French <i id="form">as-tu</i> (< Latin <i id="form">ha(be)s tu</i>
+French_369	French <i id="form">encore</i> (< Latin <i id="form">anque ad hora</i>)
+French_370	French <i id="form">j’en ai</i> (< Latin <i id="form">inde habeo</i>
+French_371	French <i id="form">assez</i> (< Latin <i id="form">prode</i>)
+French_372	French <i id="form">plus que toi</i> (< Latin <i id="form">magis</i>
+French_373	French <i id="form">ayez</i> (< Latin <i id="form">habeatis</i>)
+French_374	French <i id="form">pitié</i> (< Latin <i id="form">pietate</i>
+French_375	French <i id="form">de cet ouvrier</i> (< Latin <i id="form">operariu</i>)
+French_376	French <i id="form">(il n’a pas) la santé</i> (< Latin <i id="form">sanitate</i>
+French_377	French <i id="form">quelle</i> (< Latin <i id="form">quina</i>)
+French_378	French <i id="form">pauvreté</i> (< Latin <i id="form">paupertate</i>
+French_379	French <i id="form">il veut</i> (< Latin <i id="form">volet</i>)
+French_380	French <i id="form">changer</i> (< Latin <i id="form">cambiare</i>
+French_381	French <i id="form">de métier</i> (< Latin <i id="form">ministeriu</i>)
+French_382	French <i id="form">la semaine</i> (< Latin <i id="form">septimana</i>
+French_383	French <i id="form">passée</i> (< Latin <i id="form">passata</i>)
+French_384	French <i id="form">je me suis fait</i> (< Latin <i id="form">sum factu</i>
+French_385	French <i id="form">une entorse</i> (< Latin <i id="form">intorsa</i>)
+French_386	French <i id="form">j’ai eu</i> (< Latin <i id="form">habutu</i>
+French_387	French <i id="form">la fièvre</i> (< Latin <i id="form">febre</i>)
+French_388	French <i id="form">le médecin</i> (< Latin <i id="form">medicu</i>
+French_389	French <i id="form">a dû</i> (< Latin <i id="form">debutu</i>)
+French_390	French <i id="form">venir</i> (< Latin <i id="form">venire</i>
+French_391	French <i id="form">il m’a donné</i> (< Latin <i id="form">bajulatu</i>)
+French_392	French <i id="form">une poudre</i> (< Latin <i id="form">pulvere</i>
+French_393	French <i id="form">blanche</i> (< Latin <i id="form">blanca</i>)
+French_394	French <i id="form">jaune</i> (< Latin <i id="form">galbina</i>
+French_395	French <i id="form">rouge</i> (< Latin <i id="form">rubea</i>)
+French_396	French <i id="form">verte</i> (< Latin <i id="form">virida</i>
+French_397	French <i id="form">j’ai pris</i> (< Latin <i id="form">pre(hen)su</i>)
+French_398	French <i id="form">une goutte</i> (< Latin <i id="form">gutta</i>
+French_399	French <i id="form">de gentiane</i> (< Latin <i id="form">gentiana</i>)
+French_400	French <i id="form">(cela m’a) aidé</i> (< Latin <i id="form">adjutatu</i>
+French_401	French <i id="form">à me guérir</i> (< Latin <i id="form">warire</i>)
+French_402	French <i id="form">maintenant</i> (< Latin <i id="form">ad hora</i>
+French_403	French <i id="form">je suis guéri</i> (< Latin <i id="form">sum waritu</i>)
+French_404	French <i id="form">guérie</i> (< Latin <i id="form">warita</i>
+French_405	French <i id="form">(elles sont) guéries</i> (< Latin <i id="form">waritas</i>)
+French_406	French <i id="form">il a mal</i> (< Latin <i id="form">malu</i>
+French_407	French <i id="form">au pied</i> (< Latin <i id="form">pede</i>)
+French_408	French <i id="form">(au) genou</i> (< Latin <i id="form">genuclu</i>
+French_409	French <i id="form">(au) coude</i> (< Latin <i id="form">cubitu</i>)
+French_410	French <i id="form">(au) doigt</i> (< Latin <i id="form">digitu</i>
+French_411	French <i id="form">(au) pouce</i> (< Latin <i id="form">pollice</i>)
+French_412	French <i id="form">(au) nez</i> (< Latin <i id="form">nasu</i>
+French_413	French <i id="form">aux dents</i> (< Latin <i id="form">dentes</i>)
+French_414	French <i id="form">(au) cou</i> (< Latin <i id="form">collu</i>
+French_415	French <i id="form">(au) cœur</i> (< Latin <i id="form">cor</i>)
+French_416	French <i id="form">(à la) cuisse</i> (< Latin <i id="form">coxa</i>
+French_417	French <i id="form">(à une) côté</i> (< Latin <i id="form">costa</i>)
+French_418	French <i id="form">à un œil</i> (< Latin <i id="form">oclu</i>
+French_419	French <i id="form">aux yeux</i> (< Latin <i id="form">oclos</i>)
+French_420	French <i id="form">(à la) langue</i> (< Latin <i id="form">lingua</i>
+French_421	French <i id="form">(à la) tête</i> (< Latin <i id="form">testa</i>)
+French_422	French <i id="form">(à un) ongle</i> (< Latin <i id="form">ungla</i>
+French_423	French <i id="form">(à une) oreille</i> (< Latin <i id="form">auricla, -ucla</i>)
+French_424	French <i id="form">il est tombé</i> (< Latin <i id="form">cadutu, -ectu</i>
+French_425	French <i id="form">(elle est) tombée</i> (< Latin <i id="form">caduta, -ecta</i>)
+French_426	French <i id="form">sur son derrière</i> (< Latin <i id="form">culu</i>
+French_427	French <i id="form">il tombe</i> (< Latin <i id="form">cadit</i>)
+French_428	French <i id="form">toujours</i> (< Latin <i id="form">ad id ipsu</i>
+French_429	French <i id="form">il a le bras</i> (< Latin <i id="form">brachiu</i>)
+French_430	French <i id="form">nu</i> (< Latin <i id="form">nudu</i>
+French_431	French <i id="form">la main</i> (< Latin <i id="form">manu</i>)
+French_432	French <i id="form">nue</i> (< Latin <i id="form">nuda</i>
+French_433	French <i id="form">son corps</i> (< Latin <i id="form">corpus</i>)
+French_434	French <i id="form">est maigre</i> (< Latin <i id="form">macru</i>
+French_435	French <i id="form">la peau</i> (< Latin <i id="form">pelle</i>)
+French_436	French <i id="form">est épaisse</i> (< Latin <i id="form">spissa</i>
+French_437	French <i id="form">l’os</i> (< Latin <i id="form">ossu</i>)
+French_438	French <i id="form">(est) épais</i> (< Latin <i id="form">spissu</i>
+French_439	French <i id="form">il est droit</i> (< Latin <i id="form">directu</i>)
+French_440	French <i id="form">je tue</i> (< Latin <i id="form">tuto</i>
+French_441	French <i id="form">une mouche</i> (< Latin <i id="form">musca</i>)
+French_442	French <i id="form">(une) araignée</i> (< Latin <i id="form">aranea</i>
+French_443	French <i id="form">une fourmi</i> (< Latin <i id="form">formicu, -a</i>)
+French_444	French <i id="form">(une) guêpe</i> (< Latin <i id="form">wespa</i>
+French_445	French <i id="form">(une) puce</i> (< Latin <i id="form">pullice</i>)
+French_446	French <i id="form">(un) pou</i> (< Latin <i id="form">peduclu</i>
+French_447	French <i id="form">le chasseur</i> (< Latin <i id="form">captiatore</i>)
+French_448	French <i id="form">a vu</i> (< Latin <i id="form">vidutu</i>
+French_449	French <i id="form">un lièvre</i> (< Latin <i id="form">lepore</i>)
+French_450	French <i id="form">(un) loup</i> (< Latin <i id="form">lupu</i>
+French_451	French <i id="form">(un) sanglier</i> (< Latin <i id="form">singulare</i>)
+French_452	French <i id="form">(un) aigle</i> (< Latin <i id="form">aquila</i>
+French_453	French <i id="form">un bel</i> (< Latin <i id="form">bellu</i>)
+French_454	French <i id="form">oiseau vert</i> (< Latin <i id="form">aucellu viride</i>
+French_455	French <i id="form">l‘oiseau</i> (< Latin <i id="form">aucellu</i>)
+French_456	French <i id="form">fait</i> (< Latin <i id="form">facit</i>
+French_457	French <i id="form">son nid</i> (< Latin <i id="form">nidu</i>)
+French_458	French <i id="form">dans l’arbre</i> (< Latin <i id="form">arbore</i>
+French_459	French <i id="form">le poussin</i> (< Latin <i id="form">pullicinu</i>)
+French_460	French <i id="form">a des ailes</i> (< Latin <i id="form">alas</i>
+French_461	French <i id="form">des plumes</i> (< Latin <i id="form">plumas</i>)
+French_462	French <i id="form">le chat</i> (< Latin <i id="form">cattu</i>
+French_463	French <i id="form">a le poil</i> (< Latin <i id="form">pilu</i>)
+French_464	French <i id="form">blanc</i> (< Latin <i id="form">blancu</i>
+French_465	French <i id="form">la queue</i> (< Latin <i id="form">coda</i>)
+French_466	French <i id="form">jaune</i> (< Latin <i id="form">galbina</i>
+French_467	French <i id="form">un, une</i> (< Latin <i id="form">unu, una</i>)
+French_468	French <i id="form">deux</i> (< Latin <i id="form">duo, duas</i>
+French_469	French <i id="form">trois</i> (< Latin <i id="form">tres</i>)
+French_470	French <i id="form">quatre</i> (< Latin <i id="form">quatt(u)or</i>
+French_471	French <i id="form">cinq</i> (< Latin <i id="form">cinque</i>)
+French_472	French <i id="form">six</i> (< Latin <i id="form">sex</i>
+French_473	French <i id="form">sept</i> (< Latin <i id="form">septe</i>)
+French_474	French <i id="form">huit</i> (< Latin <i id="form">octu</i>
+French_475	French <i id="form">neuf</i> (< Latin <i id="form">nove</i>)
+French_476	French <i id="form">dix</i> (< Latin <i id="form">dece</i>
+French_477	French <i id="form">onze</i> (< Latin <i id="form">undeci</i>)
+French_478	French <i id="form">douze</i> (< Latin <i id="form">d(u)odeci</i>
+French_479	French <i id="form">vingt</i> (< Latin <i id="form">viginti</i>)
+French_480	French <i id="form">cent</i> (< Latin <i id="form">centu</i>
+Bulgarian_0	 Bulgarian агне ("lamb")
+Bulgarian_1	 Bulgarian аз ("I")
+Bulgarian_2	 Bulgarian бели ("white" — plural)
+Bulgarian_3	 Bulgarian берат ("pick up" — 3rd plural)
+Bulgarian_4	 Bulgarian беше ("was" — 3rd person)
+Bulgarian_5	 Bulgarian бране ("picking" — up;gathering-verbal noun)
+Bulgarian_6	 Bulgarian брашно ("flour")
+Bulgarian_7	 Bulgarian бързо ("quickly")
+Bulgarian_8	 Bulgarian бяхме ("were" — 1st plural)
+Bulgarian_9	 Bulgarian ваше ("yours" — plural)
+Bulgarian_10	 Bulgarian вежда ("eyebrow")
+Bulgarian_11	 Bulgarian вече ("already")
+Bulgarian_12	 Bulgarian вечер ("evening")
+Bulgarian_13	 Bulgarian видях ("saw" — 1st singular)
+Bulgarian_14	 Bulgarian вие ("you" — plural)
+Bulgarian_15	 Bulgarian вино ("wine")
+Bulgarian_16	 Bulgarian влизам ("enter" — 1st singular)
+Bulgarian_17	 Bulgarian вода ("water")
+Bulgarian_18	 Bulgarian вол ("ox")
+Bulgarian_19	 Bulgarian време ("time")
+Bulgarian_20	 Bulgarian връх ("peak")
+Bulgarian_21	 Bulgarian връщам ("give back" — 1st singular)
+Bulgarian_22	 Bulgarian вчера ("yesterday")
+Bulgarian_23	 Bulgarian във ("in")
+Bulgarian_24	 Bulgarian вълк ("wolf")
+Bulgarian_25	 Bulgarian вълна ("wool")
+Bulgarian_26	 Bulgarian вънка ("outside")
+Bulgarian_27	 Bulgarian вътре ("inside")
+Bulgarian_28	 Bulgarian вятър ("wind")
+Bulgarian_29	 Bulgarian глава ("head")
+Bulgarian_30	 Bulgarian гладен ("hungry")
+Bulgarian_31	 Bulgarian говедо ("bovine animal, beef")
+Bulgarian_32	 Bulgarian горе ("up")
+Bulgarian_33	 Bulgarian гости ("guests")
+Bulgarian_34	 Bulgarian градът ("the town")
+Bulgarian_35	 Bulgarian грозде ("grapes")
+Bulgarian_36	 Bulgarian дадоха ("gave" — 3rd plural)
+Bulgarian_37	 Bulgarian две ("two")
+Bulgarian_38	 Bulgarian двор ("yard")
+Bulgarian_39	 Bulgarian ден ("day")
+Bulgarian_40	 Bulgarian дера ("flay" — 1st singular)
+Bulgarian_41	 Bulgarian десет ("ten")
+Bulgarian_42	 Bulgarian дете ("child")
+Bulgarian_43	 Bulgarian джоб ("pocket")
+Bulgarian_44	 Bulgarian днес ("today")
+Bulgarian_45	 Bulgarian добре ("well" — adv)
+Bulgarian_46	 Bulgarian долу ("down")
+Bulgarian_47	 Bulgarian дошъл ("has come" — 3rd singular)
+Bulgarian_48	 Bulgarian дъжд ("rain")
+Bulgarian_49	 Bulgarian дълбок ("deep")
+Bulgarian_50	 Bulgarian дъно ("bottom")
+Bulgarian_51	 Bulgarian дърво ("tree")
+Bulgarian_52	 Bulgarian един ("one" — masc)
+Bulgarian_53	 Bulgarian едно ("one" — neut)
+Bulgarian_54	 Bulgarian език ("tongue")
+Bulgarian_55	 Bulgarian ечемик ("barley")
+Bulgarian_56	 Bulgarian желязо ("iron")
+Bulgarian_57	 Bulgarian жена ("woman")
+Bulgarian_58	 Bulgarian жив ("alive")
+Bulgarian_59	 Bulgarian живели ("lived" — 3rd plural)
+Bulgarian_60	 Bulgarian жълт ("yellow")
+Bulgarian_61	 Bulgarian жътва ("harvest")
+Bulgarian_62	 Bulgarian звезда ("star")
+Bulgarian_63	 Bulgarian здрав ("healthy")
+Bulgarian_64	 Bulgarian земя ("earth")
+Bulgarian_65	 Bulgarian зет ("son" — in-law;brother-in-law)
+Bulgarian_66	 Bulgarian им ("them" — dative, short form;their)
+Bulgarian_67	 Bulgarian име ("name")
+Bulgarian_68	 Bulgarian й ("her" — dative, short form)
+Bulgarian_69	 Bulgarian камък ("stone")
+Bulgarian_70	 Bulgarian ключ ("key")
+Bulgarian_71	 Bulgarian кое ("which" — neut)
+Bulgarian_72	 Bulgarian кон ("horse")
+Bulgarian_73	 Bulgarian кръв ("blood")
+Bulgarian_74	 Bulgarian къде ("where")
+Bulgarian_75	 Bulgarian лесно ("easy")
+Bulgarian_76	 Bulgarian леща ("lentils")
+Bulgarian_77	 Bulgarian майка ("mother")
+Bulgarian_78	 Bulgarian месец ("month")
+Bulgarian_79	 Bulgarian месо ("meat")
+Bulgarian_80	 Bulgarian млякото ("the milk")
+Bulgarian_81	 Bulgarian много ("much;many")
+Bulgarian_82	 Bulgarian мъж ("man")
+Bulgarian_83	 Bulgarian мъже ("men")
+Bulgarian_84	 Bulgarian мъжът ("the man")
+Bulgarian_85	 Bulgarian наше ("ours")
+Bulgarian_86	 Bulgarian неделя ("Sunday")
+Bulgarian_87	 Bulgarian неще ("does not want" — 3rd singular)
+Bulgarian_88	 Bulgarian нещо ("something")
+Bulgarian_89	 Bulgarian нея ("her")
+Bulgarian_90	 Bulgarian ние ("we")
+Bulgarian_91	 Bulgarian носят ("carry" — 3rd plural)
+Bulgarian_92	 Bulgarian нощ ("night")
+Bulgarian_93	 Bulgarian няма ("there is no, will not")
+Bulgarian_94	 Bulgarian овца ("sheep" — sg)
+Bulgarian_95	 Bulgarian овце ("sheep" — pl)
+Bulgarian_96	 Bulgarian овчар ("shepherd")
+Bulgarian_97	 Bulgarian овчари ("shepherds")
+Bulgarian_98	 Bulgarian огън ("fire")
+Bulgarian_99	 Bulgarian онези ("those")
+Bulgarian_100	 Bulgarian орех ("walnut")
+Bulgarian_101	 Bulgarian пека ("bake" — 1st singular)
+Bulgarian_102	 Bulgarian пепел ("ash")
+Bulgarian_103	 Bulgarian петел ("rooster")
+Bulgarian_104	 Bulgarian петък ("Friday")
+Bulgarian_105	 Bulgarian плащам ("pay" — 1st singular)
+Bulgarian_106	 Bulgarian понеделник ("Monday")
+Bulgarian_107	 Bulgarian пръч ("he-goat")
+Bulgarian_108	 Bulgarian първият ("first" — he)
+Bulgarian_109	 Bulgarian път ("road")
+Bulgarian_110	 Bulgarian пясък ("sand")
+Bulgarian_111	 Bulgarian река ("river")
+Bulgarian_112	 Bulgarian ръка ("hand")
+Bulgarian_113	 Bulgarian ръце ("hands")
+Bulgarian_114	 Bulgarian се ("one's, self")
+Bulgarian_115	 Bulgarian сега ("now")
+Bulgarian_116	 Bulgarian седя ("sit" — 1st singular)
+Bulgarian_117	 Bulgarian сестра ("sister")
+Bulgarian_118	 Bulgarian сирене ("cheese")
+Bulgarian_119	 Bulgarian сол ("salt")
+Bulgarian_120	 Bulgarian средата ("the middle")
+Bulgarian_121	 Bulgarian сряда ("Wednesday")
+Bulgarian_122	 Bulgarian старец ("old man")
+Bulgarian_123	 Bulgarian страх ("fear")
+Bulgarian_124	 Bulgarian сух ("dry")
+Bulgarian_125	 Bulgarian събота ("Saturday")
+Bulgarian_126	 Bulgarian сърп ("sickle")
+Bulgarian_127	 Bulgarian със ("with")
+Bulgarian_128	 Bulgarian такъв ("such")
+Bulgarian_129	 Bulgarian твой ("yours")
+Bulgarian_130	 Bulgarian това ("this" — neut)
+Bulgarian_131	 Bulgarian тогава ("then")
+Bulgarian_132	 Bulgarian трева ("grass")
+Bulgarian_133	 Bulgarian тъмно ("dark" — neut)
+Bulgarian_134	 Bulgarian тънко ("thin" — neut;thinly)
+Bulgarian_135	 Bulgarian утре ("tomorrow")
+Bulgarian_136	 Bulgarian ухо ("ear")
+Bulgarian_137	 Bulgarian фурна ("oven")
+Bulgarian_138	 Bulgarian хляб ("bread")
+Bulgarian_139	 Bulgarian хоро ("chain dance")
+Bulgarian_140	 Bulgarian хубав ("pretty" — masc)
+Bulgarian_141	 Bulgarian хубаво ("pretty" — neut;good-neut)
+Bulgarian_142	 Bulgarian цял ("whole")
+Bulgarian_143	 Bulgarian чакат ("wait" — 3rd plural)
+Bulgarian_144	 Bulgarian червен ("red" — masc)
+Bulgarian_145	 Bulgarian черен ("black" — masc)
+Bulgarian_146	 Bulgarian череша ("cherry")
+Bulgarian_147	 Bulgarian чета ("read" — 1st singular)
+Bulgarian_148	 Bulgarian чешма ("fountain")
+Bulgarian_149	 Bulgarian човек ("person")
+Bulgarian_150	 Bulgarian ще ("will, shall")
+Bulgarian_151	 Bulgarian я ("her" — accusative, short form)
+Bulgarian_152	 Bulgarian ябълка ("apple")
+Bulgarian_153	 Bulgarian ябълки ("apples")
+Bulgarian_154	 Bulgarian ядеш ("eat" — 2nd singular)
+Bulgarian_155	 Bulgarian яйца ("eggs")
+Bulgarian_156	 Bulgarian яйце ("egg")
+Bulgarian_157	 Bulgarian ям ("eat" — 1st singular)
+'n aap  	Dutch <i id="form">'n aap  </i>
+'n appel        	Dutch <i id="form">'n appel        </i>
+'n arm  	Dutch <i id="form">'n arm  </i>
+'n baard        	Dutch <i id="form">'n baard        </i>
+'n been 	Dutch <i id="form">'n been </i>
+'n beest        	Dutch <i id="form">'n beest        </i>
+'n beitel       	Dutch <i id="form">'n beitel       </i>
+'n berg 	Dutch <i id="form">'n berg </i>
+'n blad 	Dutch <i id="form">'n blad </i>
+'n bloem        	Dutch <i id="form">'n bloem        </i>
+'n brief        	Dutch <i id="form">'n brief        </i>
+'n broer        	Dutch <i id="form">'n broer        </i>
+'n burgemeester 	Dutch <i id="form">'n burgemeester </i>
+'n dag  	Dutch <i id="form">'n dag  </i>
+'n dak  	Dutch <i id="form">'n dak  </i>
+'n dief 	Dutch <i id="form">'n dief </i>
+'n dochter      	Dutch <i id="form">'n dochter      </i>
+'n gans 	Dutch <i id="form">'n gans </i>
+'n gast 	Dutch <i id="form">'n gast </i>
+'n glas 	Dutch <i id="form">'n glas </i>
+'n kalf 	Dutch <i id="form">'n kalf </i>
+'n kat  	Dutch <i id="form">'n kat  </i>
+'n roos 	Dutch <i id="form">'n roos </i>
+'n stapel       	Dutch <i id="form">'n stapel       </i>
+'n wijf 	Dutch <i id="form">'n wijf </i>
+aarde   	Dutch <i id="form">aarde   </i>
+adem    	Dutch <i id="form">adem    </i>
+blaadje 	Dutch <i id="form">blaadje </i>
+bloempje        	Dutch <i id="form">bloempje        </i>
+buiten  	Dutch <i id="form">buiten  </i>
+goed    	Dutch <i id="form">goed    </i>
+gras    	Dutch <i id="form">gras    </i>
+graven  	Dutch <i id="form">graven  </i>
+grijs   	Dutch <i id="form">grijs   </i>
+groot   	Dutch <i id="form">groot   </i>
+handje  	Dutch <i id="form">handje  </i>
+kaas    	Dutch <i id="form">kaas    </i>
+kopen   	Dutch <i id="form">kopen   </i>
+kort    	Dutch <i id="form">kort    </i>
+lang    	Dutch <i id="form">lang    </i>
+melk    	Dutch <i id="form">melk    </i>
+regen   	Dutch <i id="form">regen   </i>
+spelen  	Dutch <i id="form">spelen  </i>
+tam     	Dutch <i id="form">tam     </i>
+twaalf  	Dutch <i id="form">twaalf  </i>
+twijfel 	Dutch <i id="form">twijfel </i>
+vader   	Dutch <i id="form">vader   </i>
+zand    	Dutch <i id="form">zand    </i>
+zeker   	Dutch <i id="form">zeker   </i>
+zeven   	Dutch <i id="form">zeven   </i>
+aquam "water "	Latin <i id="form">aquam</i>  "water"
+auriculam "ear"	Latin <i id="form">auriculam</i>  "ear"
+brācchium "arm"	Latin <i id="form">brācchium</i>  "arm"
+bēstiam "beast"	Latin <i id="form">bēstiam</i>  "beast"
+caelum "sky"	Latin <i id="form">caelum</i>  "sky"
+capram "goat"	Latin <i id="form">capram</i>  "goat"
+cornū "horn"	Latin <i id="form">cornū</i>  "horn"
+decem "ten "	Latin <i id="form">decem</i>  "ten"
+dentem "tooth "	Latin <i id="form">dentem</i>  "tooth"
+digitum "finger"	Latin <i id="form">digitum</i>  "finger"
+duo "two"	Latin <i id="form">duo</i>  "two"
+lacrimam "tear"	Latin <i id="form">lacrimam</i>  "tear"
+linguam "tongue"	Latin <i id="form">linguam</i>  "tongue"
+lānam "wool"	Latin <i id="form">lānam</i>  "wool"
+lūnam "moon"	Latin <i id="form">lūnam</i>  "moon"
+manum "hand"	Latin <i id="form">manum</i>  "hand"
+mare "sea"	Latin <i id="form">mare</i>  "sea"
+novem "nine"	Latin <i id="form">novem</i>  "nine"
+octō "eight"	Latin <i id="form">octō</i>  "eight"
+oculum "eye"	Latin <i id="form">oculum</i>  "eye"
+pedem "foot "	Latin <i id="form">pedem</i>  "foot"
+quattuor "four"	Latin <i id="form">quattuor</i>  "four"
+quīnque "five "	Latin <i id="form">quīnque</i>  "five"
+septem "seven"	Latin <i id="form">septem</i>  "seven"
+sex "six"	Latin <i id="form">sex</i>  "six"
+terram "earth"	Latin <i id="form">terram</i>  "earth"
+trēs "three"	Latin <i id="form">trēs</i>  "three"
+ungulam "nail"	Latin <i id="form">ungulam</i>  "nail"
+ōvum "egg"	Latin <i id="form">ōvum</i>  "egg"
+ūnum "one"	Latin <i id="form">ūnum</i>  "one"
+I	"I"
+all	"all"
+ash	"ash"
+bath	"bath"
+better	"better"
+bite!	"to bite"
+blood	"blood"
+bone	"bone"
+brother	"brother"
+calf	"calf"
+cold	"cold"
+corn	"corn"
+cow	"cow"
+daughter	"daughter"
+day	"day"
+drink!	"to drink"
+ear	"ear"
+earth	"earth"
+eat!	"to eat"
+eight	"eight"
+eye	"eye"
+fast	"fast"
+father	"father"
+fight!	"to fight"
+fish	"fish"
+five	"five"
+foot	"foot"
+four	"four"
+full	"full"
+good	"good"
+goose	"goose"
+green	"green"
+hand	"hand"
+head	"head"
+hear!	"to hear"
+heart	"heart"
+holy	"holy"
+home	"home"
+honey	"honey"
+horn	"horn"
+hound	"hound"
+house	"house"
+hundred	"hundred"
+hunger	"hunger"
+ice	"ice"
+in	"in"
+is	"is"
+knee	"knee"
+lamb	"lamb"
+leaf	"leaf"
+liver	"liver"
+long	"long"
+mid	"mid"
+milk	"milk"
+moon	"moon"
+mother	"mother"
+mouse	"mouse"
+mouth	"mouth"
+nail	"nail"
+naked	"naked"
+name	"name"
+needle	"needle"
+new	"new"
+night	"night"
+nine	"nine"
+north	"north"
+oak	"oak"
+one	"one"
+open	"open"
+out	"out"
+oven	"oven"
+over	"over"
+quick	"quick"
+rain	"rain"
+red	"red"
+right	"right"
+ring	"ring"
+salt	"salt"
+see!	"to see"
+seven-      	"seven"
+sharp	"sharp"
+sit!	"to sit"
+six	"six"
+snow	"snow"
+sore	"sore"
+stone	"stone"
+stool	"stool"
+storm	"storm"
+swear!	"to swear"
+tear	"tear"
+ten	"ten"
+thing	"thing"
+thorn	"thorn"
+three	"three"
+thunder	"thunder"
+toe	"toe"
+tongue	"tongue"
+tooth	"tooth"
+top	"top"
+two	"two"
+warm	"warm"
+wash!	"to wash"
+what?	"what"
+white	"white"
+wind	"wind"
+wool	"wool"
+word	"word"
+yard	"yard"
+year	"year"
+young	"young"
+1: sun	"sun"
+2: moon	"moon"
+99: catch a cold	"to catch a cold"
+rain	"rain"
+snow	"snow"
+star	"star"
+today	"today"
+tomato	"tomato"
+tomorrow	"tomorrow"
+yesterday	"yesterday"
+ajɪce  	Proto-Slavic <i id="form">*ajɪce</i>
+azə    	Proto-Slavic <i id="form">*azə</i>
+edinə  	Proto-Slavic <i id="form">*edinə</i>
+jɪmẽ   	Proto-Slavic <i id="form">*jɪmẽ</i>
+korenɪ 	Proto-Slavic <i id="form">*korenɪ </i>
+kortəkə	Proto-Slavic <i id="form">*kortəkə</i>
+kostɪ  	Proto-Slavic <i id="form">*kostɪ</i>
+leʒati 	Proto-Slavic <i id="form">*leʒati </i>
+mẽso   	Proto-Slavic <i id="form">*mẽso</i>
+novə   	Proto-Slavic <i id="form">*novə</i>
+ognɪ   	Proto-Slavic <i id="form">*ognɪ</i>
+pepelə 	Proto-Slavic <i id="form">*pepelə </i>
+piti   	Proto-Slavic <i id="form">*piti</i>
+sɐdɐti 	Proto-Slavic <i id="form">*sɐdɐti </i>
+səlnɪce	Proto-Slavic <i id="form">*səlnɪce</i>
+sɪrdɪce	Proto-Slavic <i id="form">*sɪrdɪce</i>
+zelenə 	Proto-Slavic <i id="form">*zelenə </i>
+zemlja 	Proto-Slavic <i id="form">*zemlja </i>
+ʒɪltə  	Proto-Slavic <i id="form">*ʒɪltə</i>
+ẽzykə  	Proto-Slavic <i id="form">*ẽzykə</i>
+all    	Norwegian <i id="form">all</i>
+andre  	Norwegian <i id="form">andre</i>
+blåste 	Norwegian <i id="form">blåste </i>
+enige  	Norwegian <i id="form">enige</i>
+frakk  	Norwegian <i id="form">frakk</i>
+frakken	Norwegian <i id="form">frakken</i>
+fram   	Norwegian <i id="form">fram</i>
+få     	Norwegian <i id="form">få</i>
+først  	Norwegian <i id="form">først</i>
+gav    	Norwegian <i id="form">gav</i>
+gjelde/regne   	Norwegian <i id="form">gjelde/regne</i>
+gåande 	Norwegian <i id="form">gåande </i>
+inrømme	Norwegian <i id="form">inrømme</i>
+kjekla 	Norwegian <i id="form">kjekla </i>
+kom    	Norwegian <i id="form">kom</i>
+kven   	Norwegian <i id="form">kven</i>
+kʉɲ    	Norwegian <i id="form">kʉɲ</i>
+makt   	Norwegian <i id="form">makt</i>
+mann   	Norwegian <i id="form">mann</i>
+mannen 	Norwegian <i id="form">mannen </i>
+med    	Norwegian <i id="form">med</i>
+meir   	Norwegian <i id="form">meir</i>
+måtte  	Norwegian <i id="form">måtte</i>
+nordavinden    	Norwegian <i id="form">nordavinden</i>
+opp    	Norwegian <i id="form">opp</i>
+på     	Norwegian <i id="form">på</i>
+rund   	Norwegian <i id="form">rund</i>
+seg    	Norwegian <i id="form">seg</i>
+sist   	Norwegian <i id="form">sist</i>
+skein/skinte   	Norwegian <i id="form">skein/skinte</i>
+skulle 	Norwegian <i id="form">skulle </i>
+sola   	Norwegian <i id="form">sola</i>
+som    	Norwegian <i id="form">som</i>
+sterkare       	Norwegian <i id="form">sterkare</i>
+sterkaste      	Norwegian <i id="form">sterkaste</i>
+straks 	Norwegian <i id="form">straks </i>
+tettare	Norwegian <i id="form">tettare</i>
+trakk  	Norwegian <i id="form">trakk</i>
+var    	Norwegian <i id="form">var</i>
+varm   	Norwegian <i id="form">varm</i>
+varmt  	Norwegian <i id="form">varmt</i>
+vart   	Norwegian <i id="form">vart</i>
+ɡodt   	Norwegian <i id="form">ɡodt</i>
+ant    	"ant"
+ask (V)	"to ask"
+bamboo 	"bamboo"
+bark   	"bark"
+bark (V)       	"to bark"
+barley 	"barley"
+bed    	"bed"
+bee    	"bee"
+behind 	"behind"
+big    	"big"
+bird   	"bird"
+bitter 	"bitter"
+black  	"black"
+blood  	"blood"
+blow (V)       	"to blow"
+boil (V)       	"to boil"
+bone   	"bone"
+breast 	"breast "
+bridge 	"bridge "
+buckwheat      	"buckwheat"
+buy (V)	"to buy"
+chicken	"chicken"
+chirp (V)      	"to chirp"
+chopsticks     	"chopsticks"
+classifier (chicken)   	"classifier (chicken)"
+classifier (clothes)   	"classifier (clothes)"
+classifier (grain of rice)     	"classifier (grain of rice)"
+close (V)      	"to close"
+cloth  	"cloth"
+cold   	"cold"
+comb   	"comb"
+comb (V)       	"to comb"
+cry (V)	"to cry"
+cut (V)	"to cut"
+cut up (V)     	"to cut up"
+daughter       	"daughter"
+day    	"day"
+die (V)	"to die"
+dog    	"dog"
+door   	"door"
+dragon 	"dragon "
+drink (V)      	"to drink"
+dry    	"dry"
+early  	"early"
+earring	"earring"
+earth  	"earth"
+earthworm;worm 	"earthworm, worm "
+eat (V)	"to eat"
+egg    	"egg"
+eight  	"eight"
+eye    	"eye"
+fall down (V);drop (V) 	"to fall down, to drop"
+far    	"far"
+fat    	"fat"
+finger 	"finger "
+finger-nail    	"fingernail"
+fire   	"fire"
+firewood       	"firewood"
+fish   	"fish"
+five   	"five"
+fly    	"fly"
+foot   	"foot"
+four   	"four"
+fragrant       	"fragrant"
+frog   	"frog"
+frost  	"frost"
+ghost  	"ghost"
+give   	"give"
+glutinous rice 	"glutinous rice "
+good   	"good"
+grind (V)      	"to grind"
+hair   	"hair"
+hand   	"hand"
+head   	"head"
+heart  	"heart"
+heavy  	"heavy"
+hemp   	"hemp"
+hide (V)       	"to hide"
+high;tall      	"high, tall"
+hoe    	"hoe"
+horn   	"horn"
+horse  	"horse"
+hot    	"hot"
+house  	"house"
+hundred	"hundred"
+i      	"I"
+ill;sick       	"ill, sick"
+interest       	"interest"
+intestine;gut  	"intestine, gut"
+itch (V)       	"to itch"
+all    	"all"
+bird   	"bird"
+bite   	"bite"
+claw   	"claw"
+dog    	"dog"
+drink  	"drink"
+grease  (fat)  	"grease (fat)"
+hear   	"hear"
+heart  	"heart"
+kill   	"kill"
+knee   	"knee"
+know   	"know"
+leaf   	"leaf"
+liver  	"liver"
+long   	"long"
+louse  	"louse"
+mouth  	"mouth"
+one    	"one"
+person 	"person "
+small  	"small"
+that   	"that"
+tongue 	"tongue "
+two    	"two"
+who    	"who"
+woman  	"woman"
+belly  	"belly"
+blood  	"blood"
+bone   	"bone"
+day    	"day"
+dog    	"dog"
+ear    	"ear"
+eight  	"eight"
+eye    	"eye"
+fingernail     	"fingernail"
+fire   	"fire"
+five   	"five"
+foot   	"foot"
+four   	"four"
+hair   	"hair"
+hand   	"hand"
+he/she 	"he/she "
+heart  	"heart"
+here   	"here"
+horn   	"horn"
+lake   	"lake"
+moon   	"moon"
+mouth  	"mouth"
+name   	"name"
+neck   	"neck"
+night  	"night"
+nine   	"nine"
+nose   	"nose"
+not    	"not"
+one    	"one"
+person 	"person "
+seven  	"seven"
+six    	"six"
+skin   	"skin"
+sun    	"sun"
+tail   	"tail"
+ten    	"ten"
+that   	"that"
+they   	"they"
+this   	"this"
+three  	"three"
+tongue 	"tongue "
+tooth  	"tooth"
+two    	"two"
+water  	"water"
+we     	"we"
+who?   	"who
+woman  	"woman"
+world  	"world"
+year   	"year"
+you    	"you"
+ashes  	"ashes"
+big    	"big"
+bird   	"bird"
+black  	"black"
+bone   	"bone"
+breast 	"breast "
+cloud  	"cloud"
+cold   	"cold"
+fingernail     	"fingernail"
+fire   	"fire"
+fish   	"fish"
+fly    	"fly"
+foot   	"foot"
+full   	"full"
+hair   	"hair"
+head   	"head"
+hear   	"hear"
+heavy  	"heavy"
+horn   	"horn"
+knee   	"knee"
+leaf   	"leaf"
+long   	"long"
+louse  	"louse"
+meat   	"meat"
+moon   	"moon"
+mouth  	"mouth"
+neck   	"neck"
+new    	"new"
+nose   	"nose"
+not    	"not"
+person 	"person "
+rain   	"rain"
+red    	"red"
+road   	"road"
+root   	"root"
+say    	"say"
+skin   	"skin"
+sleep  	"sleep"
+smoke  	"smoke"
+stand  	"stand"
+star   	"star"
+stone  	"stone"
+sun    	"sun"
+swim   	"swim"
+tail   	"tail"
+tongue 	"tongue"
+walk   	"walk"
+seven	"seven"

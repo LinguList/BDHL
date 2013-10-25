@@ -1,0 +1,527 @@
+Abbekerk (NH)	Dutch
+Aduard (Gn)	Dutch
+Aldomirovci (slivnica)	Bulgarian
+Almkerk (NB)	Dutch
+Amami	Japanese
+Ameide (ZH)	Dutch
+American English	Germanic
+Apolobamba	Andean
+Arconciel	French
+Arnex	French
+Asparuhovo (lom)	Bulgarian
+Asparuhovo (prov)	Bulgarian
+Asserøy	Norwegian
+Australian English (Perth)	Germanic
+Avry-sur-Matran	French
+Ayent	French
+Babjak (razl)	Bulgarian
+Bachkovo (asgr)	Bulgarian
+Bagrenci (kjust)	Bulgarian
+Balgari (carev)	Bulgarian
+Banishte (brezn)	Bulgarian
+Bansko (razl)	Bulgarian
+Beglezh (luk)	Bulgarian
+Beijing	Sinitic
+Belene (svisht)	Bulgarian
+Belgian Dutch	Germanic
+Belica (razl)	Bulgarian
+Bilzen (BeLb)	Dutch
+Bistrica (blgr)	Bulgarian
+Bjørnevatn	Norwegian
+Bogdanov dol (pern)	Bulgarian
+Bollezeele (FrVl)	Dutch
+Borisovo (elh)	Bulgarian
+Borre	Norwegian
+Boudry	French
+Bov (svog)	Bulgarian
+Brashljan (mtarn)	Bulgarian
+Brekke	Norwegian
+Brielle (ZH)	Dutch
+Brouckerque (FrVl)	Dutch
+Brouwershaven (Ze)	Dutch
+Bryne	Norwegian
+Brønnøysund	Norwegian
+Buchin prohod (god)	Bulgarian
+Bulgarian	Slavic
+Buren (Fr)	Dutch
+Buurmalsen (Gl)	Dutch
+Bygstad	Norwegian
+Bø	Norwegian
+Cajamarca	Andean
+Callantsoog (NH)	Dutch
+Canadian English	Germanic
+Caparevo (sand)	Bulgarian
+Caraz	Andean
+Central German (Cologne)	Germanic
+Central German (Honigberg)	Germanic
+Central German (Luxembourg)	Germanic
+Central German (Murrhardt)	Germanic
+Cerlatez	French
+Cerneux-Péquignot	French
+Cerovica (kjust)	Bulgarian
+Champéry	French
+Changsha	Sinitic
+Charnex	French
+Chaux-du-Milieu	French
+Chavín	Andean
+Chengdu	Sinitic
+Chepelare (asgr)	Bulgarian
+Chernogorovo (paz)	Bulgarian
+Chernomorec (bs)	Bulgarian
+Chevroux	French
+Chimborazo	Andean
+Chukovec (radom)	Bulgarian
+Château-d'Oex	French
+Cochabamba	Andean
+Collex	French
+Collombey	French
+Commugny	French
+Conthey	French
+Corcelles	French
+Corongo	Andean
+Court	French
+Courtedoux	French
+Courtepin	French
+Cuzco	Andean
+Czech	Slavic
+Côte-aux-Fées	French
+Danish	Germanic
+Dashi	Bai
+Den Hoorn (NH)	Dutch
+Dermanci (luk)	Bulgarian
+Develier	French
+Devenci (luk)	Bulgarian
+Devesilica (krgr)	Bulgarian
+Dichin (vtarn)	Bulgarian
+Dinevo (hask)	Bulgarian
+Diva slatina (mont)	Bulgarian
+Divdjadovo (shum)	Bulgarian
+Dobarsko (razl)	Bulgarian
+Dobroselec (topgr)	Bulgarian
+Dobroslavci (sof)	Bulgarian
+Dobrotino (gd)	Bulgarian
+Dokka	Norwegian
+Dolna beshovica (vrach)	Bulgarian
+Dolna dikanja (radom)	Bulgarian
+Dolna melna (tran)	Bulgarian
+Dolna riksa (mont)	Bulgarian
+Dolna srudena (bel)	Bulgarian
+Dolni bogrov (sof)	Bulgarian
+Dolno levski (pan)	Bulgarian
+Dompierre	French
+Dorkovo (velgr)	Bulgarian
+Dovre	Norwegian
+Drabishna (ivgr)	Bulgarian
+Dragizhevo (vtarn)	Bulgarian
+Dragodanovo (sliv)	Bulgarian
+Dragoevo (presl)	Bulgarian
+Dragojchinci (kjust)	Bulgarian
+Dutch	Germanic
+Dutch (Antwerp)	Germanic
+Dutch (Limburg)	Germanic
+Dutch (Ostend)	Germanic
+Ega	Bai
+Eggesbøneset	Norwegian
+Elnesvågen	Norwegian
+Elov dol (pk)	Bulgarian
+English	Germanic
+English (Buckie)	Germanic
+English (Lindisfarne)	Germanic
+English (Liverpool	Germanic
+English (London	Germanic
+English (North Carolina)	Germanic
+English (Singapore)	Germanic
+English (Tyrone)	Germanic
+Enina (kaz)	Bulgarian
+Enqi	Bai
+Eryuan	Bai
+Ezerovo (parvom)	Bulgarian
+Fagerhaug	Norwegian
+Faroese	Germanic
+Flåte	Norwegian
+Foldvik, Brunlanes	Norwegian
+French	Romance
+Fully	French
+Furen (vrach)	Bulgarian
+Fuzhou	Sinitic
+Fyllingsdalen	Norwegian
+Fyresdal	Norwegian
+Gabare (bslat)	Bulgarian
+Gabra (elpel)	Bulgarian
+Galata (tetev)	Bulgarian
+Ganchovec (drjan)	Bulgarian
+Garmen (gd)	Bulgarian
+Garvan (sil)	Bulgarian
+Gega (petr)	Bulgarian
+German	Germanic
+Gjøra	Norwegian
+Glozhene (orjah)	Bulgarian
+Golema rakovica (elpel)	Bulgarian
+Golemo malovo (sliven)	Bulgarian
+Golica (varn)	Bulgarian
+Goljama zheljazna (tetev)	Bulgarian
+Goljamo shivachevo (sliv)	Bulgarian
+Gongxing	Bai
+Gorna rosica (sevl)	Bulgarian
+Gorni varpishta (drjan)	Bulgarian
+Gouderak (ZH)	Dutch
+Govedarci (sam)	Bulgarian
+Gradec (vd)	Bulgarian
+Grimentz	French
+Grône	French
+Guangzhou	Sinitic
+Guiyang	Sinitic
+Haamstede (Ze)	Dutch
+Hachijō	Japanese
+Haerbin	Sinitic
+Hafrsfjord	Norwegian
+Haikou	Sinitic
+Halden	Norwegian
+Hangzhou	Sinitic
+Hefei	Sinitic
+Heqing	Bai
+Hermance	French
+High German (Biel)	Germanic
+High German (Bodensee)	Germanic
+High German (Graubuenden)	Germanic
+High German (Herrlisheim)	Germanic
+High German (North Alsace)	Germanic
+High German (Ortisei)	Germanic
+High German (Tuebingen)	Germanic
+High German (Walser)	Germanic
+Hisøy	Norwegian
+Holwerd (Fr)	Dutch
+Huancané	Andean
+Huancavelica	Andean
+Huancayo	Andean
+Huhehaote	Sinitic
+Huhla (ivgr)	Bulgarian
+Humbeek (BeBr)	Dutch
+Hundvåg	Norwegian
+Hvojna (asgr)	Bulgarian
+Icelandic	Germanic
+Indian English (Delhi)	Germanic
+Indzhe vojvoda (mtarn)	Bulgarian
+Ingen (Gl)	Dutch
+Inkawasi	Andean
+Italian	Romance
+Ivanski (shum)	Bulgarian
+Izvorovo (harm)	Bulgarian
+Jaqaru	Andean
+Javorovo (asgr)	Bulgarian
+Jian'ou	Sinitic
+Jianchuan	Bai
+Jianxing	Bai
+Jinan	Sinitic
+Jinman	Bai
+Jugan Khanti	Ob-Ugrian
+Kagoshima	Japanese
+Kaldfarnes	Norwegian
+Kalipetrovo (sil)	Bulgarian
+Kalojanovo (plov)	Bulgarian
+Kantens (Gn)	Dutch
+Karaisen (pavl)	Bulgarian
+Karanovo (ajt)	Bulgarian
+Kaspichan (np)	Bulgarian
+Kawki	Andean
+Kazim Khanti	Ob-Ugrian
+Kerkrade (Lb)	Dutch
+Knokke (BeWv)	Dutch
+Koedijk (NH)	Dutch
+Koekelare (BeWv)	Dutch
+Kolju marinovo (chirp)	Bulgarian
+Konda Khanti	Ob-Ugrian
+Konda Mansi	Ob-Ugrian
+Konska (brezn)	Bulgarian
+Kopilovci (mont)	Bulgarian
+Koprivshtica (pird)	Bulgarian
+Korten (nzag)	Bulgarian
+Kortrijk (BeWv)	Dutch
+Kostenec (iht)	Bulgarian
+Kovachevci (sam)	Bulgarian
+Kozichino (pom)	Bulgarian
+Kramolin (sevl)	Bulgarian
+Kravenik (sevl)	Bulgarian
+Kreta (vrach)	Bulgarian
+Kristiansand	Norwegian
+Krivnja (razgr)	Bulgarian
+Krogtoft, Borge	Norwegian
+Kunming	Sinitic
+Kyoto	Japanese
+Kōchi	Japanese
+L'Auberson	French
+Laconnex	French
+Ladino	Romance
+Lamboing	French
+Landeron	French
+Lanping	Bai
+Lanzhou	Sinitic
+Le Sentier	French
+Leermens (Gn)	Dutch
+Levunovo (sand)	Bulgarian
+Lies (Fr)	Dutch
+Ligurian	Romance
+Likrisovskoje Khanti	Ob-Ugrian
+Lillehammer	Norwegian
+Lipnica (botgr)	Bulgarian
+Ljubenova mahala (nzag)	Bulgarian
+Lobosh (rad)	Bulgarian
+Lombard (East)	Romance
+Lombard (West)	Romance
+Lomnes	Norwegian
+Longirod	French
+Lourtier	French
+Low German (Achterhoek)	Germanic
+Low German (Bargstedt)	Germanic
+Lower Lozva Mansi	Ob-Ugrian
+Lozen (sof)	Bulgarian
+Luobenzhuo	Bai
+Malomirovo (elh)	Bulgarian
+Malyj Jugan Khanti	Ob-Ugrian
+Mandal	Norwegian
+Marikostinovo (petr)	Bulgarian
+Markovo (shum)	Bulgarian
+Martigny	French
+Mazhelong	Bai
+Meerbeek (BeBr)	Dutch
+Meixian	Sinitic
+Merdanja (vtarn)	Bulgarian
+Merichleri (chirp)	Bulgarian
+Middle Lozva Mansi	Ob-Ugrian
+Midsland (Fr)	Dutch
+Mihalci (pavl)	Bulgarian
+Milchina laka (kul)	Bulgarian
+Miyako	Japanese
+Miège	French
+Molde	Norwegian
+Momchilovci (smol)	Bulgarian
+Momina banja (pl)	Bulgarian
+Momina klisura (pz)	Bulgarian
+Momkovo (svgr)	Bulgarian
+Montalchez	French
+Montbovon	French
+Montpreveyres	French
+Moorslede (BeWv)	Dutch
+Mouscron (Be)	Dutch
+Mugla (dev)	Bulgarian
+Murist	French
+Mussel (Gn)	Dutch
+Mørkved	Norwegian
+Naas, Eide	Norwegian
+Nanchang	Sinitic
+Nanjing	Sinitic
+Nanning	Sinitic
+Nazareth (BeOv)	Dutch
+Nendaz	French
+New Zealand English (Auckland)	Germanic
+Nieurlet (FrVl)	Dutch
+Nigerian English (Igbo)	Germanic
+Nijeholtpade (Fr)	Dutch
+Nijmegen (Gl)	Dutch
+Nikolovo (hask)	Bulgarian
+Nikolovo(lipnik) (rus)	Bulgarian
+Nizjam Khanti	Ob-Ugrian
+Noevci (brezn)	Bulgarian
+Noiraigue	French
+Nordstrand	Norwegian
+North Mansi	Ob-Ugrian
+Norwegian (Stavanger)	Germanic
+Nova lovcha (gd)	Bulgarian
+Nova nadezhda (hs)	Bulgarian
+Novo selo (trojan)	Bulgarian
+Obdorsk Khanti	Ob-Ugrian
+Occitan	Romance
+Ognen (karn)	Bulgarian
+Oki	Japanese
+Omarchevo (nzag)	Bulgarian
+Ooike (BeOv)	Dutch
+Oostende (BeWv)	Dutch
+Oosterend (Fr)	Dutch
+Opan (stzag)	Bulgarian
+Orkanger	Norwegian
+Ormont-Dessus	French
+Orsières	French
+Oruro	Andean
+Orvin	French
+Osenec (razgr)	Bulgarian
+Oudeschoot (Fr)	Dutch
+Panagjurishte (gd)	Bulgarian
+Pavelsko (asgr)	Bulgarian
+Pelatikovo (kjust)	Bulgarian
+Pelimka Mansi	Ob-Ugrian
+Petarnica (plev)	Bulgarian
+Pevec (targ)	Bulgarian
+Piershil (ZH)	Dutch
+Pingyao	Sinitic
+Plagne	French
+Plakovo (vt)	Bulgarian
+Podvis (karn)	Bulgarian
+Polish	Slavic
+Poperinge (BeWv)	Dutch
+Pozharevo (tutr)	Bulgarian
+Prahins	French
+Proto-Germanic	Germanic
+Proto-Slavic	Slavic
+Puno	Andean
+Qiliqiao	Bai
+Qingdao	Sinitic
+Rabisha (belgr)	Bulgarian
+Radovene (vr)	Bulgarian
+Rakovica (kul)	Bulgarian
+Rani lug (tryn)	Bulgarian
+Raundalen, Fagnastøl	Norwegian
+Renkum (Gl)	Dutch
+Roche	French
+Russian	Slavic
+Russland	Norwegian
+Ruzhinci (belgr)	Bulgarian
+Sado	Japanese
+Sandnessjøen	Norwegian
+Savagnier	French
+Savièse	French
+Schagen (NH)	Dutch
+Scheveningen (ZH)	Dutch
+Schinnen (Lb)	Dutch
+Scottish	Germanic
+Sekirovo (plov)	Bulgarian
+Selfors	Norwegian
+Semsalves	French
+Senokos (blgr)	Bulgarian
+Sestrino (petr)	Bulgarian
+Shanghai	Sinitic
+Shantou	Sinitic
+Sherkali Khanti	Ob-Ugrian
+Shexian	Sinitic
+Shipka (kaz)	Bulgarian
+Shiroka laka (dev)	Bulgarian
+Shiroki dol (sam)	Bulgarian
+Shtipsko (prov)	Bulgarian
+Shuri	Japanese
+Silvolde (Gl)	Dutch
+Sinja Khanti	Ob-Ugrian
+Sint-Annen (Gn)	Dutch
+Skobelevo (sliv)	Bulgarian
+Slaveino (smol)	Bulgarian
+Slavjanovo (plev)	Bulgarian
+Sloten (Fr)	Dutch
+Smilde (Dr)	Dutch
+Smochevo (dupn)	Bulgarian
+Smolsko (pird)	Bulgarian
+Solishta (dev)	Bulgarian
+Sombeval	French
+Sortland	Norwegian
+South African English (Johannisburg)	Germanic
+Sredec (zlgr)	Bulgarian
+St-Gingolph	French
+Stakevci (blgr)	Bulgarian
+Stambolovo (hask)	Bulgarian
+Stange	Norwegian
+Stanghelle	Norwegian
+Stjørdal	Norwegian
+Stjørdalshalsen	Norwegian
+Stoilovo (mt)	Bulgarian
+Straldzha (jamb)	Bulgarian
+Stroevo (plov)	Bulgarian
+Støa	Norwegian
+Sucre	Andean
+Sugiez	French
+Sushica (blgr)	Bulgarian
+Suzhou	Sinitic
+Svetlina (topgr)	Bulgarian
+Svirkovo (harm)	Bulgarian
+Swedish (Skane)	Germanic
+Swedish (Stockholm)	Germanic
+Sætre	Norwegian
+Sørkjosen	Norwegian
+Taibei	Sinitic
+Taiyuan	Sinitic
+Taoyuan	Sinitic
+Taquile	Andean
+Tavda Mansi	Ob-Ugrian
+Tena	Andean
+Ter Apel (Gn)	Dutch
+Tianjin	Sinitic
+Tihomir (krgr)	Bulgarian
+Tihomirovo (stzag)	Bulgarian
+Tiwanaku	Andean
+Tjøtta	Norwegian
+Tokyo	Japanese
+Topolchane (sliv)	Bulgarian
+Trancovica (nik)	Bulgarian
+Trastenik (plev)	Bulgarian
+Tremjugan Khanti	Ob-Ugrian
+Tromsø	Norwegian
+Trondheim	Norwegian
+Tunxi	Sinitic
+Tuoluo	Bai
+Tynset sentrum	Norwegian
+Ulft (Gl)	Dutch
+Undheim	Norwegian
+Upper Demjanka Khanti	Ob-Ugrian
+Ustovo (sm)	Bulgarian
+Vabel (nik)	Bulgarian
+Vakh Khanti	Ob-Ugrian
+Vaklinovo (gd)	Bulgarian
+Valche pole (svgr)	Bulgarian
+Vallorbe	French
+Valthermond (Dr)	Dutch
+Varbica (presl)	Bulgarian
+Varbovo (blgr)	Bulgarian
+Vardun (targ)	Bulgarian
+Varsseveld (Gl)	Dutch
+Vartovskoje Khanti	Ob-Ugrian
+Varvara (paz)	Bulgarian
+Vasiljovo (tetev)	Bulgarian
+Vaugondry	French
+Velkovci (pk)	Bulgarian
+Venetian	Romance
+Verkhne Kalimsk Khanti	Ob-Ugrian
+Vermes	French
+Vernier	French
+Veyrier	French
+Villars-le-Terroir	French
+Vinarovo (vid)	Bulgarian
+Vladinja (lov)	Bulgarian
+Voden (elh)	Bulgarian
+Vojnjagovo (karl)	Bulgarian
+Vrachesh (botgr)	Bulgarian
+Vranilovci (gabr)	Bulgarian
+Vresovo (ajt)	Bulgarian
+Vullierens	French
+Walshoutem (BeBr)	Dutch
+Waregem (BeWv)	Dutch
+Wateringen (ZH)	Dutch
+Wenzhou	Sinitic
+West Frisian (Grou)	Germanic
+West-Terschelling (Fr)	Dutch
+Wierum (Fr)	Dutch
+Workum (Fr)	Dutch
+Wuhan	Sinitic
+Wulumuqi	Sinitic
+Xi'an	Sinitic
+Xiamen	Sinitic
+Xianggang	Sinitic
+Xiangtan	Sinitic
+Xiangyun	Bai
+Xining	Sinitic
+Yiddish (New York)	Germanic
+Yinchuan	Sinitic
+Yunlong	Bai
+Zabardo (asgr)	Bulgarian
+Zabernovo (mt)	Bulgarian
+Zamfirovo (berk)	Bulgarian
+Zanozhene (berk)	Bulgarian
+Zdravkovec (gabr)	Bulgarian
+Zelenigrad (tran)	Bulgarian
+Zevenaar (Gl)	Dutch
+Zhaltusha (ard)	Bulgarian
+Zheglica (vid)	Bulgarian
+Zhelen (svog)	Bulgarian
+Zheljazkovo (sred)	Bulgarian
+Zhengzhou	Sinitic
+Zheravna (kot)	Bulgarian
+Zhoucheng	Bai
+Zutendaal (BeLb)	Dutch
+Zuydcoote (FrVl)	Dutch
+Évolène	French
+Øra	Norwegian
