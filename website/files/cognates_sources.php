@@ -23,7 +23,7 @@ Click on the links in the table in order to view a more detailed description of 
 <td><a style="font-weight:normal;color:black;" href="http://lingulist.de/evobib/evobib.php?key=Shiro1973">Shirō (1973)</a></td></tr>
 
 <tr><td><a style="font-weight:bold;color:black;" href="#OUG">OUG</a></td><td>Uralic languages</td><td>110</td><td>2055</td><td>239</td><td>0.07</td><td>21</td>
-<td><a style="font-weight:normal;color:black;" href="http://starling.rinet.ru/new100/main.htm>">GLD</a></td></tr>
+<td><a style="font-weight:normal;color:black;" href="http://starling.rinet.ru/new100/main.htm">GLD</a></td></tr>
 
 <tr><td><a style="font-weight:bold;color:black;" href="#PAN">PAN</a></td><td>Austronesian languages</td><td>210</td><td>4358</td><td>2730</td><td>0.61</td><td>20</td>
 <td><a style="font-weight:normal;color:black;" href="http://language.psy.auckland.ac.nz/austronesian/">ABVD</a></td></tr>
