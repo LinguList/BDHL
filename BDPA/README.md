@@ -6,4 +6,4 @@ This is the phonetic alignment part of the BDHL. The folder raw\_data contains t
 ## Todos
 
 - annotate MERGERS in Bulgarian data
-- add translation to Slavic data
+- add translations to Slavic data
