@@ -187,7 +187,7 @@ can be further used in order to mark that a given entry has been borrowed.</p>
  </div>
  </div>
  <div id="footer">
- <p>Last updated on Oct. 16, 2013, 08:22 CET</p>
+ <p>Last updated on Nov. 20, 2013, 17:33 CET</p>
  <p>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</p><br>
 <p>
