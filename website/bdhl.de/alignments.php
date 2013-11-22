@@ -105,6 +105,25 @@
 
 </ul>
 <br>
+
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> ?, ?</td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td></td>
+</tr>
+</table>
+<br><br>
 <h3><a style="color:black;" name="alignments">Alignment Analyses</a></h3></br>
 <p><i>Alignment analyses</i> are the most common way to compare sequences. Given that phonetic
 sequences are the basic comparanda in both historical linguistics and dialectology, it is therefore
@@ -234,7 +253,7 @@ example, consider the file <a href="data/harry_potter.msa">harry_potter.msa</a>:
  </div>
  </div>
  <div id="footer">
- <p>Last updated on Nov. 22, 2013, 13:42 CET</p>
+ <p>Last updated on Nov. 22, 2013, 14:13 CET</p>
  <p>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</p><br>
 <p>

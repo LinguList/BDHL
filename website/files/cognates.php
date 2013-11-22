@@ -9,6 +9,25 @@
 <li><a style="color:black;" href="cognates.php#formats">Basic Formats for Cognate Detection</a></li>
 </ul></div>
 <br>
+
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> ?? </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List </td>
+  <td></td>
+</tr>
+</table>
+<br><br>
 <h3><a style="color:black;" name="cd">Cognate Detection</a></h3>
 <br>
 Cognate detection is here understood as the specific task to identify etymologically related words in linguistics datasets.

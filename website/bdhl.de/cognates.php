@@ -100,6 +100,25 @@
 <li><a style="color:black;" href="cognates.php#formats">Basic Formats for Cognate Detection</a></li>
 </ul></div>
 <br>
+
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> ?? </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List </td>
+  <td></td>
+</tr>
+</table>
+<br><br>
 <h3><a style="color:black;" name="cd">Cognate Detection</a></h3>
 <br>
 Cognate detection is here understood as the specific task to identify etymologically related words in linguistics datasets.
@@ -187,7 +206,7 @@ can be further used in order to mark that a given entry has been borrowed.</p>
  </div>
  </div>
  <div id="footer">
- <p>Last updated on Nov. 22, 2013, 13:42 CET</p>
+ <p>Last updated on Nov. 22, 2013, 14:13 CET</p>
  <p>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</p><br>
 <p>

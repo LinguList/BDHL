@@ -13,6 +13,25 @@
 
 </ul>
 <br>
+
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> ?, ?</td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td></td>
+</tr>
+</table>
+<br><br>
 <h3><a style="color:black;" name="alignments">Alignment Analyses</a></h3></br>
 <p><i>Alignment analyses</i> are the most common way to compare sequences. Given that phonetic
 sequences are the basic comparanda in both historical linguistics and dialectology, it is therefore
