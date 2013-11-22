@@ -1,0 +1,4578 @@
+# Wordlist
+
+# META
+@compiler:Johann-Mattis List
+@date:2013-10-15 12:58:42.547472
+@source:Austronesian Basic Vocabulary Database <http://language.psy.auckland.ac.nz/austronesian/>
+
+# DATA
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID
+#
+1	Maloh	hand	taŋan	t a ŋ a n	155
+2	Merina (Malagasy)	hand	tanana	t a n a n a	155
+3	Thao	hand	rima	r i m a	446
+4	Palauan	hand	cʰim	cʰ i m	446
+5	Tunjung	hand	aŋaʔ	a ŋ a ʔ	155
+6	Bare'e	hand	pale	p a l e	1484
+7	Iban	hand	taŋan	t a ŋ a n	155
+8	Iban	hand	jari	j a r i	1556
+9	Berawan (Long Terawan)	hand	tisu	t i s u	481
+10	Berawan (Long Terawan)	hand	isu	i s u	481
+11	Hanunoo	hand	kamaŋ	k a m a ŋ	1796
+12	Wuna	hand	lima	l i m a	446
+13	Tetum	hand	liman	l i m a n	446
+14	Mailu	hand	ima	i m a	446
+15	Tsou	hand	mucu	m u c u	350
+16	Nias	hand	taŋa	t a ŋ a	155
+17	Central Amis	hand	kamaj	k a m a j	19
+18	Chamorro	hand	kanːai	k a nː a i	2515
+19	Banoni	hand	numa	n u m a	446
+20	Singhi	hand	toŋan	t o ŋ a n	155
+#
+21	Maloh	left	kajoko	k a j o k o	1000
+22	Merina (Malagasy)	left	havia	h a v i a	-483
+23	Palauan	left	katur	k a t u r	1253
+24	Tunjung	left	ulaj	u l a j	645
+25	Bare'e	left	kaiː	k a iː	483
+26	Iban	left	kibaʔ	k i b a ʔ	560
+27	Berawan (Long Terawan)	left	pəmaiŋ	p ə m a i ŋ	645
+28	Moken	left	ʔeloj	ʔ e l o j	1702
+29	Hanunoo	left	wala	w a l a	159
+30	Wuna	left	kema	k e m a	98
+31	Tetum	left	karuk	k a r u k	1881
+32	Mailu	left	ebe	e b e	1934
+33	Tsou	left	vrina	v r i n a	483
+34	Nias	left	kabera	k a b e r a	2227
+35	Central Amis	left	kawili	k a w i l i	483
+36	Chamorro	left	akague	a k a g u e	2516
+37	Banoni	left	tororona	t o r o r o n a	2601
+38	Singhi	left	bait	b a i t	2743
+39	Banggi	left	kuikiwaŋ	k u i k i w a ŋ	-159
+#
+40	Maloh	right	kato	k a t o	-519
+41	Merina (Malagasy)	right	havanana	h a v a n a n a	255
+42	Palauan	right	kadikm	k a d i k m	1254
+43	Tunjung	right	tauʔ	t a u ʔ	519
+44	Bare'e	right	kana	k a n a	255
+45	Iban	right	kanan	k a n a n	255
+46	Berawan (Long Terawan)	right	pəŋkatuʔoh	p ə ŋ k a t u ʔ o h	519
+47	Moken	right	nanaːn	n a n aː n	255
+48	Hanunoo	right	sikun	s i k u n	-184
+49	Wuna	right	swana	s w a n a	255
+50	Tetum	right	kwana	k w a n a	255
+51	Mailu	right	iata	i a t a	1935
+52	Tsou	right	vhona	v h o n a	255
+53	Nias	right	kawõlõ	k a w õ l õ	2228
+54	Central Amis	right	kawanan	k a w a n a n	255
+55	Banoni	right	matoː	m a t oː	519
+56	Singhi	right	toux	t o u x	519
+57	Banggi	right	kikuan	k i k u a n	-184
+#
+58	Merina (Malagasy)	leg/foot	ranjo	r a n j o	-97
+59	Merina (Malagasy)	leg/foot	toŋotra	t o ŋ o t r a	1053
+60	Thao	leg/foot	kuskus	k u s k u s	1161
+61	Palauan	leg/foot	oacʰ	o a cʰ	-290
+62	Tunjung	leg/foot	uneŋ	u n e ŋ	1401
+63	Bare'e	leg/foot	witi	w i t i	28
+64	Iban	leg/foot	kaki	k a k i	290
+65	Iban	leg/foot	pah	p a h	1557
+66	Berawan (Long Terawan)	leg/foot	gimaʔ	g i m a ʔ	366
+67	Moken	leg/foot	pakaʔ	p a k a ʔ	199
+68	Moken	leg/foot	kakaj	k a k a j	290
+69	Hanunoo	leg/foot	raparapa	r a p a r a p a	1797
+70	Wuna	leg/foot	gʰagʰe	gʰ a gʰ e	290
+71	Tetum	leg/foot	ain	a i n	290
+72	Mailu	leg/foot	au	a u	1936
+73	Tsou	leg/foot	ruru	r u r u	2099
+74	Nias	leg/foot	ahe	a h e	290
+75	Central Amis	leg/foot	waqaj	w a q a j	290
+76	Chamorro	leg/foot	adːeŋ	a dː e ŋ	2517
+77	Banoni	leg/foot	rapinːa	r a p i nː a	2602
+78	Singhi	leg/foot	peun	p e u n	2744
+79	Banggi	leg/foot	uei	u e i	290
+#
+80	Maloh	to walk	lambaʔ	l a m b a ʔ	563
+81	Merina (Malagasy)	to walk	mandéha	m a n d é h a	1054
+82	Palauan	to walk	merael	m e r a e l	212
+83	Tunjung	to walk	calan	c a l a n	212
+84	Bare'e	to walk	linja	l i n j a	99
+85	Iban	to walk	jalai	j a l a i	212
+86	Berawan (Long Terawan)	to walk	lakaw	l a k a w	57
+87	Moken	to walk	lakaw	l a k a w	57
+88	Hanunoo	to walk	lumakaw	l u m a k a w	57
+89	Wuna	to walk	nokala	n o k a l a	362
+90	Tetum	to walk	laʔo	l a ʔ o	57
+91	Mailu	to walk	baebae	b a e b a e	1937
+92	Tsou	to walk	coeconʉ	c o e c o n ʉ	2100
+93	Nias	to walk	fanõ	f a n õ	416
+94	Central Amis	to walk	lumakat	l u m a k a t	690
+95	Central Amis	to walk	rumakat	r u m a k a t	690
+96	Chamorro	to walk	lahu	l a h u	57
+97	Singhi	to walk	ponu	p o n u	416
+98	Banggi	to walk	empaːno	e m p aː n o	416
+#
+99	Maloh	road/path	dalan	d a l a n	95
+100	Merina (Malagasy)	road/path	lalana	l a l a n a	95
+101	Thao	road/path	saran	s a r a n	95
+102	Palauan	road/path	rael	r a e l	95
+103	Tunjung	road/path	loroŋ	l o r o ŋ	95
+104	Bare'e	road/path	jaja	j a j a	95
+105	Iban	road/path	jalai	j a l a i	95
+106	Berawan (Long Terawan)	road/path	ilan	i l a n	95
+107	Hanunoo	road/path	dalan	d a l a n	95
+108	Wuna	road/path	sala	s a l a	95
+109	Tetum	road/path	dalan	d a l a n	95
+110	Mailu	road/path	laea	l a e a	1938
+111	Tsou	road/path	ceonʉ	c e o n ʉ	95
+112	Nias	road/path	lala	l a l a	95
+113	Central Amis	road/path	lalan	l a l a n	95
+114	Chamorro	road/path	cʰalan	cʰ a l a n	95
+115	Banoni	road/path	sanana	s a n a n a	95
+116	Singhi	road/path	aran	a r a n	95
+#
+117	Maloh	to come	mondok	m o n d o k	1001
+118	Merina (Malagasy)	to come	avj	a v j	154
+119	Merina (Malagasy)	to come	toŋa	t o ŋ a	1055
+120	Thao	to come	munaj	m u n a j	1162
+121	Palauan	to come	méi	m é i	719
+122	Tunjung	to come	moːt	m oː t	1402
+123	Bare'e	to come	maʔi	m a ʔ i	719
+124	Iban	to come	datai	d a t a i	-561
+125	Berawan (Long Terawan)	to come	liʔ	l i ʔ	1631
+126	Moken	to come	ŋadin	ŋ a d i n	1703
+127	Hanunoo	to come	balik	b a l i k	1798
+128	Wuna	to come	mai	m a i	719
+129	Tetum	to come	mai	m a i	719
+130	Mailu	to come	ai	a i	-719
+131	Tsou	to come	oh	o h	3
+132	Tsou	to come	uso	u s o	3
+133	Nias	to come	mõi	m õ i	719
+134	Central Amis	to come	tajni	t a j n i	2334
+135	Singhi	to come	nug	n u g	2745
+136	Banggi	to come	miaːtaŋ	m i aː t a ŋ	2845
+#
+137	Maloh	to turn	lempaŋ	l e m p a ŋ	1002
+138	Merina (Malagasy)	to turn	vilj	v i l j	-367
+139	Thao	to turn	taushuqish	t a u s h u q i s h	1163
+140	Palauan	to turn	meŋesoim	m e ŋ e s o i m	1255
+141	Tunjung	to turn	nencaŋ	n e n c a ŋ	1403
+142	Bare'e	to turn	gili	g i l i	591
+143	Iban	to turn	bilok	b i l o k	431
+144	Berawan (Long Terawan)	to turn	ŋəlibiʔ	ŋ ə l i b i ʔ	1632
+145	Moken	to turn	nʲiliək	nʲ i l i ə k	1704
+146	Hanunoo	to turn	simaŋ	s i m a ŋ	1799
+147	Wuna	to turn	nobelo	n o b e l o	1860
+148	Tetum	to turn	filas	f i l a s	-367
+149	Tetum	to turn	fila	f i l a	-367
+150	Tetum	to turn	faur	f a u r	-367
+151	Tsou	to turn	miunu	m i u n u	2101
+152	Central Amis	to turn	maliwuŋ	m a l i w u ŋ	2335
+153	Banoni	to turn	beruː	b e r uː	2603
+154	Banoni	to turn	vegom	v e g o m	2604
+155	Singhi	to turn	kus	k u s	2746
+#
+156	Maloh	to swim	arananaŋ	a r a n a n a ŋ	-311
+157	Merina (Malagasy)	to swim	lomano	l o m a n o	543
+158	Merina (Malagasy)	to swim	milomano	m i l o m a n o	1056
+159	Thao	to swim	mrauz	m r a u z	1164
+160	Palauan	to swim	meŋedub	m e ŋ e d u b	1256
+161	Tunjung	to swim	karaŋoj	k a r a ŋ o j	543
+162	Bare'e	to swim	naŋu	n a ŋ u	543
+163	Iban	to swim	njemerai	n j e m e r a i	1558
+164	Berawan (Long Terawan)	to swim	pəloŋoj	p ə l o ŋ o j	543
+165	Moken	to swim	naŋoj	n a ŋ o j	543
+166	Hanunoo	to swim	lumaŋuj	l u m a ŋ u j	543
+167	Wuna	to swim	leni	l e n i	543
+168	Tetum	to swim	nani	n a n i	543
+169	Mailu	to swim	loroloro	l o r o l o r o	540
+170	Mailu	to swim	rolorolo	r o l o r o l o	540
+171	Tsou	to swim	euhuŋzu	e u h u ŋ z u	543
+172	Nias	to swim	molaŋi	m o l a ŋ i	543
+173	Central Amis	to swim	laŋuj	l a ŋ u j	543
+174	Central Amis	to swim	milaŋuj	m i l a ŋ u j	543
+175	Chamorro	to swim	naŋunʲaŋu	n a ŋ u nʲ a ŋ u	543
+176	Banoni	to swim	suː	s uː	789
+177	Singhi	to swim	naŋuj	n a ŋ u j	543
+#
+178	Merina (Malagasy)	dirty	maloto	m a l o t o	242
+179	Thao	dirty	marisrisin	m a r i s r i s i n	1165
+180	Palauan	dirty	idokel	i d o k e l	1257
+181	Tunjung	dirty	marotaʔ	m a r o t a ʔ	242
+182	Bare'e	dirty	sapa	s a p a	1485
+183	Iban	dirty	kamah	k a m a h	667
+184	Berawan (Long Terawan)	dirty	labih	l a b i h	1633
+185	Moken	dirty	caʔiək	c a ʔ i ə k	1705
+186	Hanunoo	dirty	majagtiŋ	m a j a g t i ŋ	423
+187	Hanunoo	dirty	maʔuriŋ	m a ʔ u r i ŋ	423
+188	Wuna	dirty	noraku	n o r a k u	785
+189	Tetum	dirty	kfur	k f u r	1882
+190	Tetum	dirty	karebo	k a r e b o	1883
+191	Mailu	dirty	milomilo	m i l o m i l o	335
+192	Tsou	dirty	cai	c a i	79
+193	Tsou	dirty	caʔi	c a ʔ i	79
+194	Nias	dirty	moŋdaʔi	m o ŋ d a ʔ i	-401
+195	Central Amis	dirty	maacek	m a a c e k	2336
+196	Central Amis	dirty	makalit	m a k a l i t	2337
+197	Chamorro	dirty	hoplat	h o p l a t	2518
+198	Banoni	dirty	kiːpi	k iː p i	2605
+199	Singhi	dirty	kais	k a i s	2747
+200	Singhi	dirty	sirida	s i r i d a	2748
+201	Banggi	dirty	damak	d a m a k	567
+#
+202	Merina (Malagasy)	dust	vovoka	v o v o k a	1057
+203	Bare'e	dust	awu	a w u	182
+204	Iban	dust	abu	a b u	703
+205	Iban	dust	apok	a p o k	182
+206	Berawan (Long Terawan)	dust	apoʔ	a p o ʔ	182
+207	Moken	dust	kaboj	k a b o j	703
+208	Hanunoo	dust	gabuk	g a b u k	182
+209	Hanunoo	dust	pukapuk	p u k a p u k	182
+210	Tetum	dust	rai#ahun	r a i # a h u n	-182
+211	Mailu	dust	veve	v e v e	1939
+212	Central Amis	dust	taʔfod	t a ʔ f o d	2338
+213	Banoni	dust	ramuta	r a m u t a	2606
+214	Singhi	dust	abux	a b u x	182
+215	Singhi	dust	sapok	s a p o k	182
+216	Banggi	dust	auː	a uː	-182
+#
+217	Maloh	skin	kulit	k u l i t	216
+218	Merina (Malagasy)	skin	hoditra	h o d i t r a	-216
+219	Thao	skin	shapa	s h a p a	1166
+220	Palauan	skin	budél	b u d é l	1258
+221	Tunjung	skin	kulit	k u l i t	216
+222	Bare'e	skin	pela	p e l a	1486
+223	Iban	skin	kulit	k u l i t	216
+224	Berawan (Long Terawan)	skin	kulaiʔ	k u l a i ʔ	216
+225	Moken	skin	bulaŋ	b u l a ŋ	1706
+226	Hanunoo	skin	tarip	t a r i p	428
+227	Hanunoo	skin	lukub	l u k u b	1800
+228	Wuna	skin	kuli	k u l i	216
+229	Tetum	skin	kulit	k u l i t	216
+230	Mailu	skin	opi	o p i	768
+231	Tsou	skin	snʉ́fʉ	s n ʉ́ f ʉ	2102
+232	Nias	skin	uli	u l i	216
+233	Central Amis	skin	faŋes	f a ŋ e s	835
+234	Central Amis	skin	faŋes	f a ŋ e s	835
+235	Chamorro	skin	lasːas	l a sː a s	2519
+236	Banoni	skin	kabunu	k a b u n u	2607
+237	Singhi	skin	kurit	k u r i t	216
+238	Banggi	skin	kubal	k u b a l	-216
+#
+239	Maloh	back	balakaŋ	b a l a k a ŋ	838
+240	Thao	back	rikus	r i k u s	832
+241	Palauan	back	uulk	u u l k	1259
+242	Tunjung	back	puŋuŋ	p u ŋ u ŋ	621
+243	Bare'e	back	taliku	t a l i k u	832
+244	Iban	back	belakaŋ	b e l a k a ŋ	838
+245	Berawan (Long Terawan)	back	likon	l i k o n	832
+246	Moken	back	lekoːt	l e k oː t	832
+247	Hanunoo	back	daju	d a j u	1801
+248	Tetum	back	kotːuk	k o tː u k	111
+249	Mailu	back	deniabo	d e n i a b o	-157
+250	Mailu	back	doe	d o e	1940
+251	Tsou	back	fʔuhu	f ʔ u h u	348
+252	Nias	back	hulu	h u l u	2229
+253	Central Amis	back	kulur	k u l u r	2339
+254	Central Amis	back	koror	k o r o r	2340
+255	Banoni	back	tsugʰi	t s u gʰ i	2608
+256	Singhi	back	dug	d u g	2749
+#
+257	Maloh	belly	bataŋ	b a t a ŋ	146
+258	Merina (Malagasy)	belly	kibo	k i b o	1058
+259	Thao	belly	tiaz	t i a z	17
+260	Palauan	belly	diil	d i i l	-17
+261	Tunjung	belly	naiʔ	n a i ʔ	1404
+262	Bare'e	belly	kompo	k o m p o	249
+263	Iban	belly	perut	p e r u t	840
+264	Berawan (Long Terawan)	belly	tijan	t i j a n	17
+265	Moken	belly	lakeʔ	l a k e ʔ	1707
+266	Hanunoo	belly	tijan	t i j a n	17
+267	Wuna	belly	tagʰi	t a gʰ i	76
+268	Tetum	belly	kabun	k a b u n	-249
+269	Mailu	belly	amara	a m a r a	1941
+270	Tsou	belly	bʉeo	b ʉ e o	2103
+271	Nias	belly	talu	t a l u	2230
+272	Central Amis	belly	tial	t i a l	17
+273	Central Amis	belly	tial	t i a l	17
+274	Chamorro	belly	tujan	t u j a n	17
+275	Banoni	belly	kobi	k o b i	-674
+276	Singhi	belly	tain	t a i n	17
+277	Banggi	belly	tiagn	t i a g n	17
+#
+278	Maloh	bone	tulaŋ	t u l a ŋ	644
+279	Merina (Malagasy)	bone	taolana	t a o l a n a	644
+280	Thao	bone	puqu	p u q u	1167
+281	Palauan	bone	cʰiuis	cʰ i u i s	1260
+282	Tunjung	bone	lah	l a h	1405
+283	Bare'e	bone	wuku	w u k u	475
+284	Iban	bone	tulaŋ	t u l a ŋ	644
+285	Berawan (Long Terawan)	bone	tulaŋ	t u l a ŋ	644
+286	Moken	bone	kəlaːn	k ə l aː n	644
+287	Hanunoo	bone	butʔul	b u t ʔ u l	128
+288	Wuna	bone	buku	b u k u	475
+289	Tetum	bone	ruʔin	r u ʔ i n	778
+290	Mailu	bone	kisa	k i s a	1942
+291	Tsou	bone	cʉ́ehʉ	c ʉ́ e h ʉ	644
+292	Nias	bone	tõla	t õ l a	-644
+293	Central Amis	bone	ukak	u k a k	22
+294	Central Amis	bone	okak	o k a k	22
+295	Central Amis	bone	ukak	u k a k	22
+296	Banoni	bone	sipana	s i p a n a	2609
+297	Singhi	bone	turaŋ	t u r a ŋ	644
+298	Banggi	bone	tulagn	t u l a g n	644
+#
+299	Maloh	intestines	parut	p a r u t	723
+300	Merina (Malagasy)	intestines	tsinaj	t s i n a j	524
+301	Thao	intestines	rumrum	r u m r u m	1168
+302	Palauan	intestines	delacʰ	d e l a cʰ	-524
+303	Tunjung	intestines	usiʔ#ŋaiʔ	u s i ʔ # ŋ a i ʔ	-524
+304	Bare'e	intestines	wajaː#ntaʔi	w a j aː # n t a ʔ i	1487
+305	Iban	intestines	perut	p e r u t	723
+306	Berawan (Long Terawan)	intestines	tənaiʔ	t ə n a i ʔ	524
+307	Hanunoo	intestines	bitukaʔ	b i t u k a ʔ	605
+308	Hanunoo	intestines	punaʔ	p u n a ʔ	605
+309	Wuna	intestines	ihi#no#tagʰi	i h i # n o # t a gʰ i	1861
+310	Tetum	intestines	te#oan	t e # o a n	1884
+311	Mailu	intestines	sinae	s i n a e	524
+312	Tsou	intestines	soeu	s o e u	2104
+313	Nias	intestines	betuʔa	b e t u ʔ a	605
+314	Nias	intestines	riʔi	r i ʔ i	605
+315	Central Amis	intestines	tinaiq	t i n a i q	524
+316	Central Amis	intestines	tinaiʕ	t i n a i ʕ	524
+317	Banoni	intestines	kore	k o r e	333
+#
+318	Maloh	liver	até	a t é	297
+319	Merina (Malagasy)	liver	atj	a t j	297
+320	Thao	liver	rishi	r i s h i	170
+321	Palauan	liver	cʰad	cʰ a d	-297
+322	Tunjung	liver	limpa	l i m p a	1406
+323	Bare'e	liver	ate	a t e	297
+324	Iban	liver	atau	a t a u	297
+325	Berawan (Long Terawan)	liver	ataj	a t a j	297
+326	Moken	liver	kataj	k a t a j	297
+327	Hanunoo	liver	ataj	a t a j	297
+328	Wuna	liver	gʰete	gʰ e t e	297
+329	Tetum	liver	aten	a t e n	297
+330	Mailu	liver	arame	a r a m e	1943
+331	Tsou	liver	hʔonu	h ʔ o n u	2105
+332	Nias	liver	ate	a t e	297
+333	Central Amis	liver	ataj	a t a j	297
+334	Central Amis	liver	ʕataj	ʕ a t a j	297
+335	Banoni	liver	date	d a t e	297
+336	Singhi	liver	atin	a t i n	297
+337	Banggi	liver	ati	a t i	297
+#
+338	Maloh	breast	susu	s u s u	331
+339	Merina (Malagasy)	breast	nono	n o n o	205
+340	Thao	breast	tutu	t u t u	331
+341	Palauan	breast	tut	t u t	331
+342	Tunjung	breast	tosoq	t o s o q	1407
+343	Bare'e	breast	susu	s u s u	331
+344	Iban	breast	tusu	t u s u	331
+345	Berawan (Long Terawan)	breast	iteʔ	i t e ʔ	300
+346	Moken	breast	dadaʔ	d a d a ʔ	755
+347	Hanunoo	breast	susu	s u s u	331
+348	Wuna	breast	titi	t i t i	300
+349	Tetum	breast	susun	s u s u n	331
+350	Mailu	breast	hama	h a m a	1944
+351	Tsou	breast	nunʔu	n u n ʔ u	205
+352	Nias	breast	fosu	f o s u	331
+353	Nias	breast	susu	s u s u	331
+354	Central Amis	breast	faluhaŋ	f a l u h a ŋ	2341
+355	Central Amis	breast	falohaŋ	f a l o h a ŋ	2342
+356	Central Amis	breast	cucu	c u c u	331
+357	Chamorro	breast	susu	s u s u	331
+358	Banoni	breast	su	s u	331
+359	Banggi	breast	dudu	d u d u	759
+#
+360	Maloh	shoulder	babaŋ	b a b a ŋ	419
+361	Merina (Malagasy)	shoulder	soroka	s o r o k a	1059
+362	Thao	shoulder	qalhafa	q a l h a f a	102
+363	Palauan	shoulder	oŋeluŋel	o ŋ e l u ŋ e l	1261
+364	Tunjung	shoulder	bahuq	b a h u q	1408
+365	Bare'e	shoulder	awaː	a w aː	102
+366	Iban	shoulder	bau	b a u	295
+367	Berawan (Long Terawan)	shoulder	bikih	b i k i h	-102
+368	Hanunoo	shoulder	labaj	l a b a j	1802
+369	Wuna	shoulder	gʰofea	gʰ o f e a	-102
+370	Tetum	shoulder	baːs	b aː s	-135
+371	Mailu	shoulder	gabi	g a b i	1945
+372	Tsou	shoulder	eiʔsi	e i ʔ s i	2106
+373	Nias	shoulder	alisi	a l i s i	2231
+374	Central Amis	shoulder	afala	a f a l a	102
+375	Central Amis	shoulder	ʔafala	ʔ a f a l a	102
+376	Chamorro	shoulder	apaga	a p a g a	102
+377	Banoni	shoulder	dzaneko	d z a n e k o	2610
+378	Singhi	shoulder	papi	p a p i	781
+379	Banggi	shoulder	owu	o w u	2846
+#
+380	Maloh	to know, be knowledgeable	tamu	t a m u	-137
+381	Merina (Malagasy)	to know, be knowledgeable	mahalala	m a h a l a l a	1060
+382	Thao	to know, be knowledgeable	mafazaq	m a f a z a q	631
+383	Palauan	to know, be knowledgeable	meducʰ	m e d u cʰ	1262
+384	Tunjung	to know, be knowledgeable	togaʔ	t o g a ʔ	1409
+385	Bare'e	to know, be knowledgeable	inca	i n c a	1488
+386	Iban	to know, be knowledgeable	tauʔ	t a u ʔ	137
+387	Iban	to know, be knowledgeable	temu	t e m u	1559
+388	Berawan (Long Terawan)	to know, be knowledgeable	ninʲon	n i nʲ o n	1634
+389	Moken	to know, be knowledgeable	nʲədan	nʲ ə d a n	1708
+390	Hanunoo	to know, be knowledgeable	taʔu	t a ʔ u	137
+391	Wuna	to know, be knowledgeable	pandehao	p a n d e h a o	204
+392	Tetum	to know, be knowledgeable	hatana	h a t a n a	655
+393	Mailu	to know, be knowledgeable	ribariba	r i b a r i b a	793
+394	Mailu	to know, be knowledgeable	vegarai	v e g a r a i	1946
+395	Tsou	to know, be knowledgeable	bocʰio	b o cʰ i o	271
+396	Nias	to know, be knowledgeable	ila	i l a	2232
+397	Central Amis	to know, be knowledgeable	mafanaq	m a f a n a q	631
+398	Central Amis	to know, be knowledgeable	mafanaʔ	m a f a n a ʔ	631
+399	Banoni	to know, be knowledgeable	kuki	k u k i	2611
+400	Banoni	to know, be knowledgeable	vonogu	v o n o g u	2612
+401	Singhi	to know, be knowledgeable	puan	p u a n	2750
+402	Banggi	to know, be knowledgeable	fandi	f a n d i	2847
+#
+403	Merina (Malagasy)	to think	mihévitra	m i h é v i t r a	1061
+404	Thao	to think	maŋqtu	m a ŋ q t u	1169
+405	Palauan	to think	omdasu	o m d a s u	1263
+406	Bare'e	to think	monawa	m o n a w a	1489
+407	Iban	to think	rundiŋ	r u n d i ŋ	1560
+408	Moken	to think	məkʰit	m ə kʰ i t	565
+409	Hanunoo	to think	umisip	u m i s i p	565
+410	Hanunoo	to think	magduman	m a g d u m a n	565
+411	Tetum	to think	hanoʔin	h a n o ʔ i n	500
+412	Mailu	to think	sunaːvini	s u n aː v i n i	-752
+413	Tsou	to think	maʔmi	m a ʔ m i	2107
+414	Nias	to think	wai	w a i	2233
+415	Central Amis	to think	miharateŋ	m i h a r a t e ŋ	2343
+416	Central Amis	to think	miharateŋ	m i h a r a t e ŋ	2344
+417	Chamorro	to think	hasːo	h a sː o	2520
+418	Banoni	to think	varekana	v a r e k a n a	2613
+419	Singhi	to think	saka#ŋasuŋ	s a k a # ŋ a s u ŋ	2751
+#
+420	Maloh	to fear	takut	t a k u t	787
+421	Merina (Malagasy)	to fear	tahotra	t a h o t r a	787
+422	Thao	to fear	shuŋkash	s h u ŋ k a s h	1170
+423	Palauan	to fear	dakt	d a k t	787
+424	Tunjung	to fear	bihin	b i h i n	1410
+425	Bare'e	to fear	maeka	m a e k a	330
+426	Iban	to fear	takut	t a k u t	787
+427	Berawan (Long Terawan)	to fear	bikaʔ	b i k a ʔ	1635
+428	Moken	to fear	gajaːŋ	g a j aː ŋ	1709
+429	Moken	to fear	lakoːt	l a k oː t	-787
+430	Hanunoo	to fear	dalaʔ	d a l a ʔ	1803
+431	Wuna	to fear	notehi	n o t e h i	753
+432	Tetum	to fear	hatauk	h a t a u k	787
+433	Mailu	to fear	taguru	t a g u r u	-787
+434	Tsou	to fear	skoeu	s k o e u	2108
+435	Nias	to fear	taʔu	t a ʔ u	787
+436	Central Amis	to fear	matalaw	m a t a l a w	798
+437	Chamorro	to fear	kinibatde	k i n i b a t d e	2521
+438	Banoni	to fear	vere	v e r e	2614
+439	Singhi	to fear	toru	t o r u	2752
+440	Banggi	to fear	molok	m o l o k	2848
+#
+441	Maloh	blood	daraʔ	d a r a ʔ	572
+442	Merina (Malagasy)	blood	ra	r a	572
+443	Thao	blood	talhum	t a l h u m	1171
+444	Palauan	blood	rasecʰ	r a s e cʰ	1264
+445	Tunjung	blood	rahaʔ	r a h a ʔ	572
+446	Bare'e	blood	daː	d aː	572
+447	Iban	blood	darah	d a r a h	572
+448	Berawan (Long Terawan)	blood	səma	s ə m a	346
+449	Moken	blood	dalaːk	d a l aː k	572
+450	Hanunoo	blood	duguʔ	d u g u ʔ	396
+451	Wuna	blood	rea	r e a	572
+452	Tetum	blood	raːn	r aː n	572
+453	Mailu	blood	lala	l a l a	572
+454	Tsou	blood	hmueu	h m u e u	2109
+455	Nias	blood	do	d o	572
+456	Central Amis	blood	remes	r e m e s	2345
+457	Banoni	blood	ŋatsi	ŋ a t s i	2615
+458	Singhi	blood	doja	d o j a	572
+459	Banggi	blood	raːh	r aː h	572
+#
+460	Maloh	head	ulu	u l u	442
+461	Merina (Malagasy)	head	loha	l o h a	1062
+462	Thao	head	punuq	p u n u q	552
+463	Palauan	head	klidm	k l i d m	1265
+464	Tunjung	head	kuhuŋ	k u h u ŋ	438
+465	Bare'e	head	woʔo	w o ʔ o	1490
+466	Berawan (Long Terawan)	head	uloh	u l o h	442
+467	Hanunoo	head	ulu	u l u	442
+468	Wuna	head	fotu	f o t u	578
+469	Tetum	head	ulun	u l u n	442
+470	Mailu	head	uru	u r u	442
+471	Mailu	head	moru	m o r u	442
+472	Tsou	head	fŋuu	f ŋ u u	530
+473	Nias	head	hõgõ	h õ g õ	2234
+474	Central Amis	head	taŋar	t a ŋ a r	516
+475	Central Amis	head	fuŋoh	f u ŋ o h	530
+476	Chamorro	head	ulu	u l u	442
+477	Banoni	head	tope	t o p e	2616
+478	Singhi	head	bak	b a k	2753
+479	Banggi	head	ulu	u l u	442
+#
+480	Maloh	neck	kaloŋ	k a l o ŋ	1003
+481	Merina (Malagasy)	neck	vozona	v o z o n a	1063
+482	Thao	neck	buqtur	b u q t u r	1172
+483	Palauan	neck	cʰikl	cʰ i k l	1266
+484	Tunjung	neck	lohoŋ	l o h o ŋ	-544
+485	Bare'e	neck	taŋgude	t a ŋ g u d e	1491
+486	Iban	neck	rekoŋ	r e k o ŋ	1561
+487	Berawan (Long Terawan)	neck	bitoʔ	b i t o ʔ	-557
+488	Moken	neck	tukʰoː	t u kʰ oː	1710
+489	Moken	neck	buloːŋ	b u l oː ŋ	421
+490	Hanunoo	neck	liʔug	l i ʔ u g	220
+491	Wuna	neck	wugʰu	w u gʰ u	94
+492	Tetum	neck	kakorok	k a k o r o k	-643
+493	Mailu	neck	kusani	k u s a n i	1947
+494	Tsou	neck	sʉ́nʉ	s ʉ́ n ʉ	2110
+495	Nias	neck	bagi	b a g i	2235
+496	Central Amis	neck	liqer	l i q e r	220
+497	Central Amis	neck	liʕer	l i ʕ e r	220
+498	Banoni	neck	kokoromo	k o k o r o m o	657
+499	Singhi	neck	tuŋoe	t u ŋ o e	-325
+500	Banggi	neck	tigoru	t i g o r u	2849
+#
+501	Maloh	hair	buk	b u k	252
+502	Merina (Malagasy)	hair	volo	v o l o	-126
+503	Thao	hair	fukish	f u k i s h	252
+504	Palauan	hair	cʰui	cʰ u i	-252
+505	Tunjung	hair	alaw	a l a w	677
+506	Bare'e	hair	wujua	w u j u a	-126
+507	Iban	hair	bok	b o k	252
+508	Berawan (Long Terawan)	hair	puʔ	p u ʔ	252
+509	Moken	hair	buloj	b u l o j	1711
+510	Hanunoo	hair	buhuk	b u h u k	252
+511	Wuna	hair	vulu#no#fotu	v u l u # n o # f o t u	126
+512	Tetum	hair	fuːk	f uː k	252
+513	Mailu	hair	limuː	l i m uː	441
+514	Tsou	hair	fʔʉ́sʉ	f ʔ ʉ́ s ʉ	252
+515	Nias	hair	bu	b u	252
+516	Central Amis	hair	fukes	f u k e s	252
+517	Chamorro	hair	gapotulu	g a p o t u l u	126
+518	Chamorro	hair	pulu	p u l u	586
+519	Banoni	hair	punu	p u n u	586
+520	Singhi	hair	boek	b o e k	252
+521	Banggi	hair	obuk	o b u k	252
+#
+522	Maloh	nose	iŋar	i ŋ a r	1004
+523	Merina (Malagasy)	nose	orona	o r o n a	26
+524	Thao	nose	muzin	m u z i n	316
+525	Palauan	nose	iis	i i s	1267
+526	Tunjung	nose	uruŋ	u r u ŋ	26
+527	Bare'e	nose	eŋo	e ŋ o	119
+528	Iban	nose	idoŋ	i d o ŋ	26
+529	Berawan (Long Terawan)	nose	cuŋ	c u ŋ	26
+530	Moken	nose	cahuːŋ	c a h uː ŋ	1712
+531	Moken	nose	joŋ	j o ŋ	-26
+532	Hanunoo	nose	iruŋ	i r u ŋ	26
+533	Tetum	nose	inur	i n u r	26
+534	Mailu	nose	durumu	d u r u m u	1948
+535	Tsou	nose	ŋʉcʉ	ŋ ʉ c ʉ	680
+536	Nias	nose	ixu	i x u	26
+537	Central Amis	nose	ŋusuq	ŋ u s u q	680
+538	Central Amis	nose	ŋosoʕ	ŋ o s o ʕ	680
+539	Banoni	nose	vivitsi	v i v i t s i	26
+540	Banoni	nose	visu	v i s u	26
+541	Singhi	nose	nuŋ	n u ŋ	-26
+542	Banggi	nose	iduŋ	i d u ŋ	26
+#
+543	Maloh	to breathe	batak#nʲawa	b a t a k # nʲ a w a	55
+544	Merina (Malagasy)	to breathe	mifoka	m i f o k a	1064
+545	Thao	to breathe	shminaw	s h m i n a w	1173
+546	Palauan	to breathe	outelil	o u t e l i l	1268
+547	Tunjung	to breathe	ŋasaŋ	ŋ a s a ŋ	124
+548	Bare'e	to breathe	wolo	w o l o	1492
+549	Iban	to breathe	benʲawa	b e nʲ a w a	55
+550	Iban	to breathe	njintak#seput	n j i n t a k # s e p u t	1562
+551	Iban	to breathe	enseput	e n s e p u t	1563
+552	Berawan (Long Terawan)	to breathe	ŋətəcin	ŋ ə t ə c i n	-124
+553	Moken	to breathe	pahoːt	p a h oː t	1713
+554	Hanunoo	to breathe	arup	a r u p	1804
+555	Wuna	to breathe	nofenei	n o f e n e i	593
+556	Mailu	to breathe	mau#ːuriuri	m a u #ː u r i u r i	1949
+557	Tsou	to breathe	eunsou	e u n s o u	2111
+558	Nias	to breathe	mohanuhanu	m o h a n u h a n u	2236
+559	Central Amis	to breathe	saslaʕan	s a s l a ʕ a n	2346
+560	Chamorro	to breathe	hagoŋ	h a g o ŋ	2522
+561	Banoni	to breathe	vasa	v a s a	2617
+562	Singhi	to breathe	masuŋ	m a s u ŋ	124
+563	Banggi	to breathe	intaŋ	i n t a ŋ	2850
+#
+564	Maloh	to sniff, smell	mambu	m a m b u	352
+565	Merina (Malagasy)	to sniff, smell	mitroka	m i t r o k a	1065
+566	Thao	to sniff, smell	shmazik	s h m a z i k	686
+567	Palauan	to sniff, smell	meluŋl	m e l u ŋ l	1269
+568	Tunjung	to sniff, smell	karak	k a r a k	686
+569	Bare'e	to sniff, smell	meeŋa	m e e ŋ a	1493
+570	Iban	to sniff, smell	sium	s i u m	453
+571	Berawan (Long Terawan)	to sniff, smell	marəʔ	m a r ə ʔ	686
+572	Hanunoo	to sniff, smell	sumiŋhut	s u m i ŋ h u t	1805
+573	Wuna	to sniff, smell	nofowono	n o f o w o n o	841
+574	Tetum	to sniff, smell	horan	h o r a n	1885
+575	Mailu	to sniff, smell	naninani	n a n i n a n i	1950
+576	Tsou	to sniff, smell	eéluʉ	e é l u ʉ	2112
+577	Nias	to sniff, smell	ago	a g o	2237
+578	Central Amis	to sniff, smell	sanek	s a n e k	686
+579	Central Amis	to sniff, smell	hanek	h a n e k	686
+580	Banoni	to sniff, smell	gʰau	gʰ a u	2618
+581	Singhi	to sniff, smell	koduk	k o d u k	686
+582	Banggi	to sniff, smell	eŋgadak	e ŋ g a d a k	686
+#
+583	Maloh	mouth	babaʔ	b a b a ʔ	716
+584	Merina (Malagasy)	mouth	vava	v a v a	716
+585	Thao	mouth	ruzic	r u z i c	1174
+586	Palauan	mouth	ŋor	ŋ o r	1270
+587	Tunjung	mouth	oncoŋ	o n c o ŋ	1411
+588	Bare'e	mouth	ŋuju	ŋ u j u	96
+589	Iban	mouth	mulut	m u l u t	60
+590	Iban	mouth	nʲawa	nʲ a w a	716
+591	Berawan (Long Terawan)	mouth	munoŋ	m u n o ŋ	779
+592	Moken	mouth	ʔokaːŋ	ʔ o k aː ŋ	1714
+593	Hanunoo	mouth	bibig	b i b i g	692
+594	Hanunoo	mouth	sulaŋ	s u l a ŋ	1806
+595	Wuna	mouth	woba	w o b a	716
+596	Tetum	mouth	ibun	i b u n	462
+597	Tetum	mouth	nunun	n u n u n	96
+598	Mailu	mouth	noga	n o g a	1951
+599	Tsou	mouth	ŋaeo	ŋ a e o	2113
+600	Nias	mouth	bawa	b a w a	716
+601	Central Amis	mouth	ŋujus	ŋ u j u s	2347
+602	Central Amis	mouth	ŋojos	ŋ o j o s	2348
+603	Chamorro	mouth	pacʰot	p a cʰ o t	2523
+604	Banoni	mouth	maŋo	m a ŋ o	652
+605	Singhi	mouth	boba	b o b a	716
+606	Banggi	mouth	bobok	b o b o k	716
+#
+607	Maloh	tooth	isi	i s i	369
+608	Merina (Malagasy)	tooth	nifj	n i f j	492
+609	Thao	tooth	nipin	n i p i n	492
+610	Palauan	tooth	uiŋel	u i ŋ e l	1271
+611	Tunjung	tooth	kəsiŋ	k ə s i ŋ	387
+612	Bare'e	tooth	ŋisi	ŋ i s i	369
+613	Iban	tooth	ŋeliʔ	ŋ e l i ʔ	1564
+614	Berawan (Long Terawan)	tooth	jipən	j i p ə n	492
+615	Moken	tooth	lepan	l e p a n	492
+616	Hanunoo	tooth	ŋipun	ŋ i p u n	492
+617	Wuna	tooth	waŋka	w a ŋ k a	31
+618	Tetum	tooth	nean	n e a n	-492
+619	Mailu	tooth	gagina	g a g i n a	1952
+620	Mailu	tooth	maː	m aː	1953
+621	Tsou	tooth	hisi	h i s i	261
+622	Nias	tooth	ifõ	i f õ	492
+623	Central Amis	tooth	walis	w a l i s	261
+624	Chamorro	tooth	nifen	n i f e n	492
+625	Banoni	tooth	nuki	n u k i	2619
+626	Singhi	tooth	jupen	j u p e n	492
+627	Banggi	tooth	kuhud	k u h u d	2851
+#
+628	Maloh	tongue	lilaʔ	l i l a ʔ	142
+629	Merina (Malagasy)	tongue	léla	l é l a	142
+630	Thao	tongue	zama	z a m a	368
+631	Palauan	tongue	cʰur	cʰ u r	1272
+632	Tunjung	tongue	celaʔ	c e l a ʔ	142
+633	Bare'e	tongue	jila	j i l a	142
+634	Iban	tongue	dilah	d i l a h	142
+635	Berawan (Long Terawan)	tongue	jali	j a l i	142
+636	Moken	tongue	kəleʔ	k ə l e ʔ	1715
+637	Hanunoo	tongue	dilaʔ	d i l a ʔ	142
+638	Wuna	tongue	lela	l e l a	142
+639	Tetum	tongue	nanaːn	n a n aː n	468
+640	Mailu	tongue	goba	g o b a	465
+641	Tsou	tongue	umo	u m o	368
+642	Nias	tongue	lela	l e l a	142
+643	Central Amis	tongue	sema	s e m a	368
+644	Banoni	tongue	mea	m e a	757
+645	Singhi	tongue	jorah	j o r a h	142
+646	Banggi	tongue	dila	d i l a	142
+#
+647	Maloh	to laugh	tatawa	t a t a w a	145
+648	Merina (Malagasy)	to laugh	héhj	h é h j	1066
+649	Thao	to laugh	macacawa	m a c a c a w a	145
+650	Palauan	to laugh	ocʰercʰur	o cʰ e r cʰ u r	1273
+651	Tunjung	to laugh	tagaʔ	t a g a ʔ	145
+652	Bare'e	to laugh	gele	g e l e	1494
+653	Iban	to laugh	ketawaʔ	k e t a w a ʔ	145
+654	Berawan (Long Terawan)	to laugh	tabəh	t a b ə h	145
+655	Moken	to laugh	nawaʔ	n a w a ʔ	145
+656	Hanunoo	to laugh	akʔak	a k ʔ a k	177
+657	Hanunoo	to laugh	sumari	s u m a r i	12
+658	Wuna	to laugh	fota	f o t a	145
+659	Tetum	to laugh	hanasːa	h a n a sː a	1886
+660	Mailu	to laugh	toru	t o r u	1954
+661	Tsou	to laugh	cocvo	c o c v o	145
+662	Nias	to laugh	taw̃a	t a w̃ a	145
+663	Central Amis	to laugh	miceriq	m i c e r i q	2349
+664	Central Amis	to laugh	tawa	t a w a	145
+665	Central Amis	to laugh	matawa	m a t a w a	145
+666	Chamorro	to laugh	cʰalek	cʰ a l e k	2524
+667	Banoni	to laugh	vagiri	v a g i r i	2620
+668	Singhi	to laugh	tauwix	t a u w i x	145
+#
+669	Maloh	to cry	anaŋis	a n a ŋ i s	179
+670	Merina (Malagasy)	to cry	mitomanj	m i t o m a n j	179
+671	Thao	to cry	cmanit	c m a n i t	179
+672	Palauan	to cry	lmaŋel	l m a ŋ e l	1274
+673	Tunjung	to cry	naŋi	n a ŋ i	179
+674	Bare'e	to cry	taŋi	t a ŋ i	179
+675	Iban	to cry	sabak	s a b a k	1565
+676	Berawan (Long Terawan)	to cry	naŋeh	n a ŋ e h	179
+677	Moken	to cry	naŋaj	n a ŋ a j	179
+678	Hanunoo	to cry	maglumi	m a g l u m i	1807
+679	Wuna	to cry	nogʰae	n o gʰ a e	243
+680	Tetum	to cry	tanis	t a n i s	179
+681	Mailu	to cry	ini	i n i	-179
+682	Tsou	to cry	moŋsi	m o ŋ s i	179
+683	Nias	to cry	meʔe	m e ʔ e	2238
+684	Nias	to cry	moweŋuweŋu	m o w e ŋ u w e ŋ u	2239
+685	Central Amis	to cry	tumaŋic	t u m a ŋ i c	179
+686	Chamorro	to cry	taŋes	t a ŋ e s	179
+687	Banoni	to cry	tanisi	t a n i s i	179
+688	Singhi	to cry	sien	s i e n	2754
+689	Banggi	to cry	temeis	t e m e i s	179
+#
+690	Maloh	to vomit	talimbuak	t a l i m b u a k	-794
+691	Merina (Malagasy)	to vomit	mandoa	m a n d o a	1067
+692	Thao	to vomit	mutaq	m u t a q	794
+693	Palauan	to vomit	mudecʰ	m u d e cʰ	794
+694	Tunjung	to vomit	notaʔ	n o t a ʔ	794
+695	Bare'e	to vomit	melua	m e l u a	112
+696	Iban	to vomit	mutah	m u t a h	794
+697	Berawan (Long Terawan)	to vomit	nʲuta	nʲ u t a	794
+698	Moken	to vomit	motaːk	m o t aː k	794
+699	Hanunoo	to vomit	sumuka	s u m u k a	470
+700	Wuna	to vomit	toŋka	t o ŋ k a	112
+701	Tetum	to vomit	kalea	k a l e a	1887
+702	Tetum	to vomit	muta	m u t a	794
+703	Mailu	to vomit	gobagoba	g o b a g o b a	-499
+704	Tsou	to vomit	teabuto	t e a b u t o	794
+705	Nias	to vomit	muta	m u t a	794
+706	Central Amis	to vomit	mutaq	m u t a q	794
+707	Central Amis	to vomit	mautaʕ	m a u t a ʕ	794
+708	Banoni	to vomit	toruː	t o r uː	2621
+709	Singhi	to vomit	ŋutah	ŋ u t a h	794
+#
+710	Maloh	to spit	malasuʔ	m a l a s u ʔ	1005
+711	Merina (Malagasy)	to spit	mandrora	m a n d r o r a	829
+712	Thao	to spit	mafilhaq	m a f i l h a q	1175
+713	Palauan	to spit	melub	m e l u b	1275
+714	Tunjung	to spit	məcuh	m ə c u h	1412
+715	Iban	to spit	ŋeludah	ŋ e l u d a h	829
+716	Berawan (Long Terawan)	to spit	suli	s u l i	407
+717	Moken	to spit	ŋanʲaw	ŋ a nʲ a w	1716
+718	Hanunoo	to spit	magbuga	m a g b u g a	1808
+719	Wuna	to spit	fogʰoniu	f o gʰ o n i u	805
+720	Wuna	to spit	feugʰi	f e u gʰ i	805
+721	Tetum	to spit	teniru	t e n i r u	1888
+722	Mailu	to spit	arimuai	a r i m u a i	1955
+723	Tsou	to spit	tmʉeposʉ	t m ʉ e p o s ʉ	-522
+724	Nias	to spit	ilo	i l o	217
+725	Central Amis	to spit	ŋalaj	ŋ a l a j	115
+726	Central Amis	to spit	misupa	m i s u p a	2350
+727	Banoni	to spit	nomi	n o m i	2622
+728	Singhi	to spit	ŋujah	ŋ u j a h	829
+729	Banggi	to spit	ilab	i l a b	51
+#
+730	Maloh	to eat	aŋkan	a ŋ k a n	222
+731	Merina (Malagasy)	to eat	homana	h o m a n a	222
+732	Thao	to eat	kman	k m a n	222
+733	Tunjung	to eat	kuman	k u m a n	222
+734	Bare'e	to eat	maŋkoni	m a ŋ k o n i	-222
+735	Iban	to eat	makai	m a k a i	222
+736	Berawan (Long Terawan)	to eat	kuman	k u m a n	222
+737	Moken	to eat	peh	p e h	1717
+738	Moken	to eat	nʲam	nʲ a m	1718
+739	Hanunoo	to eat	kumaʔun	k u m a ʔ u n	222
+740	Wuna	to eat	fomaː	f o m aː	639
+741	Tetum	to eat	ha	h a	-222
+742	Mailu	to eat	isiːsi	i s iː s i	1956
+743	Tsou	to eat	bonʉ	b o n ʉ	222
+744	Tsou	to eat	ana	a n a	-222
+745	Central Amis	to eat	kaqen	k a q e n	222
+746	Chamorro	to eat	cʰocʰu	cʰ o cʰ u	2525
+747	Banoni	to eat	tam	t a m	304
+748	Banoni	to eat	bebau	b e b a u	2623
+749	Singhi	to eat	man	m a n	-222
+750	Banggi	to eat	mohodn	m o h o d n	2852
+#
+751	Merina (Malagasy)	to chew	mihota	m i h o t a	1068
+752	Thao	to chew	mapapak	m a p a p a k	18
+753	Palauan	to chew	melecʰedacʰem	m e l e cʰ e d a cʰ e m	1276
+754	Palauan	to chew	meriŋet	m e r i ŋ e t	1277
+755	Palauan	to chew	melamecʰ	m e l a m e cʰ	1278
+756	Bare'e	to chew	mama	m a m a	642
+757	Iban	to chew	kunʲah	k u nʲ a h	803
+758	Berawan (Long Terawan)	to chew	kapaʔ	k a p a ʔ	-444
+759	Moken	to chew	mənʲaːj	m ə nʲ aː j	1719
+760	Hanunoo	to chew	magtaltaʔ	m a g t a l t a ʔ	1809
+761	Wuna	to chew	kamama	k a m a m a	642
+762	Tetum	to chew	mamːa	m a mː a	642
+763	Mailu	to chew	naʔunaʔu	n a ʔ u n a ʔ u	1957
+764	Mailu	to chew	asiasi	a s i a s i	1958
+765	Tsou	to chew	msimo	m s i m o	2114
+766	Tsou	to chew	sinvi	s i n v i	2115
+767	Nias	to chew	moŋaŋa	m o ŋ a ŋ a	2240
+768	Central Amis	to chew	kemkem	k e m k e m	2351
+769	Central Amis	to chew	papap	p a p a p	-444
+770	Chamorro	to chew	nʲamnʲam	nʲ a m nʲ a m	2526
+771	Chamorro	to chew	ŋaŋas	ŋ a ŋ a s	-739
+772	Singhi	to chew	mopa	m o p a	2755
+773	Singhi	to chew	nʲugis	nʲ u g i s	2756
+#
+774	Maloh	to cook	mapiaŋ	m a p i a ŋ	1006
+775	Maloh	to cook	riko	r i k o	1007
+776	Merina (Malagasy)	to cook	mahandro	m a h a n d r o	1069
+777	Palauan	to cook	meliokl	m e l i o k l	1279
+778	Tunjung	to cook	əncak	ə n c a k	1413
+779	Bare'e	to cook	monau	m o n a u	545
+780	Iban	to cook	sumai	s u m a i	1566
+781	Iban	to cook	tanak	t a n a k	410
+782	Berawan (Long Terawan)	to cook	pacaʔ	p a c a ʔ	72
+783	Moken	to cook	mədoːt	m ə d oː t	1720
+784	Tetum	to cook	teʔin	t e ʔ i n	1889
+785	Tetum	to cook	nasu	n a s u	545
+786	Tetum	to cook	daʔan	d a ʔ a n	186
+787	Mailu	to cook	daridari	d a r i d a r i	221
+788	Tsou	to cook	cueu	c u e u	2116
+789	Nias	to cook	lõma	l õ m a	2241
+790	Nias	to cook	rino	r i n o	2242
+791	Central Amis	to cook	mitaŋtaŋ	m i t a ŋ t a ŋ	2352
+792	Central Amis	to cook	mitaŋtaŋ	m i t a ŋ t a ŋ	2353
+793	Chamorro	to cook	cʰahan	cʰ a h a n	186
+794	Banoni	to cook	keːkaru	k eː k a r u	2624
+795	Singhi	to cook	tunuk	t u n u k	410
+#
+796	Maloh	to drink	mainʲum	m a i nʲ u m	294
+797	Merina (Malagasy)	to drink	misotro	m i s o t r o	1070
+798	Thao	to drink	miqilha	m i q i l h a	1176
+799	Palauan	to drink	melim	m e l i m	294
+800	Tunjung	to drink	muruʔ	m u r u ʔ	1414
+801	Bare'e	to drink	inu	i n u	294
+802	Iban	to drink	irup	i r u p	598
+803	Berawan (Long Terawan)	to drink	cəʔ	c ə ʔ	1636
+804	Moken	to drink	maʔam	m a ʔ a m	1721
+805	Hanunoo	to drink	uminum	u m i n u m	294
+806	Wuna	to drink	foragʰu	f o r a gʰ u	715
+807	Tetum	to drink	hemu	h e m u	1890
+808	Mailu	to drink	tepatepari	t e p a t e p a r i	1959
+809	Tsou	to drink	mimo	m i m o	463
+810	Nias	to drink	inu	i n u	294
+811	Central Amis	to drink	helot	h e l o t	2354
+812	Central Amis	to drink	minanum	m i n a n u m	230
+813	Chamorro	to drink	gimen	g i m e n	-294
+814	Banoni	to drink	kuː	k uː	525
+815	Singhi	to drink	nuoh	n u o h	-294
+816	Banggi	to drink	eŋinum	e ŋ i n u m	294
+#
+817	Maloh	to bite	kokot	k o k o t	-63
+818	Maloh	to bite	siap	s i a p	1008
+819	Merina (Malagasy)	to bite	manaikitra	m a n a i k i t r a	1071
+820	Thao	to bite	kmirkir	k m i r k i r	1177
+821	Palauan	to bite	baŋcʰ	b a ŋ cʰ	1280
+822	Tunjung	to bite	ŋeket	ŋ e k e t	630
+823	Bare'e	to bite	mama	m a m a	1495
+824	Iban	to bite	ketup	k e t u p	1567
+825	Iban	to bite	kanit	k a n i t	1568
+826	Berawan (Long Terawan)	to bite	katan	k a t a n	-63
+827	Moken	to bite	lokoːt	l o k oː t	1722
+828	Hanunoo	to bite	kagat	k a g a t	63
+829	Wuna	to bite	fonaː	f o n aː	1862
+830	Tetum	to bite	makːit	m a kː i t	63
+831	Tetum	to bite	hanisi	h a n i s i	1891
+832	Mailu	to bite	apuapu	a p u a p u	361
+833	Tsou	to bite	boecʉ	b o e c ʉ	63
+834	Tsou	to bite	eoeoca	e o e o c a	2117
+835	Nias	to bite	usu	u s u	2243
+836	Central Amis	to bite	mikarat	m i k a r a t	63
+837	Central Amis	to bite	mikalat	m i k a l a t	63
+838	Banoni	to bite	kanata	k a n a t a	63
+839	Singhi	to bite	kuːt	k uː t	-63
+840	Banggi	to bite	nohol	n o h o l	2853
+#
+841	Maloh	to suck	manʲusuʔ	m a nʲ u s u ʔ	101
+842	Merina (Malagasy)	to suck	mitséntsitra	m i t s é n t s i t r a	1072
+843	Thao	to suck	ucuc	u c u c	1178
+844	Palauan	to suck	melmotm	m e l m o t m	1281
+845	Tunjung	to suck	mosoʔ	m o s o ʔ	1415
+846	Bare'e	to suck	mancusu	m a n c u s u	101
+847	Bare'e	to suck	metomi	m e t o m i	101
+848	Berawan (Long Terawan)	to suck	nʲinauʔ	nʲ i n a u ʔ	1637
+849	Moken	to suck	mujoːt	m u j oː t	1723
+850	Hanunoo	to suck	sumupsup	s u m u p s u p	101
+851	Wuna	to suck	komi	k o m i	756
+852	Tetum	to suck	susu	s u s u	101
+853	Mailu	to suck	amosi	a m o s i	-604
+854	Mailu	to suck	dorodoro	d o r o d o r o	1960
+855	Nias	to suck	siõ	s i õ	2244
+856	Central Amis	to suck	cuhcuh	c u h c u h	2355
+857	Chamorro	to suck	cʰopcʰop	cʰ o p cʰ o p	-101
+858	Banoni	to suck	mutsi	m u t s i	6
+859	Singhi	to suck	nʲuop	nʲ u o p	2757
+860	Singhi	to suck	ŋisap	ŋ i s a p	101
+861	Banggi	to suck	nunsup	n u n s u p	101
+#
+862	Maloh	ear	taliŋa	t a l i ŋ a	726
+863	Merina (Malagasy)	ear	tadinj	t a d i n j	726
+864	Thao	ear	lharina	l h a r i n a	726
+865	Palauan	ear	diŋ	d i ŋ	726
+866	Tunjung	ear	neneŋ	n e n e ŋ	1416
+867	Bare'e	ear	taliŋa	t a l i ŋ a	726
+868	Iban	ear	pendiŋ	p e n d i ŋ	820
+869	Berawan (Long Terawan)	ear	adiŋ	a d i ŋ	1638
+870	Moken	ear	tetoŋ#teŋaʔ	t e t o ŋ # t e ŋ a ʔ	726
+871	Hanunoo	ear	tuli	t u l i	103
+872	Wuna	ear	poŋke	p o ŋ k e	231
+873	Tetum	ear	tilun	t i l u n	629
+874	Mailu	ear	ope	o p e	1961
+875	Tsou	ear	koeu	k o e u	2118
+876	Nias	ear	taliŋa	t a l i ŋ a	726
+877	Central Amis	ear	taŋila	t a ŋ i l a	726
+878	Central Amis	ear	taŋila	t a ŋ i l a	726
+879	Chamorro	ear	talaŋa	t a l a ŋ a	726
+880	Banoni	ear	taŋina	t a ŋ i n a	726
+881	Singhi	ear	kojit	k o j i t	2758
+#
+882	Maloh	to hear	liŋar	l i ŋ a r	754
+883	Merina (Malagasy)	to hear	mandré	m a n d r é	1073
+884	Thao	to hear	tunmaza	t u n m a z a	394
+885	Palauan	to hear	orːéŋes	o rː é ŋ e s	754
+886	Tunjung	to hear	kəheneŋ	k ə h e n e ŋ	1417
+887	Bare'e	to hear	doŋe	d o ŋ e	754
+888	Iban	to hear	diŋa	d i ŋ a	754
+889	Berawan (Long Terawan)	to hear	məneŋ	m ə n e ŋ	1639
+890	Moken	to hear	nʲaʔiəŋ	nʲ a ʔ i ə ŋ	1724
+891	Hanunoo	to hear	dunug	d u n u g	754
+892	Wuna	to hear	feteŋke	f e t e ŋ k e	384
+893	Tetum	to hear	rona	r o n a	754
+894	Mailu	to hear	naninani	n a n i n a n i	1962
+895	Tsou	to hear	tmalʉ	t m a l ʉ	394
+896	Nias	to hear	roŋo	r o ŋ o	754
+897	Central Amis	to hear	miteŋir	m i t e ŋ i r	-754
+898	Central Amis	to hear	miteŋir	m i t e ŋ i r	-754
+899	Chamorro	to hear	huŋok	h u ŋ o k	754
+900	Singhi	to hear	kidiŋah	k i d i ŋ a h	754
+901	Banggi	to hear	kidoŋor	k i d o ŋ o r	754
+#
+902	Maloh	eye	mata	m a t a	531
+903	Thao	eye	maca	m a c a	531
+904	Palauan	eye	mad	m a d	531
+905	Tunjung	eye	ueː	u eː	1418
+906	Bare'e	eye	mata	m a t a	531
+907	Iban	eye	mata	m a t a	531
+908	Berawan (Long Terawan)	eye	matːəh	m a tː ə h	531
+909	Moken	eye	mataʔ	m a t a ʔ	531
+910	Hanunoo	eye	mata	m a t a	531
+911	Wuna	eye	mata	m a t a	531
+912	Tetum	eye	matan	m a t a n	531
+913	Mailu	eye	ini	i n i	141
+914	Tsou	eye	mcoo	m c o o	531
+915	Nias	eye	hõrõ	h õ r õ	2245
+916	Central Amis	eye	mata	m a t a	531
+917	Chamorro	eye	mata	m a t a	531
+918	Banoni	eye	mata	m a t a	531
+919	Singhi	eye	botun	b o t u n	2759
+920	Banggi	eye	maːta	m aː t a	531
+#
+921	Maloh	to see	bélé	b é l é	1009
+922	Merina (Malagasy)	to see	mahita	m a h i t a	570
+923	Thao	to see	mrikaz	m r i k a z	1179
+924	Palauan	to see	omés	o m é s	1282
+925	Tunjung	to see	neaw	n e a w	1419
+926	Bare'e	to see	maŋkita	m a ŋ k i t a	570
+927	Iban	to see	pedaʔ	p e d a ʔ	1569
+928	Berawan (Long Terawan)	to see	niru	n i r u	1640
+929	Moken	to see	pənaʔ	p ə n a ʔ	1725
+930	Hanunoo	to see	makakit	m a k a k i t	570
+931	Wuna	to see	nofoara	n o f o a r a	1863
+932	Tetum	to see	hare	h a r e	64
+933	Mailu	to see	erieri	e r i e r i	1963
+934	Mailu	to see	ioio	i o i o	1964
+935	Tsou	to see	baito	b a i t o	570
+936	Tsou	to see	aiti	a i t i	2119
+937	Nias	to see	ila	i l a	2246
+938	Central Amis	to see	maaraw	m a a r a w	2356
+939	Central Amis	to see	maneŋneŋ	m a n e ŋ n e ŋ	2357
+940	Central Amis	to see	mineŋneŋ	m i n e ŋ n e ŋ	2358
+941	Central Amis	to see	miaraw	m i a r a w	2359
+942	Banoni	to see	regʰe	r e gʰ e	497
+943	Singhi	to see	kirin	k i r i n	2760
+#
+944	Merina (Malagasy)	to yawn	manoaka	m a n o a k a	340
+945	Thao	to yawn	mashushuaw	m a s h u s h u a w	340
+946	Palauan	to yawn	uas	u a s	1283
+947	Bare'e	to yawn	meŋaŋa	m e ŋ a ŋ a	1496
+948	Iban	to yawn	ŋuap	ŋ u a p	340
+949	Berawan (Long Terawan)	to yawn	əmbam	ə m b a m	1641
+950	Hanunoo	to yawn	manlabgab	m a n l a b g a b	1810
+951	Tetum	to yawn	maːs	m aː s	-340
+952	Mailu	to yawn	agasa	a g a s a	1965
+953	Central Amis	to yawn	masuwaf	m a s u w a f	340
+954	Chamorro	to yawn	magap	m a g a p	340
+955	Banoni	to yawn	mogʰava	m o gʰ a v a	340
+956	Banoni	to yawn	mogava	m o g a v a	340
+957	Singhi	to yawn	kuab	k u a b	340
+#
+958	Merina (Malagasy)	to sleep	matorj	m a t o r j	219
+959	Thao	to sleep	malhus	m a l h u s	1180
+960	Palauan	to sleep	durs	d u r s	219
+961	Tunjung	to sleep	tiro	t i r o	219
+962	Bare'e	to sleep	ina	i n a	1497
+963	Iban	to sleep	tindok	t i n d o k	1570
+964	Berawan (Long Terawan)	to sleep	turo	t u r o	219
+965	Moken	to sleep	miduːn	m i d uː n	-219
+966	Hanunoo	to sleep	maturug	m a t u r u g	219
+967	Wuna	to sleep	nolodo	n o l o d o	774
+968	Tetum	to sleep	toba	t o b a	214
+969	Mailu	to sleep	uiui	u i u i	-647
+970	Tsou	to sleep	oeŋʉ́tʉ	o e ŋ ʉ́ t ʉ	2120
+971	Nias	to sleep	mõrõ	m õ r õ	2247
+972	Central Amis	to sleep	futiq	f u t i q	2360
+973	Central Amis	to sleep	mafutiʕ	m a f u t i ʕ	2361
+974	Banoni	to sleep	tseregʰe	t s e r e gʰ e	2625
+975	Banoni	to sleep	matsure	m a t s u r e	219
+976	Singhi	to sleep	boes	b o e s	2761
+977	Banggi	to sleep	modop	m o d o p	2854
+#
+978	Maloh	to lie down	arabaʔ	a r a b a ʔ	1010
+979	Merina (Malagasy)	to lie down	mandrj	m a n d r j	1074
+980	Thao	to lie down	pantaqnar	p a n t a q n a r	1181
+981	Palauan	to lie down	mecʰiuaiu	m e cʰ i u a i u	1284
+982	Tunjung	to lie down	tempoŋ	t e m p o ŋ	1420
+983	Bare'e	to lie down	ina	i n a	837
+984	Iban	to lie down	galiʔ	g a l i ʔ	624
+985	Berawan (Long Terawan)	to lie down	səliʔaj	s ə l i ʔ a j	1642
+986	Moken	to lie down	batiŋ	b a t i ŋ	385
+987	Moken	to lie down	ŋuliəŋ	ŋ u l i ə ŋ	1726
+988	Hanunoo	to lie down	igjaʔ	i g j a ʔ	1811
+989	Hanunoo	to lie down	huwaj	h u w a j	257
+990	Hanunoo	to lie down	pahuwaj	p a h u w a j	257
+991	Tetum	to lie down	toba	t o b a	279
+992	Tsou	to lie down	oevoi	o e v o i	2121
+993	Central Amis	to lie down	tiqenaŋ	t i q e n a ŋ	2362
+994	Central Amis	to lie down	tihmuk	t i h m u k	2363
+995	Chamorro	to lie down	asːon	a sː o n	2527
+996	Singhi	to lie down	guriŋ	g u r i ŋ	2762
+997	Singhi	to lie down	bironʲoŋ	b i r o nʲ o ŋ	2763
+998	Banggi	to lie down	semarik	s e m a r i k	2855
+#
+999	Maloh	to dream	mui	m u i	1011
+1000	Merina (Malagasy)	to dream	manofj	m a n o f j	23
+1001	Palauan	to dream	berːous	b e rː o u s	1285
+1002	Bare'e	to dream	maŋipi	m a ŋ i p i	23
+1003	Iban	to dream	mimpi	m i m p i	23
+1004	Berawan (Long Terawan)	to dream	ŋənupeh	ŋ ə n u p e h	23
+1005	Moken	to dream	lipuj	l i p u j	-23
+1006	Hanunoo	to dream	taginʔup	t a g i n ʔ u p	131
+1007	Tetum	to dream	mihin	m i h i n	23
+1008	Tetum	to dream	mehi	m e h i	23
+1009	Mailu	to dream	nivi	n i v i	23
+1010	Mailu	to dream	niviai	n i v i a i	23
+1011	Tsou	to dream	eacéi	e a c é i	2122
+1012	Nias	to dream	ifi	i f i	23
+1013	Central Amis	to dream	malemel	m a l e m e l	2364
+1014	Chamorro	to dream	auifi	a u i f i	-23
+1015	Banoni	to dream	tatara	t a t a r a	299
+1016	Singhi	to dream	pimux	p i m u x	2764
+1017	Banggi	to dream	eŋgenifi	e ŋ g e n i f i	23
+#
+1018	Maloh	to sit	duduk	d u d u k	389
+1019	Merina (Malagasy)	to sit	mametraka	m a m e t r a k a	1075
+1020	Merina (Malagasy)	to sit	mipetraka	m i p e t r a k a	1076
+1021	Palauan	to sit	kiéi	k i é i	1286
+1022	Tunjung	to sit	dacuŋ	d a c u ŋ	1421
+1023	Bare'e	to sit	tunda	t u n d a	1498
+1024	Iban	to sit	dudok	d u d o k	389
+1025	Berawan (Long Terawan)	to sit	turaw	t u r a w	1643
+1026	Moken	to sit	təŋok	t ə ŋ o k	1727
+1027	Moken	to sit	mədoːk	m ə d oː k	1728
+1028	Hanunoo	to sit	tumukaw	t u m u k a w	1812
+1029	Wuna	to sit	neŋkora	n e ŋ k o r a	136
+1030	Tetum	to sit	tur	t u r	650
+1031	Mailu	to sit	auri	a u r i	1966
+1032	Tsou	to sit	eusuhŋu	e u s u h ŋ u	2123
+1033	Nias	to sit	dao	d a o	2248
+1034	Central Amis	to sit	maruq	m a r u q	2365
+1035	Central Amis	to sit	aloʕ	a l o ʕ	2366
+1036	Banoni	to sit	gonːa	g o nː a	633
+1037	Singhi	to sit	guru	g u r u	2765
+1038	Banggi	to sit	mufuŋ	m u f u ŋ	2856
+#
+1039	Maloh	to stand	kadeŋ	k a d e ŋ	1012
+1040	Merina (Malagasy)	to stand	mitsaŋana	m i t s a ŋ a n a	1077
+1041	Thao	to stand	ilhilhi	i l h i l h i	684
+1042	Palauan	to stand	decʰor	d e cʰ o r	1287
+1043	Tunjung	to stand	tege	t e g e	782
+1044	Bare'e	to stand	karo	k a r o	1499
+1045	Iban	to stand	diri	d i r i	684
+1046	Berawan (Long Terawan)	to stand	mitːin	m i tː i n	391
+1047	Moken	to stand	nʲenan	nʲ e n a n	1729
+1048	Hanunoo	to stand	tumindug	t u m i n d u g	125
+1049	Wuna	to stand	noere	n o e r e	420
+1050	Tetum	to stand	harik	h a r i k	296
+1051	Mailu	to stand	idaida	i d a i d a	-223
+1052	Mailu	to stand	idara	i d a r a	-223
+1053	Tsou	to stand	eacʉ	e a c ʉ	2124
+1054	Nias	to stand	maoso	m a o s o	2249
+1055	Central Amis	to stand	tumireŋ	t u m i r e ŋ	2367
+1056	Chamorro	to stand	tacʰu	t a cʰ u	2528
+1057	Chamorro	to stand	tohge	t o h g e	-321
+1058	Banoni	to stand	tsigʰom	t s i gʰ o m	321
+1059	Banoni	to stand	pito	p i t o	90
+1060	Singhi	to stand	mojug	m o j u g	2766
+#
+1061	Maloh	person/human being	mantuari	m a n t u a r i	454
+1062	Maloh	person/human being	tau	t a u	454
+1063	Merina (Malagasy)	person/human being	olona	o l o n a	-649
+1064	Thao	person/human being	caw	c a w	454
+1065	Palauan	person/human being	cʰad	cʰ a d	1288
+1066	Tunjung	person/human being	ulun	u l u n	649
+1067	Bare'e	person/human being	tau	t a u	454
+1068	Iban	person/human being	oraŋ	o r a ŋ	25
+1069	Berawan (Long Terawan)	person/human being	ləmulon	l ə m u l o n	649
+1070	Moken	person/human being	kətiː	k ə t iː	1730
+1071	Moken	person/human being	mənut	m ə n u t	1731
+1072	Hanunoo	person/human being	tawu	t a w u	454
+1073	Wuna	person/human being	omie	o m i e	324
+1074	Tetum	person/human being	emːa	e mː a	1892
+1075	Mailu	person/human being	emegi	e m e g i	1967
+1076	Tsou	person/human being	cou	c o u	454
+1077	Nias	person/human being	niha	n i h a	2250
+1078	Central Amis	person/human being	tamlaw	t a m l a w	2368
+1079	Chamorro	person/human being	taotao	t a o t a o	454
+1080	Banoni	person/human being	na	n a	2626
+1081	Banoni	person/human being	tavana	t a v a n a	2627
+1082	Singhi	person/human being	dajah	d a j a h	2767
+1083	Banggi	person/human being	laːma	l aː m a	2857
+#
+1084	Maloh	man/male	babaka	b a b a k a	1013
+1085	Merina (Malagasy)	man/male	lahj	l a h j	717
+1086	Thao	man/male	ajuzi	a j u z i	1182
+1087	Palauan	man/male	secʰal	s e cʰ a l	1289
+1088	Tunjung	man/male	lihaʔ	l i h a ʔ	725
+1089	Bare'e	man/male	tuama	t u a m a	163
+1090	Iban	man/male	laki	l a k i	717
+1091	Berawan (Long Terawan)	man/male	lakeh	l a k e h	717
+1092	Moken	man/male	kanaj	k a n a j	488
+1093	Hanunoo	man/male	lalaki	l a l a k i	717
+1094	Wuna	man/male	mogʰane	m o gʰ a n e	488
+1095	Tetum	man/male	mane	m a n e	488
+1096	Mailu	man/male	egi	e g i	1968
+1097	Tsou	man/male	hahocŋʉ	h a h o c ŋ ʉ	2125
+1098	Nias	man/male	latano	l a t a n o	2251
+1099	Nias	man/male	matua	m a t u a	2252
+1100	Central Amis	man/male	faqinajan	f a q i n a j a n	2369
+1101	Central Amis	man/male	faʔinajan	f a ʔ i n a j a n	2370
+1102	Chamorro	man/male	lahi	l a h i	717
+1103	Chamorro	man/male	lai	l a i	717
+1104	Chamorro	man/male	taotao	t a o t a o	717
+1105	Banoni	man/male	tamata	t a m a t a	796
+1106	Singhi	man/male	dari	d a r i	2768
+1107	Banggi	man/male	lahi	l a h i	717
+#
+1108	Maloh	woman/female	babaiʔiŋé	b a b a i ʔ i ŋ é	262
+1109	Merina (Malagasy)	woman/female	vavj	v a v j	262
+1110	Palauan	woman/female	babil	b a b i l	262
+1111	Tunjung	woman/female	waweʔ	w a w e ʔ	262
+1112	Bare'e	woman/female	weʔa	w e ʔ a	1500
+1113	Iban	woman/female	induʔ	i n d u ʔ	1571
+1114	Berawan (Long Terawan)	woman/female	dicu	d i c u	1644
+1115	Moken	woman/female	binaj	b i n a j	262
+1116	Hanunoo	woman/female	babaji	b a b a j i	262
+1117	Wuna	woman/female	robine	r o b i n e	262
+1118	Tetum	woman/female	fetːo	f e tː o	555
+1119	Tsou	woman/female	mamespiŋi	m a m e s p i ŋ i	2126
+1120	Nias	woman/female	alawe	a l a w e	727
+1121	Central Amis	woman/female	fafahian	f a f a h i a n	262
+1122	Central Amis	woman/female	fafahijan	f a f a h i j a n	262
+1123	Banoni	woman/female	moːno	m oː n o	-721
+1124	Singhi	woman/female	dajuŋ	d a j u ŋ	2769
+1125	Banggi	woman/female	liwun	l i w u n	178
+#
+1126	Maloh	child	anak	a n a k	143
+1127	Merina (Malagasy)	child	anaka	a n a k a	143
+1128	Thao	child	azazak	a z a z a k	143
+1129	Palauan	child	ŋalek	ŋ a l e k	1290
+1130	Tunjung	child	tuhiʔ	t u h i ʔ	1422
+1131	Bare'e	child	ana	a n a	143
+1132	Iban	child	anak	a n a k	143
+1133	Berawan (Long Terawan)	child	anaʔ	a n a ʔ	143
+1134	Moken	child	canaːt	c a n aː t	143
+1135	Moken	child	anaːt	a n aː t	143
+1136	Hanunoo	child	anak	a n a k	143
+1137	Wuna	child	anahi	a n a h i	143
+1138	Tetum	child	oan	o a n	1893
+1139	Mailu	child	oeva	o e v a	1969
+1140	Tsou	child	foinana	f o i n a n a	2127
+1141	Tsou	child	oko	o k o	2128
+1142	Nias	child	ono	o n o	143
+1143	Central Amis	child	wawa	w a w a	2371
+1144	Chamorro	child	patgon	p a t g o n	2529
+1145	Banoni	child	natsu	n a t s u	398
+1146	Singhi	child	anak	a n a k	143
+1147	Banggi	child	anak	a n a k	143
+#
+1148	Maloh	husband	baka	b a k a	1014
+1149	Maloh	husband	laki	l a k i	529
+1150	Merina (Malagasy)	husband	vadj	v a d j	1078
+1151	Thao	husband	ajuzi	a j u z i	1183
+1152	Palauan	husband	bucʰ	b u cʰ	1291
+1153	Tunjung	husband	wanaʔ	w a n a ʔ	760
+1154	Bare'e	husband	laŋkai	l a ŋ k a i	665
+1155	Iban	husband	laki	l a k i	529
+1156	Berawan (Long Terawan)	husband	binəh	b i n ə h	760
+1157	Moken	husband	kanaj	k a n a j	1732
+1158	Hanunoo	husband	asawa	a s a w a	277
+1159	Wuna	husband	mogʰane	m o gʰ a n e	139
+1160	Tetum	husband	laʔen	l a ʔ e n	-427
+1161	Mailu	husband	eme	e m e	1970
+1162	Tsou	husband	vcoŋʉ	v c o ŋ ʉ	2129
+1163	Nias	husband	foʔomo	f o ʔ o m o	2253
+1164	Nias	husband	doŋa	d o ŋ a	2254
+1165	Central Amis	husband	faʔinaj	f a ʔ i n a j	2372
+1166	Chamorro	husband	asagua	a s a g u a	2530
+1167	Banoni	husband	tamata	t a m a t a	235
+1168	Singhi	husband	bonun	b o n u n	-760
+1169	Banggi	husband	saːna	s aː n a	-277
+#
+1170	Maloh	wife	baiʔiŋé	b a i ʔ i ŋ é	537
+1171	Merina (Malagasy)	wife	vadj	v a d j	1079
+1172	Palauan	wife	bucʰ	b u cʰ	1292
+1173	Tunjung	wife	sagan	s a g a n	791
+1174	Bare'e	wife	weʔa	w e ʔ a	1501
+1175	Iban	wife	bini	b i n i	537
+1176	Berawan (Long Terawan)	wife	biʔeh	b i ʔ e h	1645
+1177	Moken	wife	binaj	b i n a j	537
+1178	Hanunoo	wife	asawa	a s a w a	791
+1179	Wuna	wife	robine	r o b i n e	537
+1180	Tetum	wife	fen	f e n	537
+1181	Mailu	wife	aveta	a v e t a	1971
+1182	Tsou	wife	vcoŋʉ	v c o ŋ ʉ	2130
+1183	Nias	wife	foʔomo	f o ʔ o m o	2255
+1184	Nias	wife	doŋa	d o ŋ a	2256
+1185	Central Amis	wife	fafahi	f a f a h i	2373
+1186	Chamorro	wife	asagua	a s a g u a	-791
+1187	Banoni	wife	moːno	m oː n o	2628
+1188	Singhi	wife	sowen	s o w e n	791
+1189	Banggi	wife	saːh	s aː h	-791
+#
+1190	Maloh	mother	induʔ	i n d u ʔ	673
+1191	Merina (Malagasy)	mother	rénj	r é n j	-577
+1192	Thao	mother	ina	i n a	577
+1193	Palauan	mother	cʰedil	cʰ e d i l	1293
+1194	Tunjung	mother	meʔ	m e ʔ	1423
+1195	Bare'e	mother	ine	i n e	577
+1196	Bare'e	mother	indo	i n d o	673
+1197	Iban	mother	indai	i n d a i	673
+1198	Berawan (Long Terawan)	mother	tinəh	t i n ə h	577
+1199	Moken	mother	ʔenoŋ	ʔ e n o ŋ	1733
+1200	Hanunoo	mother	inaʔ	i n a ʔ	577
+1201	Wuna	mother	ina	i n a	577
+1202	Tetum	mother	ina	i n a	577
+1203	Mailu	mother	adei	a d e i	1972
+1204	Tsou	mother	ino	i n o	577
+1205	Nias	mother	ina	i n a	577
+1206	Central Amis	mother	ina	i n a	577
+1207	Chamorro	mother	nana	n a n a	-826
+1208	Banoni	mother	tsina	t s i n a	577
+1209	Singhi	mother	sine	s i n e	577
+#
+1210	Maloh	father	amaʔ	a m a ʔ	611
+1211	Merina (Malagasy)	father	raj	r a j	1080
+1212	Thao	father	ama	a m a	611
+1213	Palauan	father	cʰedam	cʰ e d a m	611
+1214	Tunjung	father	maʔ	m a ʔ	611
+1215	Bare'e	father	papa	p a p a	347
+1216	Iban	father	apai	a p a i	347
+1217	Berawan (Long Terawan)	father	tanəh	t a n ə h	611
+1218	Moken	father	ʔapoŋ	ʔ a p o ŋ	-347
+1219	Hanunoo	father	amaʔ	a m a ʔ	611
+1220	Wuna	father	ama	a m a	611
+1221	Tetum	father	ama	a m a	611
+1222	Mailu	father	abai	a b a i	-347
+1223	Tsou	father	amo	a m o	611
+1224	Nias	father	ama	a m a	611
+1225	Central Amis	father	mama	m a m a	611
+1226	Chamorro	father	tata	t a t a	611
+1227	Banoni	father	tama	t a m a	611
+1228	Singhi	father	sama	s a m a	611
+1229	Banggi	father	ama	a m a	611
+#
+1230	Maloh	house	sau	s a u	246
+1231	Thao	house	taun	t a u n	310
+1232	Palauan	house	blai	b l a i	802
+1233	Tunjung	house	dapeq	d a p e q	1424
+1234	Bare'e	house	banua	b a n u a	74
+1235	Iban	house	rumah	r u m a h	377
+1236	Berawan (Long Terawan)	house	lamin	l a m i n	440
+1237	Moken	house	ʔomaːk	ʔ o m aː k	377
+1238	Hanunoo	house	balaj	b a l a j	802
+1239	Wuna	house	lambu	l a m b u	435
+1240	Tetum	house	uma	u m a	377
+1241	Mailu	house	uru	u r u	1973
+1242	Tsou	house	emoo	e m o o	377
+1243	Nias	house	omo	o m o	377
+1244	Central Amis	house	lumaq	l u m a q	377
+1245	Central Amis	house	lumaʕ	l u m a ʕ	377
+1246	Banoni	house	numa	n u m a	377
+1247	Banggi	house	baːli	b aː l i	802
+#
+1248	Maloh	thatch/roof	tuduŋ	t u d u ŋ	1015
+1249	Merina (Malagasy)	thatch/roof	tafo#bozaka	t a f o # b o z a k a	1081
+1250	Thao	thatch/roof	tafuq	t a f u q	1184
+1251	Palauan	thatch/roof	cʰado	cʰ a d o	406
+1252	Tunjung	thatch/roof	sapaw#jemiaq	s a p a w # j e m i a q	1425
+1253	Bare'e	thatch/roof	ata	a t a	406
+1254	Iban	thatch/roof	atap	a t a p	406
+1255	Iban	thatch/roof	bumbuŋ	b u m b u ŋ	1572
+1256	Berawan (Long Terawan)	thatch/roof	sapaw	s a p a w	298
+1257	Hanunoo	thatch/roof	atup	a t u p	406
+1258	Tetum	thatch/roof	tali#tahan	t a l i # t a h a n	1894
+1259	Mailu	thatch/roof	ato	a t o	406
+1260	Tsou	thatch/roof	euasi	e u a s i	2131
+1261	Nias	thatch/roof	sagõ	s a g õ	2257
+1262	Central Amis	thatch/roof	falahuŋ	f a l a h u ŋ	2374
+1263	Central Amis	thatch/roof	falahoŋ	f a l a h o ŋ	2375
+1264	Chamorro	thatch/roof	atof	a t o f	406
+1265	Banoni	thatch/roof	tegʰunu	t e gʰ u n u	2629
+1266	Singhi	thatch/roof	tonʲah	t o nʲ a h	2770
+1267	Singhi	thatch/roof	iraw	i r a w	2771
+1268	Banggi	thatch/roof	safu	s a f u	2858
+#
+1269	Maloh	name	asan	a s a n	187
+1270	Merina (Malagasy)	name	anarana	a n a r a n a	187
+1271	Thao	name	lhanaz	l h a n a z	1185
+1272	Palauan	name	ŋakl	ŋ a k l	187
+1273	Bare'e	name	toʔo	t o ʔ o	1502
+1274	Iban	name	nama	n a m a	81
+1275	Berawan (Long Terawan)	name	aran	a r a n	187
+1276	Moken	name	ŋanʲan	ŋ a nʲ a n	187
+1277	Hanunoo	name	ŋaran	ŋ a r a n	187
+1278	Wuna	name	neja	n e j a	187
+1279	Tetum	name	naran	n a r a n	187
+1280	Mailu	name	omu	o m u	1974
+1281	Tsou	name	oŋko	o ŋ k o	2132
+1282	Nias	name	tõi	t õ i	2258
+1283	Central Amis	name	ŋaŋan	ŋ a ŋ a n	187
+1284	Singhi	name	adun	a d u n	187
+1285	Banggi	name	eŋaːrdn	e ŋ aː r d n	187
+#
+1286	Maloh	to say	jarum	j a r u m	1016
+1287	Merina (Malagasy)	to say	miténj	m i t é n j	1082
+1288	Thao	to say	kmuza	k m u z a	1186
+1289	Palauan	to say	dmuŋ	d m u ŋ	1294
+1290	Tunjung	to say	bagahaʔ	b a g a h a ʔ	1426
+1291	Bare'e	to say	mantoʔo	m a n t o ʔ o	1503
+1292	Iban	to say	sebut	s e b u t	1573
+1293	Iban	to say	jakoʔ	j a k o ʔ	1574
+1294	Berawan (Long Terawan)	to say	pateh	p a t e h	1646
+1295	Moken	to say	manʲak	m a nʲ a k	1734
+1296	Hanunoo	to say	magkun	m a g k u n	1813
+1297	Tetum	to say	haʔak	h a ʔ a k	1895
+1298	Mailu	to say	osiosi	o s i o s i	1975
+1299	Tsou	to say	mainca	m a i n c a	2133
+1300	Nias	to say	w̃aʔõ	w̃ a ʔ õ	2259
+1301	Central Amis	to say	ciŋlaw	c i ŋ l a w	2376
+1302	Central Amis	to say	sumual	s u m u a l	2377
+1303	Central Amis	to say	saːn	s aː n	2378
+1304	Chamorro	to say	saŋan	s a ŋ a n	2531
+1305	Banoni	to say	dara	d a r a	2630
+1306	Banoni	to say	va	v a	487
+1307	Singhi	to say	naŋ	n a ŋ	2772
+1308	Singhi	to say	tanen	t a n e n	2773
+1309	Banggi	to say	moro	m o r o	2859
+#
+1310	Maloh	rope	tali	t a l i	689
+1311	Merina (Malagasy)	rope	tadj	t a d j	689
+1312	Thao	rope	qlhiw	q l h i w	1187
+1313	Palauan	rope	cʰekil	cʰ e k i l	1295
+1314	Tunjung	rope	taliʔ	t a l i ʔ	689
+1315	Bare'e	rope	wajaː	w a j aː	1504
+1316	Iban	rope	tali	t a l i	689
+1317	Berawan (Long Terawan)	rope	taleh	t a l e h	689
+1318	Moken	rope	kəwaj	k ə w a j	1735
+1319	Hanunoo	rope	lubid	l u b i d	292
+1320	Wuna	rope	rabuta	r a b u t a	2
+1321	Tetum	rope	talin	t a l i n	689
+1322	Mailu	rope	oraora	o r a o r a	1976
+1323	Tsou	rope	teési	t e é s i	689
+1324	Nias	rope	tali	t a l i	689
+1325	Central Amis	rope	keliw	k e l i w	2379
+1326	Chamorro	rope	tali	t a l i	689
+1327	Banoni	rope	kurum	k u r u m	2631
+1328	Singhi	rope	taris	t a r i s	689
+1329	Banggi	rope	tali	t a l i	689
+#
+1330	Maloh	to tie up, fasten	miŋket	m i ŋ k e t	84
+1331	Merina (Malagasy)	to tie up, fasten	miféhj	m i f é h j	1083
+1332	Thao	to tie up, fasten	qmucquc	q m u c q u c	1188
+1333	Palauan	to tie up, fasten	mesaur	m e s a u r	1296
+1334	Tunjung	to tie up, fasten	məcat	m ə c a t	1427
+1335	Bare'e	to tie up, fasten	kombi	k o m b i	1505
+1336	Iban	to tie up, fasten	kebat	k e b a t	1575
+1337	Iban	to tie up, fasten	nancʰaŋ	n a n cʰ a ŋ	1576
+1338	Iban	to tie up, fasten	naŋːam	n a ŋː a m	1577
+1339	Berawan (Long Terawan)	to tie up, fasten	mikeʔ	m i k e ʔ	84
+1340	Moken	to tie up, fasten	mekat	m e k a t	84
+1341	Moken	to tie up, fasten	lebaj	l e b a j	1736
+1342	Hanunoo	to tie up, fasten	higut	h i g u t	84
+1343	Wuna	to tie up, fasten	netapu	n e t a p u	1864
+1344	Tetum	to tie up, fasten	futu	f u t u	-206
+1345	Tetum	to tie up, fasten	kmeti	k m e t i	1896
+1346	Tsou	to tie up, fasten	maepoeisi	m a e p o e i s i	2134
+1347	Nias	to tie up, fasten	bugõ	b u g õ	2260
+1348	Central Amis	to tie up, fasten	masuqut	m a s u q u t	2380
+1349	Central Amis	to tie up, fasten	falulen	f a l u l e n	2381
+1350	Central Amis	to tie up, fasten	soʔot	s o ʔ o t	2382
+1351	Banoni	to tie up, fasten	patsuna	p a t s u n a	2632
+1352	Banggi	to tie up, fasten	nigad	n i g a d	84
+#
+1353	Maloh	to sew	mandait	m a n d a i t	268
+1354	Merina (Malagasy)	to sew	manjaitra	m a n j a i t r a	268
+1355	Thao	to sew	shmaqish	s h m a q i s h	496
+1356	Palauan	to sew	merasm	m e r a s m	1297
+1357	Tunjung	to sew	ŋabet	ŋ a b e t	1428
+1358	Bare'e	to sew	monjau	m o n j a u	1506
+1359	Iban	to sew	jait	j a i t	268
+1360	Berawan (Long Terawan)	to sew	napeʔ	n a p e ʔ	1647
+1361	Moken	to sew	mənʲiəŋ	m ə nʲ i ə ŋ	1737
+1362	Hanunoo	to sew	tahiʔ	t a h i ʔ	496
+1363	Wuna	to sew	netampoli	n e t a m p o l i	104
+1364	Tetum	to sew	lita	l i t a	533
+1365	Mailu	to sew	surisuri	s u r i s u r i	568
+1366	Tsou	to sew	tméʔsi	t m é ʔ s i	496
+1367	Nias	to sew	afu	a f u	2261
+1368	Nias	to sew	tagu	t a g u	2262
+1369	Central Amis	to sew	mitapir	m i t a p i r	2383
+1370	Central Amis	to sew	mitaʔis	m i t a ʔ i s	496
+1371	Chamorro	to sew	lakse	l a k s e	2532
+1372	Chamorro	to sew	sotse	s o t s e	2533
+1373	Banoni	to sew	keːkabe	k eː k a b e	2633
+1374	Singhi	to sew	nopuŋ	n o p u ŋ	2774
+#
+1375	Maloh	needle	darum	d a r u m	527
+1376	Merina (Malagasy)	needle	fanjaitra	f a n j a i t r a	1084
+1377	Thao	needle	lhalhum	l h a l h u m	527
+1378	Palauan	needle	rasm	r a s m	527
+1379	Tunjung	needle	cahumpʰ	c a h u m pʰ	1429
+1380	Bare'e	needle	ijau	i j a u	-527
+1381	Iban	needle	jarum	j a r u m	527
+1382	Berawan (Long Terawan)	needle	taun	t a u n	1648
+1383	Moken	needle	jalum	j a l u m	527
+1384	Hanunoo	needle	dajum	d a j u m	527
+1385	Wuna	needle	deu	d e u	527
+1386	Tetum	needle	daun	d a u n	527
+1387	Mailu	needle	ini	i n i	1977
+1388	Tsou	needle	feézo	f e é z o	2135
+1389	Central Amis	needle	rinum	r i n u m	571
+1390	Central Amis	needle	linum	l i n u m	571
+1391	Chamorro	needle	haguha	h a g u h a	2534
+1392	Banoni	needle	sa	s a	2634
+1393	Singhi	needle	tos	t o s	2775
+#
+1394	Maloh	to hunt	mansuʔ	m a n s u ʔ	149
+1395	Merina (Malagasy)	to hunt	mihaza	m i h a z a	1085
+1396	Thao	to hunt	muribush	m u r i b u s h	1189
+1397	Palauan	to hunt	merːitel	m e rː i t e l	1298
+1398	Tunjung	to hunt	mahaw	m a h a w	1430
+1399	Bare'e	to hunt	maŋela	m a ŋ e l a	1507
+1400	Iban	to hunt	gigaʔ	g i g a ʔ	1578
+1401	Iban	to hunt	ŋasu	ŋ a s u	149
+1402	Berawan (Long Terawan)	to hunt	bəkaraŋ	b ə k a r a ŋ	1649
+1403	Hanunoo	to hunt	maŋidu	m a ŋ i d u	303
+1404	Wuna	to hunt	nofula	n o f u l a	1865
+1405	Wuna	to hunt	nokulo	n o k u l o	1866
+1406	Tetum	to hunt	maraka	m a r a k a	1897
+1407	Mailu	to hunt	apana	a p a n a	1978
+1408	Mailu	to hunt	laiva	l a i v a	1979
+1409	Tsou	to hunt	tmaseiti	t m a s e i t i	2136
+1410	Nias	to hunt	alu	a l u	-303
+1411	Central Amis	to hunt	miʔaloʔ	m i ʔ a l o ʔ	2384
+1412	Central Amis	to hunt	mitilu	m i t i l u	2385
+1413	Banoni	to hunt	vakavino	v a k a v i n o	2635
+1414	Singhi	to hunt	ŋokaŋ	ŋ o k a ŋ	2776
+1415	Singhi	to hunt	nʲipa	nʲ i p a	2777
+#
+1416	Maloh	to shoot	manimbak	m a n i m b a k	176
+1417	Merina (Malagasy)	to shoot	mitifitra	m i t i f i t r a	1086
+1418	Thao	to shoot	palatatnur	p a l a t a t n u r	1190
+1419	Palauan	to shoot	omoes	o m o e s	1299
+1420	Tunjung	to shoot	nemak	n e m a k	176
+1421	Bare'e	to shoot	mopana	m o p a n a	336
+1422	Iban	to shoot	timbak	t i m b a k	176
+1423	Moken	to shoot	mənʲiŋ	m ə nʲ i ŋ	1738
+1424	Hanunoo	to shoot	palkas	p a l k a s	1814
+1425	Wuna	to shoot	netemba	n e t e m b a	176
+1426	Tetum	to shoot	hana	h a n a	336
+1427	Tsou	to shoot	pono	p o n o	-336
+1428	Tsou	to shoot	pnaa	p n a a	-336
+1429	Nias	to shoot	fana	f a n a	336
+1430	Central Amis	to shoot	panaʔ	p a n a ʔ	336
+1431	Chamorro	to shoot	paki	p a k i	2535
+1432	Banoni	to shoot	kum	k u m	2636
+1433	Singhi	to shoot	nimak	n i m a k	176
+1434	Banggi	to shoot	nimbak	n i m b a k	176
+#
+1435	Maloh	to stab, pierce	majuk	m a j u k	1017
+1436	Merina (Malagasy)	to stab, pierce	mandoaka	m a n d o a k a	-637
+1437	Thao	to stab, pierce	lhmirik	l h m i r i k	1191
+1438	Palauan	to stab, pierce	merus	m e r u s	1300
+1439	Tunjung	to stab, pierce	mancak	m a n c a k	78
+1440	Bare'e	to stab, pierce	moncaku	m o n c a k u	1508
+1441	Berawan (Long Terawan)	to stab, pierce	nəpiʔ	n ə p i ʔ	1650
+1442	Moken	to stab, pierce	ləbak	l ə b a k	1739
+1443	Moken	to stab, pierce	ləkam	l ə k a m	1740
+1444	Hanunoo	to stab, pierce	harug	h a r u g	1815
+1445	Wuna	to stab, pierce	fotobo	f o t o b o	733
+1446	Tetum	to stab, pierce	sona	s o n a	1898
+1447	Tsou	to stab, pierce	smueu	s m u e u	2137
+1448	Nias	to stab, pierce	tuo	t u o	2263
+1449	Central Amis	to stab, pierce	icucuk	i c u c u k	659
+1450	Central Amis	to stab, pierce	cucuk	c u c u k	659
+1451	Chamorro	to stab, pierce	bulokbok	b u l o k b o k	2536
+1452	Banoni	to stab, pierce	tsu	t s u	2637
+1453	Banoni	to stab, pierce	paraka	p a r a k a	2638
+1454	Banoni	to stab, pierce	tapoː	t a p oː	2639
+1455	Singhi	to stab, pierce	nijub	n i j u b	-278
+1456	Banggi	to stab, pierce	musuk	m u s u k	659
+#
+1457	Maloh	to hit	sigusu	s i g u s u	1018
+1458	Merina (Malagasy)	to hit	mamélj	m a m é l j	1087
+1459	Thao	to hit	kmaj	k m a j	1192
+1460	Palauan	to hit	meŋlébed	m e ŋ l é b e d	1301
+1461	Tunjung	to hit	bajagur	b a j a g u r	13
+1462	Bare'e	to hit	bombali	b o m b a l i	1509
+1463	Iban	to hit	maluk	m a l u k	834
+1464	Iban	to hit	sipat	s i p a t	834
+1465	Iban	to hit	lunsin	l u n s i n	834
+1466	Iban	to hit	paluʔ	p a l u ʔ	834
+1467	Berawan (Long Terawan)	to hit	mupoʔ	m u p o ʔ	548
+1468	Moken	to hit	məcʰun	m ə cʰ u n	1741
+1469	Hanunoo	to hit	hampak	h a m p a k	21
+1470	Wuna	to hit	nesuwu	n e s u w u	1867
+1471	Wuna	to hit	nesoda	n e s o d a	1868
+1472	Wuna	to hit	fopepe	f o p e p e	1869
+1473	Mailu	to hit	keakea	k e a k e a	1980
+1474	Tsou	to hit	smizi	s m i z i	2138
+1475	Nias	to hit	tifa	t i f a	2264
+1476	Central Amis	to hit	palu	p a l u	834
+1477	Central Amis	to hit	setiq	s e t i q	2386
+1478	Central Amis	to hit	mipalo	m i p a l o	834
+1479	Central Amis	to hit	mistiʔ	m i s t i ʔ	2387
+1480	Chamorro	to hit	fagːas	f a gː a s	2537
+1481	Banoni	to hit	tsunu	t s u n u	675
+1482	Banoni	to hit	buno	b u n o	2640
+1483	Banoni	to hit	tagunu	t a g u n u	2641
+1484	Singhi	to hit	obox	o b o x	548
+1485	Banggi	to hit	numbuk	n u m b u k	504
+#
+1486	Maloh	to steal	kalit	k a l i t	1019
+1487	Merina (Malagasy)	to steal	maŋalatra	m a ŋ a l a t r a	1088
+1488	Thao	to steal	kunriu	k u n r i u	1193
+1489	Palauan	to steal	meŋol	m e ŋ o l	1302
+1490	Bare'e	to steal	ago	a g o	620
+1491	Iban	to steal	ŋencʰuri	ŋ e n cʰ u r i	289
+1492	Berawan (Long Terawan)	to steal	nakaw	n a k a w	620
+1493	Moken	to steal	gupeːt	g u p eː t	1742
+1494	Moken	to steal	ŋəlat	ŋ ə l a t	1743
+1495	Hanunoo	to steal	takaw	t a k a w	620
+1496	Wuna	to steal	nombulaku	n o m b u l a k u	414
+1497	Tetum	to steal	hanaʔo	h a n a ʔ o	620
+1498	Mailu	to steal	auere	a u e r e	1981
+1499	Mailu	to steal	omaoma	o m a o m a	1982
+1500	Mailu	to steal	teretere	t e r e t e r e	1983
+1501	Tsou	to steal	meoeoi	m e o e o i	2139
+1502	Nias	to steal	luʔa	l u ʔ a	2265
+1503	Nias	to steal	tagõ	t a g õ	-620
+1504	Central Amis	to steal	takaw	t a k a w	620
+1505	Chamorro	to steal	sakːe	s a kː e	2538
+1506	Banoni	to steal	dzaŋa	d z a ŋ a	2642
+1507	Singhi	to steal	noku	n o k u	620
+1508	Banggi	to steal	nahu	n a h u	620
+#
+1509	Maloh	to kill	bunoʔ	b u n o ʔ	646
+1510	Merina (Malagasy)	to kill	mamono	m a m o n o	646
+1511	Thao	to kill	kmaj#pacaj	k m a j # p a c a j	24
+1512	Palauan	to kill	meléb	m e l é b	1303
+1513	Tunjung	to kill	pakateʔ	p a k a t e ʔ	415
+1514	Bare'e	to kill	pate	p a t e	415
+1515	Iban	to kill	bunoh	b u n o h	646
+1516	Berawan (Long Terawan)	to kill	pələtːəh	p ə l ə tː ə h	1651
+1517	Moken	to kill	munuːk	m u n uː k	646
+1518	Hanunoo	to kill	matjun	m a t j u n	24
+1519	Wuna	to kill	fopoŋko	f o p o ŋ k o	814
+1520	Mailu	to kill	maimai	m a i m a i	1984
+1521	Tsou	to kill	poh	p o h	2140
+1522	Nias	to kill	bunu	b u n u	646
+1523	Central Amis	to kill	tapaʔ	t a p a ʔ	2388
+1524	Banoni	to kill	tsuna	t s u n a	685
+1525	Banoni	to kill	vamate	v a m a t e	24
+1526	Banoni	to kill	venua	v e n u a	711
+1527	Singhi	to kill	ŋabus	ŋ a b u s	2778
+#
+1528	Maloh	to die, be dead	maté	m a t é	413
+1529	Merina (Malagasy)	to die, be dead	matj	m a t j	413
+1530	Thao	to die, be dead	macaj	m a c a j	413
+1531	Palauan	to die, be dead	mad	m a d	413
+1532	Tunjung	to die, be dead	mateʔ	m a t e ʔ	413
+1533	Bare'e	to die, be dead	mate	m a t e	413
+1534	Iban	to die, be dead	mati	m a t i	413
+1535	Berawan (Long Terawan)	to die, be dead	lətːəh	l ə tː ə h	1652
+1536	Moken	to die, be dead	mataj	m a t a j	413
+1537	Hanunoo	to die, be dead	mataj	m a t a j	413
+1538	Wuna	to die, be dead	mate	m a t e	413
+1539	Tetum	to die, be dead	mate	m a t e	413
+1540	Mailu	to die, be dead	bau	b a u	-651
+1541	Tsou	to die, be dead	mcoi	m c o i	413
+1542	Nias	to die, be dead	mate	m a t e	413
+1543	Central Amis	to die, be dead	pataj	p a t a j	413
+1544	Chamorro	to die, be dead	matai	m a t a i	413
+1545	Banoni	to die, be dead	mate	m a t e	413
+1546	Singhi	to die, be dead	kobus	k o b u s	2779
+1547	Banggi	to die, be dead	maːti	m aː t i	413
+#
+1548	Maloh	to live, be alive	idup	i d u p	450
+1549	Merina (Malagasy)	to live, be alive	miaina	m i a i n a	1089
+1550	Thao	to live, be alive	maqalhtash	m a q a l h t a s h	1194
+1551	Palauan	to live, be alive	ŋar	ŋ a r	1304
+1552	Tunjung	to live, be alive	bəlum	b ə l u m	56
+1553	Bare'e	to live, be alive	mata	m a t a	1510
+1554	Iban	to live, be alive	idup	i d u p	450
+1555	Berawan (Long Terawan)	to live, be alive	mulon	m u l o n	30
+1556	Moken	to live, be alive	kudip	k u d i p	450
+1557	Hanunoo	to live, be alive	buhi	b u h i	165
+1558	Wuna	to live, be alive	dadi	d a d i	253
+1559	Tetum	to live, be alive	moris	m o r i s	450
+1560	Mailu	to live, be alive	auauri	a u a u r i	450
+1561	Mailu	to live, be alive	mauri	m a u r i	450
+1562	Tsou	to live, be alive	eansoua	e a n s o u a	2141
+1563	Nias	to live, be alive	monoso	m o n o s o	2266
+1564	Central Amis	to live, be alive	maroʔ	m a r o ʔ	2389
+1565	Banoni	to live, be alive	sabiri	s a b i r i	2643
+1566	Singhi	to live, be alive	idip	i d i p	450
+1567	Banggi	to live, be alive	biag	b i a g	521
+#
+1568	Maloh	to scratch	maŋauʔ	m a ŋ a u ʔ	-226
+1569	Merina (Malagasy)	to scratch	mihaotra	m i h a o t r a	1090
+1570	Thao	to scratch	kmulhaw	k m u l h a w	-226
+1571	Palauan	to scratch	meŋkas	m e ŋ k a s	226
+1572	Tunjung	to scratch	ŋərogot	ŋ ə r o g o t	288
+1573	Bare'e	to scratch	kao	k a o	226
+1574	Iban	to scratch	garuʔ	g a r u ʔ	226
+1575	Iban	to scratch	kisai	k i s a i	1579
+1576	Berawan (Long Terawan)	to scratch	kikiw	k i k i w	226
+1577	Moken	to scratch	ŋalaw	ŋ a l a w	226
+1578	Hanunoo	to scratch	kagaw	k a g a w	226
+1579	Wuna	to scratch	nekurumasi	n e k u r u m a s i	359
+1580	Tetum	to scratch	koi	k o i	1899
+1581	Tsou	to scratch	misiʔsi	m i s i ʔ s i	2142
+1582	Nias	to scratch	xaʔa	x a ʔ a	2267
+1583	Central Amis	to scratch	mikuskus	m i k u s k u s	228
+1584	Central Amis	to scratch	kuskus	k u s k u s	228
+1585	Chamorro	to scratch	kasːas	k a sː a s	-226
+1586	Banoni	to scratch	gʰegʰano	gʰ e gʰ a n o	226
+1587	Singhi	to scratch	gaju	g a j u	226
+1588	Banggi	to scratch	nuhud	n u h u d	2860
+#
+1589	Maloh	to cut, hack	papas	p a p a s	1020
+1590	Merina (Malagasy)	to cut, hack	manapaka	m a n a p a k a	1091
+1591	Thao	to cut, hack	kuntun	k u n t u n	1195
+1592	Palauan	to cut, hack	meŋimd	m e ŋ i m d	1305
+1593	Tunjung	to cut, hack	motok	m o t o k	1431
+1594	Bare'e	to cut, hack	mantoto	m a n t o t o	1511
+1595	Iban	to cut, hack	tetak	t e t a k	129
+1596	Berawan (Long Terawan)	to cut, hack	məpaʔ	m ə p a ʔ	1653
+1597	Moken	to cut, hack	mətet	m ə t e t	-129
+1598	Moken	to cut, hack	malak	m a l a k	1744
+1599	Hanunoo	to cut, hack	manigbas	m a n i g b a s	1816
+1600	Wuna	to cut, hack	nedodo	n e d o d o	1870
+1601	Tetum	to cut, hack	tetak	t e t a k	129
+1602	Tetum	to cut, hack	ta	t a	258
+1603	Mailu	to cut, hack	lealea	l e a l e a	-251
+1604	Mailu	to cut, hack	pelepele	p e l e p e l e	1985
+1605	Tsou	to cut, hack	bohi	b o h i	2143
+1606	Nias	to cut, hack	huta	h u t a	2268
+1607	Nias	to cut, hack	tata	t a t a	129
+1608	Central Amis	to cut, hack	cikcik	c i k c i k	2390
+1609	Chamorro	to cut, hack	utot	u t o t	2539
+1610	Banoni	to cut, hack	kabaka	k a b a k a	2644
+1611	Banoni	to cut, hack	vitoː	v i t oː	2645
+1612	Singhi	to cut, hack	nʲopa	nʲ o p a	2780
+1613	Banggi	to cut, hack	ketofo	k e t o f o	2861
+#
+1614	Maloh	stick/wood	kaju	k a j u	32
+1615	Thao	stick/wood	kawi	k a w i	32
+1616	Palauan	stick/wood	kerːekar	k e rː e k a r	-32
+1617	Tunjung	stick/wood	leŋan	l e ŋ a n	1432
+1618	Bare'e	stick/wood	kaju	k a j u	32
+1619	Bare'e	stick/wood	kaju	k a j u	32
+1620	Iban	stick/wood	kajuʔ	k a j u ʔ	32
+1621	Berawan (Long Terawan)	stick/wood	kajuh	k a j u h	32
+1622	Moken	stick/wood	kaʔiː	k a ʔ iː	-32
+1623	Hanunoo	stick/wood	kaju	k a j u	32
+1624	Wuna	stick/wood	sau	s a u	32
+1625	Tetum	stick/wood	ai	a i	32
+1626	Mailu	stick/wood	ana	a n a	1986
+1627	Tsou	stick/wood	évi	é v i	2144
+1628	Tsou	stick/wood	sʔofʉ	s ʔ o f ʉ	2145
+1629	Nias	stick/wood	eu	e u	32
+1630	Central Amis	stick/wood	sastiʔ	s a s t i ʔ	2391
+1631	Central Amis	stick/wood	kasuj	k a s u j	32
+1632	Chamorro	stick/wood	haju	h a j u	32
+1633	Banoni	stick/wood	tsupi	t s u p i	2646
+1634	Singhi	stick/wood	kojux	k o j u x	32
+1635	Banggi	stick/wood	kiau	k i a u	32
+#
+1636	Maloh	to split	balaʔ	b a l a ʔ	758
+1637	Merina (Malagasy)	to split	mamakj	m a m a k j	1092
+1638	Thao	to split	tmalhtalh	t m a l h t a l h	1196
+1639	Palauan	to split	melbotb	m e l b o t b	1306
+1640	Tunjung	to split	məkaʔ	m ə k a ʔ	1433
+1641	Bare'e	to split	mabala	m a b a l a	758
+1642	Bare'e	to split	maboka	m a b o k a	758
+1643	Bare'e	to split	wota	w o t a	758
+1644	Iban	to split	belah	b e l a h	758
+1645	Berawan (Long Terawan)	to split	mitin	m i t i n	1654
+1646	Moken	to split	malaːk	m a l aː k	758
+1647	Hanunoo	to split	baŋag	b a ŋ a g	1817
+1648	Wuna	to split	nebogʰa	n e b o gʰ a	502
+1649	Tetum	to split	fotːa	f o tː a	1900
+1650	Tetum	to split	fera	f e r a	469
+1651	Mailu	to split	navanava	n a v a n a v a	1987
+1652	Tsou	to split	aːcʔohu	aː c ʔ o h u	2146
+1653	Nias	to split	sila	s i l a	449
+1654	Nias	to split	weha	w e h a	2269
+1655	Central Amis	to split	mipelaʔ	m i p e l a ʔ	2392
+1656	Banoni	to split	putake	p u t a k e	2647
+1657	Singhi	to split	birieh	b i r i e h	758
+1658	Banggi	to split	melak	m e l a k	758
+#
+1659	Maloh	sharp	taram	t a r a m	535
+1660	Merina (Malagasy)	sharp	pilopilo	p i l o p i l o	1093
+1661	Thao	sharp	malamlam	m a l a m l a m	1197
+1662	Palauan	sharp	kedorem	k e d o r e m	535
+1663	Tunjung	sharp	masuk	m a s u k	1434
+1664	Bare'e	sharp	mataja	m a t a j a	535
+1665	Iban	sharp	tajam	t a j a m	535
+1666	Berawan (Long Terawan)	sharp	nʲəiʔ	nʲ ə i ʔ	439
+1667	Moken	sharp	lajam	l a j a m	535
+1668	Hanunoo	sharp	matarum	m a t a r u m	535
+1669	Wuna	sharp	noroko	n o r o k o	701
+1670	Tetum	sharp	meːk	m eː k	1901
+1671	Tetum	sharp	kroat	k r o a t	498
+1672	Mailu	sharp	ani	a n i	1988
+1673	Tsou	sharp	maeno	m a e n o	2147
+1674	Nias	sharp	atarõ	a t a r õ	535
+1675	Central Amis	sharp	macilem	m a c i l e m	2393
+1676	Central Amis	sharp	matalem	m a t a l e m	535
+1677	Chamorro	sharp	kadidok	k a d i d o k	2540
+1678	Banoni	sharp	gʰeːgʰame	gʰ eː gʰ a m e	636
+1679	Singhi	sharp	roja	r o j a	2781
+1680	Banggi	sharp	entaram	e n t a r a m	535
+#
+1681	Maloh	dull, blunt	atimbin	a t i m b i n	1021
+1682	Merina (Malagasy)	dull, blunt	dombo	d o m b o	432
+1683	Thao	dull, blunt	matarictic	m a t a r i c t i c	1198
+1684	Palauan	dull, blunt	ketom	k e t o m	1307
+1685	Tunjung	dull, blunt	kacar	k a c a r	1435
+1686	Bare'e	dull, blunt	makuju	m a k u j u	1512
+1687	Iban	dull, blunt	tumpul	t u m p u l	432
+1688	Berawan (Long Terawan)	dull, blunt	kapan	k a p a n	1655
+1689	Moken	dull, blunt	topon	t o p o n	-432
+1690	Hanunoo	dull, blunt	dumpul	d u m p u l	432
+1691	Hanunoo	dull, blunt	mapuruʔ	m a p u r u ʔ	574
+1692	Wuna	dull, blunt	noduko	n o d u k o	596
+1693	Tetum	dull, blunt	la#meːk	l a # m eː k	1902
+1694	Tetum	dull, blunt	dubus	d u b u s	156
+1695	Mailu	dull, blunt	boubou	b o u b o u	1989
+1696	Mailu	dull, blunt	ubauba	u b a u b a	1990
+1697	Nias	dull, blunt	halo	h a l o	2270
+1698	Central Amis	dull, blunt	matales	m a t a l e s	2394
+1699	Banoni	dull, blunt	dzudazumo	d z u d a z u m o	2648
+1700	Singhi	dull, blunt	papu	p a p u	2782
+#
+1701	Thao	to work	mubuhat	m u b u h a t	1199
+1702	Palauan	to work	ureor	u r e o r	1308
+1703	Bare'e	to work	jama	j a m a	775
+1704	Iban	to work	kereja	k e r e j a	69
+1705	Iban	to work	bumai	b u m a i	344
+1706	Iban	to work	gawa	g a w a	1580
+1707	Iban	to work	peŋawa	p e ŋ a w a	1581
+1708	Berawan (Long Terawan)	to work	nuləŋ	n u l ə ŋ	1656
+1709	Hanunoo	to work	magbuwat	m a g b u w a t	-344
+1710	Wuna	to work	karada	k a r a d a	69
+1711	Tetum	to work	knawar	k n a w a r	1903
+1712	Tetum	to work	serewisu	s e r e w i s u	1904
+1713	Mailu	to work	onamaimai	o n a m a i m a i	1991
+1714	Mailu	to work	seisei	s e i s e i	1992
+1715	Mailu	to work	usiusi	u s i u s i	1993
+1716	Tsou	to work	hioa	h i o a	2148
+1717	Nias	to work	ilo	i l o	2271
+1718	Central Amis	to work	tajal	t a j a l	2395
+1719	Central Amis	to work	matajal	m a t a j a l	2396
+1720	Chamorro	to work	hotnat	h o t n a t	2541
+1721	Banoni	to work	vaka	v a k a	2649
+1722	Banoni	to work	vagotsi	v a g o t s i	2650
+1723	Banoni	to work	togʰono	t o gʰ o n o	2651
+1724	Singhi	to work	kiminʲaŋ	k i m i nʲ a ŋ	2783
+#
+1725	Maloh	to plant	tanam	t a n a m	15
+1726	Merina (Malagasy)	to plant	mambolj	m a m b o l j	211
+1727	Thao	to plant	malhuiza	m a l h u i z a	1200
+1728	Palauan	to plant	melalem	m e l a l e m	15
+1729	Tunjung	to plant	molaq	m o l a q	1436
+1730	Bare'e	to plant	muja	m u j a	375
+1731	Iban	to plant	tanam	t a n a m	15
+1732	Berawan (Long Terawan)	to plant	muləh	m u l ə h	375
+1733	Moken	to plant	manam	m a n a m	15
+1734	Hanunoo	to plant	magtanum	m a g t a n u m	15
+1735	Wuna	to plant	netisa	n e t i s a	308
+1736	Tetum	to plant	furi	f u r i	786
+1737	Mailu	to plant	gadigadi	g a d i g a d i	1994
+1738	Tsou	to plant	emʉ́mʔʉ	e m ʉ́ m ʔ ʉ	2149
+1739	Tsou	to plant	emʉ́a	e m ʉ́ a	2150
+1740	Nias	to plant	taru	t a r u	2272
+1741	Nias	to plant	tanõ	t a n õ	15
+1742	Chamorro	to plant	tanom	t a n o m	15
+1743	Banoni	to plant	reba	r e b a	2652
+1744	Singhi	to plant	purux	p u r u x	2784
+1745	Banggi	to plant	nanam	n a n a m	15
+#
+1746	Merina (Malagasy)	to choose	mifidj	m i f i d j	153
+1747	Thao	to choose	kadaduk	k a d a d u k	1201
+1748	Palauan	to choose	melilt	m e l i l t	-153
+1749	Tunjung	to choose	miliːq	m i l iː q	1437
+1750	Bare'e	to choose	pili	p i l i	153
+1751	Iban	to choose	pilih	p i l i h	153
+1752	Berawan (Long Terawan)	to choose	pile	p i l e	153
+1753	Moken	to choose	miliək	m i l i ə k	153
+1754	Hanunoo	to choose	piliʔ	p i l i ʔ	153
+1755	Wuna	to choose	nepili	n e p i l i	153
+1756	Tetum	to choose	kakːan	k a kː a n	1905
+1757	Tetum	to choose	boːi	b oː i	436
+1758	Mailu	to choose	tabutabu	t a b u t a b u	1995
+1759	Tsou	to choose	esbʉtʉ	e s b ʉ t ʉ	2151
+1760	Nias	to choose	fili	f i l i	153
+1761	Central Amis	to choose	misimsim	m i s i m s i m	2397
+1762	Chamorro	to choose	ajek	a j e k	2542
+1763	Singhi	to choose	piris	p i r i s	153
+1764	Banggi	to choose	mili	m i l i	153
+#
+1765	Merina (Malagasy)	to grow	mitombo	m i t o m b o	185
+1766	Thao	to grow	lhuŋquz	l h u ŋ q u z	1202
+1767	Palauan	to grow	duubecʰ	d u u b e cʰ	-185
+1768	Bare'e	to grow	mewoŋga	m e w o ŋ g a	1513
+1769	Iban	to grow	tumboh	t u m b o h	185
+1770	Berawan (Long Terawan)	to grow	mulon	m u l o n	842
+1771	Moken	to grow	lumuːk	l u m uː k	1745
+1772	Hanunoo	to grow	tumubuʔ	t u m u b u ʔ	185
+1773	Wuna	to grow	tumbu	t u m b u	185
+1774	Mailu	to grow	ogoːgo	o g oː g o	1996
+1775	Tsou	to grow	eusuhci	e u s u h c i	2152
+1776	Central Amis	to grow	maleŋaw	m a l e ŋ a w	2398
+1777	Singhi	to grow	tumuh	t u m u h	185
+#
+1778	Maloh	to swell	kambaŋ	k a m b a ŋ	376
+1779	Merina (Malagasy)	to swell	mibontsina	m i b o n t s i n a	1094
+1780	Thao	to swell	lhumfawa	l h u m f a w a	245
+1781	Palauan	to swell	obtiŋel	o b t i ŋ e l	1309
+1782	Tunjung	to swell	bəŋkak	b ə ŋ k a k	282
+1783	Bare'e	to swell	baŋka	b a ŋ k a	282
+1784	Iban	to swell	kembai	k e m b a i	376
+1785	Berawan (Long Terawan)	to swell	kabəŋ	k a b ə ŋ	376
+1786	Moken	to swell	balak	b a l a k	801
+1787	Hanunoo	to swell	isal	i s a l	1818
+1788	Hanunoo	to swell	bagaʔ	b a g a ʔ	-282
+1789	Wuna	to swell	nofeo	n o f e o	1871
+1790	Wuna	to swell	nojeo	n o j e o	1872
+1791	Tetum	to swell	bubu	b u b u	82
+1792	Mailu	to swell	boboga	b o b o g a	363
+1793	Tsou	to swell	euoféoʉ	e u o f é o ʉ	245
+1794	Nias	to swell	bao	b a o	801
+1795	Nias	to swell	mulõta	m u l õ t a	2273
+1796	Central Amis	to swell	malifawa	m a l i f a w a	245
+1797	Chamorro	to swell	banːa	b a nː a	2543
+1798	Banoni	to swell	paŋu	p a ŋ u	2653
+1799	Banoni	to swell	boko	b o k o	93
+1800	Singhi	to swell	bokak	b o k a k	282
+#
+1801	Maloh	to squeeze	mamaras	m a m a r a s	688
+1802	Merina (Malagasy)	to squeeze	mamia	m a m i a	688
+1803	Thao	to squeeze	damriz	d a m r i z	1203
+1804	Palauan	to squeeze	omét	o m é t	1310
+1805	Tunjung	to squeeze	pəras	p ə r a s	688
+1806	Bare'e	to squeeze	maŋkomo	m a ŋ k o m o	1514
+1807	Iban	to squeeze	perah	p e r a h	688
+1808	Iban	to squeeze	gelam	g e l a m	1582
+1809	Berawan (Long Terawan)	to squeeze	mənʲaiʔ	m ə nʲ a i ʔ	1657
+1810	Moken	to squeeze	mənak	m ə n a k	1746
+1811	Hanunoo	to squeeze	pugaʔ	p u g a ʔ	688
+1812	Wuna	to squeeze	nefeo	n e f e o	688
+1813	Tetum	to squeeze	kumu	k u m u	599
+1814	Mailu	to squeeze	gigigigiː	g i g i g i g iː	1997
+1815	Mailu	to squeeze	iʔiʔiʔiʔ	i ʔ i ʔ i ʔ i ʔ	1998
+1816	Mailu	to squeeze	marumaru	m a r u m a r u	550
+1817	Tsou	to squeeze	tvoeʉ	t v o e ʉ	2153
+1818	Nias	to squeeze	fera	f e r a	688
+1819	Central Amis	to squeeze	mihatec	m i h a t e c	2399
+1820	Chamorro	to squeeze	fokse	f o k s e	2544
+1821	Banoni	to squeeze	togonopisu	t o g o n o p i s u	88
+1822	Singhi	to squeeze	miset	m i s e t	120
+1823	Singhi	to squeeze	ŋapit	ŋ a p i t	320
+#
+1824	Maloh	to hold	maŋkam	m a ŋ k a m	460
+1825	Merina (Malagasy)	to hold	mitana	m i t a n a	1095
+1826	Merina (Malagasy)	to hold	mihazona	m i h a z o n a	1096
+1827	Thao	to hold	hmadu	h m a d u	1204
+1828	Palauan	to hold	obaŋ	o b a ŋ	1311
+1829	Tunjung	to hold	neŋkat	n e ŋ k a t	1438
+1830	Bare'e	to hold	karamoso	k a r a m o s o	1515
+1831	Iban	to hold	pegai	p e g a i	566
+1832	Berawan (Long Terawan)	to hold	kipəiʔ	k i p ə i ʔ	1658
+1833	Moken	to hold	ŋapiːt	ŋ a p iː t	1747
+1834	Moken	to hold	məgaŋ	m ə g a ŋ	566
+1835	Hanunoo	to hold	maghijaput	m a g h i j a p u t	1819
+1836	Wuna	to hold	neutara	n e u t a r a	225
+1837	Tetum	to hold	humur	h u m u r	1906
+1838	Mailu	to hold	aukisa	a u k i s a	1999
+1839	Mailu	to hold	ausari	a u s a r i	2000
+1840	Tsou	to hold	tieopʉ	t i e o p ʉ	2154
+1841	Nias	to hold	oxõ	o x õ	2274
+1842	Nias	to hold	tuju	t u j u	2275
+1843	Central Amis	to hold	mamet	m a m e t	2400
+1844	Banoni	to hold	ragomo	r a g o m o	2654
+1845	Singhi	to hold	bikaguŋ	b i k a g u ŋ	-460
+#
+1846	Maloh	to dig	maŋali	m a ŋ a l i	494
+1847	Merina (Malagasy)	to dig	mihadj	m i h a d j	494
+1848	Thao	to dig	kmari	k m a r i	494
+1849	Palauan	to dig	meŋiis	m e ŋ i i s	1312
+1850	Tunjung	to dig	ŋaliʔ	ŋ a l i ʔ	494
+1851	Bare'e	to dig	moŋkae	m o ŋ k a e	1516
+1852	Iban	to dig	kali	k a l i	494
+1853	Berawan (Long Terawan)	to dig	ŋaleh	ŋ a l e h	494
+1854	Moken	to dig	ŋaloj	ŋ a l o j	494
+1855	Hanunoo	to dig	magkutkut	m a g k u t k u t	751
+1856	Wuna	to dig	neseli	n e s e l i	494
+1857	Tetum	to dig	keʔe	k e ʔ e	1907
+1858	Mailu	to dig	bonobono	b o n o b o n o	2001
+1859	Mailu	to dig	lavilavi	l a v i l a v i	734
+1860	Tsou	to dig	mae	m a e	2155
+1861	Nias	to dig	koʔo	k o ʔ o	2276
+1862	Central Amis	to dig	mikarkar	m i k a r k a r	59
+1863	Central Amis	to dig	kurkur	k u r k u r	2401
+1864	Chamorro	to dig	guadːok	g u a dː o k	197
+1865	Banoni	to dig	tsugea	t s u g e a	2655
+1866	Singhi	to dig	karis	k a r i s	-494
+#
+1867	Maloh	to buy	bali	b a l i	269
+1868	Merina (Malagasy)	to buy	mividj	m i v i d j	269
+1869	Thao	to buy	fariw	f a r i w	1
+1870	Palauan	to buy	omecʰar	o m e cʰ a r	1313
+1871	Bare'e	to buy	meoli	m e o l i	269
+1872	Iban	to buy	beli	b e l i	269
+1873	Berawan (Long Terawan)	to buy	məlih	m ə l i h	269
+1874	Moken	to buy	məloj	m ə l o j	269
+1875	Hanunoo	to buy	bumili	b u m i l i	269
+1876	Wuna	to buy	negʰoli	n e gʰ o l i	269
+1877	Tetum	to buy	sosːa	s o sː a	329
+1878	Mailu	to buy	tonatona	t o n a t o n a	2002
+1879	Mailu	to buy	woiwoi	w o i w o i	2003
+1880	Tsou	to buy	mihia	m i h i a	2156
+1881	Nias	to buy	õli	õ l i	269
+1882	Central Amis	to buy	maʕaca	m a ʕ a c a	2402
+1883	Chamorro	to buy	fahan	f a h a n	2545
+1884	Banoni	to buy	bunava	b u n a v a	2656
+1885	Singhi	to buy	miris	m i r i s	-269
+1886	Banggi	to buy	moli	m o l i	269
+#
+1887	Merina (Malagasy)	to open, uncover	mamoha	m a m o h a	1097
+1888	Thao	to open, uncover	tmana	t m a n a	722
+1889	Palauan	to open, uncover	omok	o m o k	1314
+1890	Tunjung	to open, uncover	mogeq	m o g e q	1439
+1891	Bare'e	to open, uncover	bowo	b o w o	-301
+1892	Iban	to open, uncover	bukaʔ	b u k a ʔ	301
+1893	Iban	to open, uncover	teleŋa	t e l e ŋ a	1583
+1894	Iban	to open, uncover	silak	s i l a k	1584
+1895	Iban	to open, uncover	kebak	k e b a k	1585
+1896	Berawan (Long Terawan)	to open, uncover	ŋəlikam	ŋ ə l i k a m	1659
+1897	Moken	to open, uncover	məkʰat	m ə kʰ a t	1748
+1898	Moken	to open, uncover	ŋaŋah	ŋ a ŋ a h	118
+1899	Hanunoo	to open, uncover	bukas	b u k a s	301
+1900	Wuna	to open, uncover	neleŋka	n e l e ŋ k a	229
+1901	Tetum	to open, uncover	lake	l a k e	-528
+1902	Tsou	to open, uncover	maavo	m a a v o	2157
+1903	Tsou	to open, uncover	paavi	p a a v i	2158
+1904	Nias	to open, uncover	boka	b o k a	301
+1905	Central Amis	to open, uncover	micakaj	m i c a k a j	2403
+1906	Chamorro	to open, uncover	pulakes	p u l a k e s	-301
+1907	Banoni	to open, uncover	gʰasi	gʰ a s i	2657
+1908	Banoni	to open, uncover	puke	p u k e	301
+1909	Singhi	to open, uncover	buka	b u k a	301
+1910	Banggi	to open, uncover	tiŋgiwa	t i ŋ g i w a	2862
+#
+1911	Merina (Malagasy)	to pound, beat	mitoto	m i t o t o	46
+1912	Thao	to pound, beat	makarunu	m a k a r u n u	1205
+1913	Palauan	to pound, beat	melecʰotecʰ	m e l e cʰ o t e cʰ	1315
+1914	Bare'e	to pound, beat	mombaju	m o m b a j u	67
+1915	Iban	to pound, beat	tutok	t u t o k	46
+1916	Moken	to pound, beat	mənʲoːk	m ə nʲ oː k	1749
+1917	Hanunoo	to pound, beat	magbaju	m a g b a j u	67
+1918	Tetum	to pound, beat	fai	f a i	61
+1919	Mailu	to pound, beat	uriuri	u r i u r i	2004
+1920	Tsou	to pound, beat	zotpuu	z o t p u u	2159
+1921	Nias	to pound, beat	tutu	t u t u	46
+1922	Central Amis	to pound, beat	mitalik	m i t a l i k	2404
+1923	Chamorro	to pound, beat	acʰa	a cʰ a	2546
+1924	Chamorro	to pound, beat	tutu	t u t u	46
+1925	Banoni	to pound, beat	tsuː	t s uː	46
+1926	Singhi	to pound, beat	nutuk	n u t u k	46
+#
+1927	Maloh	to throw	mamantik	m a m a n t i k	1022
+1928	Merina (Malagasy)	to throw	mitoraka	m i t o r a k a	1098
+1929	Thao	to throw	panaq	p a n a q	823
+1930	Palauan	to throw	uétecʰ	u é t e cʰ	1316
+1931	Tunjung	to throw	noak	n o a k	1440
+1932	Bare'e	to throw	mawunu	m a w u n u	1517
+1933	Iban	to throw	tikau	t i k a u	1586
+1934	Berawan (Long Terawan)	to throw	niŋeʔ	n i ŋ e ʔ	1660
+1935	Berawan (Long Terawan)	to throw	kateʔ	k a t e ʔ	1661
+1936	Moken	to throw	nʲəmat	nʲ ə m a t	1750
+1937	Hanunoo	to throw	pisik	p i s i k	1820
+1938	Wuna	to throw	gʰompa	gʰ o m p a	669
+1939	Wuna	to throw	bandu	b a n d u	1873
+1940	Tetum	to throw	tuda	t u d a	106
+1941	Mailu	to throw	odaoda	o d a o d a	2005
+1942	Tsou	to throw	mtokʉ	m t o k ʉ	2160
+1943	Nias	to throw	handro	h a n d r o	2277
+1944	Nias	to throw	tebu	t e b u	2278
+1945	Central Amis	to throw	mifalah	m i f a l a h	2405
+1946	Central Amis	to throw	tekur	t e k u r	2406
+1947	Central Amis	to throw	falah	f a l a h	2407
+1948	Chamorro	to throw	aguet	a g u e t	2547
+1949	Banoni	to throw	vigi	v i g i	2658
+1950	Singhi	to throw	nʲokad	nʲ o k a d	2785
+1951	Singhi	to throw	mout	m o u t	2786
+#
+1952	Maloh	to fall	alau	a l a u	1023
+1953	Maloh	to fall	arabaʔ	a r a b a ʔ	1024
+1954	Merina (Malagasy)	to fall	lavo	l a v o	730
+1955	Thao	to fall	malhacak	m a l h a c a k	1206
+1956	Palauan	to fall	orːébet	o rː é b e t	1317
+1957	Tunjung	to fall	tatuj	t a t u j	1441
+1958	Bare'e	to fall	manawu	m a n a w u	730
+1959	Iban	to fall	laboh	l a b o h	-730
+1960	Berawan (Long Terawan)	to fall	sito	s i t o	1662
+1961	Moken	to fall	pəloʔ	p ə l o ʔ	730
+1962	Moken	to fall	labuːk	l a b uː k	730
+1963	Hanunoo	to fall	ragdag	r a g d a g	1821
+1964	Hanunoo	to fall	malagpak	m a l a g p a k	724
+1965	Wuna	to fall	nondafu	n o n d a f u	730
+1966	Tetum	to fall	monu	m o n u	730
+1967	Mailu	to fall	biubiu	b i u b i u	-210
+1968	Mailu	to fall	gagagari	g a g a g a r i	2006
+1969	Mailu	to fall	poːpoː	p oː p oː	2007
+1970	Tsou	to fall	supeohʉ	s u p e o h ʉ	2161
+1971	Nias	to fall	toru	t o r u	2279
+1972	Central Amis	to fall	materak	m a t e r a k	2408
+1973	Central Amis	to fall	mafunor	m a f u n o r	2409
+1974	Chamorro	to fall	lotgon	l o t g o n	2548
+1975	Banoni	to fall	butsu	b u t s u	2659
+1976	Banoni	to fall	dzoŋo	d z o ŋ o	2660
+1977	Banoni	to fall	geku	g e k u	2661
+1978	Singhi	to fall	rabu	r a b u	730
+1979	Banggi	to fall	endabu	e n d a b u	730
+#
+1980	Maloh	dog	asu	a s u	619
+1981	Merina (Malagasy)	dog	alika	a l i k a	1099
+1982	Thao	dog	atu	a t u	619
+1983	Palauan	dog	bilis	b i l i s	1318
+1984	Tunjung	dog	kokoʔ	k o k o ʔ	1442
+1985	Bare'e	dog	asu	a s u	619
+1986	Iban	dog	asuʔ	a s u ʔ	619
+1987	Iban	dog	ukui	u k u i	1587
+1988	Iban	dog	uduk	u d u k	1588
+1989	Iban	dog	ukoi	u k o i	1589
+1990	Iban	dog	udok	u d o k	1590
+1991	Berawan (Long Terawan)	dog	acoh	a c o h	619
+1992	Moken	dog	ʔoj	ʔ o j	1751
+1993	Hanunoo	dog	iduʔ	i d u ʔ	54
+1994	Wuna	dog	dahu	d a h u	619
+1995	Tetum	dog	asu	a s u	619
+1996	Mailu	dog	waːi	w aː i	2008
+1997	Tsou	dog	abʔu	a b ʔ u	2162
+1998	Nias	dog	asu	a s u	619
+1999	Central Amis	dog	wacu	w a c u	619
+2000	Banoni	dog	bekeu	b e k e u	2662
+2001	Singhi	dog	kosoŋ	k o s o ŋ	2787
+2002	Banggi	dog	aːsu	aː s u	619
+#
+2003	Maloh	bird	buroŋ	b u r o ŋ	583
+2004	Thao	bird	rumfaz	r u m f a z	1207
+2005	Palauan	bird	suebek#el#cʰarm	s u e b e k # e l # cʰ a r m	1319
+2006	Tunjung	bird	əmpuluʔ	ə m p u l u ʔ	1443
+2007	Bare'e	bird	tonci	t o n c i	1518
+2008	Iban	bird	buroŋ	b u r o ŋ	583
+2009	Berawan (Long Terawan)	bird	manoʔ	m a n o ʔ	381
+2010	Moken	bird	cicum	c i c u m	1752
+2011	Hanunoo	bird	manuk	m a n u k	381
+2012	Wuna	bird	manumanu	m a n u m a n u	381
+2013	Tetum	bird	manu#fuʔik	m a n u # f u ʔ i k	381
+2014	Mailu	bird	manu	m a n u	381
+2015	Tsou	bird	zomu	z o m u	213
+2016	Nias	bird	fofo	f o f o	2280
+2017	Central Amis	bird	tupi	t u p i	2410
+2018	Central Amis	bird	ajam	a j a m	213
+2019	Banoni	bird	manugʰu	m a n u gʰ u	381
+2020	Singhi	bird	manuk	m a n u k	381
+2021	Banggi	bird	bohed	b o h e d	2863
+#
+2022	Maloh	egg	intaror	i n t a r o r	411
+2023	Merina (Malagasy)	egg	atodj	a t o d j	411
+2024	Thao	egg	qaricuj	q a r i c u j	1208
+2025	Palauan	egg	ŋais	ŋ a i s	1320
+2026	Tunjung	egg	talo	t a l o	411
+2027	Bare'e	egg	toju	t o j u	411
+2028	Iban	egg	teluʔ	t e l u ʔ	411
+2029	Berawan (Long Terawan)	egg	tiu	t i u	-411
+2030	Moken	egg	kəluːn	k ə l uː n	411
+2031	Hanunoo	egg	itlug	i t l u g	443
+2032	Wuna	egg	gʰunteli	gʰ u n t e l i	411
+2033	Tetum	egg	tolːun	t o lː u n	411
+2034	Mailu	egg	muruː	m u r uː	132
+2035	Tsou	egg	fcueu	f c u e u	2163
+2036	Nias	egg	adulo	a d u l o	-411
+2037	Central Amis	egg	fitaqul	f i t a q u l	2411
+2038	Central Amis	egg	fitaʔol	f i t a ʔ o l	2412
+2039	Banoni	egg	panusu	p a n u s u	2663
+2040	Singhi	egg	turuoŋ	t u r u o ŋ	-411
+#
+2041	Maloh	feather	bulu	b u l u	193
+2042	Merina (Malagasy)	feather	volo	v o l o	193
+2043	Thao	feather	kupur	k u p u r	1209
+2044	Palauan	feather	busecʰ	b u s e cʰ	1321
+2045	Tunjung	feather	buluʔ	b u l u ʔ	193
+2046	Bare'e	feather	wuju	w u j u	193
+2047	Iban	feather	bulu	b u l u	193
+2048	Berawan (Long Terawan)	feather	buluh	b u l u h	193
+2049	Hanunoo	feather	bulbul#manuk	b u l b u l # m a n u k	193
+2050	Wuna	feather	vulu	v u l u	193
+2051	Tetum	feather	rahun	r a h u n	735
+2052	Mailu	feather	papa	p a p a	2009
+2053	Tsou	feather	eopuŋu	e o p u ŋ u	318
+2054	Nias	feather	bu	b u	193
+2055	Central Amis	feather	upih	u p i h	2413
+2056	Central Amis	feather	fanuh	f a n u h	2414
+2057	Chamorro	feather	pulu	p u l u	193
+2058	Banoni	feather	puata	p u a t a	2664
+2059	Singhi	feather	burun	b u r u n	193
+2060	Banggi	feather	bubul	b u b u l	193
+#
+2061	Maloh	wing	sap	s a p	-194
+2062	Merina (Malagasy)	wing	élatra	é l a t r a	747
+2063	Palauan	wing	osébek	o s é b e k	1322
+2064	Tunjung	wing	ekap	e k a p	1444
+2065	Bare'e	wing	pani	p a n i	710
+2066	Iban	wing	sajap	s a j a p	194
+2067	Berawan (Long Terawan)	wing	pawaiʔ	p a w a i ʔ	1663
+2068	Moken	wing	pakaː	p a k aː	616
+2069	Moken	wing	piːt	p iː t	512
+2070	Hanunoo	wing	pakpak	p a k p a k	616
+2071	Wuna	wing	pani	p a n i	710
+2072	Tetum	wing	liras	l i r a s	451
+2073	Mailu	wing	aena	a e n a	2010
+2074	Tsou	wing	eopuŋu	e o p u ŋ u	291
+2075	Nias	wing	afi	a f i	2281
+2076	Central Amis	wing	sapikpik	s a p i k p i k	616
+2077	Central Amis	wing	sapihpih	s a p i h p i h	2415
+2078	Chamorro	wing	papːa	p a pː a	616
+2079	Banoni	wing	buburu	b u b u r u	2665
+2080	Banoni	wing	bana	b a n a	-710
+2081	Singhi	wing	rad	r a d	747
+2082	Banggi	wing	koh	k o h	2864
+#
+2083	Maloh	to fly	minsap	m i n s a p	1025
+2084	Merina (Malagasy)	to fly	manidina	m a n i d i n a	1100
+2085	Thao	to fly	marfaz	m a r f a z	1210
+2086	Palauan	to fly	suébek	s u é b e k	-843
+2087	Tunjung	to fly	tərbaŋ	t ə r b a ŋ	168
+2088	Bare'e	to fly	mojoko	m o j o k o	1519
+2089	Iban	to fly	terebai	t e r e b a i	168
+2090	Berawan (Long Terawan)	to fly	təmalon	t ə m a l o n	1664
+2091	Moken	to fly	ŋajaːp	ŋ a j aː p	437
+2092	Hanunoo	to fly	lumajaŋ	l u m a j a ŋ	750
+2093	Wuna	to fly	horo	h o r o	809
+2094	Tetum	to fly	semo	s e m o	408
+2095	Mailu	to fly	levolevo	l e v o l e v o	843
+2096	Tsou	to fly	toesoso	t o e s o s o	2164
+2097	Nias	to fly	muhombo	m u h o m b o	2282
+2098	Central Amis	to fly	mafer	m a f e r	2416
+2099	Chamorro	to fly	gupu	g u p u	843
+2100	Banoni	to fly	burunu	b u r u n u	191
+2101	Singhi	to fly	bikabur	b i k a b u r	2788
+2102	Singhi	to fly	timirib	t i m i r i b	2789
+2103	Banggi	to fly	lampad	l a m p a d	668
+#
+2104	Maloh	rat	balau	b a l a u	29
+2105	Merina (Malagasy)	rat	voalavo	v o a l a v o	29
+2106	Thao	rat	mashmash	m a s h m a s h	1211
+2107	Palauan	rat	beab	b e a b	29
+2108	Bare'e	rat	walesu	w a l e s u	1520
+2109	Iban	rat	cit	c i t	472
+2110	Iban	rat	tikus	t i k u s	327
+2111	Berawan (Long Terawan)	rat	bəlio	b ə l i o	-29
+2112	Hanunoo	rat	aŋbu	a ŋ b u	811
+2113	Wuna	rat	wolavo	w o l a v o	29
+2114	Mailu	rat	oʔure	o ʔ u r e	458
+2115	Tsou	rat	buhci	b u h c i	77
+2116	Nias	rat	teʔu	t e ʔ u	164
+2117	Central Amis	rat	kulafaw	k u l a f a w	29
+2118	Central Amis	rat	ʔedo	ʔ e d o	2417
+2119	Banoni	rat	kiso	k i s o	745
+2120	Singhi	rat	birog	b i r o g	2790
+2121	Singhi	rat	digoŋ	d i g o ŋ	2791
+2122	Banggi	rat	sihud	s i h u d	2865
+#
+2123	Maloh	meat/flesh	isiʔ	i s i ʔ	663
+2124	Merina (Malagasy)	meat/flesh	héna	h é n a	1101
+2125	Thao	meat/flesh	bunlhaz	b u n l h a z	1212
+2126	Palauan	meat/flesh	tecʰ	t e cʰ	1323
+2127	Tunjung	meat/flesh	usiʔ	u s i ʔ	663
+2128	Bare'e	meat/flesh	saŋa	s a ŋ a	53
+2129	Iban	meat/flesh	isiʔ	i s i ʔ	663
+2130	Berawan (Long Terawan)	meat/flesh	ceh	c e h	523
+2131	Moken	meat/flesh	jukut	j u k u t	1753
+2132	Hanunoo	meat/flesh	tuban	t u b a n	1822
+2133	Hanunoo	meat/flesh	taguban	t a g u b a n	1823
+2134	Tetum	meat/flesh	isin	i s i n	523
+2135	Tetum	meat/flesh	naʔan	n a ʔ a n	1908
+2136	Mailu	meat/flesh	anai	a n a i	2011
+2137	Tsou	meat/flesh	beahci	b e a h c i	2165
+2138	Nias	meat/flesh	õsi	õ s i	663
+2139	Central Amis	meat/flesh	titi	t i t i	679
+2140	Central Amis	meat/flesh	heci	h e c i	523
+2141	Chamorro	meat/flesh	sensen	s e n s e n	2549
+2142	Banoni	meat/flesh	koganːa	k o g a nː a	2666
+2143	Banoni	meat/flesh	vagana	v a g a n a	2667
+2144	Singhi	meat/flesh	asin	a s i n	663
+2145	Banggi	meat/flesh	onsi	o n s i	-523
+#
+2146	Maloh	fat/grease	inʲak	i nʲ a k	534
+2147	Merina (Malagasy)	fat/grease	matavj	m a t a v j	1102
+2148	Thao	fat/grease	lhimash	l h i m a s h	202
+2149	Palauan	fat/grease	laok	l a o k	-371
+2150	Tunjung	fat/grease	loaʔ	l o a ʔ	1445
+2151	Bare'e	fat/grease	boko	b o k o	788
+2152	Iban	fat/grease	lemak	l e m a k	371
+2153	Iban	fat/grease	lenjiŋ	l e n j i ŋ	1591
+2154	Berawan (Long Terawan)	fat/grease	ləməʔ	l ə m ə ʔ	371
+2155	Moken	fat/grease	mənʲaːt	m ə nʲ aː t	534
+2156	Hanunoo	fat/grease	tabaʔ	t a b a ʔ	312
+2157	Tetum	fat/grease	boran	b o r a n	42
+2158	Tetum	fat/grease	mina	m i n a	534
+2159	Mailu	fat/grease	mona	m o n a	534
+2160	Tsou	fat/grease	hə́sə	h ə́ s ə	276
+2161	Nias	fat/grease	fanixa	f a n i x a	2283
+2162	Nias	fat/grease	tawõ	t a w õ	312
+2163	Central Amis	fat/grease	simar	s i m a r	202
+2164	Banoni	fat/grease	mariŋi	m a r i ŋ i	2668
+2165	Singhi	fat/grease	puak	p u a k	2792
+2166	Banggi	fat/grease	laːna	l aː n a	371
+#
+2167	Maloh	tail	iŋko	i ŋ k o	305
+2168	Merina (Malagasy)	tail	rambo	r a m b o	1103
+2169	Thao	tail	wawishwish	w a w i s h w i s h	345
+2170	Palauan	tail	kemur	k e m u r	1324
+2171	Tunjung	tail	iŋkot	i ŋ k o t	305
+2172	Bare'e	tail	iku	i k u	305
+2173	Iban	tail	ikoʔ	i k o ʔ	305
+2174	Berawan (Long Terawan)	tail	iko	i k o	305
+2175	Moken	tail	ʔikuːn	ʔ i k uː n	305
+2176	Hanunoo	tail	ikug	i k u g	305
+2177	Wuna	tail	punda	p u n d a	114
+2178	Tetum	tail	ikun	i k u n	305
+2179	Mailu	tail	batuna	b a t u n a	2012
+2180	Mailu	tail	doru	d o r u	108
+2181	Mailu	tail	nari	n a r i	2013
+2182	Tsou	tail	civci	c i v c i	795
+2183	Nias	tail	iʔo	i ʔ o	305
+2184	Central Amis	tail	wikor	w i k o r	305
+2185	Chamorro	tail	dadalak	d a d a l a k	2550
+2186	Banoni	tail	kokoreka	k o k o r e k a	2669
+2187	Singhi	tail	kon	k o n	305
+2188	Singhi	tail	ukue	u k u e	305
+2189	Banggi	tail	ifus	i f u s	-305
+#
+2190	Maloh	snake	urar	u r a r	575
+2191	Merina (Malagasy)	snake	bibilava	b i b i l a v a	1104
+2192	Thao	snake	qlhuran	q l h u r a n	1213
+2193	Palauan	snake	becʰéi	b e cʰ é i	1325
+2194	Palauan	snake	bersoecʰ	b e r s o e cʰ	1326
+2195	Tunjung	snake	nipaʔ	n i p a ʔ	343
+2196	Bare'e	snake	ule	u l e	575
+2197	Iban	snake	ular	u l a r	575
+2198	Berawan (Long Terawan)	snake	lipəh	l i p ə h	-343
+2199	Moken	snake	ʔolaːn	ʔ o l aː n	575
+2200	Hanunoo	snake	ulaj	u l a j	575
+2201	Wuna	snake	gʰule	gʰ u l e	575
+2202	Tetum	snake	samea	s a m e a	766
+2203	Mailu	snake	mio	m i o	2014
+2204	Tsou	snake	fkoi	f k o i	403
+2205	Nias	snake	ulõ	u l õ	575
+2206	Central Amis	snake	uner	u n e r	2418
+2207	Banoni	snake	koru	k o r u	737
+2208	Singhi	snake	dipux	d i p u x	-343
+2209	Banggi	snake	ulagn	u l a g n	575
+#
+2210	Merina (Malagasy)	worm (earthworm)	kankana	k a n k a n a	1105
+2211	Palauan	worm (earthworm)	cʰulad	cʰ u l a d	478
+2212	Tunjung	worm (earthworm)	halaŋ	h a l a ŋ	749
+2213	Bare'e	worm (earthworm)	tolodo	t o l o d o	1521
+2214	Iban	worm (earthworm)	ulat	u l a t	478
+2215	Berawan (Long Terawan)	worm (earthworm)	lateh	l a t e h	113
+2216	Moken	worm (earthworm)	gəlaŋ	g ə l a ŋ	749
+2217	Hanunoo	worm (earthworm)	alukatiʔ	a l u k a t i ʔ	-113
+2218	Tetum	worm (earthworm)	latːik#rai	l a tː i k # r a i	113
+2219	Mailu	worm (earthworm)	minu	m i n u	2015
+2220	Mailu	worm (earthworm)	nikoi	n i k o i	2016
+2221	Tsou	worm (earthworm)	polo	p o l o	2166
+2222	Nias	worm (earthworm)	kelew̃azi	k e l e w̃ a z i	-113
+2223	Central Amis	worm (earthworm)	atikak	a t i k a k	2419
+2224	Central Amis	worm (earthworm)	ʔatikak	ʔ a t i k a k	2420
+2225	Banoni	worm (earthworm)	koropita	k o r o p i t a	808
+2226	Banoni	worm (earthworm)	mabo	m a b o	2670
+2227	Singhi	worm (earthworm)	tomux	t o m u x	2793
+2228	Singhi	worm (earthworm)	ratuŋ	r a t u ŋ	2794
+2229	Banggi	worm (earthworm)	liŋguaŋ	l i ŋ g u a ŋ	660
+#
+2230	Maloh	louse	kutu	k u t u	150
+2231	Merina (Malagasy)	louse	hao	h a o	1106
+2232	Thao	louse	kucu	k u c u	150
+2233	Palauan	louse	kud	k u d	150
+2234	Tunjung	louse	kutuʔ	k u t u ʔ	150
+2235	Bare'e	louse	tuku	t u k u	150
+2236	Iban	louse	kutu	k u t u	150
+2237	Berawan (Long Terawan)	louse	kutːoh	k u tː o h	150
+2238	Moken	louse	gutoj	g u t o j	150
+2239	Hanunoo	louse	kutu	k u t u	150
+2240	Tetum	louse	utu	u t u	150
+2241	Mailu	louse	tuma	t u m a	812
+2242	Tsou	louse	teocu	t e o c u	-698
+2243	Nias	louse	utu	u t u	150
+2244	Central Amis	louse	kuto	k u t o	150
+2245	Central Amis	louse	ʔatimla	ʔ a t i m l a	2421
+2246	Chamorro	louse	hutu	h u t u	150
+2247	Banoni	louse	gʰutsu	gʰ u t s u	150
+2248	Singhi	louse	gitux	g i t u x	150
+#
+2249	Merina (Malagasy)	mosquito	moka	m o k a	1107
+2250	Thao	mosquito	rikish	r i k i s h	284
+2251	Palauan	mosquito	rekas	r e k a s	1327
+2252	Palauan	mosquito	ilkolk	i l k o l k	1328
+2253	Bare'e	mosquito	nojo	n o j o	1522
+2254	Iban	mosquito	nʲamok	nʲ a m o k	764
+2255	Berawan (Long Terawan)	mosquito	təla	t ə l a	1665
+2256	Moken	mosquito	nʲamok	nʲ a m o k	764
+2257	Hanunoo	mosquito	namuk	n a m u k	764
+2258	Wuna	mosquito	konunu	k o n u n u	1874
+2259	Tetum	mosquito	ninik	n i n i k	587
+2260	Tetum	mosquito	susuk	s u s u k	174
+2261	Mailu	mosquito	nemo	n e m o	-764
+2262	Tsou	mosquito	moeocʉ	m o e o c ʉ	2167
+2263	Nias	mosquito	di#ːmbõhõ	d i #ː m b õ h õ	2284
+2264	Central Amis	mosquito	likes	l i k e s	284
+2265	Chamorro	mosquito	nʲamu	nʲ a m u	764
+2266	Banoni	mosquito	merikono	m e r i k o n o	2671
+2267	Singhi	mosquito	piruŋaŋ	p i r u ŋ a ŋ	2795
+2268	Banggi	mosquito	tonok	t o n o k	2866
+#
+2269	Palauan	spider	bubuu	b u b u u	1329
+2270	Bare'e	spider	bukaka	b u k a k a	1523
+2271	Iban	spider	empelawaʔ	e m p e l a w a ʔ	797
+2272	Berawan (Long Terawan)	spider	kəlawaʔ	k ə l a w a ʔ	797
+2273	Moken	spider	gatoːn	g a t oː n	1754
+2274	Hanunoo	spider	lawa	l a w a	797
+2275	Wuna	spider	kabamba	k a b a m b a	14
+2276	Tetum	spider	labadain	l a b a d a i n	-797
+2277	Mailu	spider	mokoi	m o k o i	2017
+2278	Nias	spider	kalaw̃a	k a l a w̃ a	797
+2279	Central Amis	spider	falalutoŋ	f a l a l u t o ŋ	2422
+2280	Banoni	spider	kaːdado	k aː d a d o	2672
+2281	Singhi	spider	toka	t o k a	2796
+#
+2282	Maloh	fish	lauh	l a u h	615
+2283	Maloh	fish	lauk	l a u k	615
+2284	Merina (Malagasy)	fish	hazandrano	h a z a n d r a n o	1108
+2285	Merina (Malagasy)	fish	trondro	t r o n d r o	1109
+2286	Merina (Malagasy)	fish	laoko	l a o k o	1110
+2287	Thao	fish	rusaw	r u s a w	1214
+2288	Palauan	fish	ŋikel	ŋ i k e l	585
+2289	Tunjung	fish	mətuʔ	m ə t u ʔ	1446
+2290	Bare'e	fish	bau	b a u	-510
+2291	Iban	fish	ikan	i k a n	585
+2292	Berawan (Long Terawan)	fish	puta	p u t a	405
+2293	Moken	fish	ʔekaːn	ʔ e k aː n	585
+2294	Hanunoo	fish	isdaʔ	i s d a ʔ	539
+2295	Wuna	fish	kenta	k e n t a	283
+2296	Tetum	fish	naʔan	n a ʔ a n	1909
+2297	Mailu	fish	orebe	o r e b e	16
+2298	Tsou	fish	eoskʉ	e o s k ʉ	2168
+2299	Central Amis	fish	futiŋ	f u t i ŋ	2423
+2300	Central Amis	fish	futiŋ	f u t i ŋ	2424
+2301	Chamorro	fish	guihan	g u i h a n	2551
+2302	Banoni	fish	bosi	b o s i	2673
+2303	Singhi	fish	kien	k i e n	585
+2304	Banggi	fish	sadak	s a d a k	539
+#
+2305	Maloh	rotten	bauruk	b a u r u k	457
+2306	Maloh	rotten	buruk	b u r u k	457
+2307	Merina (Malagasy)	rotten	drodroka	d r o d r o k a	1111
+2308	Thao	rotten	mubluc	m u b l u c	1215
+2309	Palauan	rotten	beémecʰ	b e é m e cʰ	1330
+2310	Tunjung	rotten	buruk	b u r u k	457
+2311	Bare'e	rotten	boŋko	b o ŋ k o	1524
+2312	Iban	rotten	burok	b u r o k	457
+2313	Berawan (Long Terawan)	rotten	kuroʔ	k u r o ʔ	1666
+2314	Berawan (Long Terawan)	rotten	kiŋəh	k i ŋ ə h	1667
+2315	Moken	rotten	podoːt	p o d oː t	653
+2316	Hanunoo	rotten	maʔibas	m a ʔ i b a s	457
+2317	Hanunoo	rotten	bujuk	b u j u k	457
+2318	Wuna	rotten	noburu	n o b u r u	457
+2319	Tetum	rotten	dodok	d o d o k	742
+2320	Mailu	rotten	moru	m o r u	2018
+2321	Tsou	rotten	nakuzo	n a k u z o	2169
+2322	Nias	rotten	abou	a b o u	2285
+2323	Central Amis	rotten	mafunar	m a f u n a r	2425
+2324	Central Amis	rotten	mafuniʔ	m a f u n i ʔ	2426
+2325	Chamorro	rotten	lamas	l a m a s	2552
+2326	Banoni	rotten	raːpa	r aː p a	612
+2327	Banoni	rotten	kupu	k u p u	2674
+2328	Banoni	rotten	biko	b i k o	2675
+2329	Singhi	rotten	madue	m a d u e	2797
+2330	Singhi	rotten	modam	m o d a m	608
+2331	Banggi	rotten	mutaŋ	m u t a ŋ	2867
+#
+2332	Maloh	branch	dan	d a n	227
+2333	Merina (Malagasy)	branch	rahaka	r a h a k a	1112
+2334	Thao	branch	pana	p a n a	662
+2335	Palauan	branch	racʰel	r a cʰ e l	-227
+2336	Tunjung	branch	raːatn	r aː a t n	1447
+2337	Bare'e	branch	raʔa	r a ʔ a	227
+2338	Iban	branch	dan	d a n	227
+2339	Berawan (Long Terawan)	branch	diʔən	d i ʔ ə n	227
+2340	Moken	branch	dakaːŋ	d a k aː ŋ	227
+2341	Hanunoo	branch	saŋa	s a ŋ a	148
+2342	Wuna	branch	ragʰa	r a gʰ a	227
+2343	Tetum	branch	watːan	w a tː a n	1910
+2344	Mailu	branch	daga	d a g a	227
+2345	Mailu	branch	dana	d a n a	227
+2346	Tsou	branch	éhti	é h t i	2170
+2347	Tsou	branch	ehtisi	e h t i s i	2171
+2348	Nias	branch	daha	d a h a	227
+2349	Central Amis	branch	capaʔ	c a p a ʔ	2427
+2350	Central Amis	branch	cipaʔ	c i p a ʔ	2428
+2351	Banoni	branch	nakona	n a k o n a	2676
+2352	Singhi	branch	daːn	d aː n	227
+2353	Banggi	branch	saŋa	s a ŋ a	148
+#
+2354	Maloh	leaf	daun	d a u n	266
+2355	Merina (Malagasy)	leaf	ravina	r a v i n a	1113
+2356	Thao	leaf	filhaq	f i l h a q	495
+2357	Palauan	leaf	lːel	lː e l	1331
+2358	Tunjung	leaf	roun	r o u n	266
+2359	Bare'e	leaf	ira	i r a	1525
+2360	Iban	leaf	daun	d a u n	266
+2361	Berawan (Long Terawan)	leaf	dion	d i o n	266
+2362	Moken	leaf	daʔon	d a ʔ o n	266
+2363	Hanunoo	leaf	labuŋ	l a b u ŋ	1824
+2364	Tetum	leaf	tahan	t a h a n	91
+2365	Mailu	leaf	bega	b e g a	2019
+2366	Tsou	leaf	hʉŋʉ	h ʉ ŋ ʉ	484
+2367	Nias	leaf	bulu	b u l u	110
+2368	Central Amis	leaf	papah	p a p a h	2429
+2369	Chamorro	leaf	hagon	h a g o n	2553
+2370	Banoni	leaf	nana	n a n a	2677
+2371	Singhi	leaf	dawun	d a w u n	266
+2372	Banggi	leaf	doudn	d o u d n	266
+#
+2373	Maloh	root	urat	u r a t	35
+2374	Merina (Malagasy)	root	faka	f a k a	661
+2375	Thao	root	lhamic	l h a m i c	171
+2376	Palauan	root	rais	r a i s	-562
+2377	Tunjung	root	akar	a k a r	661
+2378	Bare'e	root	kale	k a l e	1526
+2379	Iban	root	urat	u r a t	35
+2380	Berawan (Long Terawan)	root	gimauʔ	g i m a u ʔ	-171
+2381	Moken	root	jakan	j a k a n	-661
+2382	Hanunoo	root	gamut	g a m u t	171
+2383	Wuna	root	paraka	p a r a k a	661
+2384	Tetum	root	abut	a b u t	171
+2385	Mailu	root	miri	m i r i	2020
+2386	Mailu	root	tai	t a i	2021
+2387	Tsou	root	misi	m i s i	171
+2388	Nias	root	lali	l a l i	-720
+2389	Nias	root	w̃aʔa	w̃ a ʔ a	661
+2390	Central Amis	root	lamit	l a m i t	171
+2391	Central Amis	root	limit	l i m i t	171
+2392	Banoni	root	bagarana	b a g a r a n a	664
+2393	Banoni	root	vapopokana	v a p o p o k a n a	2678
+2394	Singhi	root	at	a t	35
+2395	Singhi	root	bokah	b o k a h	661
+2396	Banggi	root	fahat	f a h a t	-661
+2397	Banggi	root	braːn	b r aː n	2868
+#
+2398	Maloh	flower	buŋa	b u ŋ a	65
+2399	Merina (Malagasy)	flower	vonj	v o n j	-65
+2400	Thao	flower	bukaj	b u k a j	1216
+2401	Palauan	flower	buŋ	b u ŋ	65
+2402	Tunjung	flower	uŋan	u ŋ a n	65
+2403	Bare'e	flower	sese	s e s e	628
+2404	Iban	flower	buŋai	b u ŋ a i	65
+2405	Berawan (Long Terawan)	flower	busaʔ	b u s a ʔ	133
+2406	Moken	flower	buŋaʔ	b u ŋ a ʔ	65
+2407	Hanunoo	flower	busaŋ	b u s a ŋ	-65
+2408	Hanunoo	flower	ragaw	r a g a w	1825
+2409	Wuna	flower	vuna	v u n a	65
+2410	Tetum	flower	ai#funan	a i # f u n a n	65
+2411	Mailu	flower	popori	p o p o r i	2022
+2412	Mailu	flower	suoro	s u o r o	2023
+2413	Tsou	flower	bʉvnʉ	b ʉ v n ʉ	2172
+2414	Nias	flower	buŋa	b u ŋ a	65
+2415	Chamorro	flower	cʰinalek	cʰ i n a l e k	2554
+2416	Banoni	flower	baːbaːna	b aː b aː n a	2679
+2417	Banggi	flower	budak	b u d a k	493
+#
+2418	Maloh	fruit	buaʔ	b u a ʔ	694
+2419	Merina (Malagasy)	fruit	voa	v o a	694
+2420	Palauan	fruit	rodecʰ	r o d e cʰ	1332
+2421	Tunjung	fruit	ugan	u g a n	694
+2422	Bare'e	fruit	wua	w u a	694
+2423	Iban	fruit	buah	b u a h	694
+2424	Berawan (Long Terawan)	fruit	luʔoŋ	l u ʔ o ŋ	1668
+2425	Moken	fruit	buəːk	b u əː k	694
+2426	Hanunoo	fruit	burak	b u r a k	694
+2427	Wuna	fruit	bake	b a k e	232
+2428	Tetum	fruit	ai#fuan	a i # f u a n	694
+2429	Mailu	fruit	lora	l o r a	2024
+2430	Tsou	fruit	beahci	b e a h c i	2173
+2431	Nias	fruit	bua	b u a	694
+2432	Chamorro	fruit	inasahan	i n a s a h a n	2555
+2433	Singhi	fruit	bua	b u a	694
+2434	Banggi	fruit	buak	b u a k	694
+#
+2435	Maloh	grass	rimput	r i m p u t	272
+2436	Merina (Malagasy)	grass	ahitra	a h i t r a	1114
+2437	Thao	grass	lhmir	l h m i r	610
+2438	Palauan	grass	cʰudel	cʰ u d e l	1333
+2439	Tunjung	grass	uruʔ	u r u ʔ	466
+2440	Bare'e	grass	ewo	e w o	1527
+2441	Iban	grass	rumput	r u m p u t	272
+2442	Berawan (Long Terawan)	grass	uroh	u r o h	466
+2443	Moken	grass	lopot	l o p o t	-272
+2444	Hanunoo	grass	rikut	r i k u t	75
+2445	Hanunoo	grass	marikut	m a r i k u t	1826
+2446	Wuna	grass	karopu	k a r o p u	1875
+2447	Tsou	grass	sʔosʔo	s ʔ o s ʔ o	2174
+2448	Nias	grass	duʔu	d u ʔ u	466
+2449	Central Amis	grass	reŋus	r e ŋ u s	2430
+2450	Central Amis	grass	leŋos	l e ŋ o s	2431
+2451	Banoni	grass	gogorini	g o g o r i n i	2680
+2452	Singhi	grass	dux	d u x	-466
+2453	Banggi	grass	rihut	r i h u t	75
+#
+2454	Maloh	earth/soil	tanaʔ	t a n a ʔ	501
+2455	Merina (Malagasy)	earth/soil	tanj	t a n j	501
+2456	Thao	earth/soil	pruq	p r u q	1217
+2457	Palauan	earth/soil	cʰutem	cʰ u t e m	1334
+2458	Tunjung	earth/soil	tanaʔ	t a n a ʔ	501
+2459	Bare'e	earth/soil	tana	t a n a	501
+2460	Iban	earth/soil	tanah	t a n a h	501
+2461	Berawan (Long Terawan)	earth/soil	tana	t a n a	501
+2462	Moken	earth/soil	tanak	t a n a k	501
+2463	Hanunoo	earth/soil	dagaʔ	d a g a ʔ	581
+2464	Wuna	earth/soil	wito	w i t o	506
+2465	Tetum	earth/soil	rai	r a i	731
+2466	Mailu	earth/soil	arima	a r i m a	43
+2467	Tsou	earth/soil	céoa	c é o a	-532
+2468	Nias	earth/soil	tanõ	t a n õ	501
+2469	Central Amis	earth/soil	serah	s e r a h	790
+2470	Central Amis	earth/soil	sutaʕ	s u t a ʕ	2432
+2471	Banoni	earth/soil	gomono	g o m o n o	2681
+2472	Singhi	earth/soil	tanah	t a n a h	501
+2473	Banggi	earth/soil	taːnah	t aː n a h	501
+#
+2474	Maloh	stone	batu	b a t u	379
+2475	Merina (Malagasy)	stone	vato	v a t o	379
+2476	Thao	stone	fatu	f a t u	379
+2477	Palauan	stone	bad	b a d	379
+2478	Tunjung	stone	batuʔ	b a t u ʔ	379
+2479	Bare'e	stone	watu	w a t u	379
+2480	Iban	stone	batu	b a t u	379
+2481	Berawan (Long Terawan)	stone	bitːoh	b i tː o h	379
+2482	Moken	stone	batoj	b a t o j	379
+2483	Hanunoo	stone	batu	b a t u	379
+2484	Wuna	stone	kontu	k o n t u	379
+2485	Tetum	stone	fatuk	f a t u k	379
+2486	Mailu	stone	budi	b u d i	2025
+2487	Mailu	stone	gomagomana	g o m a g o m a n a	2026
+2488	Mailu	stone	nabua	n a b u a	2027
+2489	Tsou	stone	skuzu	s k u z u	2175
+2490	Nias	stone	baʔu	b a ʔ u	379
+2491	Nias	stone	kara	k a r a	379
+2492	Central Amis	stone	fakeluh	f a k e l u h	2433
+2493	Central Amis	stone	fukeloh	f u k e l o h	2434
+2494	Banoni	stone	paratsi	p a r a t s i	2682
+2495	Singhi	stone	batux	b a t u x	379
+2496	Banggi	stone	batu	b a t u	379
+#
+2497	Maloh	sand	kasik	k a s i k	-509
+2498	Thao	sand	bunaz	b u n a z	515
+2499	Palauan	sand	cʰelecʰol	cʰ e l e cʰ o l	1335
+2500	Tunjung	sand	pasir	p a s i r	702
+2501	Bare'e	sand	bone	b o n e	158
+2502	Iban	sand	pasir	p a s i r	702
+2503	Berawan (Long Terawan)	sand	raiʔ	r a i ʔ	1669
+2504	Moken	sand	kənaj	k ə n a j	158
+2505	Hanunoo	sand	baras	b a r a s	218
+2506	Wuna	sand	bone	b o n e	158
+2507	Tetum	sand	rai#henik	r a i # h e n i k	370
+2508	Mailu	sand	one	o n e	158
+2509	Tsou	sand	fujufuʔu	f u j u f u ʔ u	2176
+2510	Nias	sand	ene	e n e	158
+2511	Central Amis	sand	tafuk	t a f u k	2435
+2512	Central Amis	sand	tafok	t a f o k	2436
+2513	Chamorro	sand	unai	u n a i	158
+2514	Banoni	sand	pitsi	p i t s i	2683
+2515	Singhi	sand	sumat	s u m a t	2798
+2516	Singhi	sand	pasir	p a s i r	702
+#
+2517	Maloh	water	danum	d a n u m	189
+2518	Merina (Malagasy)	water	rano	r a n o	189
+2519	Thao	water	sazum	s a z u m	189
+2520	Palauan	water	ralm	r a l m	189
+2521	Palauan	water	daob	d a o b	1336
+2522	Tunjung	water	anum	a n u m	189
+2523	Iban	water	aiʔ	a i ʔ	412
+2524	Berawan (Long Terawan)	water	pi	p i	1670
+2525	Moken	water	noʔen	n o ʔ e n	1755
+2526	Moken	water	wiːn	w iː n	-412
+2527	Hanunoo	water	danum	d a n u m	189
+2528	Tetum	water	we	w e	412
+2529	Mailu	water	aʔaʔma	a ʔ a ʔ m a	2028
+2530	Mailu	water	mami	m a m i	2029
+2531	Tsou	water	cʰumu	cʰ u m u	189
+2532	Nias	water	idanõ	i d a n õ	189
+2533	Central Amis	water	nanum	n a n u m	189
+2534	Chamorro	water	hanom	h a n o m	189
+2535	Banoni	water	koromo	k o r o m o	485
+2536	Singhi	water	piːn	p iː n	2799
+2537	Banggi	water	beig	b e i g	2869
+#
+2538	Maloh	to flow	aréaŋ	a r é a ŋ	1026
+2539	Merina (Malagasy)	to flow	mivalana	m i v a l a n a	1115
+2540	Thao	to flow	maŋqaruz	m a ŋ q a r u z	1218
+2541	Palauan	to flow	merael	m e r a e l	1337
+2542	Bare'e	to flow	ili	i l i	364
+2543	Iban	to flow	aruŋ	a r u ŋ	1592
+2544	Iban	to flow	juŋkiŋ	j u ŋ k i ŋ	1593
+2545	Berawan (Long Terawan)	to flow	julu	j u l u	1671
+2546	Moken	to flow	ʔakuːn	ʔ a k uː n	1756
+2547	Moken	to flow	bəjeː	b ə j eː	1757
+2548	Hanunoo	to flow	lagnas	l a g n a s	1827
+2549	Tetum	to flow	suli	s u l i	380
+2550	Mailu	to flow	aruaru	a r u a r u	2030
+2551	Tsou	to flow	moheovcu	m o h e o v c u	2177
+2552	Nias	to flow	mohohou	m o h o h o u	2286
+2553	Central Amis	to flow	makataj	m a k a t a j	2437
+2554	Banoni	to flow	sanini	s a n i n i	2684
+2555	Banoni	to flow	gu	g u	2685
+2556	Singhi	to flow	siriet	s i r i e t	2800
+#
+2557	Maloh	sea	roŋ#jawa	r o ŋ # j a w a	1027
+2558	Merina (Malagasy)	sea	ranomasina	r a n o m a s i n a	1116
+2559	Thao	sea	wazakan	w a z a k a n	1219
+2560	Palauan	sea	cʰéi	cʰ é i	1338
+2561	Palauan	sea	daob	d a o b	1339
+2562	Bare'e	sea	tasi	t a s i	839
+2563	Iban	sea	laut	l a u t	224
+2564	Iban	sea	tasik	t a s i k	839
+2565	Berawan (Long Terawan)	sea	diliʔ	d i l i ʔ	1672
+2566	Moken	sea	ʔokiːn	ʔ o k iː n	1758
+2567	Hanunoo	sea	lawud	l a w u d	224
+2568	Hanunoo	sea	dagat	d a g a t	517
+2569	Wuna	sea	tehi	t e h i	839
+2570	Tetum	sea	tasi	t a s i	839
+2571	Mailu	sea	lo	l o	224
+2572	Tsou	sea	#tʉpʉ	# t ʉ p ʉ	2178
+2573	Nias	sea	asi	a s i	839
+2574	Central Amis	sea	riar	r i a r	2438
+2575	Central Amis	sea	lijar	l i j a r	2439
+2576	Chamorro	sea	tasi	t a s i	839
+2577	Banoni	sea	tagisi	t a g i s i	2686
+2578	Banoni	sea	gutsini	g u t s i n i	2687
+2579	Singhi	sea	raut	r a u t	224
+2580	Banggi	sea	loud	l o u d	224
+#
+2581	Maloh	salt	siaʔ	s i a ʔ	623
+2582	Thao	salt	qtilha	q t i l h a	623
+2583	Tunjung	salt	cehaʔ	c e h a ʔ	1448
+2584	Bare'e	salt	bure	b u r e	1528
+2585	Iban	salt	garam	g a r a m	317
+2586	Berawan (Long Terawan)	salt	usən	u s ə n	-623
+2587	Moken	salt	selaʔ	s e l a ʔ	623
+2588	Hanunoo	salt	asin	a s i n	486
+2589	Wuna	salt	gohia	g o h i a	623
+2590	Tetum	salt	masin	m a s i n	486
+2591	Mailu	salt	sari	s a r i	687
+2592	Tsou	salt	sieu	s i e u	2179
+2593	Nias	salt	asi	a s i	623
+2594	Central Amis	salt	cirah	c i r a h	623
+2595	Central Amis	salt	cilah	c i l a h	623
+2596	Chamorro	salt	asiga	a s i g a	623
+2597	Banoni	salt	tsigo	t s i g o	2688
+2598	Singhi	salt	garoe	g a r o e	317
+2599	Banggi	salt	timus	t i m u s	762
+#
+2600	Maloh	lake	dano	d a n o	654
+2601	Thao	lake	wazakan	w a z a k a n	1220
+2602	Palauan	lake	omecʰuacʰel	o m e cʰ u a cʰ e l	1340
+2603	Tunjung	lake	kənohan	k ə n o h a n	1449
+2604	Bare'e	lake	rano	r a n o	654
+2605	Iban	lake	lepuŋ	l e p u ŋ	1594
+2606	Iban	lake	peguŋ	p e g u ŋ	1595
+2607	Berawan (Long Terawan)	lake	biwaŋ	b i w a ŋ	-100
+2608	Hanunoo	lake	danaw	d a n a w	654
+2609	Tetum	lake	we#lihun	w e # l i h u n	1911
+2610	Mailu	lake	laʔi	l a ʔ i	2031
+2611	Tsou	lake	topuku	t o p u k u	2180
+2612	Central Amis	lake	fanaw	f a n a w	2440
+2613	Chamorro	lake	hagoe	h a g o e	2556
+2614	Banoni	lake	gosoro	g o s o r o	2689
+2615	Banoni	lake	mato	m a t o	2690
+2616	Singhi	lake	danu	d a n u	654
+#
+2617	Maloh	woods/forest	toan	t o a n	263
+2618	Merina (Malagasy)	woods/forest	ala	a l a	417
+2619	Palauan	woods/forest	oreomel	o r e o m e l	1341
+2620	Tunjung	woods/forest	talun	t a l u n	263
+2621	Bare'e	woods/forest	wana#jopo	w a n a # j o p o	590
+2622	Iban	woods/forest	kampoŋ	k a m p o ŋ	1596
+2623	Berawan (Long Terawan)	woods/forest	late	l a t e	1673
+2624	Moken	woods/forest	kotaːn	k o t aː n	190
+2625	Hanunoo	woods/forest	puruʔ	p u r u ʔ	-195
+2626	Hanunoo	woods/forest	talun	t a l u n	263
+2627	Wuna	woods/forest	katua	k a t u a	195
+2628	Tetum	woods/forest	alas	a l a s	417
+2629	Mailu	woods/forest	larausu	l a r a u s u	2032
+2630	Tsou	woods/forest	eazolin	e a z o l i n	2181
+2631	Nias	woods/forest	tua	t u a	2287
+2632	Central Amis	woods/forest	lutuk	l u t u k	2441
+2633	Chamorro	woods/forest	bundak	b u n d a k	2557
+2634	Banoni	woods/forest	bubuna	b u b u n a	2691
+2635	Banoni	woods/forest	koŋara	k o ŋ a r a	2692
+2636	Singhi	woods/forest	torun	t o r u n	263
+2637	Banggi	woods/forest	gobak	g o b a k	810
+#
+2638	Maloh	sky	suan	s u a n	1028
+2639	Merina (Malagasy)	sky	lanitra	l a n i t r a	203
+2640	Thao	sky	qali	q a l i	1221
+2641	Palauan	sky	eaŋed	e a ŋ e d	-203
+2642	Tunjung	sky	laŋit	l a ŋ i t	203
+2643	Bare'e	sky	jaŋi	j a ŋ i	203
+2644	Iban	sky	laŋit	l a ŋ i t	203
+2645	Berawan (Long Terawan)	sky	milaiʔ	m i l a i ʔ	1674
+2646	Moken	sky	kəniəŋ	k ə n i ə ŋ	1759
+2647	Hanunoo	sky	laŋit	l a ŋ i t	203
+2648	Wuna	sky	lani	l a n i	203
+2649	Tetum	sky	lalean	l a l e a n	-162
+2650	Mailu	sky	nogara	n o g a r a	2033
+2651	Tsou	sky	nʉ́ca	n ʉ́ c a	2182
+2652	Nias	sky	laŋi	l a ŋ i	203
+2653	Nias	sky	banua	b a n u a	203
+2654	Central Amis	sky	kakarajan	k a k a r a j a n	247
+2655	Central Amis	sky	kakalajan	k a k a l a j a n	247
+2656	Chamorro	sky	laŋet	l a ŋ e t	203
+2657	Banoni	sky	barekopi	b a r e k o p i	2693
+2658	Singhi	sky	roŋit	r o ŋ i t	203
+2659	Banggi	sky	laŋit	l a ŋ i t	203
+#
+2660	Maloh	moon	bulan	b u l a n	817
+2661	Merina (Malagasy)	moon	volana	v o l a n a	817
+2662	Thao	moon	furaz	f u r a z	-817
+2663	Palauan	moon	buil	b u i l	817
+2664	Tunjung	moon	ulantʰ	u l a n tʰ	1450
+2665	Bare'e	moon	wuja	w u j a	817
+2666	Iban	moon	bulan	b u l a n	817
+2667	Berawan (Long Terawan)	moon	bulin	b u l i n	817
+2668	Moken	moon	bulaːn	b u l aː n	817
+2669	Hanunoo	moon	bulan	b u l a n	817
+2670	Wuna	moon	wula	w u l a	817
+2671	Tetum	moon	fulan	f u l a n	817
+2672	Mailu	moon	dovele	d o v e l e	422
+2673	Tsou	moon	feohʉ	f e o h ʉ	-817
+2674	Nias	moon	baw̃a	b a w̃ a	2288
+2675	Central Amis	moon	fulal	f u l a l	-817
+2676	Chamorro	moon	pulan	p u l a n	817
+2677	Banoni	moon	madava	m a d a v a	2694
+2678	Singhi	moon	buran	b u r a n	817
+2679	Banggi	moon	buaitn	b u a i t n	817
+#
+2680	Maloh	star	bintaŋ	b i n t a ŋ	4
+2681	Merina (Malagasy)	star	kintana	k i n t a n a	1117
+2682	Thao	star	kilhpuz	k i l h p u z	1222
+2683	Palauan	star	btucʰ	b t u cʰ	4
+2684	Tunjung	star	bintaŋ	b i n t a ŋ	4
+2685	Bare'e	star	betuʔu	b e t u ʔ u	4
+2686	Iban	star	bintaŋ	b i n t a ŋ	4
+2687	Berawan (Long Terawan)	star	təkəbin	t ə k ə b i n	1675
+2688	Moken	star	bituək	b i t u ə k	4
+2689	Hanunoo	star	pamgasan	p a m g a s a n	1828
+2690	Wuna	star	kalipopo	k a l i p o p o	80
+2691	Tetum	star	fitun	f i t u n	4
+2692	Mailu	star	vitiu	v i t i u	4
+2693	Tsou	star	coŋéoha	c o ŋ é o h a	34
+2694	Nias	star	dõfi	d õ f i	2289
+2695	Central Amis	star	fuqis	f u q i s	2442
+2696	Central Amis	star	fuʕis	f u ʕ i s	2443
+2697	Banoni	star	pipito	p i p i t o	4
+2698	Singhi	star	bitaŋ	b i t a ŋ	4
+#
+2699	Maloh	cloud	dom	d o m	1029
+2700	Merina (Malagasy)	cloud	rahona	r a h o n a	50
+2701	Thao	cloud	urum	u r u m	-372
+2702	Palauan	cloud	eabed	e a b e d	1342
+2703	Tunjung	cloud	awan	a w a n	50
+2704	Bare'e	cloud	limu	l i m u	1529
+2705	Iban	cloud	awan	a w a n	50
+2706	Iban	cloud	remaŋ	r e m a ŋ	1597
+2707	Iban	cloud	sebun	s e b u n	1598
+2708	Berawan (Long Terawan)	cloud	gium	g i u m	-50
+2709	Moken	cloud	kəniəŋ	k ə n i ə ŋ	1760
+2710	Hanunoo	cloud	paŋanud	p a ŋ a n u d	234
+2711	Wuna	cloud	olu	o l u	365
+2712	Tetum	cloud	kaloan	k a l o a n	1912
+2713	Mailu	cloud	nogara	n o g a r a	188
+2714	Tsou	cloud	cmʉ́cmʉ	c m ʉ́ c m ʉ	2183
+2715	Nias	cloud	lawuo	l a w u o	2290
+2716	Central Amis	cloud	lulem	l u l e m	372
+2717	Central Amis	cloud	kalit	k a l i t	2444
+2718	Central Amis	cloud	tuʔem	t u ʔ e m	2445
+2719	Chamorro	cloud	mapagahes	m a p a g a h e s	2558
+2720	Chamorro	cloud	homhom	h o m h o m	2559
+2721	Chamorro	cloud	ucʰan	u cʰ a n	2560
+2722	Banoni	cloud	kekao	k e k a o	2695
+2723	Singhi	cloud	abun	a b u n	50
+2724	Banggi	cloud	awan	a w a n	50
+#
+2725	Maloh	fog	aun	a u n	1030
+2726	Merina (Malagasy)	fog	zavona	z a v o n a	1118
+2727	Thao	fog	harbuk	h a r b u k	1223
+2728	Palauan	fog	cʰetecʰat	cʰ e t e cʰ a t	1343
+2729	Tunjung	fog	əmun	ə m u n	274
+2730	Bare'e	fog	limu	l i m u	1530
+2731	Iban	fog	apok	a p o k	1599
+2732	Berawan (Long Terawan)	fog	gium	g i u m	1676
+2733	Hanunoo	fog	alinjabuʔ	a l i n j a b u ʔ	1829
+2734	Wuna	fog	gawu	g a w u	448
+2735	Tetum	fog	ai#abu	a i # a b u	448
+2736	Nias	fog	sau	s a u	2291
+2737	Central Amis	fog	takulah	t a k u l a h	2446
+2738	Central Amis	fog	qopqopaj	q o p q o p a j	2447
+2739	Chamorro	fog	afao	a f a o	2561
+2740	Chamorro	fog	asgon	a s g o n	2562
+2741	Banoni	fog	kabu	k a b u	448
+2742	Banoni	fog	nukuita	n u k u i t a	2696
+2743	Banoni	fog	vamuko	v a m u k o	2697
+2744	Singhi	fog	abun	a b u n	274
+#
+2745	Maloh	rain	souran	s o u r a n	426
+2746	Merina (Malagasy)	rain	orana	o r a n a	426
+2747	Thao	rain	qusaz	q u s a z	426
+2748	Palauan	rain	cʰulː	cʰ u lː	1344
+2749	Tunjung	rain	ucan	u c a n	426
+2750	Bare'e	rain	uja	u j a	426
+2751	Iban	rain	ujan	u j a n	426
+2752	Berawan (Long Terawan)	rain	usin	u s i n	426
+2753	Moken	rain	kʰu#jaːn	kʰ u # j aː n	426
+2754	Hanunoo	rain	uran	u r a n	426
+2755	Tetum	rain	udan	u d a n	426
+2756	Mailu	rain	guba	g u b a	2034
+2757	Tsou	rain	tnʉeʉ	t n ʉ e ʉ	2184
+2758	Tsou	rain	mʉcʰʉ	m ʉ cʰ ʉ	426
+2759	Nias	rain	teu	t e u	2292
+2760	Central Amis	rain	olad	o l a d	426
+2761	Banoni	rain	gʰarau	gʰ a r a u	2698
+2762	Singhi	rain	jan	j a n	426
+2763	Banggi	rain	dolok	d o l o k	2870
+#
+2764	Maloh	thunder	dalak	d a l a k	1031
+2765	Merina (Malagasy)	thunder	kotroka	k o t r o k a	1119
+2766	Thao	thunder	barumbun	b a r u m b u n	1224
+2767	Palauan	thunder	derumk	d e r u m k	341
+2768	Bare'e	thunder	gundu	g u n d u	626
+2769	Iban	thunder	guntur	g u n t u r	626
+2770	Berawan (Long Terawan)	thunder	lətːe	l ə tː e	740
+2771	Moken	thunder	təguːn	t ə g uː n	1761
+2772	Hanunoo	thunder	lintiʔ	l i n t i ʔ	250
+2773	Wuna	thunder	tondu	t o n d u	313
+2774	Tetum	thunder	kukur	k u k u r	467
+2775	Mailu	thunder	goru	g o r u	467
+2776	Mailu	thunder	koruru	k o r u r u	-696
+2777	Mailu	thunder	mara	m a r a	2035
+2778	Tsou	thunder	akʔeŋʉca	a k ʔ e ŋ ʉ c a	2185
+2779	Nias	thunder	rita#ːmbanua	r i t a #ː m b a n u a	2293
+2780	Central Amis	thunder	kakeleŋ	k a k e l e ŋ	2448
+2781	Central Amis	thunder	kakeleŋ	k a k e l e ŋ	2449
+2782	Chamorro	thunder	hulu	h u l u	2563
+2783	Banoni	thunder	pina	p i n a	554
+2784	Singhi	thunder	dudu	d u d u	696
+#
+2785	Maloh	lightning	kilat	k i l a t	237
+2786	Merina (Malagasy)	lightning	hélatra	h é l a t r a	237
+2787	Merina (Malagasy)	lightning	tselatra	t s e l a t r a	1120
+2788	Thao	lightning	pilhnac	p i l h n a c	1225
+2789	Palauan	lightning	bisebusecʰ	b i s e b u s e cʰ	1345
+2790	Bare'e	lightning	kila	k i l a	237
+2791	Iban	lightning	kilat	k i l a t	237
+2792	Berawan (Long Terawan)	lightning	saləiʔ	s a l ə i ʔ	9
+2793	Moken	lightning	kelaːt	k e l aː t	237
+2794	Hanunoo	lightning	kilat	k i l a t	237
+2795	Wuna	lightning	lela#no#ifi	l e l a # n o # i f i	1876
+2796	Wuna	lightning	bibito	b i b i t o	281
+2797	Tetum	lightning	mameran	m a m e r a n	800
+2798	Mailu	lightning	ivivi	i v i v i	2036
+2799	Tsou	lightning	moihocu	m o i h o c u	2186
+2800	Nias	lightning	gari#mbanua	g a r i # m b a n u a	2294
+2801	Central Amis	lightning	kalapiat	k a l a p i a t	2450
+2802	Central Amis	lightning	kalapiat	k a l a p i a t	2451
+2803	Chamorro	lightning	lamlam	l a m l a m	181
+2804	Banoni	lightning	kanava	k a n a v a	73
+2805	Banoni	lightning	takiravana	t a k i r a v a n a	73
+2806	Singhi	lightning	kijat	k i j a t	237
+2807	Singhi	lightning	kuniŋ	k u n i ŋ	2801
+#
+2808	Maloh	wind	soaŋin	s o a ŋ i n	123
+2809	Thao	wind	fari	f a r i	280
+2810	Palauan	wind	eolt	e o l t	1346
+2811	Tunjung	wind	waheo	w a h e o	1451
+2812	Bare'e	wind	ŋoju	ŋ o j u	1531
+2813	Iban	wind	aŋin	a ŋ i n	123
+2814	Iban	wind	ribut	r i b u t	806
+2815	Berawan (Long Terawan)	wind	biu	b i u	-447
+2816	Moken	wind	ʔaŋin	ʔ a ŋ i n	123
+2817	Hanunoo	wind	arahaj	a r a h a j	1830
+2818	Hanunoo	wind	durus	d u r u s	815
+2819	Wuna	wind	kavea	k a v e a	351
+2820	Tetum	wind	anin	a n i n	123
+2821	Mailu	wind	ani	a n i	123
+2822	Tsou	wind	poépe	p o é p e	2187
+2823	Nias	wind	aŋi	a ŋ i	123
+2824	Central Amis	wind	fari	f a r i	280
+2825	Central Amis	wind	fali	f a l i	280
+2826	Central Amis	wind	feli	f e l i	280
+2827	Banoni	wind	puːgʰuː	p uː gʰ uː	2699
+2828	Singhi	wind	sobak	s o b a k	2802
+2829	Banggi	wind	dodos	d o d o s	2871
+#
+2830	Maloh	to blow	tiap	t i a p	-744
+2831	Thao	to blow	miup	m i u p	744
+2832	Palauan	to blow	meloko	m e l o k o	1347
+2833	Tunjung	to blow	bərtiup	b ə r t i u p	744
+2834	Bare'e	to blow	mewui	m e w u i	1532
+2835	Iban	to blow	sepu	s e p u	1600
+2836	Iban	to blow	puput	p u p u t	1601
+2837	Berawan (Long Terawan)	to blow	məpːi	m ə pː i	1677
+2838	Hanunoo	to blow	magʔujup	m a g ʔ u j u p	744
+2839	Wuna	to blow	nebuso	n e b u s o	1877
+2840	Tetum	to blow	hu	h u	160
+2841	Mailu	to blow	bouai	b o u a i	2037
+2842	Mailu	to blow	wuwuri	w u w u r i	807
+2843	Tsou	to blow	havi	h a v i	2188
+2844	Nias	to blow	mobura	m o b u r a	2295
+2845	Central Amis	to blow	miiuf	m i i u f	744
+2846	Central Amis	to blow	jof	j o f	744
+2847	Chamorro	to blow	guaife	g u a i f e	2564
+2848	Banoni	to blow	puːgʰuː	p uː gʰ uː	2700
+2849	Singhi	to blow	jup	j u p	744
+#
+2850	Maloh	warm	panas	p a n a s	771
+2851	Maloh	warm	sisiak	s i s i a k	1032
+2852	Merina (Malagasy)	warm	mafana	m a f a n a	771
+2853	Thao	warm	matata	m a t a t a	1226
+2854	Palauan	warm	mekeald	m e k e a l d	1348
+2855	Tunjung	warm	pəraŋ	p ə r a ŋ	1452
+2856	Bare'e	warm	marameda	m a r a m e d a	1533
+2857	Bare'e	warm	maramu	m a r a m u	1534
+2858	Iban	warm	panas	p a n a s	771
+2859	Berawan (Long Terawan)	warm	laso	l a s o	777
+2860	Moken	warm	kolaːt	k o l aː t	1762
+2861	Hanunoo	warm	maʔinit	m a ʔ i n i t	196
+2862	Wuna	warm	nopana	n o p a n a	771
+2863	Tetum	warm	manas	m a n a s	771
+2864	Mailu	warm	odaoda	o d a o d a	714
+2865	Mailu	warm	viribau	v i r i b a u	2038
+2866	Tsou	warm	noeano	n o e a n o	2189
+2867	Nias	warm	auxu	a u x u	2296
+2868	Nias	warm	lõxõ	l õ x õ	2297
+2869	Chamorro	warm	maipe	m a i p e	2565
+2870	Banoni	warm	visisiki	v i s i s i k i	844
+2871	Banoni	warm	vaipopore	v a i p o p o r e	2701
+2872	Singhi	warm	boŋuh	b o ŋ u h	2803
+2873	Singhi	warm	putiak	p u t i a k	2804
+2874	Banggi	warm	emfanas	e m f a n a s	771
+#
+2875	Maloh	cold	diŋin	d i ŋ i n	551
+2876	Merina (Malagasy)	cold	maŋatsiaka	m a ŋ a t s i a k a	1121
+2877	Thao	cold	mashimzaw	m a s h i m z a w	1227
+2878	Palauan	cold	kelekolt	k e l e k o l t	1349
+2879	Tunjung	cold	pərəŋin	p ə r ə ŋ i n	1453
+2880	Bare'e	cold	maranindi	m a r a n i n d i	551
+2881	Iban	cold	celap	c e l a p	601
+2882	Berawan (Long Terawan)	cold	məle	m ə l e	1678
+2883	Moken	cold	cəŋeːm	c ə ŋ eː m	1763
+2884	Moken	cold	lipiːt	l i p iː t	718
+2885	Hanunoo	cold	maramig	m a r a m i g	386
+2886	Wuna	cold	norindi	n o r i n d i	551
+2887	Tetum	cold	malirin	m a l i r i n	551
+2888	Mailu	cold	memea	m e m e a	490
+2889	Mailu	cold	nagunagura	n a g u n a g u r a	2039
+2890	Tsou	cold	soeʉmʉ	s o e ʉ m ʉ	2190
+2891	Nias	cold	afu	a f u	2298
+2892	Central Amis	cold	siqenaw	s i q e n a w	2452
+2893	Central Amis	cold	siʔnaw	s i ʔ n a w	2453
+2894	Chamorro	cold	fugu	f u g u	2566
+2895	Chamorro	cold	maneŋʰeŋ	m a n e ŋʰ e ŋ	-551
+2896	Banoni	cold	togo	t o g o	2702
+2897	Banoni	cold	makobu	m a k o b u	2703
+2898	Singhi	cold	madud	m a d u d	2805
+2899	Singhi	cold	mobus	m o b u s	2806
+2900	Banggi	cold	raːmig	r aː m i g	386
+#
+2901	Maloh	dry	kariŋ	k a r i ŋ	627
+2902	Merina (Malagasy)	dry	maina	m a i n a	1122
+2903	Thao	dry	maqalhiw	m a q a l h i w	507
+2904	Palauan	dry	medirt	m e d i r t	1350
+2905	Tunjung	dry	keheŋ	k e h e ŋ	-627
+2906	Bare'e	dry	tuʔu	t u ʔ u	445
+2907	Iban	dry	raŋkai	r a ŋ k a i	-597
+2908	Berawan (Long Terawan)	dry	malaŋ	m a l a ŋ	597
+2909	Moken	dry	səloj	s ə l o j	1764
+2910	Hanunoo	dry	uga	u g a	729
+2911	Hanunoo	dry	gaŋu	g a ŋ u	1831
+2912	Hanunoo	dry	lajuŋ	l a j u ŋ	1832
+2913	Wuna	dry	nokele	n o k e l e	678
+2914	Tetum	dry	maran	m a r a n	597
+2915	Tsou	dry	oemiʔmi	o e m i ʔ m i	2191
+2916	Nias	dry	alõsõ	a l õ s õ	2299
+2917	Central Amis	dry	maicaŋ	m a i c a ŋ	728
+2918	Banoni	dry	vikomakareva	v i k o m a k a r e v a	2704
+2919	Singhi	dry	bodux	b o d u x	2807
+2920	Banggi	dry	eŋkorign	e ŋ k o r i g n	2872
+#
+2921	Merina (Malagasy)	wet	kotsa	k o t s a	1123
+2922	Thao	wet	matubu	m a t u b u	1228
+2923	Palauan	wet	dekimes	d e k i m e s	1351
+2924	Tunjung	wet	bisaʔ	b i s a ʔ	355
+2925	Bare'e	wet	wota	w o t a	1535
+2926	Iban	wet	basah	b a s a h	355
+2927	Berawan (Long Terawan)	wet	səmeʔ	s ə m e ʔ	1679
+2928	Moken	wet	pʰaːk	pʰ aː k	1765
+2929	Hanunoo	wet	tupus	t u p u s	1833
+2930	Wuna	wet	nomogʰu	n o m o gʰ u	1878
+2931	Tetum	wet	botːes	b o tː e s	1913
+2932	Tetum	wet	bokon	b o k o n	1914
+2933	Tsou	wet	noeʉ́cʉ	n o e ʉ́ c ʉ	2192
+2934	Nias	wet	abasõ	a b a s õ	355
+2935	Central Amis	wet	macipaʕ	m a c i p a ʕ	2454
+2936	Chamorro	wet	fotgon	f o t g o n	2567
+2937	Chamorro	wet	masmas	m a s m a s	2568
+2938	Banoni	wet	sabu	s a b u	2705
+2939	Banoni	wet	butaŋa	b u t a ŋ a	390
+2940	Singhi	wet	bisah	b i s a h	355
+2941	Banggi	wet	embasah	e m b a s a h	355
+#
+2942	Maloh	heavy	borat	b o r a t	388
+2943	Merina (Malagasy)	heavy	mavésatra	m a v é s a t r a	388
+2944	Thao	heavy	mabric	m a b r i c	-388
+2945	Palauan	heavy	oberéod	o b e r é o d	-388
+2946	Tunjung	heavy	bahat	b a h a t	388
+2947	Bare'e	heavy	matomo	m a t o m o	1536
+2948	Iban	heavy	berat	b e r a t	388
+2949	Berawan (Long Terawan)	heavy	bəkːəiʔ	b ə kː ə i ʔ	388
+2950	Moken	heavy	baʔaːt	b a ʔ aː t	388
+2951	Hanunoo	heavy	mabujat	m a b u j a t	388
+2952	Wuna	heavy	nobie	n o b i e	622
+2953	Tetum	heavy	todan	t o d a n	1915
+2954	Mailu	heavy	urumu	u r u m u	2040
+2955	Tsou	heavy	ecbʉ́hʉ	e c b ʉ́ h ʉ	2193
+2956	Nias	heavy	abua	a b u a	388
+2957	Central Amis	heavy	karteŋ	k a r t e ŋ	2455
+2958	Central Amis	heavy	karteŋ	k a r t e ŋ	2456
+2959	Chamorro	heavy	makːat	m a kː a t	388
+2960	Banoni	heavy	papataŋa	p a p a t a ŋ a	767
+2961	Singhi	heavy	baːt	b aː t	388
+2962	Banggi	heavy	mogat	m o g a t	388
+#
+2963	Maloh	fire	api	a p i	169
+2964	Merina (Malagasy)	fire	afo	a f o	169
+2965	Thao	fire	apuj	a p u j	169
+2966	Palauan	fire	ŋau	ŋ a u	-169
+2967	Tunjung	fire	apuj	a p u j	169
+2968	Bare'e	fire	apu	a p u	169
+2969	Iban	fire	api	a p i	169
+2970	Berawan (Long Terawan)	fire	apoj	a p o j	169
+2971	Moken	fire	ʔapuj	ʔ a p u j	169
+2972	Hanunoo	fire	apuj	a p u j	169
+2973	Wuna	fire	ifi	i f i	169
+2974	Tetum	fire	haʔi	h a ʔ i	169
+2975	Mailu	fire	eu	e u	2041
+2976	Tsou	fire	puzu	p u z u	169
+2977	Nias	fire	alitõ	a l i t õ	2300
+2978	Central Amis	fire	namar	n a m a r	198
+2979	Central Amis	fire	lamar	l a m a r	198
+2980	Chamorro	fire	guafi	g u a f i	169
+2981	Banoni	fire	dzai	d z a i	169
+2982	Singhi	fire	opui	o p u i	169
+2983	Banggi	fire	afi	a f i	169
+#
+2984	Maloh	to burn	tutuŋ	t u t u ŋ	41
+2985	Merina (Malagasy)	to burn	mandoro	m a n d o r o	1124
+2986	Thao	to burn	shunara	s h u n a r a	1229
+2987	Palauan	to burn	meléseb	m e l é s e b	1352
+2988	Bare'e	to burn	montapara	m o n t a p a r a	1537
+2989	Iban	to burn	tunu	t u n u	41
+2990	Berawan (Long Terawan)	to burn	mikːih	m i kː i h	1680
+2991	Moken	to burn	pəlaː	p ə l aː	1766
+2992	Moken	to burn	maʔum	m a ʔ u m	1767
+2993	Hanunoo	to burn	tutud	t u t u d	-41
+2994	Wuna	to burn	netunu	n e t u n u	41
+2995	Tetum	to burn	sunu	s u n u	-41
+2996	Tetum	to burn	namotːuk	n a m o tː u k	1916
+2997	Mailu	to burn	asiasi	a s i a s i	2042
+2998	Mailu	to burn	gabugabu	g a b u g a b u	215
+2999	Tsou	to burn	ho	h o	2194
+3000	Nias	to burn	tunu	t u n u	41
+3001	Central Amis	to burn	tofdoh	t o f d o h	2457
+3002	Chamorro	to burn	potne	p o t n e	2569
+3003	Chamorro	to burn	tunu	t u n u	41
+3004	Banoni	to burn	bu	b u	2706
+3005	Banoni	to burn	vanaŋi	v a n a ŋ i	2707
+3006	Singhi	to burn	nʲaux	nʲ a u x	2808
+3007	Singhi	to burn	ninux	n i n u x	-41
+3008	Banggi	to burn	nutugn	n u t u g n	828
+#
+3009	Maloh	smoke	rimbu	r i m b u	799
+3010	Merina (Malagasy)	smoke	sétroka	s é t r o k a	1125
+3011	Thao	smoke	qumbu	q u m b u	1230
+3012	Palauan	smoke	cʰat	cʰ a t	1353
+3013	Tunjung	smoke	əncun	ə n c u n	1454
+3014	Bare'e	smoke	raŋasu	r a ŋ a s u	180
+3015	Iban	smoke	asap	a s a p	87
+3016	Berawan (Long Terawan)	smoke	cam	c a m	1681
+3017	Moken	smoke	kahoj	k a h o j	1768
+3018	Hanunoo	smoke	anus	a n u s	1834
+3019	Hanunoo	smoke	sunuj	s u n u j	1835
+3020	Wuna	smoke	gʰumbo	gʰ u m b o	613
+3021	Tetum	smoke	dubun	d u b u n	260
+3022	Mailu	smoke	bautu	b a u t u	831
+3023	Tsou	smoke	feufeu	f e u f e u	672
+3024	Nias	smoke	simbo	s i m b o	2301
+3025	Central Amis	smoke	ʔacifer	ʔ a c i f e r	2458
+3026	Chamorro	smoke	asu	a s u	180
+3027	Banoni	smoke	daso	d a s o	-180
+3028	Singhi	smoke	asux	a s u x	-87
+3029	Banggi	smoke	goudn	g o u d n	2873
+#
+3030	Maloh	ash	kutuan	k u t u a n	1033
+3031	Merina (Malagasy)	ash	lavénona	l a v é n o n a	1126
+3032	Thao	ash	qafu	q a f u	700
+3033	Palauan	ash	cʰab	cʰ a b	1354
+3034	Tunjung	ash	ahuʔ	a h u ʔ	700
+3035	Bare'e	ash	awu	a w u	700
+3036	Iban	ash	abu	a b u	700
+3037	Berawan (Long Terawan)	ash	akːuh	a kː u h	700
+3038	Moken	ash	kaboj	k a b o j	700
+3039	Hanunoo	ash	ajum	a j u m	700
+3040	Hanunoo	ash	dapug	d a p u g	513
+3041	Wuna	ash	gʰabu	gʰ a b u	700
+3042	Mailu	ash	kau	k a u	-700
+3043	Mailu	ash	konunu	k o n u n u	2043
+3044	Tsou	ash	fuu	f u u	700
+3045	Nias	ash	awu	a w u	700
+3046	Central Amis	ash	lafuh	l a f u h	2459
+3047	Central Amis	ash	ʕafo	ʕ a f o	700
+3048	Chamorro	ash	apu	a p u	700
+3049	Banoni	ash	pona	p o n a	2708
+3050	Singhi	ash	abux	a b u x	700
+3051	Banggi	ash	awu	a w u	700
+#
+3052	Maloh	black	intarum	i n t a r u m	-474
+3053	Merina (Malagasy)	black	maintj	m a i n t j	474
+3054	Thao	black	maqusum	m a q u s u m	109
+3055	Palauan	black	cʰedelekélek	cʰ e d e l e k é l e k	1355
+3056	Tunjung	black	pərəmaʔ	p ə r ə m a ʔ	1455
+3057	Bare'e	black	maeta	m a e t a	474
+3058	Iban	black	itam	i t a m	474
+3059	Iban	black	celum	c e l u m	402
+3060	Berawan (Long Terawan)	black	mitːəm	m i tː ə m	474
+3061	Moken	black	ketam	k e t a m	474
+3062	Hanunoo	black	agiwan	a g i w a n	1836
+3063	Hanunoo	black	mabiru	m a b i r u	1837
+3064	Wuna	black	nogʰigʰito	n o gʰ i gʰ i t o	474
+3065	Tetum	black	metan	m e t a n	474
+3066	Mailu	black	dubaduba	d u b a d u b a	671
+3067	Tsou	black	kuaoŋa	k u a o ŋ a	2195
+3068	Nias	black	aitõ	a i t õ	474
+3069	Central Amis	black	kuhetiŋaj	k u h e t i ŋ a j	2460
+3070	Central Amis	black	kuhtiŋ	k u h t i ŋ	2461
+3071	Chamorro	black	atːiloŋ	a tː i l o ŋ	-474
+3072	Banoni	black	naŋiri	n a ŋ i r i	2709
+3073	Banoni	black	nunumini	n u n u m i n i	2710
+3074	Singhi	black	suŋut	s u ŋ u t	2809
+3075	Banggi	black	modom	m o d o m	-474
+#
+3076	Maloh	white	bauté	b a u t é	511
+3077	Merina (Malagasy)	white	fotsj	f o t s j	-511
+3078	Thao	white	mapuzi	m a p u z i	511
+3079	Palauan	white	becʰeleléu	b e cʰ e l e l é u	1356
+3080	Tunjung	white	bohoŋ	b o h o ŋ	1456
+3081	Bare'e	white	mabuja	m a b u j a	-511
+3082	Iban	white	burak	b u r a k	640
+3083	Iban	white	putih	p u t i h	511
+3084	Berawan (Long Terawan)	white	pute	p u t e	511
+3085	Moken	white	putiək	p u t i ə k	511
+3086	Hanunoo	white	abukaj	a b u k a j	1838
+3087	Hanunoo	white	malagti	m a l a g t i	144
+3088	Wuna	white	nopute	n o p u t e	511
+3089	Tetum	white	mutin	m u t i n	-511
+3090	Mailu	white	emeːme	e m eː m e	2044
+3091	Tsou	white	fuecʉʔia	f u e c ʉ ʔ i a	635
+3092	Nias	white	fusi	f u s i	511
+3093	Central Amis	white	fuhecelaj	f u h e c e l a j	635
+3094	Central Amis	white	kuhcal	k u h c a l	2462
+3095	Banoni	white	kekao	k e k a o	39
+3096	Singhi	white	budah	b u d a h	11
+3097	Singhi	white	mopuk	m o p u k	511
+3098	Banggi	white	emputih	e m p u t i h	511
+#
+3099	Maloh	red	dadaraʔ	d a d a r a ʔ	1034
+3100	Merina (Malagasy)	red	ména	m é n a	-286
+3101	Thao	red	maqulha	m a q u l h a	1231
+3102	Palauan	red	bekerkard	b e k e r k a r d	1357
+3103	Tunjung	red	putiʔ	p u t i ʔ	1457
+3104	Bare'e	red	mawaː	m a w aː	286
+3105	Iban	red	mirah	m i r a h	286
+3106	Iban	red	mansau	m a n s a u	1602
+3107	Berawan (Long Terawan)	red	juraŋ	j u r a ŋ	1682
+3108	Moken	red	melaːk	m e l aː k	286
+3109	Hanunoo	red	marara	m a r a r a	286
+3110	Wuna	red	nodedia	n o d e d i a	1879
+3111	Tetum	red	mean	m e a n	286
+3112	Mailu	red	lalalala	l a l a l a l a	2045
+3113	Tsou	red	fʉhŋoea	f ʉ h ŋ o e a	2196
+3114	Nias	red	ojo	o j o	2302
+3115	Central Amis	red	kaheŋaŋaj	k a h e ŋ a ŋ a j	2463
+3116	Central Amis	red	kahŋaŋ	k a h ŋ a ŋ	2464
+3117	Banoni	red	bubu	b u b u	2711
+3118	Banoni	red	vivisiki	v i v i s i k i	2712
+3119	Singhi	red	birie	b i r i e	2810
+3120	Banggi	red	ensegak	e n s e g a k	2874
+#
+3121	Maloh	yellow	tantamuan	t a n t a m u a n	1035
+3122	Merina (Malagasy)	yellow	vonj	v o n j	1127
+3123	Merina (Malagasy)	yellow	mavo	m a v o	1128
+3124	Thao	yellow	shadunan	s h a d u n a n	1232
+3125	Palauan	yellow	melːil	m e lː i l	614
+3126	Bare'e	yellow	makuni	m a k u n i	315
+3127	Iban	yellow	kuniŋ	k u n i ŋ	315
+3128	Berawan (Long Terawan)	yellow	kuniŋ	k u n i ŋ	315
+3129	Moken	yellow	kunʲit	k u nʲ i t	315
+3130	Hanunoo	yellow	dilaw	d i l a w	383
+3131	Wuna	yellow	nokukuni	n o k u k u n i	315
+3132	Tetum	yellow	modak	m o d a k	1917
+3133	Mailu	yellow	gobula	g o b u l a	822
+3134	Tsou	yellow	hofʔoea	h o f ʔ o e a	547
+3135	Nias	yellow	undre	u n d r e	2303
+3136	Nias	yellow	ruzõ	r u z õ	2304
+3137	Central Amis	yellow	kurilawaj	k u r i l a w a j	2465
+3138	Central Amis	yellow	kaljaljawaj	k a l j a l j a w a j	2466
+3139	Banoni	yellow	kakarasa	k a k a r a s a	2713
+3140	Banoni	yellow	temori	t e m o r i	400
+3141	Singhi	yellow	sia	s i a	2811
+3142	Banggi	yellow	kuid	k u i d	2875
+#
+3143	Maloh	green	mamata	m a m a t a	85
+3144	Merina (Malagasy)	green	maitso	m a i t s o	-618
+3145	Thao	green	madishlum	m a d i s h l u m	1233
+3146	Palauan	green	bedeŋel#a#biːb	b e d e ŋ e l # a # b iː b	1358
+3147	Tunjung	green	nahum	n a h u m	1458
+3148	Bare'e	green	malaumbe	m a l a u m b e	1538
+3149	Iban	green	ijau	i j a u	618
+3150	Berawan (Long Terawan)	green	gaduŋ	g a d u ŋ	783
+3151	Moken	green	ŋomoːŋ	ŋ o m oː ŋ	1769
+3152	Hanunoo	green	latuj	l a t u j	1839
+3153	Wuna	green	nofeido	n o f e i d o	-618
+3154	Tetum	green	matak	m a t a k	85
+3155	Mailu	green	korakorara	k o r a k o r a r a	2046
+3156	Tsou	green	riŋhova	r i ŋ h o v a	2197
+3157	Central Amis	green	kaŋrawaj	k a ŋ r a w a j	2467
+3158	Central Amis	green	kaŋdaw	k a ŋ d a w	2468
+3159	Banoni	green	bubune	b u b u n e	2714
+3160	Singhi	green	idip	i d i p	2812
+#
+3161	Maloh	small	kéké	k é k é	1036
+3162	Merina (Malagasy)	small	kélj	k é l j	1129
+3163	Thao	small	laŋqisusaj	l a ŋ q i s u s a j	1234
+3164	Palauan	small	kekeréi	k e k e r é i	1359
+3165	Tunjung	small	itit	i t i t	813
+3166	Bare'e	small	kodi	k o d i	609
+3167	Iban	small	mit	m i t	553
+3168	Berawan (Long Terawan)	small	dik	d i k	813
+3169	Moken	small	nek	n e k	1770
+3170	Hanunoo	small	diʔit	d i ʔ i t	813
+3171	Wuna	small	norubu	n o r u b u	378
+3172	Tetum	small	kiʔik	k i ʔ i k	813
+3173	Mailu	small	dimudimu	d i m u d i m u	2047
+3174	Mailu	small	gigidi	g i g i d i	2048
+3175	Mailu	small	gigiri	g i g i r i	2049
+3176	Mailu	small	kiwonai	k i w o n a i	2050
+3177	Mailu	small	maramara	m a r a m a r a	2051
+3178	Tsou	small	oko	o k o	2198
+3179	Tsou	small	okosi	o k o s i	2199
+3180	Nias	small	bõtõ	b õ t õ	2305
+3181	Central Amis	small	kiqkiq	k i q k i q	-813
+3182	Central Amis	small	mimiŋ	m i m i ŋ	2469
+3183	Central Amis	small	kiʔkiʔ	k i ʔ k i ʔ	-813
+3184	Chamorro	small	hagui	h a g u i	2570
+3185	Banoni	small	kikinaki	k i k i n a k i	813
+3186	Banoni	small	baki	b a k i	2715
+3187	Singhi	small	sit	s i t	2813
+3188	Singhi	small	monik	m o n i k	293
+3189	Banggi	small	tojok	t o j o k	2876
+#
+3190	Maloh	big	bara	b a r a	1037
+3191	Merina (Malagasy)	big	lehibé	l e h i b é	1130
+3192	Palauan	big	klou	k l o u	1360
+3193	Tunjung	big	hajaʔ	h a j a ʔ	606
+3194	Bare'e	big	baŋke	b a ŋ k e	-594
+3195	Iban	big	besai	b e s a i	354
+3196	Berawan (Long Terawan)	big	kijih	k i j i h	-606
+3197	Moken	big	ʔadaʔ	ʔ a d a ʔ	1771
+3198	Hanunoo	big	daka	d a k a	558
+3199	Hanunoo	big	laʔun	l a ʔ u n	1840
+3200	Wuna	big	nobala	n o b a l a	456
+3201	Mailu	big	ogoda	o g o d a	2052
+3202	Tsou	big	loeo	l o e o	2200
+3203	Nias	big	ebua	e b u a	2306
+3204	Central Amis	big	aŋaj	a ŋ a j	2470
+3205	Central Amis	big	tataqaŋ	t a t a q a ŋ	2471
+3206	Central Amis	big	tataʔak	t a t a ʔ a k	2472
+3207	Central Amis	big	tataʔaŋ	t a t a ʔ a ŋ	2473
+3208	Chamorro	big	dankolo	d a n k o l o	-558
+3209	Banoni	big	baŋana	b a ŋ a n a	2716
+3210	Banoni	big	gari	g a r i	2717
+3211	Singhi	big	ajux	a j u x	606
+3212	Banggi	big	midia	m i d i a	2877
+#
+3213	Maloh	short	pandak	p a n d a k	356
+3214	Merina (Malagasy)	short	fohj	f o h j	1131
+3215	Thao	short	luish	l u i s h	1235
+3216	Palauan	short	kedéb	k e d é b	1361
+3217	Tunjung	short	idok	i d o k	356
+3218	Bare'e	short	ede	e d e	1539
+3219	Iban	short	pandak	p a n d a k	356
+3220	Iban	short	pandau	p a n d a u	356
+3221	Berawan (Long Terawan)	short	diciʔ	d i c i ʔ	1683
+3222	Moken	short	babaːk	b a b aː k	397
+3223	Hanunoo	short	ababaʔ	a b a b a ʔ	397
+3224	Hanunoo	short	dagʔud	d a g ʔ u d	1841
+3225	Wuna	short	nokubu	n o k u b u	491
+3226	Tetum	short	betːek	b e tː e k	-397
+3227	Tetum	short	badak	b a d a k	397
+3228	Tsou	short	nanʉhtʉ	n a n ʉ h t ʉ	2201
+3229	Nias	short	adoŋo	a d o ŋ o	2307
+3230	Central Amis	short	kamukuʕ	k a m u k u ʕ	2474
+3231	Chamorro	short	étigu	é t i g u	2571
+3232	Banoni	short	kukubuna	k u k u b u n a	2718
+3233	Banoni	short	kubunu	k u b u n u	2719
+3234	Singhi	short	kodit	k o d i t	2814
+3235	Singhi	short	kode	k o d e	2815
+3236	Banggi	short	puhu	p u h u	2878
+#
+3237	Maloh	long	laŋké	l a ŋ k é	1038
+3238	Merina (Malagasy)	long	lava	l a v a	-816
+3239	Thao	long	makuliush	m a k u l i u s h	1236
+3240	Palauan	long	kemaŋet	k e m a ŋ e t	1362
+3241	Tunjung	long	moʔ	m o ʔ	1459
+3242	Bare'e	long	marate	m a r a t e	332
+3243	Iban	long	panjai	p a n j a i	564
+3244	Berawan (Long Terawan)	long	kəbəiʔ	k ə b ə i ʔ	1684
+3245	Moken	long	datah	d a t a h	-40
+3246	Hanunoo	long	ʔaba	ʔ a b a	1842
+3247	Hanunoo	long	ʔabaʔ	ʔ a b a ʔ	1843
+3248	Wuna	long	newanta	n e w a n t a	503
+3249	Tetum	long	naruk	n a r u k	395
+3250	Mailu	long	lauroro	l a u r o r o	2053
+3251	Tsou	long	tacvohʔi	t a c v o h ʔ i	2202
+3252	Nias	long	anau	a n a u	395
+3253	Central Amis	long	mamutuq	m a m u t u q	395
+3254	Central Amis	long	kakajaʔ	k a k a j a ʔ	2475
+3255	Chamorro	long	laguas	l a g u a s	-395
+3256	Banoni	long	gaːrusu	g aː r u s u	2720
+3257	Singhi	long	omu	o m u	2816
+3258	Banggi	long	melaŋgu	m e l a ŋ g u	2879
+#
+3259	Maloh	thin	nipis	n i p i s	424
+3260	Merina (Malagasy)	thin	manifj	m a n i f j	424
+3261	Thao	thin	mabazaj	m a b a z a j	1237
+3262	Palauan	thin	meliliut	m e l i l i u t	424
+3263	Bare'e	thin	manipi	m a n i p i	424
+3264	Iban	thin	mipau	m i p a u	1603
+3265	Berawan (Long Terawan)	thin	lipːəh	l i pː ə h	424
+3266	Moken	thin	nʲipih	nʲ i p i h	424
+3267	Hanunoo	thin	manipis	m a n i p i s	424
+3268	Wuna	thin	nonifi	n o n i f i	424
+3269	Tetum	thin	niʔis	n i ʔ i s	424
+3270	Mailu	thin	ariari	a r i a r i	2054
+3271	Mailu	thin	ogiogi	o g i o g i	2055
+3272	Tsou	thin	hipsi	h i p s i	-424
+3273	Nias	thin	nifi	n i f i	424
+3274	Central Amis	thin	kuhpicaj	k u h p i c a j	-424
+3275	Banoni	thin	to#totogo	t o # t o t o g o	2721
+3276	Singhi	thin	ridie	r i d i e	2817
+#
+3277	Maloh	thick	tabal	t a b a l	209
+3278	Merina (Malagasy)	thick	matévina	m a t é v i n a	1132
+3279	Thao	thick	makushtur	m a k u s h t u r	1238
+3280	Palauan	thick	okrokr	o k r o k r	1363
+3281	Tunjung	thick	kapar	k a p a r	209
+3282	Bare'e	thick	baŋke	b a ŋ k e	1540
+3283	Iban	thick	tebal	t e b a l	233
+3284	Berawan (Long Terawan)	thick	kapan	k a p a n	209
+3285	Moken	thick	tʰaw	tʰ a w	1772
+3286	Hanunoo	thick	madamul	m a d a m u l	138
+3287	Wuna	thick	nokapa	n o k a p a	209
+3288	Tetum	thick	maʔar	m a ʔ a r	1918
+3289	Mailu	thick	iduna	i d u n a	2056
+3290	Tsou	thick	ocmoeʉ	o c m o e ʉ	-138
+3291	Central Amis	thick	kiftol	k i f t o l	2476
+3292	Chamorro	thick	potpot	p o t p o t	314
+3293	Banoni	thick	toːtogo	t oː t o g o	2722
+3294	Singhi	thick	tabar	t a b a r	233
+3295	Banggi	thick	eŋkafal	e ŋ k a f a l	209
+#
+3296	Maloh	narrow	supit	s u p i t	236
+3297	Merina (Malagasy)	narrow	étj	é t j	1133
+3298	Thao	narrow	maqtit	m a q t i t	-236
+3299	Palauan	narrow	obutek	o b u t e k	1364
+3300	Tunjung	narrow	səmpit	s ə m p i t	773
+3301	Bare'e	narrow	soki	s o k i	1541
+3302	Iban	narrow	sekut	s e k u t	1604
+3303	Berawan (Long Terawan)	narrow	dik	d i k	1685
+3304	Moken	narrow	paʔiːt	p a ʔ iː t	1773
+3305	Hanunoo	narrow	diʔit	d i ʔ i t	-580
+3306	Wuna	narrow	noseke	n o s e k e	192
+3307	Tetum	narrow	klot	k l o t	-273
+3308	Mailu	narrow	ariari	a r i a r i	2057
+3309	Tsou	narrow	teakotva	t e a k o t v a	2203
+3310	Nias	narrow	ise	i s e	2308
+3311	Central Amis	narrow	maʔecu	m a ʔ e c u	2477
+3312	Chamorro	narrow	aŋːosto	a ŋː o s t o	2572
+3313	Banoni	narrow	kubunːa	k u b u nː a	2723
+3314	Singhi	narrow	sikitok	s i k i t o k	236
+3315	Singhi	narrow	sapit	s a p i t	236
+#
+3316	Merina (Malagasy)	wide	malalaka	m a l a l a k a	10
+3317	Thao	wide	maharan	m a h a r a n	10
+3318	Palauan	wide	metéu	m e t é u	1365
+3319	Tunjung	wide	lajah	l a j a h	10
+3320	Bare'e	wide	kambi	k a m b i	1542
+3321	Iban	wide	luas	l u a s	763
+3322	Berawan (Long Terawan)	wide	kijih	k i j i h	-38
+3323	Hanunoo	wide	daka	d a k a	1844
+3324	Wuna	wide	neware	n e w a r e	434
+3325	Tetum	wide	luwa	l u w a	-10
+3326	Mailu	wide	babada	b a b a d a	-10
+3327	Mailu	wide	bamubamu	b a m u b a m u	2058
+3328	Mailu	wide	bedibedi	b e d i b e d i	2059
+3329	Mailu	wide	dobuna	d o b u n a	2060
+3330	Mailu	wide	tatapa	t a t a p a	2061
+3331	Tsou	wide	fafʔohʉ	f a f ʔ o h ʉ	2204
+3332	Nias	wide	awolo	a w o l o	2309
+3333	Central Amis	wide	kakahal	k a k a h a l	10
+3334	Banoni	wide	tataːbana	t a t aː b a n a	175
+3335	Singhi	wide	dar	d a r	2818
+3336	Banggi	wide	melimbag	m e l i m b a g	10
+#
+3337	Maloh	painful, sick	padis	p a d i s	477
+3338	Merina (Malagasy)	painful, sick	mararj	m a r a r j	-743
+3339	Thao	painful, sick	makarman#a#but	m a k a r m a n # a # b u t	20
+3340	Palauan	painful, sick	ourakt	o u r a k t	-743
+3341	Bare'e	painful, sick	juʔa	j u ʔ a	1543
+3342	Iban	painful, sick	sakit	s a k i t	743
+3343	Berawan (Long Terawan)	painful, sick	sakaiʔ	s a k a i ʔ	743
+3344	Moken	painful, sick	makeːt	m a k eː t	743
+3345	Hanunoo	painful, sick	masakit	m a s a k i t	743
+3346	Wuna	painful, sick	nolea	n o l e a	546
+3347	Tetum	painful, sick	moras	m o r a s	508
+3348	Mailu	painful, sick	marai	m a r a i	2062
+3349	Tsou	painful, sick	coŋo	c o ŋ o	2205
+3350	Nias	painful, sick	mofoxo	m o f o x o	2310
+3351	Central Amis	painful, sick	alala	a l a l a	2478
+3352	Banoni	painful, sick	#pau	# p a u	2724
+3353	Singhi	painful, sick	monam	m o n a m	2819
+3354	Singhi	painful, sick	minõt	m i n õ t	2820
+3355	Banggi	painful, sick	sahit	s a h i t	743
+#
+3356	Merina (Malagasy)	shy, ashamed	hénatra	h é n a t r a	1134
+3357	Thao	shy, ashamed	majaw	m a j a w	-518
+3358	Palauan	shy, ashamed	merur	m e r u r	1366
+3359	Bare'e	shy, ashamed	maea	m a e a	518
+3360	Iban	shy, ashamed	malu	m a l u	617
+3361	Moken	shy, ashamed	talaw	t a l a w	1774
+3362	Hanunoo	shy, ashamed	huja	h u j a	833
+3363	Hanunoo	shy, ashamed	ujaʔ	u j a ʔ	833
+3364	Hanunoo	shy, ashamed	makajʔaʔ	m a k a j ʔ a ʔ	518
+3365	Wuna	shy, ashamed	noambano	n o a m b a n o	705
+3366	Mailu	shy, ashamed	mai	m a i	518
+3367	Tsou	shy, ashamed	hʔoinvéni	h ʔ o i n v é n i	2206
+3368	Nias	shy, ashamed	ila	i l a	2311
+3369	Central Amis	shy, ashamed	maŋulu	m a ŋ u l u	2479
+3370	Central Amis	shy, ashamed	maŋulo	m a ŋ u l o	2480
+3371	Chamorro	shy, ashamed	mamahlao	m a m a h l a o	254
+3372	Chamorro	shy, ashamed	manacʰaŋ	m a n a cʰ a ŋ	2573
+3373	Singhi	shy, ashamed	dasa	d a s a	2821
+3374	Singhi	shy, ashamed	moŋuh	m o ŋ u h	2822
+3375	Banggi	shy, ashamed	melou	m e l o u	2880
+#
+3376	Maloh	old	toa	t o a	549
+3377	Merina (Malagasy)	old	antitra	a n t i t r a	1135
+3378	Thao	old	sasaz	s a s a z	-549
+3379	Palauan	old	mecʰut	m e cʰ u t	1367
+3380	Tunjung	old	pəlegaʔ	p ə l e g a ʔ	1460
+3381	Iban	old	tuai	t u a i	549
+3382	Berawan (Long Terawan)	old	mukon	m u k o n	549
+3383	Moken	old	tukaʔ	t u k a ʔ	549
+3384	Hanunoo	old	guraŋ	g u r a ŋ	482
+3385	Wuna	old	kamokula	k a m o k u l a	256
+3386	Tetum	old	tuan	t u a n	549
+3387	Mailu	old	baeau	b a e a u	122
+3388	Tsou	old	mameoi	m a m e o i	2207
+3389	Nias	old	aʔewo	a ʔ e w o	549
+3390	Nias	old	atua	a t u a	549
+3391	Central Amis	old	matuqas	m a t u q a s	549
+3392	Central Amis	old	katelan	k a t e l a n	2481
+3393	Central Amis	old	matuʔas	m a t u ʔ a s	549
+3394	Banoni	old	tatsuam	t a t s u a m	2725
+3395	Singhi	old	nʲoma	nʲ o m a	2823
+3396	Banggi	old	entua	e n t u a	549
+#
+3397	Maloh	new	baru	b a r u	322
+3398	Merina (Malagasy)	new	vao	v a o	322
+3399	Thao	new	faqlhu	f a q l h u	322
+3400	Palauan	new	becʰés	b e cʰ é s	322
+3401	Tunjung	new	isaj	i s a j	1461
+3402	Bare'e	new	da#woʔu	d a # w o ʔ u	322
+3403	Iban	new	baru	b a r u	322
+3404	Berawan (Long Terawan)	new	kireŋ	k i r e ŋ	1686
+3405	Moken	new	kəloj	k ə l o j	322
+3406	Hanunoo	new	bagʔu	b a g ʔ u	322
+3407	Wuna	new	nobugʰou	n o b u gʰ o u	322
+3408	Tetum	new	foːn	f oː n	322
+3409	Tsou	new	faeva	f a e v a	322
+3410	Nias	new	bohou	b o h o u	322
+3411	Central Amis	new	faqluh	f a q l u h	322
+3412	Central Amis	new	faluhaj	f a l u h a j	2482
+3413	Central Amis	new	kapah	k a p a h	2483
+3414	Banoni	new	gʰoːm	gʰ oː m	322
+3415	Singhi	new	baux	b a u x	322
+3416	Banggi	new	baːru	b aː r u	322
+#
+3417	Maloh	good	mam	m a m	1039
+3418	Thao	good	maqitan	m a q i t a n	-353
+3419	Palauan	good	uŋil	u ŋ i l	1368
+3420	Tunjung	good	pajik	p a j i k	1462
+3421	Bare'e	good	madago	m a d a g o	1544
+3422	Iban	good	baik	b a i k	741
+3423	Iban	good	manah	m a n a h	1605
+3424	Iban	good	badas	b a d a s	556
+3425	Berawan (Long Terawan)	good	jin	j i n	1687
+3426	Moken	good	ʔamoːn	ʔ a m oː n	1775
+3427	Hanunoo	good	majad	m a j a d	418
+3428	Wuna	good	netaː	n e t aː	58
+3429	Tetum	good	diak	d i a k	542
+3430	Mailu	good	eboebo	e b o e b o	2063
+3431	Mailu	good	wonai	w o n a i	2064
+3432	Tsou	good	ʉmnʉ	ʉ m n ʉ	2208
+3433	Nias	good	sõxi	s õ x i	2312
+3434	Central Amis	good	mafancal	m a f a n c a l	2484
+3435	Central Amis	good	fancal	f a n c a l	2485
+3436	Chamorro	good	maolek	m a o l e k	2574
+3437	Banoni	good	daːme	d aː m e	2726
+3438	Banoni	good	komo	k o m o	2727
+3439	Singhi	good	pagux	p a g u x	2824
+3440	Singhi	good	konak	k o n a k	2825
+3441	Banggi	good	empia	e m p i a	353
+#
+3442	Maloh	bad, evil	ajau	a j a u	-130
+3443	Merina (Malagasy)	bad, evil	ratsj	r a t s j	1136
+3444	Thao	bad, evil	makarman	m a k a r m a n	1239
+3445	Palauan	bad, evil	mekŋit	m e k ŋ i t	1369
+3446	Tunjung	bad, evil	kaheʔ#pajik	k a h e ʔ # p a j i k	1463
+3447	Bare'e	bad, evil	majaʔa	m a j a ʔ a	130
+3448	Iban	bad, evil	jaiʔ	j a i ʔ	130
+3449	Berawan (Long Terawan)	bad, evil	jeʔ	j e ʔ	130
+3450	Moken	bad, evil	ʔaduːt	ʔ a d uː t	1776
+3451	Hanunoo	bad, evil	daʔut	d a ʔ u t	130
+3452	Wuna	bad, evil	habarubaru	h a b a r u b a r u	1880
+3453	Tetum	bad, evil	aːt	aː t	-130
+3454	Mailu	bad, evil	oreore	o r e o r e	2065
+3455	Tsou	bad, evil	kui	k u i	489
+3456	Nias	bad, evil	lõ#sõxi	l õ # s õ x i	2313
+3457	Central Amis	bad, evil	tatiʔih	t a t i ʔ i h	2486
+3458	Chamorro	bad, evil	baba	b a b a	666
+3459	Banoni	bad, evil	sara	s a r a	2728
+3460	Banoni	bad, evil	sabau	s a b a u	2729
+3461	Singhi	bad, evil	jaːt	j aː t	130
+3462	Banggi	bad, evil	endod	e n d o d	2881
+#
+3463	Maloh	correct, true	tapat	t a p a t	1040
+3464	Merina (Malagasy)	correct, true	marina	m a r i n a	603
+3465	Thao	correct, true	dadu	d a d u	1240
+3466	Palauan	correct, true	meraŋ	m e r a ŋ	1370
+3467	Tunjung	correct, true	kənaj	k ə n a j	1464
+3468	Bare'e	correct, true	tuʔu	t u ʔ u	656
+3469	Iban	correct, true	kenaʔ	k e n a ʔ	1606
+3470	Iban	correct, true	amat	a m a t	1607
+3471	Berawan (Long Terawan)	correct, true	kənəh	k ə n ə h	1688
+3472	Moken	correct, true	jaw	j a w	1777
+3473	Hanunoo	correct, true	kaŋud	k a ŋ u d	1845
+3474	Hanunoo	correct, true	tamaʔ	t a m a ʔ	1846
+3475	Hanunoo	correct, true	tutuʔu	t u t u ʔ u	656
+3476	Wuna	correct, true	nokotuhu	n o k o t u h u	656
+3477	Tetum	correct, true	tebes	t e b e s	770
+3478	Mailu	correct, true	egena	e g e n a	2066
+3479	Mailu	correct, true	oroːroni	o r oː r o n i	2067
+3480	Nias	correct, true	duhu	d u h u	2314
+3481	Central Amis	correct, true	matama	m a t a m a	2487
+3482	Chamorro	correct, true	magahet	m a g a h e t	2575
+3483	Banoni	correct, true	magoto	m a g o t o	748
+3484	Singhi	correct, true	tuk	t u k	656
+3485	Singhi	correct, true	bonar	b o n a r	166
+3486	Banggi	correct, true	baːr	b aː r	-166
+#
+3487	Maloh	night	malam	m a l a m	819
+3488	Merina (Malagasy)	night	alina	a l i n a	1137
+3489	Thao	night	tanlhuan	t a n l h u a n	559
+3490	Palauan	night	klebeséi	k l e b e s é i	1371
+3491	Tunjung	night	kalam	k a l a m	819
+3492	Bare'e	night	weŋi	w e ŋ i	780
+3493	Iban	night	malam	m a l a m	819
+3494	Berawan (Long Terawan)	night	dicum	d i c u m	-819
+3495	Moken	night	kəman	k ə m a n	1778
+3496	Moken	night	dik	d i k	1779
+3497	Hanunoo	night	jabi	j a b i	334
+3498	Wuna	night	korondoha	k o r o n d o h a	693
+3499	Tetum	night	kalan	k a l a n	-819
+3500	Mailu	night	garu	g a r u	607
+3501	Tsou	night	féŋna	f é ŋ n a	780
+3502	Nias	night	boŋi	b o ŋ i	780
+3503	Central Amis	night	talaja	t a l a j a	2488
+3504	Chamorro	night	pueŋi	p u e ŋ i	-780
+3505	Banoni	night	boŋi	b o ŋ i	780
+3506	Singhi	night	ŋarom	ŋ a r o m	2826
+3507	Banggi	night	raobi	r a o b i	2882
+#
+3508	Maloh	day	aso	a s o	70
+3509	Merina (Malagasy)	day	andro	a n d r o	1138
+3510	Thao	day	qali	q a l i	147
+3511	Palauan	day	sils	s i l s	1372
+3512	Tunjung	day	naw	n a w	1465
+3513	Bare'e	day	eo	e o	241
+3514	Iban	day	ari	a r i	473
+3515	Berawan (Long Terawan)	day	malaw	m a l a w	670
+3516	Moken	day	ʔaloj	ʔ a l o j	473
+3517	Hanunoo	day	siraŋ	s i r a ŋ	1847
+3518	Wuna	day	gʰoleo	gʰ o l e o	374
+3519	Tetum	day	loron	l o r o n	699
+3520	Mailu	day	wau	w a u	2068
+3521	Tsou	day	hie	h i e	147
+3522	Nias	day	luo	l u o	2315
+3523	Central Amis	day	rumiad	r u m i a d	2489
+3524	Banoni	day	korisa	k o r i s a	2730
+3525	Singhi	day	anu	a n u	2827
+3526	Banggi	day	odu	o d u	464
+#
+3527	Maloh	year	taun	t a u n	433
+3528	Merina (Malagasy)	year	taona	t a o n a	433
+3529	Thao	year	kawash	k a w a s h	792
+3530	Palauan	year	rak	r a k	44
+3531	Tunjung	year	taun	t a u n	433
+3532	Bare'e	year	taʔu	t a ʔ u	433
+3533	Iban	year	taun	t a u n	433
+3534	Berawan (Long Terawan)	year	taun	t a u n	433
+3535	Moken	year	takon	t a k o n	433
+3536	Hanunoo	year	abagat	a b a g a t	1848
+3537	Hanunoo	year	turuŋun	t u r u ŋ u n	1849
+3538	Wuna	year	tagʰu	t a gʰ u	433
+3539	Tetum	year	tinan	t i n a n	520
+3540	Mailu	year	lioro	l i o r o	2069
+3541	Tsou	year	tonsoha	t o n s o h a	2209
+3542	Nias	year	dõfi	d õ f i	2316
+3543	Central Amis	year	mihca	m i h c a	2490
+3544	Chamorro	year	sakːan	s a kː a n	2576
+3545	Banoni	year	namare	n a m a r e	2731
+3546	Singhi	year	sowa	s o w a	2828
+3547	Banggi	year	toudn	t o u d n	433
+#
+3548	Maloh	when?	endisi	e n d i s i	1041
+3549	Merina (Malagasy)	when?	oviana	o v i a n a	1139
+3550	Thao	when?	kaiza	k a i z a	471
+3551	Palauan	when?	oiŋaraŋ	o i ŋ a r a ŋ	1373
+3552	Tunjung	when?	pinan	p i n a n	-471
+3553	Bare'e	when?	impia	i m p i a	-471
+3554	Iban	when?	kemaia	k e m a i a	1608
+3555	Berawan (Long Terawan)	when?	iran	i r a n	471
+3556	Moken	when?	ʔupʰiːn	ʔ u pʰ iː n	1780
+3557	Hanunoo	when?	kapira	k a p i r a	-471
+3558	Wuna	when?	indefie	i n d e f i e	471
+3559	Tetum	when?	bai#hira	b a i # h i r a	-471
+3560	Mailu	when?	abo#samu	a b o # s a m u	2070
+3561	Tsou	when?	homna	h o m n a	285
+3562	Nias	when?	he#ːmega	h e #ː m e g a	2317
+3563	Central Amis	when?	hakua	h a k u a	-514
+3564	Central Amis	when?	hacua	h a c u a	2491
+3565	Banoni	when?	noisa	n o i s a	471
+3566	Singhi	when?	sinie	s i n i e	2829
+#
+3567	Maloh	to hide	lamun	l a m u n	1042
+3568	Merina (Malagasy)	to hide	manitrika	m a n i t r i k a	1140
+3569	Thao	to hide	kuruz	k u r u z	1241
+3570	Palauan	to hide	meŋéleb	m e ŋ é l e b	409
+3571	Bare'e	to hide	wuni	w u n i	244
+3572	Iban	to hide	pelam	p e l a m	1609
+3573	Iban	to hide	belalai	b e l a l a i	1610
+3574	Iban	to hide	lalai	l a l a i	1611
+3575	Berawan (Long Terawan)	to hide	muŋih	m u ŋ i h	-244
+3576	Moken	to hide	munuj	m u n u j	244
+3577	Hanunoo	to hide	taguʔ	t a g u ʔ	830
+3578	Wuna	to hide	nefebuni	n e f e b u n i	244
+3579	Tetum	to hide	funin	f u n i n	244
+3580	Tsou	to hide	amʉtʉ	a m ʉ t ʉ	2210
+3581	Nias	to hide	biniʔõ	b i n i ʔ õ	2318
+3582	Central Amis	to hide	simel	s i m e l	2492
+3583	Banoni	to hide	vape	v a p e	2732
+3584	Singhi	to hide	sukan	s u k a n	309
+#
+3585	Maloh	to climb	ambit	a m b i t	1043
+3586	Merina (Malagasy)	to climb	miakatra	m i a k a t r a	1141
+3587	Palauan	to climb	melidab	m e l i d a b	1374
+3588	Bare'e	to climb	pone	p o n e	827
+3589	Iban	to climb	tikiʔ	t i k i ʔ	1612
+3590	Berawan (Long Terawan)	to climb	nakən	n a k ə n	-827
+3591	Moken	to climb	nʲaʔek	nʲ a ʔ e k	827
+3592	Hanunoo	to climb	dajik	d a j i k	-827
+3593	Wuna	to climb	nofoni	n o f o n i	827
+3594	Tetum	to climb	saʔe	s a ʔ e	-373
+3595	Mailu	to climb	panapana	p a n a p a n a	-827
+3596	Tsou	to climb	tisifou	t i s i f o u	2211
+3597	Nias	to climb	nõi	n õ i	-827
+3598	Central Amis	to climb	macaka	m a c a k a	2493
+3599	Central Amis	to climb	mikali	m i k a l i	2494
+3600	Chamorro	to climb	hotde	h o t d e	2577
+3601	Singhi	to climb	jikux	j i k u x	2830
+3602	Singhi	to climb	tapaŋ	t a p a ŋ	2831
+3603	Banggi	to climb	semblahi	s e m b l a h i	2883
+#
+3604	Merina (Malagasy)	at	amj	a m j	1142
+3605	Thao	at	i	i	52
+3606	Palauan	at	er	e r	1375
+3607	Tunjung	at	deʔ	d e ʔ	86
+3608	Bare'e	at	ri	r i	86
+3609	Iban	at	ba	b a	708
+3610	Iban	at	di	d i	86
+3611	Berawan (Long Terawan)	at	atəʔ	a t ə ʔ	681
+3612	Moken	at	tʰiː	tʰ iː	86
+3613	Hanunoo	at	sa	s a	342
+3614	Tetum	at	iha	i h a	-86
+3615	Mailu	at	de	d e	-52
+3616	Nias	at	ba	b a	708
+3617	Central Amis	at	i	i	52
+3618	Chamorro	at	gi	g i	86
+3619	Singhi	at	daːŋ	d aː ŋ	2832
+3620	Banggi	at	ki	k i	86
+#
+3621	Maloh	in, inside	ilalam	i l a l a m	83
+3622	Merina (Malagasy)	in, inside	anatj	a n a t j	1143
+3623	Thao	in, inside	i	i	152
+3624	Palauan	in, inside	cʰelsél	cʰ e l s é l	1376
+3625	Tunjung	in, inside	deʔ#lam	d e ʔ # l a m	83
+3626	Bare'e	in, inside	ri#ra	r i # r a	83
+3627	Iban	in, inside	alam	a l a m	83
+3628	Iban	in, inside	dalam	d a l a m	83
+3629	Berawan (Long Terawan)	in, inside	lum	l u m	83
+3630	Moken	in, inside	dalam	d a l a m	83
+3631	Hanunoo	in, inside	sa#basad	s a # b a s a d	1850
+3632	Tetum	in, inside	iha#laran	i h a # l a r a n	83
+3633	Mailu	in, inside	ausu	a u s u	579
+3634	Tsou	in, inside	aeumona	a e u m o n a	302
+3635	Nias	in, inside	ba	b a	2319
+3636	Central Amis	in, inside	lalumaq	l a l u m a q	505
+3637	Central Amis	in, inside	i	i	152
+3638	Chamorro	in, inside	halom	h a l o m	83
+3639	Banoni	in, inside	mo	m o	2733
+3640	Banoni	in, inside	mokorena	m o k o r e n a	2734
+3641	Singhi	in, inside	daːŋ	d aː ŋ	-836
+3642	Banggi	in, inside	kisoid	k i s o i d	2884
+#
+3643	Maloh	above	ibo	i b o	-479
+3644	Merina (Malagasy)	above	ambonj	a m b o n j	1144
+3645	Thao	above	ifafaw	i f a f a w	479
+3646	Palauan	above	bab	b a b	479
+3647	Bare'e	above	ri#wawo	r i # w a w o	479
+3648	Iban	above	datas	d a t a s	706
+3649	Berawan (Long Terawan)	above	ki#apːiəw	k i # a pː i ə w	-479
+3650	Moken	above	dataː	d a t aː	706
+3651	Hanunoo	above	tuŋud	t u ŋ u d	1851
+3652	Tetum	above	letːen	l e tː e n	1919
+3653	Mailu	above	atana	a t a n a	-706
+3654	Tsou	above	noépe	n o é p e	2212
+3655	Central Amis	above	fafukaŋ	f a f u k a ŋ	2495
+3656	Singhi	above	de#somu	d e # s o m u	2833
+3657	Singhi	above	de#tun	d e # t u n	-706
+3658	Banggi	above	kilibuat	k i l i b u a t	-479
+#
+3659	Maloh	below	ijauŋ	i j a u ŋ	1044
+3660	Merina (Malagasy)	below	ambanj	a m b a n j	1145
+3661	Thao	below	ipruq	i p r u q	1242
+3662	Palauan	below	eou	e o u	1377
+3663	Tunjung	below	iweːq	i w eː q	1466
+3664	Bare'e	below	ri#ara	r i # a r a	-602
+3665	Iban	below	baroh	b a r o h	1613
+3666	Berawan (Long Terawan)	below	ki#ləpːu	k i # l ə pː u	1689
+3667	Moken	below	ləbuːk	l ə b uː k	1781
+3668	Hanunoo	below	lawud	l a w u d	-602
+3669	Tetum	below	kraik	k r a i k	1920
+3670	Mailu	below	auna	a u n a	2071
+3671	Mailu	below	godana	g o d a n a	2072
+3672	Tsou	below	nosʔoeːʉ	n o s ʔ o eː ʉ	2213
+3673	Nias	below	tou	t o u	2320
+3674	Central Amis	below	laʔnu	l a ʔ n u	2496
+3675	Banoni	below	kopona	k o p o n a	713
+3676	Singhi	below	de#dau	d e # d a u	2834
+3677	Singhi	below	riboeʔ	r i b o e ʔ	2835
+3678	Banggi	below	kisiduŋ	k i s i d u ŋ	2885
+#
+3679	Maloh	this	indiʔ	i n d i ʔ	360
+3680	Merina (Malagasy)	this	atj	a t j	207
+3681	Thao	this	inaj	i n a j	1243
+3682	Palauan	this	tiéi	t i é i	1378
+3683	Tunjung	this	itih	i t i h	207
+3684	Iban	this	tuʔ	t u ʔ	1614
+3685	Berawan (Long Terawan)	this	nih	n i h	360
+3686	Moken	this	niː	n iː	360
+3687	Hanunoo	this	inda	i n d a	360
+3688	Wuna	this	aini	a i n i	360
+3689	Tetum	this	neʔe	n e ʔ e	360
+3690	Mailu	this	eva	e v a	2073
+3691	Tsou	this	éni	é n i	360
+3692	Nias	this	daʔa	d a ʔ a	2321
+3693	Central Amis	this	kuna	k u n a	2497
+3694	Central Amis	this	kuni	k u n i	2498
+3695	Chamorro	this	ini	i n i	360
+3696	Banoni	this	ie	i e	2735
+3697	Banoni	this	nabeː	n a b eː	2736
+#
+3698	Maloh	that	indin	i n d i n	1045
+3699	Merina (Malagasy)	that	ao	a o	1146
+3700	Merina (Malagasy)	that	anj	a n j	1147
+3701	Thao	that	haja	h a j a	270
+3702	Thao	that	huja	h u j a	270
+3703	Palauan	that	tilecʰaŋ	t i l e cʰ a ŋ	1379
+3704	Palauan	that	séi	s é i	1380
+3705	Tunjung	that	aneh	a n e h	392
+3706	Bare'e	that	setu	s e t u	569
+3707	Iban	that	nʲaʔ	nʲ a ʔ	1615
+3708	Berawan (Long Terawan)	that	tuh	t u h	569
+3709	Moken	that	nʲuː	nʲ uː	1782
+3710	Hanunoo	that	tunda	t u n d a	1852
+3711	Hanunoo	that	tida	t i d a	1853
+3712	Wuna	that	aitu	a i t u	569
+3713	Tetum	that	nia	n i a	392
+3714	Mailu	that	ada	a d a	2074
+3715	Mailu	that	ne	n e	2075
+3716	Tsou	that	icʔo	i c ʔ o	2214
+3717	Nias	that	daʔõ	d a ʔ õ	2322
+3718	Central Amis	that	kuna	k u n a	2499
+3719	Central Amis	that	kura	k u r a	2500
+3720	Chamorro	that	enao	e n a o	2578
+3721	Banoni	that	nana	n a n a	392
+3722	Banoni	that	nabo	n a b o	392
+3723	Singhi	that	inu	i n u	392
+3724	Banggi	that	ino	i n o	392
+#
+3725	Maloh	near	insoʔ	i n s o ʔ	1046
+3726	Merina (Malagasy)	near	akékj	a k é k j	1148
+3727	Thao	near	iqualh	i q u a l h	1244
+3728	Palauan	near	kméed	k m é e d	1381
+3729	Tunjung	near	totoʔ	t o t o ʔ	1467
+3730	Bare'e	near	mosu	m o s u	1545
+3731	Iban	near	dampih	d a m p i h	33
+3732	Berawan (Long Terawan)	near	kəpaiʔ	k ə p a i ʔ	1690
+3733	Moken	near	daniʔ	d a n i ʔ	173
+3734	Hanunoo	near	arani	a r a n i	173
+3735	Wuna	near	nomaho	n o m a h o	658
+3736	Tetum	near	kreʔis	k r e ʔ i s	1921
+3737	Tetum	near	tukus	t u k u s	1922
+3738	Mailu	near	tebina	t e b i n a	264
+3739	Tsou	near	cmuu	c m u u	2215
+3740	Nias	near	ahatõ	a h a t õ	2323
+3741	Central Amis	near	nataʔ	n a t a ʔ	2501
+3742	Chamorro	near	hihot	h i h o t	2579
+3743	Singhi	near	sinuk	s i n u k	2836
+3744	Banggi	near	miŋat	m i ŋ a t	2886
+#
+3745	Maloh	far	bajau	b a j a u	208
+3746	Merina (Malagasy)	far	lavitra	l a v i t r a	1149
+3747	Thao	far	ihazish	i h a z i s h	1245
+3748	Palauan	far	cʰeroid	cʰ e r o i d	1382
+3749	Tunjung	far	əncoʔ	ə n c o ʔ	1468
+3750	Bare'e	far	lawa	l a w a	1546
+3751	Iban	far	jauh	j a u h	208
+3752	Berawan (Long Terawan)	far	dio	d i o	208
+3753	Moken	far	nanʲoːt	n a nʲ oː t	1783
+3754	Hanunoo	far	arajuʔ	a r a j u ʔ	62
+3755	Wuna	far	nokodohu	n o k o d o h u	201
+3756	Wuna	far	kodoko	k o d o k o	201
+3757	Tetum	far	kedok	k e d o k	1923
+3758	Mailu	far	pakalau	p a k a l a u	2076
+3759	Tsou	far	covhi	c o v h i	761
+3760	Nias	far	arõu	a r õ u	425
+3761	Central Amis	far	malaʔaj	m a l a ʔ a j	2502
+3762	Banoni	far	mo#gʰarusuna	m o # gʰ a r u s u n a	2737
+3763	Singhi	far	jue	j u e	-208
+3764	Banggi	far	moduk	m o d u k	2887
+#
+3765	Maloh	where?	dainsi	d a i n s i	1047
+3766	Merina (Malagasy)	where?	aiza	a i z a	1150
+3767	Thao	where?	intua	i n t u a	632
+3768	Palauan	where?	ker	k e r	1383
+3769	Tunjung	where?	dinʲa	d i nʲ a	1469
+3770	Tunjung	where?	dinja	d i n j a	1470
+3771	Bare'e	where?	saː	s aː	107
+3772	Iban	where?	ni	n i	1616
+3773	Berawan (Long Terawan)	where?	ataʔ#buʔ	a t a ʔ # b u ʔ	1691
+3774	Moken	where?	bitaː	b i t aː	1784
+3775	Hanunoo	where?	naʔan	n a ʔ a n	1854
+3776	Wuna	where?	nehamae	n e h a m a e	738
+3777	Mailu	where?	abo#ːde	a b o #ː d e	2077
+3778	Tsou	where?	nénu	n é n u	824
+3779	Tsou	where?	anʔo	a n ʔ o	2216
+3780	Nias	where?	he	h e	2324
+3781	Central Amis	where?	icua	i c u a	632
+3782	Central Amis	where?	icua	i c u a	632
+3783	Chamorro	where?	amanu	a m a n u	2580
+3784	Banoni	where?	#vai	# v a i	5
+3785	Banoni	where?	vaia	v a i a	5
+3786	Singhi	where?	tiŋ#ki	t i ŋ # k i	2837
+3787	Banggi	where?	menihan	m e n i h a n	2888
+#
+3788	Maloh	I	iak	i a k	7
+3789	Merina (Malagasy)	I	iz	i z	7
+3790	Thao	I	jaku	j a k u	7
+3791	Palauan	I	ŋak	ŋ a k	7
+3792	Tunjung	I	ap	a p	1471
+3793	Bare'e	I	aku	a k u	7
+3794	Iban	I	aku	a k u	7
+3795	Berawan (Long Terawan)	I	akːoh	a kː o h	7
+3796	Hanunoo	I	aku	a k u	7
+3797	Wuna	I	inodi	i n o d i	697
+3798	Tetum	I	hau	h a u	7
+3799	Mailu	I	ia	i a	-7
+3800	Tsou	I	ao	a o	7
+3801	Nias	I	jaʔo	j a ʔ o	-7
+3802	Central Amis	I	aku	a k u	7
+3803	Central Amis	I	kako	k a k o	7
+3804	Chamorro	I	guahu	g u a h u	7
+3805	Banoni	I	na	n a	-7
+3806	Singhi	I	aku	a k u	7
+3807	Banggi	I	ou	o u	7
+#
+3808	Maloh	thou	iko	i k o	634
+3809	Merina (Malagasy)	thou	hianao	h i a n a o	732
+3810	Thao	thou	ihu	i h u	634
+3811	Palauan	thou	kau	k a u	634
+3812	Tunjung	thou	koʔ	k o ʔ	634
+3813	Bare'e	thou	siko	s i k o	634
+3814	Iban	thou	nuan	n u a n	1617
+3815	Iban	thou	diʔ	d i ʔ	1618
+3816	Berawan (Long Terawan)	thou	noh	n o h	1692
+3817	Moken	thou	kah̃eː	k a h̃ eː	1785
+3818	Hanunoo	thou	kawu	k a w u	634
+3819	Wuna	thou	ihitu	i h i t u	238
+3820	Tetum	thou	o	o	634
+3821	Mailu	thou	ga	g a	538
+3822	Tsou	thou	suu	s u u	634
+3823	Nias	thou	jaʔugõ	j a ʔ u g õ	-634
+3824	Central Amis	thou	kisu	k i s u	634
+3825	Chamorro	thou	hagu	h a g u	634
+3826	Banoni	thou	no	n o	2738
+3827	Singhi	thou	iŋan	i ŋ a n	634
+3828	Singhi	thou	muː	m uː	634
+3829	Banggi	thou	uhu	u h u	2889
+#
+3830	Maloh	he/she	ia	i a	536
+3831	Merina (Malagasy)	he/she	izj	i z j	536
+3832	Thao	he/she	cicu	c i c u	1246
+3833	Palauan	he/she	ŋii	ŋ i i	536
+3834	Tunjung	he/she	isaʔ	i s a ʔ	536
+3835	Bare'e	he/she	siʔa	s i ʔ a	536
+3836	Iban	he/she	ia	i a	349
+3837	Berawan (Long Terawan)	he/she	nʲih	nʲ i h	200
+3838	Moken	he/she	ʔolaːŋ	ʔ o l aː ŋ	1786
+3839	Moken	he/she	nʲaː	nʲ aː	536
+3840	Hanunoo	he/she	sija	s i j a	536
+3841	Wuna	he/she	anoa	a n o a	600
+3842	Tetum	he/she	nia	n i a	536
+3843	Mailu	he/she	no	n o	2078
+3844	Nias	he/she	jaʔia	j a ʔ i a	536
+3845	Central Amis	he/she	ciŋra	c i ŋ r a	2503
+3846	Central Amis	he/she	ciŋra	c i ŋ r a	2504
+3847	Chamorro	he/she	guija	g u i j a	536
+3848	Banoni	he/she	nːa	nː a	584
+3849	Singhi	he/she	ijox	i j o x	536
+3850	Banggi	he/she	kui	k u i	2890
+#
+3851	Maloh	we	ikiʔ	i k i ʔ	287
+3852	Maloh	we	ikam	i k a m	648
+3853	Merina (Malagasy)	we	isika	i s i k a	287
+3854	Merina (Malagasy)	we	izahaj	i z a h a j	648
+3855	Thao	we	ita	i t a	287
+3856	Thao	we	jamin	j a m i n	648
+3857	Palauan	we	kid	k i d	287
+3858	Palauan	we	kemam	k e m a m	648
+3859	Tunjung	we	taj	t a j	287
+3860	Tunjung	we	kamiʔ	k a m i ʔ	648
+3861	Bare'e	we	kita	k i t a	287
+3862	Bare'e	we	kami	k a m i	648
+3863	Iban	we	kitai	k i t a i	287
+3864	Iban	we	kami	k a m i	648
+3865	Berawan (Long Terawan)	we	kitah	k i t a h	287
+3866	Berawan (Long Terawan)	we	kameh	k a m e h	648
+3867	Moken	we	ʔetaʔ	ʔ e t a ʔ	287
+3868	Moken	we	kamoj	k a m o j	648
+3869	Hanunoo	we	kita	k i t a	287
+3870	Hanunoo	we	kami	k a m i	648
+3871	Wuna	we	insaidi	i n s a i d i	161
+3872	Tetum	we	ita	i t a	287
+3873	Tetum	we	ami	a m i	648
+3874	Tsou	we	ato	a t o	287
+3875	Tsou	we	amia	a m i a	648
+3876	Nias	we	jaʔita	j a ʔ i t a	287
+3877	Nias	we	jaʔaga	j a ʔ a g a	2325
+3878	Central Amis	we	kita	k i t a	287
+3879	Central Amis	we	kita	k i t a	287
+3880	Central Amis	we	kami	k a m i	648
+3881	Chamorro	we	hita	h i t a	287
+3882	Chamorro	we	hami	h a m i	648
+3883	Banoni	we	gʰata	gʰ a t a	287
+3884	Banoni	we	gʰamam	gʰ a m a m	648
+3885	Singhi	we	atːe	a tː e	287
+3886	Singhi	we	kais	k a i s	2838
+3887	Banggi	we	sesia	s e s i a	2891
+3888	Banggi	we	ihi	i h i	2892
+#
+3889	Maloh	you	ikin	i k i n	1048
+3890	Merina (Malagasy)	you	hianaréo	h i a n a r é o	1151
+3891	Thao	you	maniun	m a n i u n	1247
+3892	Palauan	you	kemiu	k e m i u	592
+3893	Tunjung	you	kam	k a m	772
+3894	Bare'e	you	komi	k o m i	592
+3895	Iban	you	kitaʔ	k i t a ʔ	1619
+3896	Iban	you	diʔ	d i ʔ	1620
+3897	Iban	you	nuan	n u a n	1621
+3898	Berawan (Long Terawan)	you	kam	k a m	772
+3899	Moken	you	kanʲeː	k a nʲ eː	1787
+3900	Hanunoo	you	kamu	k a m u	319
+3901	Wuna	you	ihintumu	i h i n t u m u	818
+3902	Tetum	you	emi	e m i	592
+3903	Mailu	you	aea	a e a	2079
+3904	Tsou	you	muu	m u u	319
+3905	Nias	you	jaʔami	j a ʔ a m i	592
+3906	Central Amis	you	isu	i s u	319
+3907	Central Amis	you	kamu	k a m u	319
+3908	Central Amis	you	amu	a m u	319
+3909	Chamorro	you	hamjo	h a m j o	592
+3910	Banoni	you	gʰam	gʰ a m	319
+3911	Singhi	you	iŋan	i ŋ a n	2839
+#
+3912	Maloh	they	ira	i r a	92
+3913	Merina (Malagasy)	they	izj	i z j	-92
+3914	Thao	they	cajcuj	c a j c u j	1248
+3915	Palauan	they	tir	t i r	92
+3916	Bare'e	they	sira	s i r a	92
+3917	Iban	they	sidaʔ	s i d a ʔ	92
+3918	Berawan (Long Terawan)	they	siloh	s i l o h	92
+3919	Moken	they	ʔolaːŋ	ʔ o l aː ŋ	1788
+3920	Hanunoo	they	sida	s i d a	92
+3921	Wuna	they	andoa	a n d o a	323
+3922	Tetum	they	sia	s i a	92
+3923	Mailu	they	omoa	o m o a	2080
+3924	Tsou	they	heː	h eː	2217
+3925	Nias	they	jaʔira	j a ʔ i r a	92
+3926	Central Amis	they	aŋra	a ŋ r a	2505
+3927	Central Amis	they	caŋra	c a ŋ r a	2506
+3928	Chamorro	they	siha	s i h a	92
+3929	Banoni	they	nari	n a r i	357
+3930	Singhi	they	ijox	i j o x	2840
+#
+3931	Maloh	what?	aisi	a i s i	127
+3932	Maloh	what?	aisana	a i s a n a	127
+3933	Merina (Malagasy)	what?	inona	i n o n a	307
+3934	Thao	what?	numa	n u m a	27
+3935	Palauan	what?	ŋaraŋ	ŋ a r a ŋ	1384
+3936	Tunjung	what?	nʲama	nʲ a m a	682
+3937	Bare'e	what?	nunjaː	n u n j aː	307
+3938	Iban	what?	apa	a p a	127
+3939	Iban	what?	nama	n a m a	682
+3940	Berawan (Long Terawan)	what?	nʲon	nʲ o n	307
+3941	Moken	what?	ʔanoː	ʔ a n oː	307
+3942	Hanunoo	what?	hintaj	h i n t a j	1855
+3943	Wuna	what?	ohae	o h a e	573
+3944	Tetum	what?	sa	s a	127
+3945	Mailu	what?	diada	d i a d a	2081
+3946	Tsou	what?	cuma	c u m a	2218
+3947	Nias	what?	hadia	h a d i a	127
+3948	Central Amis	what?	umaqan	u m a q a n	2507
+3949	Central Amis	what?	umaʔan	u m a ʔ a n	2508
+3950	Chamorro	what?	hafa	h a f a	127
+3951	Banoni	what?	sua	s u a	455
+3952	Banoni	what?	hoa	h o a	455
+3953	Singhi	what?	oni	o n i	307
+3954	Banggi	what?	onuh	o n u h	307
+#
+3955	Maloh	who?	intain	i n t a i n	1049
+3956	Merina (Malagasy)	who?	izaj	i z a j	-746
+3957	Thao	who?	tima	t i m a	259
+3958	Palauan	who?	tecʰaŋ	t e cʰ a ŋ	1385
+3959	Tunjung	who?	unʲa	u nʲ a	1472
+3960	Bare'e	who?	i#sema	i # s e m a	595
+3961	Iban	who?	sapa	s a p a	459
+3962	Berawan (Long Terawan)	who?	kaʔeh	k a ʔ e h	-746
+3963	Moken	who?	ʔacaː	ʔ a c aː	1789
+3964	Hanunoo	who?	sintaj	s i n t a j	-328
+3965	Wuna	who?	lahae	l a h a e	-746
+3966	Tetum	who?	se	s e	746
+3967	Mailu	who?	au	a u	2082
+3968	Tsou	who?	sia	s i a	2219
+3969	Nias	who?	ha	h a	-746
+3970	Central Amis	who?	cima	c i m a	259
+3971	Chamorro	who?	hai	h a i	-746
+3972	Banoni	who?	seː	s eː	746
+3973	Banoni	who?	heː	h eː	746
+3974	Singhi	who?	osi	o s i	-746
+3975	Banggi	who?	asi	a s i	-746
+#
+3976	Maloh	other	lan	l a n	167
+3977	Merina (Malagasy)	other	hafa	h a f a	1152
+3978	Thao	other	suma	s u m a	776
+3979	Palauan	other	ŋodecʰ	ŋ o d e cʰ	1386
+3980	Bare'e	other	ntani	n t a n i	1547
+3981	Iban	other	bukai	b u k a i	1622
+3982	Berawan (Long Terawan)	other	jəh#nih	j ə h # n i h	1693
+3983	Hanunoo	other	iba	i b a	709
+3984	Wuna	other	sigahano	s i g a h a n o	116
+3985	Tetum	other	seluk	s e l u k	845
+3986	Mailu	other	enere	e n e r e	2083
+3987	Tsou	other	coni	c o n i	2220
+3988	Nias	other	bõʔõ	b õ ʔ õ	2326
+3989	Central Amis	other	u#lumaʔ#a#tamdaw	u # l u m a ʔ # a # t a m d a w	776
+3990	Singhi	other	kun	k u n	167
+3991	Banggi	other	leidn	l e i d n	-167
+#
+3992	Maloh	all	kausan	k a u s a n	1050
+3993	Maloh	all	samua	s a m u a	89
+3994	Merina (Malagasy)	all	rehétra	r e h é t r a	1153
+3995	Thao	all	ʔazʔaz	ʔ a z ʔ a z	1249
+3996	Palauan	all	el#rokir	e l # r o k i r	1387
+3997	Bare'e	all	paka	p a k a	382
+3998	Iban	all	abis	a b i s	89
+3999	Iban	all	semua	s e m u a	89
+4000	Iban	all	magaŋ	m a g a ŋ	89
+4001	Berawan (Long Terawan)	all	moŋ	m o ŋ	1694
+4002	Moken	all	tapʰuːŋ	t a pʰ uː ŋ	1790
+4003	Moken	all	kətoj	k ə t o j	1791
+4004	Hanunoo	all	tanan	t a n a n	526
+4005	Wuna	all	baribarie	b a r i b a r i e	267
+4006	Tetum	all	hotu#hotu	h o t u # h o t u	452
+4007	Tetum	all	falu	f a l u	1924
+4008	Tsou	all	acʉhʉ	a c ʉ h ʉ	2221
+4009	Nias	all	fefu	f e f u	2327
+4010	Nias	all	oi	o i	2328
+4011	Central Amis	all	mapuluq	m a p u l u q	2509
+4012	Central Amis	all	mapuloŋ	m a p u l o ŋ	2510
+4013	Central Amis	all	maʔmiŋ	m a ʔ m i ŋ	326
+4014	Banoni	all	kota	k o t a	2739
+4015	Singhi	all	sue#porug	s u e # p o r u g	2841
+#
+4016	Maloh	and	nana	n a n a	306
+4017	Merina (Malagasy)	and	sj	s j	1154
+4018	Merina (Malagasy)	and	arj	a r j	1155
+4019	Merina (Malagasy)	and	ka	k a	429
+4020	Palauan	and	e	e	-429
+4021	Palauan	and	me	m e	71
+4022	Bare'e	and	pai	p a i	1548
+4023	Iban	and	eŋgau	e ŋ g a u	1623
+4024	Berawan (Long Terawan)	and	ŋan	ŋ a n	306
+4025	Moken	and	toŋ	t o ŋ	1792
+4026	Hanunoo	and	ag	a g	429
+4027	Tetum	and	no	n o	825
+4028	Mailu	and	di	d i	2084
+4029	Mailu	and	ele	e l e	2085
+4030	Mailu	and	o	o	2086
+4031	Mailu	and	nogo	n o g o	2087
+4032	Tsou	and	ho	h o	641
+4033	Nias	and	ba	b a	71
+4034	Central Amis	and	a	a	36
+4035	Chamorro	and	ja	j a	2581
+4036	Chamorro	and	jan	j a n	2582
+4037	Singhi	and	duecʰ	d u e cʰ	2842
+4038	Singhi	and	toban	t o b a n	769
+4039	Banggi	and	mak	m a k	71
+#
+4040	Maloh	if	atiʔ	a t i ʔ	1051
+4041	Merina (Malagasy)	if	raha	r a h a	1156
+4042	Thao	if	ja	j a	1250
+4043	Palauan	if	a	a	1388
+4044	Palauan	if	a#kmu	a # k m u	1389
+4045	Bare'e	if	ane	a n e	275
+4046	Iban	if	entiʔ	e n t i ʔ	1624
+4047	Berawan (Long Terawan)	if	mun	m u n	45
+4048	Moken	if	saʔ	s a ʔ	1793
+4049	Hanunoo	if	nu	n u	576
+4050	Mailu	if	de	d e	2088
+4051	Tsou	if	hoci	h o c i	2222
+4052	Nias	if	na	n a	-576
+4053	Central Amis	if	anu	a n u	576
+4054	Central Amis	if	ano	a n o	576
+4055	Singhi	if	komu	k o m u	404
+#
+4056	Maloh	how?	aisi#loʔa	a i s i # l o ʔ a	1052
+4057	Merina (Malagasy)	how?	ahoana	a h o a n a	1157
+4058	Thao	how?	apiakuzan	a p i a k u z a n	240
+4059	Palauan	how?	uaŋeraŋ	u a ŋ e r a ŋ	1390
+4060	Tunjung	how?	ŋamenʲa	ŋ a m e nʲ a	1473
+4061	Bare'e	how?	makuja	m a k u j a	240
+4062	Iban	how?	kati	k a t i	1625
+4063	Berawan (Long Terawan)	how?	coʔ#kədin	c o ʔ # k ə d i n	1695
+4064	Moken	how?	cipʰan	c i pʰ a n	1794
+4065	Hanunoo	how?	abitaj	a b i t a j	1856
+4066	Hanunoo	how?	abitaj	a b i t a j	1857
+4067	Tetum	how?	na#nuːsa	n a # n uː s a	1925
+4068	Mailu	how?	abo#ːua	a b o #ː u a	2089
+4069	Tsou	how?	hia	h i a	2223
+4070	Nias	how?	he#ːwisa	h e #ː w i s a	2329
+4071	Central Amis	how?	samaqanen	s a m a q a n e n	2511
+4072	Central Amis	how?	samaʔanen	s a m a ʔ a n e n	2512
+4073	Chamorro	how?	#taimanu	# t a i m a n u	2583
+4074	Banoni	how?	vaia#vasi	v a i a # v a s i	2740
+4075	Singhi	how?	onimun	o n i m u n	2843
+4076	Banggi	how?	fuŋgama	f u ŋ g a m a	2893
+#
+4077	Maloh	no, not	bokan	b o k a n	117
+4078	Maloh	no, not	naʔan	n a ʔ a n	736
+4079	Merina (Malagasy)	no, not	tsj	t s j	1158
+4080	Merina (Malagasy)	no, not	tsia	t s i a	1159
+4081	Thao	no, not	ani	a n i	-151
+4082	Thao	no, not	antu	a n t u	1251
+4083	Palauan	no, not	diak	d i a k	638
+4084	Tunjung	no, not	kaheʔ	k a h e ʔ	1474
+4085	Bare'e	no, not	bareʔe	b a r e ʔ e	1549
+4086	Iban	no, not	nadai	n a d a i	1626
+4087	Iban	no, not	endaʔ	e n d a ʔ	476
+4088	Iban	no, not	ukai	u k a i	117
+4089	Berawan (Long Terawan)	no, not	ŋaʔ	ŋ a ʔ	1696
+4090	Moken	no, not	kan	k a n	117
+4091	Moken	no, not	hah	h a h	1795
+4092	Hanunoo	no, not	balaw	b a l a w	1858
+4093	Hanunoo	no, not	bukun	b u k u n	117
+4094	Hanunoo	no, not	unman	u n m a n	1859
+4095	Tetum	no, not	la#	l a #	1926
+4096	Mailu	no, not	da	d a	2090
+4097	Mailu	no, not	kokoa	k o k o a	2091
+4098	Mailu	no, not	seːvai	s eː v a i	2092
+4099	Tsou	no, not	oʔte	o ʔ t e	2224
+4100	Nias	no, not	lõʔõ	l õ ʔ õ	2330
+4101	Nias	no, not	teŋa	t e ŋ a	2331
+4102	Central Amis	no, not	caqaj	c a q a j	582
+4103	Central Amis	no, not	naʔaj	n a ʔ a j	582
+4104	Central Amis	no, not	caʔaj	c a ʔ a j	582
+4105	Central Amis	no, not	awa	a w a	582
+4106	Banoni	no, not	gʰinava	gʰ i n a v a	2741
+4107	Singhi	no, not	idex	i d e x	2844
+4108	Banggi	no, not	endak	e n d a k	638
+#
+4109	Maloh	to count	maŋoroŋ	m a ŋ o r o ŋ	-248
+4110	Merina (Malagasy)	to count	manisa	m a n i s a	1160
+4111	Thao	to count	shupilh	s h u p i l h	183
+4112	Palauan	to count	omecʰur	o m e cʰ u r	1391
+4113	Tunjung	to count	milaŋ	m i l a ŋ	48
+4114	Bare'e	to count	iwa	i w a	1550
+4115	Bare'e	to count	mobila	m o b i l a	-48
+4116	Iban	to count	itoŋ	i t o ŋ	248
+4117	Berawan (Long Terawan)	to count	muroŋ	m u r o ŋ	140
+4118	Moken	to count	mənap	m ə n a p	541
+4119	Hanunoo	to count	mabilaŋ	m a b i l a ŋ	48
+4120	Wuna	to count	nelentu	n e l e n t u	588
+4121	Tetum	to count	sura	s u r a	765
+4122	Mailu	to count	gimugimu	g i m u g i m u	2093
+4123	Mailu	to count	omiomi	o m i o m i	2094
+4124	Tsou	to count	smupeu	s m u p e u	183
+4125	Tsou	to count	spuéni	s p u é n i	183
+4126	Nias	to count	faja	f a j a	2332
+4127	Central Amis	to count	misaʔosi	m i s a ʔ o s i	2513
+4128	Chamorro	to count	tufoŋ	t u f o ŋ	2584
+4129	Banoni	to count	seː	s eː	48
+4130	Singhi	to count	niap	n i a p	541
+4131	Singhi	to count	bibiraŋ	b i b i r a ŋ	48
+4132	Banggi	to count	niap	n i a p	541
+#
+4133	Maloh	One	sera	s e r a	676
+4134	Maloh	One	insa	i n s a	676
+4135	Merina (Malagasy)	One	isa	i s a	676
+4136	Thao	One	tata	t a t a	-676
+4137	Palauan	One	taŋ	t a ŋ	676
+4138	Tunjung	One	caʔ	c a ʔ	676
+4139	Tunjung	One	bueq	b u e q	1475
+4140	Bare'e	One	isa	i s a	676
+4141	Iban	One	satu	s a t u	121
+4142	Berawan (Long Terawan)	One	acih	a c i h	676
+4143	Moken	One	saʔ	s a ʔ	676
+4144	Hanunoo	One	usa	u s a	676
+4145	Wuna	One	iseʔ	i s e ʔ	676
+4146	Tetum	One	ida	i d a	-676
+4147	Mailu	One	omu	o m u	2095
+4148	Tsou	One	cini	c i n i	712
+4149	Nias	One	sara	s a r a	676
+4150	Central Amis	One	cecai	c e c a i	676
+4151	Central Amis	One	cːaj	cː a j	676
+4152	Central Amis	One	cecaj	c e c a j	676
+4153	Chamorro	One	hacʰijai	h a cʰ i j a i	2585
+4154	Chamorro	One	maisa	m a i s a	2586
+4155	Banoni	One	kadaken	k a d a k e n	676
+4156	Singhi	One	nikan	n i k a n	-676
+4157	Banggi	One	isa	i s a	676
+#
+4158	Maloh	Two	dua	d u a	704
+4159	Merina (Malagasy)	Two	roa	r o a	704
+4160	Thao	Two	tusha	t u s h a	704
+4161	Palauan	Two	oruŋ	o r u ŋ	704
+4162	Tunjung	Two	rəgaʔ	r ə g a ʔ	1476
+4163	Bare'e	Two	rua	r u a	704
+4164	Iban	Two	dua	d u a	704
+4165	Berawan (Long Terawan)	Two	lebih	l e b i h	-704
+4166	Moken	Two	tʰəwaʔ	tʰ ə w a ʔ	704
+4167	Hanunoo	Two	duwa	d u w a	704
+4168	Wuna	Two	dua	d u a	704
+4169	Tetum	Two	rua	r u a	704
+4170	Mailu	Two	ava	a v a	2096
+4171	Tsou	Two	euso	e u s o	-704
+4172	Nias	Two	dua	d u a	704
+4173	Central Amis	Two	tusa	t u s a	704
+4174	Chamorro	Two	huguijai	h u g u i j a i	2587
+4175	Chamorro	Two	hugua	h u g u a	2588
+4176	Banoni	Two	toːm	t oː m	2742
+4177	Singhi	Two	duex	d u e x	704
+4178	Banggi	Two	dua	d u a	704
+#
+4179	Maloh	Three	talu	t a l u	480
+4180	Merina (Malagasy)	Three	télo	t é l o	480
+4181	Thao	Three	turu	t u r u	480
+4182	Palauan	Three	odéi	o d é i	-480
+4183	Tunjung	Three	təlu	t ə l u	480
+4184	Bare'e	Three	togo	t o g o	480
+4185	Iban	Three	tiga	t i g a	66
+4186	Berawan (Long Terawan)	Three	təloh	t ə l o h	480
+4187	Moken	Three	təloj	t ə l o j	480
+4188	Hanunoo	Three	tulu	t u l u	480
+4189	Wuna	Three	tolu	t o l u	480
+4190	Tetum	Three	tolːu	t o lː u	480
+4191	Mailu	Three	aiseri	a i s e r i	2097
+4192	Tsou	Three	tueu	t u e u	480
+4193	Nias	Three	tõlu	t õ l u	480
+4194	Central Amis	Three	tulu	t u l u	480
+4195	Chamorro	Three	tolgijai	t o l g i j a i	480
+4196	Chamorro	Three	tulo	t u l o	480
+4197	Banoni	Three	dapisa	d a p i s a	707
+4198	Singhi	Three	tarux	t a r u x	480
+4199	Banggi	Three	taolu	t a o l u	480
+#
+4200	Maloh	Four	ampat	a m p a t	358
+4201	Merina (Malagasy)	Four	éfatra	é f a t r a	358
+4202	Thao	Four	pat	p a t	358
+4203	Palauan	Four	oaŋ	o a ŋ	-358
+4204	Tunjung	Four	pat	p a t	358
+4205	Bare'e	Four	opo	o p o	358
+4206	Bare'e	Four	pata	p a t a	358
+4207	Iban	Four	ampat	a m p a t	358
+4208	Iban	Four	empat	e m p a t	358
+4209	Berawan (Long Terawan)	Four	paʔ	p a ʔ	358
+4210	Moken	Four	paːt	p aː t	358
+4211	Hanunoo	Four	upat	u p a t	358
+4212	Wuna	Four	paʔ	p a ʔ	358
+4213	Mailu	Four	tourai	t o u r a i	2098
+4214	Tsou	Four	sʉptʉ	s ʉ p t ʉ	358
+4215	Nias	Four	õfa	õ f a	358
+4216	Central Amis	Four	sepat	s e p a t	358
+4217	Central Amis	Four	spat	s p a t	358
+4218	Chamorro	Four	farfatai	f a r f a t a i	2589
+4219	Chamorro	Four	fatfat	f a t f a t	2590
+4220	Banoni	Four	toatsi	t o a t s i	358
+4221	Singhi	Four	pat	p a t	358
+4222	Banggi	Four	afad	a f a d	358
+#
+4223	Merina (Malagasy)	Five	dimj	d i m j	134
+4224	Thao	Five	riːmaʔ	r iː m a ʔ	134
+4225	Thao	Five	hrima	h r i m a	134
+4226	Palauan	Five	kleim	k l e i m	134
+4227	Tunjung	Five	limaq	l i m a q	134
+4228	Bare'e	Five	alima	a l i m a	134
+4229	Iban	Five	limaʔ	l i m a ʔ	134
+4230	Berawan (Long Terawan)	Five	dimːah	d i mː a h	134
+4231	Moken	Five	lemaʔ	l e m a ʔ	134
+4232	Hanunoo	Five	lima	l i m a	134
+4233	Tetum	Five	lima	l i m a	134
+4234	Tsou	Five	eimo	e i m o	134
+4235	Tsou	Five	rimo	r i m o	134
+4236	Nias	Five	lima	l i m a	134
+4237	Central Amis	Five	lima	l i m a	134
+4238	Central Amis	Five	lima	l i m a	134
+4239	Chamorro	Five	lima	l i m a	134
+#
+4240	Merina (Malagasy)	Six	enina	e n i n a	172
+4241	Thao	Six	sturu	s t u r u	393
+4242	Thao	Six	katuːruʔ	k a t uː r u ʔ	393
+4243	Palauan	Six	klolem	k l o l e m	1392
+4244	Tunjung	Six	hagant	h a g a n t	1477
+4245	Bare'e	Six	ono	o n o	172
+4246	Iban	Six	enam	e n a m	172
+4247	Berawan (Long Terawan)	Six	enum	e n u m	172
+4248	Moken	Six	nam	n a m	172
+4249	Hanunoo	Six	ʔunum	ʔ u n u m	172
+4250	Tetum	Six	neːn	n eː n	1927
+4251	Tsou	Six	nomu	n o m u	172
+4252	Tsou	Six	nauma	n a u m a	172
+4253	Tsou	Six	nomə	n o m ə	172
+4254	Nias	Six	õnõ	õ n õ	2333
+4255	Central Amis	Six	qenem	q e n e m	172
+4256	Chamorro	Six	gunum	g u n u m	-172
+4257	Chamorro	Six	gonmijai	g o n m i j a i	2591
+#
+4258	Merina (Malagasy)	Seven	fito	f i t o	784
+4259	Thao	Seven	piːtuʔ	p iː t u ʔ	784
+4260	Thao	Seven	pitu	p i t u	784
+4261	Palauan	Seven	klewid	k l e w i d	1393
+4262	Tunjung	Seven	tucuq	t u c u q	1478
+4263	Bare'e	Seven	papitu	p a p i t u	784
+4264	Berawan (Long Terawan)	Seven	tusu	t u s u	691
+4265	Moken	Seven	lujuːk	l u j uː k	691
+4266	Hanunoo	Seven	pitu	p i t u	784
+4267	Tetum	Seven	hitu	h i t u	784
+4268	Tsou	Seven	pitu	p i t u	784
+4269	Tsou	Seven	pitu	p i t u	784
+4270	Nias	Seven	fitu	f i t u	784
+4271	Central Amis	Seven	pitu	p i t u	784
+4272	Central Amis	Seven	pito	p i t o	784
+4273	Chamorro	Seven	fito	f i t o	784
+4274	Chamorro	Seven	fetguijai	f e t g u i j a i	784
+#
+4275	Merina (Malagasy)	Eight	valo	v a l o	105
+4276	Thao	Eight	kaspat	k a s p a t	821
+4277	Palauan	Eight	kleiai	k l e i a i	1394
+4278	Tunjung	Eight	kaluŋk	k a l u ŋ k	1479
+4279	Bare'e	Eight	uaju	u a j u	1551
+4280	Iban	Eight	lapan	l a p a n	68
+4281	Berawan (Long Terawan)	Eight	mareh	m a r e h	1697
+4282	Moken	Eight	waloj	w a l o j	105
+4283	Hanunoo	Eight	walu	w a l u	105
+4284	Tetum	Eight	ualu	u a l u	1928
+4285	Tsou	Eight	voeu	v o e u	105
+4286	Tsou	Eight	woru	w o r u	105
+4287	Tsou	Eight	mevarou	m e v a r o u	105
+4288	Central Amis	Eight	falu	f a l u	105
+4289	Central Amis	Eight	falo	f a l o	105
+4290	Chamorro	Eight	gualo	g u a l o	2592
+4291	Chamorro	Eight	gualguijai	g u a l g u i j a i	2593
+#
+4292	Merina (Malagasy)	Nine	sivj	s i v j	339
+4293	Thao	Nine	tamaso	t a m a s o	695
+4294	Palauan	Nine	klteiu	k l t e i u	1395
+4295	Tunjung	Nine	tiant	t i a n t	1480
+4296	Bare'e	Nine	sasio	s a s i o	1552
+4297	Iban	Nine	semilan	s e m i l a n	1627
+4298	Berawan (Long Terawan)	Nine	gelpej	g e l p e j	1698
+4299	Moken	Nine	sewaːj	s e w aː j	339
+4300	Hanunoo	Nine	sijam	s i j a m	461
+4301	Tetum	Nine	sia	s i a	1929
+4302	Tsou	Nine	sio	s i o	339
+4303	Tsou	Nine	sijo	s i j o	339
+4304	Tsou	Nine	cʰuga	cʰ u g a	2225
+4305	Central Amis	Nine	siwa	s i w a	339
+4306	Central Amis	Nine	siwa	s i w a	339
+4307	Chamorro	Nine	sigua	s i g u a	2594
+4308	Chamorro	Nine	siguijai	s i g u i j a i	2595
+#
+4309	Merina (Malagasy)	Ten	folo	f o l o	37
+4310	Thao	Ten	maksin	m a k s i n	-8
+4311	Palauan	Ten	truiːcʰ	t r u iː cʰ	1396
+4312	Tunjung	Ten	sawaːkŋ	s a w aː k ŋ	1481
+4313	Bare'e	Ten	sampuju	s a m p u j u	1553
+4314	Iban	Ten	sapuloh	s a p u l o h	1628
+4315	Berawan (Long Terawan)	Ten	pulo	p u l o	37
+4316	Moken	Ten	cəpoh	c ə p o h	37
+4317	Hanunoo	Ten	sampulu	s a m p u l u	37
+4318	Tetum	Ten	sanulu	s a n u l u	37
+4319	Tsou	Ten	matl	m a t l	8
+4320	Tsou	Ten	masːok	m a sː o k	8
+4321	Tsou	Ten	maskə	m a s k ə	8
+4322	Tsou	Ten	maskə	m a s k ə	8
+4323	Tsou	Ten	masːok	m a sː o k	8
+4324	Tsou	Ten	matl	m a t l	-8
+4325	Central Amis	Ten	polo	p o l o	37
+4326	Chamorro	Ten	fulu	f u l u	2596
+4327	Chamorro	Ten	manutai	m a n u t a i	2597
+#
+4328	Palauan	Twenty	luiːcʰ	l u iː cʰ	1397
+4329	Bare'e	Twenty	radua#mpuju	r a d u a # m p u j u	1554
+4330	Iban	Twenty	dua#puloh	d u a # p u l o h	1629
+4331	Berawan (Long Terawan)	Twenty	lebih#pulo	l e b i h # p u l o	1699
+4332	Tetum	Twenty	ruanulu	r u a n u l u	1930
+4333	Tsou	Twenty	mpusku	m p u s k u	399
+4334	Chamorro	Twenty	huguijai#na#fulu	h u g u i j a i # n a # f u l u	2598
+#
+4335	Palauan	Fifty	okejim	o k e j i m	1398
+4336	Bare'e	Fifty	alima#mpuju	a l i m a # m p u j u	1555
+4337	Iban	Fifty	limaʔ#puluh	l i m a ʔ # p u l u h	1630
+4338	Berawan (Long Terawan)	Fifty	dimah#pulo	d i m a h # p u l o	1700
+4339	Tetum	Fifty	limanulu	l i m a n u l u	1931
+4340	Chamorro	Fifty	limijai#na#fulu	l i m i j a i # n a # f u l u	2599
+#
+4341	Thao	One Hundred	mamavaŋatə	m a m a v a ŋ a t ə	1252
+4342	Palauan	One Hundred	dart	d a r t	1399
+4343	Tunjung	One Hundred	cehatu	c e h a t u	1482
+4344	Iban	One Hundred	seratus	s e r a t u s	804
+4345	Berawan (Long Terawan)	One Hundred	acih#gitoh	a c i h # g i t o h	804
+4346	Hanunoo	One Hundred	ʔusa#ka#gatus	ʔ u s a # k a # g a t u s	804
+4347	Tetum	One Hundred	atus#ida	a t u s # i d a	1932
+4348	Tsou	One Hundred	seʔconija	s e ʔ c o n i j a	2226
+4349	Chamorro	One Hundred	gatos	g a t o s	804
+4350	Chamorro	One Hundred	gatus	g a t u s	804
+#
+4351	Palauan	One Thousand	ta#el#telael	t a # e l # t e l a e l	1400
+4352	Tunjung	One Thousand	seribuq	s e r i b u q	1483
+4353	Iban	One Thousand	seribu	s e r i b u	683
+4354	Berawan (Long Terawan)	One Thousand	acih#gikoh	a c i h # g i k o h	1701
+4355	Hanunoo	One Thousand	ʔusa#ka#libu	ʔ u s a # k a # l i b u	683
+4356	Tetum	One Thousand	rihun	r i h u n	1933
+4357	Central Amis	One Thousand	cacaj#patek	c a c a j # p a t e k	2514
+4358	Chamorro	One Thousand	cʰalan	cʰ a l a n	2600
+# Created using LingPy-2.1 (http://www.lingpy.org)
