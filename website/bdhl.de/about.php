@@ -109,10 +109,30 @@ are easy to parse and easy to convert to different formats.
 If you have further questions regarding the data, please visit our <a href="faq.php">FAQ page</a>. In case these questions still remain unanswered, you will find information on how to contact us on the <a href="contact.php">contact page</a>.
 If you want to download the data directly, please visit our <a href="download.php">download page</a>. 
 
+<br><br>
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> November 22, 2013</td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td></td>
+</tr>
+</table>
+
+
  </div>
  </div>
  <div id="footer">
- <p>Last updated on Nov. 20, 2013, 17:33 CET</p>
+ <p>Last updated on Nov. 22, 2013, 13:42 CET</p>
  <p>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</p><br>
 <p>

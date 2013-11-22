@@ -17,3 +17,23 @@ The resources have been taken from many different sources and were edited by our
 are easy to parse and easy to convert to different formats.
 If you have further questions regarding the data, please visit our <a href="faq.php">FAQ page</a>. In case these questions still remain unanswered, you will find information on how to contact us on the <a href="contact.php">contact page</a>.
 If you want to download the data directly, please visit our <a href="download.php">download page</a>. 
+
+<br><br>
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> November 22, 2013</td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Author:</b></td>
+  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td></td>
+</tr>
+</table>
+
