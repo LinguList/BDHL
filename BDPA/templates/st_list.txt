@@ -799,6 +799,7 @@ bul	Bulgarian
 ces	Czech
 rus	Russian
 pol	Polish
+srb	Serbian
 Hachijoo	Hachijō
 Koochi	Kōchi
 asparuhovo,_lom	Asparuhovo (lom)
