@@ -174,13 +174,13 @@ set of 20 cognate sets with slightly modified IPA transcriptions.
 <br>
 <h3><a style="color:black" name="Slavic">Slavic</a></h3>
 <br>
-This is but a small collection of 20 cognate sets distributed over 4 Slavic languages. The cognate sets were selected by consulting <a href="http://lingulist.de/evobib/evobib.php?key=Derksen2008">Derksen (2008)</a>. The phonetic transcriptions for the language varieties were taken from standard resources on the languages.
+This is but a small collection of 20 cognate sets distributed over 5 Slavic languages. The cognate sets were selected by consulting <a href="http://lingulist.de/evobib/evobib.php?key=Derksen2008">Derksen (2008)</a>. The phonetic transcriptions for the language varieties were taken from standard resources on the languages.
 <br><br>
 <ul>
 <li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?key=Derksen2008">Derksen (2008)</a></li>
 <li><b>Compiled by:</b> Jelena Prokić and Johann-Mattis List</li>
 <li><b>Aligned by:</b> Johann-Mattis List and Jelena Prokić</li>
-<li><b>Download:</b> <a href="data/Sinitic.zip">Sinitic.zip</a></li>
+<li><b>Download:</b> <a href="data/Slavic.zip">Slavic.zip</a></li>
 <!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
