@@ -37,7 +37,7 @@ in the table below.
 <tr>
 <td>GLOBAL</td>
 <td>7126 Sequences</td>
-<td>Dataset was automatically extracted from our masterset of multiple alignments by selecting the most diverse sequence pairs of all multiple alignments. Parts of this dataset were used in order to test the performance of the SCA alignment algorithm (<a href="http://lingulist.de/evobib/evobib.php?key=List2012b">List 2012</a>).</td>
+<td>Dataset was automatically extracted from our masterset of multiple alignments by selecting the most diverse sequence pairs of all multiple alignments. Parts of this dataset were used in order to test the performance of the SCA alignment algorithm (<a href="http://lingulist.de/evobib/evobib.php?key=List2012a">List 2012</a>).</td>
 <td><input type="hidden" value="global" name="select" />
 <input type="submit" value="BROWSE" /></td></tr></form>
 
