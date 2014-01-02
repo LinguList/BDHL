@@ -730,6 +730,7 @@ var taxa = [
     "Prahins",
     "Proto-Germanic",
     "Proto-Slavic",
+    "Serbian",
     "Puno",
     "Qiliqiao",
     "Qingdao",
