@@ -1,0 +1,48 @@
+GermDial (ref_25, 17)
+over
+ame_std	-	ʌʊ	v	ɚ	-
+can_std	-	oʊ	v	-	ɹ
+cgr_col	ʔ	ʏ	v	ɒ	-
+cgr_hon	ʔ	i	β	ə	r
+cgr_lux	ʔ	i	v	a	-
+cgr_mur	ʔ	iː	b	ə	ʁ
+dan_std	ʔ	ɔ	w	ɔ	-
+dut_ant	-	oː	f	ə	ɾ
+dut_bel	-	oː	β	-	r
+dut_lim	-	ø	β	ə	χ
+dut_ost	-	oː	v	-	r̩
+dut_std	-	oʊ	v	ə	ɹ
+eng_auc	-	ɜʉ	v	ə	-
+eng_buc	-	ɐuɐ	-	-	ɾ
+eng_del	-	o	v	ɜ	-
+eng_igb	-	o	v	ə	-
+eng_joh	-	əʊ	v	ɛ	-
+eng_lin	-	ɔuɐ	-	-	ʁ
+eng_liv	-	ɛʉ	v	ə	-
+eng_lon	-	ʌʊ	v	ə	-
+eng_nca	-	ɜo	v	-	ɹ
+eng_per	-	ɜʉ	v	ɜ	-
+eng_sin	-	oʊ	v	ɜ	-
+eng_std	-	əʊ	v	ə	-
+eng_tyr	-	o	v	ɚ	-
+far_std	-	iː	v	ə	ɹ
+grm_std	ʔ	yː	b	ɐ	-
+hgr_als	ʔ	e	β	ə	χ
+hgr_bie	-	ʏ	p	ə	ɾ
+hgr_bod	-	ʏ	b	ə	ʁ
+hgr_gra	-	ʏ	b	-	r
+hgr_her	ʔ	e	β	ə	χ
+hgr_ort	ʔ	yː	b	ə	χ
+hgr_tue	ʔ	yː	b	ɔ	-
+hgr_wal	ʔ	o	b	ə	r
+ice_std	-	eː	v	ɪ	s
+lgr_ach	-	ɔː	β	-	ʁ
+lgr_bar	ʔ	øː	b	ɐ	-
+nor_sta	-	øː	v	ə	-
+sco_std	-	o	v	ə	ɹ
+swe_ska	-	œː	v	-	ʁ
+swe_sto	-	œː	v	ə	-
+wfr_gro	-	o	w	-	r
+yid_nyo	ʔ	i	b	ɛ	ɾ
+LOCAL..		*	*	*	*
+SWAPS..					

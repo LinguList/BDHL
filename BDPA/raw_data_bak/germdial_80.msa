@@ -1,0 +1,48 @@
+GermDial (ref_25, 19)
+white
+ame_std	-	w	ai	tʰ	-	-
+can_std	-	w	ʌɪ	t	-	-
+cgr_col	-	β	iː	s	-	-
+cgr_hon	-	v	ei	s	-	-
+cgr_lux	-	v	æi	s	-	-
+cgr_mur	-	β	ɛi	s	-	-
+dan_std	-	v	ɪ	lˀ	-	-
+dut_ant	-	β	i	t	-	-
+dut_bel	-	β	ɪ	t	-	-
+dut_lim	-	β	ɪə	t	-	-
+dut_ost	-	β	ɛ	t	-	-
+dut_std	-	v	ɪ	t	-	-
+eng_auc	-	w	ɑɪ	tˀ	-	-
+eng_buc	-	f	ɐi	tʰ	-	-
+eng_del	-	w	ɐɪ	t	-	-
+eng_igb	-	w	aɪ	t	-	-
+eng_joh	-	w	aɛ	tʰ	-	-
+eng_lin	-	ʍ	ɛi	t	-	-
+eng_liv	-	w	aɪ	θ	-	-
+eng_lon	-	w	ɑɪ	ʔ	-	-
+eng_nca	-	w	aɪ	t	-	-
+eng_per	-	w	ɑɪ	t	-	-
+eng_sin	-	w	ɐɪ	t	-	-
+eng_std	-	w	aɪ	tʰ	-	-
+eng_tyr	ı	ʍ	ɜıi	t	ı	-
+far_std	kʰ	v	ʊi	t	ʌ	ɹ
+grm_std	-	v	aɪ	s	-	-
+hgr_als	-	v	i	s	-	-
+hgr_bie	-	β	iː	s	-	-
+hgr_bod	-	v	iː	s	-	-
+hgr_gra	-	β	iː	s	-	-
+hgr_her	-	v	i	s	-	-
+hgr_ort	-	β	aɪ	s	-	-
+hgr_tue	-	β	ɛi	s	-	-
+hgr_wal	-	β	iː	s	-	-
+ice_std	kʰ	v	iː	t	-	-
+lgr_ach	-	β	ɪ	t	-	-
+lgr_bar	-	v	ɪ	t	-	-
+nor_sta	kʰ	v	iː	t	-	-
+sco_std	-	ʍ	ɐi	tʰ	-	-
+swe_ska	-	v	ɪi	tʰ	-	-
+swe_sto	-	v	i	tː	-	-
+wfr_gro	-	β	i	t	-	-
+yid_nyo	-	v	aɪ	s	-	-
+LOCAL..		*	*	*		
+SWAPS..						

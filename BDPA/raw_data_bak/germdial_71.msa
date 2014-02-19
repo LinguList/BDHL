@@ -1,0 +1,48 @@
+GermDial (ref_75, 57)
+drink!
+ame_std	d	ɻ	ɪ	ŋ	kʰ	-
+can_std	d	ɹ	ɪ	ŋ	k	-
+cgr_col	d	ʁ	ɪ	ŋ	k	-
+cgr_hon	d	ɾ	aɪ	ŋ	kʰ	-
+cgr_lux	d	ʀ	ɪ	ŋ	k	-
+cgr_mur	d	ʁ	ɪ	ŋ	k	-
+dan_std	d	ʁ	ɛ	-	kʰ	-
+dut_ant	d	ɾ	ɪ	ŋ	k	-
+dut_bel	d	r	ɪ	ŋ	k	-
+dut_lim	d	ʁ	ɪ	ŋ	k	-
+dut_ost	d	ɾ	ɪ	ŋ	k	-
+dut_std	d	ʁ	ɪ	ŋ	k	-
+eng_auc	ʣ	ɹ	ɪ	ŋ	k	-
+eng_buc	d	ɹ	æ	ŋ	kʰ	-
+eng_del	d	z	ɪ	ŋ	k	-
+eng_igb	d	ɹ	ɪ	ŋ	k	-
+eng_joh	d	ɹ	ɪ	ŋ	kʰ	-
+eng_lin	d	ʁ	ɪ	ŋ	k	-
+eng_liv	d͡ð	ɾ	ɪ	ŋ	k	-
+eng_lon	d	ɹ	ɪ	ŋ	k	-
+eng_nca	d	ɹ	ɪ	ŋ	k	-
+eng_per	ʣ	ɹ	ɪ	ŋ	k	-
+eng_sin	d	ɹ	ɪ	ŋ	k	-
+eng_std	d	ɹ	ɪ	ŋ	kʰ	-
+eng_tyr	d	ɾ	ɪ	ŋ	c	-
+far_std	d	ɾ	ɛ	-	kːʰ	-
+grm_std	tʰ	ʁ	ɪ	ŋ	k	-
+hgr_als	t	ʁ	ɪ	ŋ	k	-
+hgr_bie	d	r	ɪ	ŋ	k͡χ	-
+hgr_bod	d	ʁ	ɪ	n	k	-
+hgr_gra	d	ɾ	ɪ	ŋ	kʰ	-
+hgr_her	t	ʁ	ɪ	ŋ	k	-
+hgr_ort	t	ʁ	ɪ	ŋ	k	-
+hgr_tue	d	ʁ	ɪ	ŋ	k	-
+hgr_wal	d	r	ɪ	ŋ	k	-
+ice_std	d	ɾ	ɛ	-	kʰ	a
+lgr_ach	d	ʁ	ɪ	ŋ	k	-
+lgr_bar	d	ʁ	ɪ	ŋ	k	-
+nor_sta	d	ʁ	ɪ	-	kːʰ	-
+sco_std	d	ɹ	ɪ	ŋ	kʰ	-
+swe_ska	d	ʁ	ɪ	-	kʰ	-
+swe_sto	d	ɾ	ɪ	-	kː	-
+wfr_gro	d	ɾ	ɪ	ŋ	k	-
+yid_nyo	tʰ	ʁ	ɪ	ŋ	k	-
+LOCAL..	*	*	*	*	*
+SWAPS..						

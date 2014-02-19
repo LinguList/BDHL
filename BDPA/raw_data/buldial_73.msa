@@ -1,208 +1,207 @@
-BulDial (ref_75, 64)
+BulDial
 73
-aldomirovci,_slivnica...	k	-	r̩	-	v
-asparuhovo,_lom.........	k	-	r	ɤ	f
-asparuhovo,_lom_2.......	k	-	r̩	-	f
-asparuhovo,_prov........	k	-	r	ɤ	ʋ
-babjak,_razl............	k	-	r	ɤ	f
-bachkovo,_asgr..........	k	ɑ	r	-	f
-bagrenci,_kjust.........	k	-	r̩	-	f
-balgari,_carev..........	k	-	r	ɤ	f
-banishte,_brezn.........	k	-	r̩	-	v
-bansko,_razl............	k	-	r	ɤ	f
-beglezh,_luk............	k	-	r	ɤ	f
-belene,_svisht..........	k	-	r	ɤ	ʋ
-belica,_razl............	k	-	r	ɤ	f
-bistrica,_blgr..........	k	-	r̩	-	f
-bogdanov_dol,_pern......	k	-	r̩	-	f
-bogdanov_dol,_pern_2....	k	-	r	ɤ	f
-borisovo,_elh...........	k	-	r	ɤ	f
-bov,_svog...............	k	-	r̩	-	f
-brashljan,_mtarn........	k	-	r	ɤ	f
-buchin_prohod,_god......	k	-	r̩	-	f
-caparevo,_sand..........	k	-	r	ɤ	f
-cerovica,_kjust.........	k	-	r	ɤ	f
-chepelare,_asgr.........	k	ɔ	r	-	f
-chernogorovo,_paz.......	k	-	r	ɤ	f
-chernomorec,_bs.........	k	-	r	ɤ	ɸ
-chukovec,_radom.........	k	-	r̩	-	f
-dermanci,_luk...........	k	-	r	ɤ	f
-devenci,_luk............	k	-	r	ɤ	f
-devesilica,_krgr........	k	o	r	-	f
-dichin,_vtarn...........	k	-	r	ɤ	f
-dinevo,_hask............	k	-	r	ɤ	f
-diva_slatina,_mont......	k	-	r̩	-	f
-divdjadovo,_shum........	k	-	r	ɤ	ʋ
-dobarsko,_razl..........	k	-	r	ɤ	f
-dobroselec,_topgr.......	k	-	r	ɤ	f
-dobroslavci,_sof........	k	-	r̩	-	f
-dobrotino,_gd...........	k	-	r	ɤ	f
-dolna_beshovica,_vrach..	k	-	r̩	-	f
-dolna_dikanja,_radom....	k	-	r̩	-	f
-dolna_dikanja,_radom_2..	k	-	r	ɤ	f
-dolna_melna,_tran.......	k	-	r̩	-	v
-dolna_riksa,_mont.......	k	-	r	ɤ	f
-dolna_srudena,_bel......	k	-	r	ɤ	f
-dolni_bogrov,_sof.......	k	-	r	ɤ	f
-dolno_levski,_pan.......	k	-	r̩	-	f
-dorkovo,_velgr..........	k	ɑ	r	-	fʲ
-drabishna,_ivgr.........	k	-	r	ɤ	fʲ
-dragizhevo,_vtarn.......	k	-	r	ɤ	f
-dragodanovo,_sliv.......	k	-	r	ɤ	f
-dragoevo,_presl.........	k	-	r	ɤ	f
-dragojchinci,_kjust.....	k	-	r̩	-	v
-elov_dol,_pk............	k	-	r̩	-	f
-enina,_kaz..............	k	-	r	ɤ	f
-ezerovo,_parvom.........	k	-	r	ɤ	fʲ
-furen,_vrach............	k	-	r̩	-	f
-gabare,_bslat...........	k	-	r̩	-	f
-gabra,_elpel............	k	-	r	ɤ	f
-galata,_tetev...........	k	-	r	ɤ	f
-ganchovec,_drjan........	k	-	r	ɤ	f
-garmen,_gd..............	k	ɤ	r	-	fʲ
-garvan,_sil.............	k	-	r	ɤ	ʋ
-gega,_petr..............	k	-	r	ɤ	f
-glozhene,_orjah.........	k	-	r̩	-	f
-glozhene,_orjah_2.......	k	-	r	ɤ	f
-golema_rakovica,_elpel..	k	ɤ	r	-	f
-golemo_malovo,_sliven...	k	-	r̩	-	v
-golica,_varn............	k	-	r	a	f
-goljama_zheljazna,_tetev	k	-	r	a	f
-goljamo_shivachevo,_sliv	k	-	r	ɤ	f
-gorna_rosica,_sevl......	k	-	r	ɤ	f
-gorni_varpishta,_drjan..	k	-	r	ɤ	f
-govedarci,_sam..........	k	-	r	ɤ	f
-gradec,_vd..............	k	-	r̩	-	f
-huhla,_ivgr.............	k	-	r	ɤ	f
-hvojna,_asgr............	k	ɤ	r	-	f
-indzhe_vojvoda,_mtarn...	k	-	r	ɤ	fʲ
-ivanski,_shum...........	k	-	r	ɤ	ʋ
-izvorovo,_harm..........	k	-	r	ɤ	f
-javorovo,_asgr..........	k	ɤ	r	-	f
-kalipetrovo,_sil........	k	-	r	ɤ	ʋ
-kalojanovo,_plov........	k	-	r	ɤ	ʋ
-karaisen,_pavl..........	k	-	r	ɤ	ʋ
-karanovo,_ajt...........	k	-	r	ɤ	f
-kaspichan,_np...........	k	-	r	ɤ	ʋ
-kolju_marinovo,_chirp...	k	-	r	ɤ	f
-konska,_brezn...........	k	-	r̩	-	v
-kopilovci,_mont.........	k	-	r̩	-	f
-koprivshtica,_pird......	k	-	r	ɤ	f
-korten,_nzag............	k	-	r	ɤ	ɸ
-kostenec,_iht...........	k	-	r	ɤ	f
-kovachevci,_sam.........	k	-	r̩	-	f
-kozichino,_pom..........	k	-	r	a	h
-kramolin,_sevl..........	k	-	r	ɤ	ʋ
-kravenik,_sevl..........	k	-	r	ɤ	f
-kreta,_vrach............	k	-	r	ɤ	f
-krivnja,_razgr..........	k	-	r	ɤ	ʋ
-levunovo,_sand..........	k	-	r	ɤ	f
-liljache,_vr............	k	-	r	ɤ	f
-lipnica,_botgr..........	k	-	r̩	-	f
-ljubenova_mahala,_nzag..	k	-	r	ɤ	f
-lobosh,_rad.............	k	-	r̩	-	f
-lozen,_sof..............	k	-	r	ɤ	f
-malomirovo,_elh.........	k	-	r	ɤ	f
-marchaevo,_sof..........	k	-	r̩	-	f
-marikostinovo,_petr.....	k	-	r	ɤ	f
-markovo,_shum...........	k	-	r	ɤ	ʋ
-merdanja,_vtarn.........	k	-	r	ɤ	f
-merichleri,_chirp.......	k	-	r	ɤ	f
-mihalci,_pavl...........	k	-	r	ɤ	f
-milchina_laka,_kul......	k	-	r̩	-	f
-momchilovci,_smol.......	k	ɔ	r	-	fʲ
-momina_banja,_pl........	k	-	r	ɤ	f
-momina_klisura,_pz......	k	-	r	ɤ	f
-momkovo,_svgr...........	k	-	r	ɤ	f
-mugla,_dev..............	k	ɑ	r	-	f
-nikolovo(lipnik),_rus...	k	-	r	ɤ	ʋ
-nikolovo,_hask..........	k	-	r	ɤ	f
-noevci,_brezn...........	k	-	r	ɤ	v
-noevci,_brezn_2.........	k	-	r̩	-	v
-nova_lovcha,_gd.........	k	ɤ	r	-	fʲ
-nova_nadezhda,_hs.......	k	-	r	ɤ	ɸ
-novo_selo,_trojan.......	k	-	r	ɤ	f
-ognen,_karn.............	k	-	r	ɤ	f
-omarchevo,_nzag.........	k	-	r	ɤ	f
-opan,_stzag.............	k	-	r	ɤ	f
-osenec,_razgr...........	k	-	r	ɤ	ʋ
-panagjurishte,_gd.......	k	ɤ	r	-	f
-paskalevec,_pavl........	k	-	r	ɤ	f
-pavelsko,_asgr..........	k	ɤ	r	-	f
-pelatikovo,_kjust.......	k	-	r̩	-	f
-petarnica,_plev.........	k	-	r	ɤ	f
-pevec,_targ.............	k	-	r	ɤ	f
-plakovo,_vt.............	k	-	r	ɤ	f
-podvis,_karn............	k	-	r	ɤ	ʋ
-pozharevo,_tutr.........	k	-	r	ɤ	f
-rabisha,_belgr..........	k	-	r̩	-	f
-radovene,_vr............	k	-	r	ɤ	f
-rakevo,_vr..............	k	-	r̩	-	f
-rakevo,_vr_2............	k	-	r	ɤ	f
-rakovica,_kul...........	k	-	r̩	-	f
-rani_lug,_tryn..........	k	-	r̩	-	v
-razboishte,_god.........	k	-	r̩	-	f
-razboishte,_god_2.......	k	-	r̩	-	v
-ruzhinci,_belgr.........	k	-	r̩	-	f
-ruzhinci,_belgr_2.......	k	-	r	ɤ	f
-sadina,_pop.............	k	-	r	ɤ	ʋ
-saparevo,_dup...........	k	-	r	ɤ	f
-sekirovo,_plov..........	k	-	r	ɤ	ʋ
-senokos,_blgr...........	k	-	r	ɤ	f
-sestrino,_petr..........	k	-	r	ɤ	f
-shipka,_kaz.............	k	-	r	ɤ	f
-shiroka_laka,_dev.......	k	ɔ	r	-	f
-shiroki_dol,_sam........	k	-	r	ɤ	f
-shiroki_dol,_sam_2......	k	-	r̩	-	f
-shtipsko,_prov..........	k	-	r	a	f
-skobelevo,_sliv.........	k	-	r	ɤ	ʋ
-slaveino,_smol..........	k	ɔ	r	-	f
-slavjanovo,_plev........	k	-	r	ɤ	f
-smochevo,_dupn..........	k	-	r̩	-	f
-smolsko,_pird...........	k	-	r̩	-	f
-solishta,_dev...........	k	ɔ	r	-	f
-sredec,_zlgr............	k	ɤ	r	-	f
-stakevci,_blgr..........	k	-	r̩	-	v
-stambolovo,_hask........	k	-	r	ɤ	fʲ
-starmen,_bel............	k	-	r	ɤ	f
-stoilovo,_mt............	k	-	r	ɤ	f
-straldzha,_jamb.........	k	-	r	ɤ	f
-stroevo,_plov...........	k	-	r	ɤ	f
-suhindol,_vtarn.........	k	-	r	ɤ	f
-sushica,_blgr...........	k	-	r	ɤ	f
-svetlina,_topgr.........	k	-	r	ɤ	f
-svirkovo,_harm..........	k	-	r	ɤ	fʲ
-tihomir,_krgr...........	k	ɔ	r	-	f
-tihomirovo,_stzag.......	k	-	r	ɤ	f
-topolchane,_sliv........	k	-	r	ɤ	f
-trancovica,_nik.........	k	-	r	ɤ	ʋ
-ustovo,_sm..............	k	ɔ	r	-	f
-vabel,_nik..............	k	-	r	ɤ	ʋ
-vaklinovo,_gd...........	k	ɤ	r	-	f
-valche_pole,_svgr.......	k	-	r	ɤ	fʲ
-varbica,_presl..........	k	-	r	ɤ	f
-varbovo,_blgr...........	k	-	r̩	-	v
-vardun,_targ............	k	-	r	ɤ	f
-varvara,_paz............	k	-	r	ɤ	f
-vasiljovo,_tetev........	k	-	r̩	-	f
-velkovci,_pk............	k	-	r̩	-	v
-vinishte,_mont..........	k	-	r̩	-	f
-vladinja,_lov...........	k	-	r	ɤ	f
-voden,_elh..............	k	-	r	ɤ	f
-vojnjagovo,_karl........	k	-	r	ɤ	f
-vrachesh,_botgr.........	k	-	r̩	-	f
-vranilovci,_gabr........	k	-	r	ɤ	f
-vresovo,_ajt............	k	-	r	ɤ	f
-zabardo,_asgr...........	k	ɔ	r	-	f
-zabernovo,_mt...........	k	-	r	ɤ	f
-zamfirovo,_berk.........	k	-	r̩	-	f
-zanozhene,_berk.........	k	-	r̩	-	f
-zdravkovec,_gabr........	k	-	r	ɤ	f
-zelenigrad,_tran........	k	-	r̩	-	v
-zhaltusha,_ard..........	k	ɑ	r	-	f
-zheglica,_vid...........	k	-	r̩	-	f
-zhelen,_svog............	k	-	r	ɤ	f
-zheljazkovo,_sred.......	k	-	r	ɤ	f
-zheravna,_kot...........	k	-	r	ɤ	f
-LOCAL...................	*		*	*	*
-SWAPS...................		+	-	+	
+Aldomirovci (slivnica)...	ˈk	-	r̩	-	v
+Asparuhovo (lom).........	ˈk	-	r	ɤ	f
+Asparuhovo (lom).........	ˈk	-	r̩	-	f
+Asparuhovo (prov)........	ˈk	-	r	ɤ	ʋ
+Babjak (razl)............	ˈk	-	r	ɤ	f
+Bachkovo (asgr)..........	ˈk	ɑ	r	-	f
+Bagrenci (kjust).........	ˈk	-	r̩	-	f
+Balgari (carev)..........	ˈk	-	r	ɤ	f
+Banishte (brezn).........	ˈk	-	r̩	-	v
+Bansko (razl)............	ˈk	-	r	ɤ	f
+Beglezh (luk)............	ˈk	-	r	ɤ	f
+Belene (svisht)..........	ˈk	-	r	ɤ	ʋ
+Belica (razl)............	ˈk	-	r	ɤ	f
+Bistrica (blgr)..........	ˈk	-	r̩	-	f
+Bogdanov dol (pern)......	ˈk	-	r̩	-	f
+Bogdanov dol (pern)......	ˈk	-	r	ɤ	f
+Borisovo (elh)...........	ˈk	-	r	ɤ	f
+Bov (svog)...............	ˈk	-	r̩	-	f
+Brashljan (mtarn)........	ˈk	-	r	ɤ	f
+Buchin prohod (god)......	ˈk	-	r̩	-	f
+Caparevo (sand)..........	ˈk	-	r	ɤ	f
+Cerovica (kjust).........	ˈk	-	r	ɤ	f
+Chepelare (asgr).........	ˈk	ɔ	r	-	f
+Chernogorovo (paz).......	ˈk	-	r	ɤ	f
+Chernomorec (bs).........	ˈk	-	r	ɤ	ɸ
+Chukovec (radom).........	ˈk	-	r̩	-	f
+Dermanci (luk)...........	ˈk	-	r	ɤ	f
+Devenci (luk)............	ˈk	-	r	ɤ	f
+Devesilica (krgr)........	ˈk	o	r	-	f
+Dichin (vtarn)...........	ˈk	-	r	ɤ	f
+Dinevo (hask)............	ˈk	-	r	ɤ	f
+Diva slatina (mont)......	ˈk	-	r̩	-	f
+Divdjadovo (shum)........	ˈk	-	r	ɤ	ʋ
+Dobarsko (razl)..........	ˈk	-	r	ɤ	f
+Dobroselec (topgr).......	ˈk	-	r	ɤ	f
+Dobroslavci (sof)........	ˈk	-	r̩	-	f
+Dobrotino (gd)...........	ˈk	-	r	ɤ	f
+Dolna beshovica (vrach)..	ˈk	-	r̩	-	f
+Dolna dikanja (radom)....	ˈk	-	r̩	-	f
+Dolna dikanja (radom)....	ˈk	-	r	ɤ	f
+Dolna melna (tran).......	ˈk	-	r̩	-	v
+Dolna riksa (mont).......	ˈk	-	r	ɤ	f
+Dolna srudena (bel)......	ˈk	-	r	ɤ	f
+Dolni bogrov (sof).......	ˈk	-	r	ɤ	f
+Dolno levski (pan).......	ˈk	-	r̩	-	f
+Dorkovo (velgr)..........	ˈk	ɑ	r	-	fʲ
+Drabishna (ivgr).........	ˈk	-	r	ɤ	fʲ
+Dragizhevo (vtarn).......	ˈk	-	r	ɤ	f
+Dragodanovo (sliv).......	ˈk	-	r	ɤ	f
+Dragoevo (presl).........	ˈk	-	r	ɤ	f
+Dragojchinci (kjust).....	ˈk	-	r̩	-	v
+Elov dol (pk)............	ˈk	-	r̩	-	f
+Enina (kaz)..............	ˈk	-	r	ɤ	f
+Ezerovo (parvom).........	ˈk	-	r	ɤ	fʲ
+Furen (vrach)............	ˈk	-	r̩	-	f
+Gabare (bslat)...........	ˈk	-	r̩	-	f
+Gabra (elpel)............	ˈk	-	r	ɤ	f
+Galata (tetev)...........	ˈk	-	r	ɤ	f
+Ganchovec (drjan)........	ˈk	-	r	ɤ	f
+Garmen (gd)..............	ˈk	ɤ	r	-	fʲ
+Garvan (sil).............	ˈk	-	r	ɤ	ʋ
+Gega (petr)..............	ˈk	-	r	ɤ	f
+Glozhene (orjah).........	ˈk	-	r̩	-	f
+Glozhene (orjah).........	ˈk	-	r	ɤ	f
+Golema rakovica (elpel)..	ˈk	ɤ	r	-	f
+Golemo malovo (sliven)...	ˈk	-	r̩	-	v
+Golica (varn)............	ˈk	-	r	a	f
+Goljama zheljazna (tetev)	ˈk	-	r	a	f
+Goljamo shivachevo (sliv)	ˈk	-	r	ɤ	f
+Gorna rosica (sevl)......	ˈk	-	r	ɤ	f
+Gorni varpishta (drjan)..	ˈk	-	r	ɤ	f
+Govedarci (sam)..........	ˈk	-	r	ɤ	f
+Gradec (vd)..............	ˈk	-	r̩	-	f
+Huhla (ivgr).............	ˈk	-	r	ɤ	f
+Hvojna (asgr)............	ˈk	ɤ	r	-	f
+Indzhe vojvoda (mtarn)...	ˈk	-	r	ɤ	fʲ
+Ivanski (shum)...........	ˈk	-	r	ɤ	ʋ
+Izvorovo (harm)..........	ˈk	-	r	ɤ	f
+Javorovo (asgr)..........	ˈk	ɤ	r	-	f
+Kalipetrovo (sil)........	ˈk	-	r	ɤ	ʋ
+Kalojanovo (plov)........	ˈk	-	r	ɤ	ʋ
+Karaisen (pavl)..........	ˈk	-	r	ɤ	ʋ
+Karanovo (ajt)...........	ˈk	-	r	ɤ	f
+Kaspichan (np)...........	ˈk	-	r	ɤ	ʋ
+Kolju marinovo (chirp)...	ˈk	-	r	ɤ	f
+Konska (brezn)...........	ˈk	-	r̩	-	v
+Kopilovci (mont).........	ˈk	-	r̩	-	f
+Koprivshtica (pird)......	ˈk	-	r	ɤ	f
+Korten (nzag)............	ˈk	-	r	ɤ	ɸ
+Kostenec (iht)...........	ˈk	-	r	ɤ	f
+Kovachevci (sam).........	ˈk	-	r̩	-	f
+Kozichino (pom)..........	ˈk	-	r	a	h
+Kramolin (sevl)..........	ˈk	-	r	ɤ	ʋ
+Kravenik (sevl)..........	ˈk	-	r	ɤ	f
+Kreta (vrach)............	ˈk	-	r	ɤ	f
+Krivnja (razgr)..........	ˈk	-	r	ɤ	ʋ
+Levunovo (sand)..........	ˈk	-	r	ɤ	f
+Liljache (vr)............	ˈk	-	r	ɤ	f
+Lipnica (botgr)..........	ˈk	-	r̩	-	f
+Ljubenova mahala (nzag)..	ˈk	-	r	ɤ	f
+Lobosh (rad).............	ˈk	-	r̩	-	f
+Lozen (sof)..............	ˈk	-	r	ɤ	f
+Malomirovo (elh).........	ˈk	-	r	ɤ	f
+Marchaevo (sof)..........	ˈk	-	r̩	-	f
+Marikostinovo (petr).....	ˈk	-	r	ɤ	f
+Markovo (shum)...........	ˈk	-	r	ɤ	ʋ
+Merdanja (vtarn).........	ˈk	-	r	ɤ	f
+Merichleri (chirp).......	ˈk	-	r	ɤ	f
+Mihalci (pavl)...........	ˈk	-	r	ɤ	f
+Milchina laka (kul)......	ˈk	-	r̩	-	f
+Momchilovci (smol).......	ˈk	ɔ	r	-	fʲ
+Momina banja (pl)........	ˈk	-	r	ɤ	f
+Momina klisura (pz)......	ˈk	-	r	ɤ	f
+Momkovo (svgr)...........	ˈk	-	r	ɤ	f
+Mugla (dev)..............	ˈk	ɑ	r	-	f
+Nikolovo(lipnik) (rus)...	ˈk	-	r	ɤ	ʋ
+Nikolovo (hask)..........	ˈk	-	r	ɤ	f
+Noevci (brezn)...........	ˈk	-	r	ɤ	v
+Noevci (brezn)...........	ˈk	-	r̩	-	v
+Nova lovcha (gd).........	ˈk	ɤ	r	-	fʲ
+Nova nadezhda (hs).......	ˈk	-	r	ɤ	ɸ
+Novo selo (trojan).......	ˈk	-	r	ɤ	f
+Ognen (karn).............	ˈk	-	r	ɤ	f
+Omarchevo (nzag).........	ˈk	-	r	ɤ	f
+Opan (stzag).............	ˈk	-	r	ɤ	f
+Osenec (razgr)...........	ˈk	-	r	ɤ	ʋ
+Panagjurishte (gd).......	ˈk	ɤ	r	-	f
+Paskalevec (pavl)........	ˈk	-	r	ɤ	f
+Pavelsko (asgr)..........	ˈk	ɤ	r	-	f
+Pelatikovo (kjust).......	ˈk	-	r̩	-	f
+Petarnica (plev).........	ˈk	-	r	ɤ	f
+Pevec (targ).............	ˈk	-	r	ɤ	f
+Plakovo (vt).............	ˈk	-	r	ɤ	f
+Podvis (karn)............	ˈk	-	r	ɤ	ʋ
+Pozharevo (tutr).........	ˈk	-	r	ɤ	f
+Rabisha (belgr)..........	ˈk	-	r̩	-	f
+Radovene (vr)............	ˈk	-	r	ɤ	f
+Rakevo (vr)..............	ˈk	-	r̩	-	f
+Rakevo (vr)..............	ˈk	-	r	ɤ	f
+Rakovica (kul)...........	ˈk	-	r̩	-	f
+Rani lug (tryn)..........	ˈk	-	r̩	-	v
+Razboishte (god).........	ˈk	-	r̩	-	f
+Razboishte (god).........	ˈk	-	r̩	-	v
+Ruzhinci (belgr).........	ˈk	-	r̩	-	f
+Ruzhinci (belgr).........	ˈk	-	r	ɤ	f
+Sadina (pop).............	ˈk	-	r	ɤ	ʋ
+Saparevo (dup)...........	ˈk	-	r	ɤ	f
+Sekirovo (plov)..........	ˈk	-	r	ɤ	ʋ
+Senokos (blgr)...........	ˈk	-	r	ɤ	f
+Sestrino (petr)..........	ˈk	-	r	ɤ	f
+Shipka (kaz).............	ˈk	-	r	ɤ	f
+Shiroka laka (dev).......	ˈk	ɔ	r	-	f
+Shiroki dol (sam)........	ˈk	-	r	ɤ	f
+Shiroki dol (sam)........	ˈk	-	r̩	-	f
+Shtipsko (prov)..........	ˈk	-	r	a	f
+Skobelevo (sliv).........	ˈk	-	r	ɤ	ʋ
+Slaveino (smol)..........	ˈk	ɔ	r	-	f
+Slavjanovo (plev)........	ˈk	-	r	ɤ	f
+Smochevo (dupn)..........	ˈk	-	r̩	-	f
+Smolsko (pird)...........	ˈk	-	r̩	-	f
+Solishta (dev)...........	ˈk	ɔ	r	-	f
+Sredec (zlgr)............	ˈk	ɤ	r	-	f
+Stakevci (blgr)..........	ˈk	-	r̩	-	v
+Stambolovo (hask)........	ˈk	-	r	ɤ	fʲ
+Starmen (bel)............	ˈk	-	r	ɤ	f
+Stoilovo (mt)............	ˈk	-	r	ɤ	f
+Straldzha (jamb).........	ˈk	-	r	ɤ	f
+Stroevo (plov)...........	ˈk	-	r	ɤ	f
+Suhindol (vtarn).........	ˈk	-	r	ɤ	f
+Sushica (blgr)...........	ˈk	-	r	ɤ	f
+Svetlina (topgr).........	ˈk	-	r	ɤ	f
+Svirkovo (harm)..........	ˈk	-	r	ɤ	fʲ
+Tihomir (krgr)...........	ˈk	ɔ	r	-	f
+Tihomirovo (stzag).......	ˈk	-	r	ɤ	f
+Topolchane (sliv)........	ˈk	-	r	ɤ	f
+Trancovica (nik).........	ˈk	-	r	ɤ	ʋ
+Ustovo (sm)..............	ˈk	ɔ	r	-	f
+Vabel (nik)..............	ˈk	-	r	ɤ	ʋ
+Vaklinovo (gd)...........	ˈk	ɤ	r	-	f
+Valche pole (svgr).......	ˈk	-	r	ɤ	fʲ
+Varbica (presl)..........	ˈk	-	r	ɤ	f
+Varbovo (blgr)...........	ˈk	-	r̩	-	v
+Vardun (targ)............	ˈk	-	r	ɤ	f
+Varvara (paz)............	ˈk	-	r	ɤ	f
+Vasiljovo (tetev)........	ˈk	-	r̩	-	f
+Velkovci (pk)............	ˈk	-	r̩	-	v
+Vinishte (mont)..........	ˈk	-	r̩	-	f
+Vladinja (lov)...........	ˈk	-	r	ɤ	f
+Voden (elh)..............	ˈk	-	r	ɤ	f
+Vojnjagovo (karl)........	ˈk	-	r	ɤ	f
+Vrachesh (botgr).........	ˈk	-	r̩	-	f
+Vranilovci (gabr)........	ˈk	-	r	ɤ	f
+Vresovo (ajt)............	ˈk	-	r	ɤ	f
+Zabardo (asgr)...........	ˈk	ɔ	r	-	f
+Zabernovo (mt)...........	ˈk	-	r	ɤ	f
+Zamfirovo (berk).........	ˈk	-	r̩	-	f
+Zanozhene (berk).........	ˈk	-	r̩	-	f
+Zdravkovec (gabr)........	ˈk	-	r	ɤ	f
+Zelenigrad (tran)........	ˈk	-	r̩	-	v
+Zhaltusha (ard)..........	ˈk	ɑ	r	-	f
+Zheglica (vid)...........	ˈk	-	r̩	-	f
+Zhelen (svog)............	ˈk	-	r	ɤ	f
+Zheljazkovo (sred).......	ˈk	-	r	ɤ	f
+Zheravna (kot)...........	ˈk	-	r	ɤ	f
+SWAPS....................	.	+	-	+	.

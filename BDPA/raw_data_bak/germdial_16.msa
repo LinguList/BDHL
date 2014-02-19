@@ -1,0 +1,48 @@
+GermDial (ref_50, 39)
+better
+ame_std	b	ɛ	ɾ	ɚ	-	-
+can_std	b	ɛ	ɾ	-	ɹ	-
+cgr_col	b	ɛ	s	ɒ	-	-
+cgr_hon	b	æɪə	s	ə	ɾ	-
+cgr_lux	b	ɛ	s	ʌ	-	-
+cgr_mur	b	ɛ	s	-	ʁ	-
+dan_std	b	ɪ	ð	ə	ʁ	ʌ
+dut_ant	b	ɛ	tʰ	ə	s	-
+dut_bel	b	e	t	ə	ɹ	-
+dut_lim	b	ɛː	t	ə	χ	-
+dut_ost	b	e	t	-	r	-
+dut_std	b	ɛɪ	tʰ	-	ɹ	-
+eng_auc	b	ɪ	ɾ	ə	-	-
+eng_buc	b	ɛ	ʔ	ɐ	ɾ	-
+eng_del	b	ɛ	t	ɜ	-	-
+eng_igb	b	ɛ	t	ə	-	-
+eng_joh	b	e	t	ɜ	-	-
+eng_lin	b	ɛ	t	ɐ	ʁ	-
+eng_liv	b	ɛ	θ	ə	-	-
+eng_lon	b	ɛ	ʔ	ə	-	-
+eng_nca	b	ɛ	ɾ	-	ɹ	-
+eng_per	b	ɛ	ɾ	ɜ	-	-
+eng_sin	b	ɛ	ɾ	ɜ	-	-
+eng_std	b	ɛ	t	ə	-	-
+eng_tyr	b	ɛ	t	ɚ	-	-
+far_std	b	eə	tʰ	-	ɹ	ə
+grm_std	b	ɛ	s	ɐ	-	-
+hgr_als	b	ɛ	s	ə	χ	-
+hgr_bie	b	ɛ	s	ə	ɾ	-
+hgr_bod	b	ɛ	s	ə	ʁ	-
+hgr_gra	b	ɛ	s	-	ɾ	-
+hgr_her	b	ɛ	s	ə	χ	-
+hgr_ort	b	ɪ	s	ə	χ	-
+hgr_tue	b	ɛ	s	ɔ	-	-
+hgr_wal	b	ɛ	s	ə	ɹ	-
+ice_std	b	eə	t	-	ɾ	ɪ
+lgr_ach	b	ɛ	t	-	ʁ	-
+lgr_bar	b	ɪ	ɾ	ɐ	-	-
+nor_sta	b	eə	-	-	ʁ	ə
+sco_std	b	ɛ	tʰ	ə	ɹ	-
+swe_ska	b	ɛ	t	-	χ	-
+swe_sto	b	ɛ	tː	-	ɾ	ə
+wfr_gro	b	ɛ	t	-	r	-
+yid_nyo	b	ɛ	s	ɛ	ɾ	-
+LOCAL..	*	*	*	*	*
+SWAPS..						

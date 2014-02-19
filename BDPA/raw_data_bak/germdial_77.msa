@@ -1,0 +1,47 @@
+GermDial (ref_50, 46)
+honey
+ame_std	h	ʌ	n	i	-	-
+can_std	h	ʌ	n	i	-	-
+cgr_col	h	ʊ	n	i	-	ʃ
+cgr_hon	h	oʊə	n	-	-	ʃ
+cgr_lux	h	ʊ	n	ə	-	ʃ
+cgr_mur	h	oː	n	ɪ	-	ç
+dan_std	h	ɔ	n	ɪ	ŋ	-
+dut_ant	-	øː	n	ɪ	ŋ	-
+dut_bel	h	oː	n	ɪ	ŋ	-
+dut_lim	-	øə	n	ɪ	ŋ	-
+dut_std	h	ɔ	n	ɪ	ŋ	-
+eng_auc	h	ɐ	n	i	-	-
+eng_buc	h	ʌ	n	e	-	-
+eng_del	h	ɐ	n	i	-	-
+eng_igb	h	ɔ	n	i	-	-
+eng_joh	h	ɜ	n	iː	-	-
+eng_lin	h	ɔ	n	ɛɪ	-	-
+eng_liv	h	ʊ	n	i	-	-
+eng_lon	h	ɐ	n	ɪ	-	-
+eng_nca	h	œː	n	i	-	-
+eng_per	h	ɐ	n	i	-	-
+eng_sin	h	ɑ	n	i	-	-
+eng_std	h	ɐ	n	ɪ	-	-
+eng_tyr	h	ɔ	n	e	-	-
+far_std	h	ʊ	n	a	ŋ	k
+grm_std	h	oː	n	ɪ	-	ç
+hgr_als	h	o	n	i	-	k
+hgr_bie	h	ɔ	n	i	-	k
+hgr_bod	h	ɔː	n	ɪ	-	ɡ
+hgr_gra	h	o	n	i	-	k
+hgr_her	h	o	n	i	-	k
+hgr_ort	h	oː	n	i	-	k
+hgr_tue	h	oː	n	i	-	ç
+hgr_wal	h	oː	n	ɪ	-	ɡ
+ice_std	h	øː	n	a	ŋ	k
+lgr_ach	h	ɔ	n	ʌ	-	χ
+lgr_bar	h	ɔ	n	ɪ	-	ç
+nor_sta	h	ʊ	nː	ɪ	ŋ	-
+sco_std	h	ʌ	n	i	-	-
+swe_ska	h	øə	n	ʉ	ŋ	-
+swe_sto	h	oə	n	ʌ	ŋ	-
+wfr_gro	h	y	n	ɪ	ŋ	-
+yid_nyo	h	ɔ	n	ɪ	-	ɡ
+LOCAL..	*	*	*	*	*	*
+SWAPS..						

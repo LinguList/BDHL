@@ -1,0 +1,48 @@
+GermDial (ref_50, 32)
+heart
+ame_std	h	ɑ	ɻ	tʰ	-
+can_std	h	ɑ	ɹ	t	-
+cgr_col	h	ɛ	-	ʦ	-
+cgr_hon	h	aː	r	ʦ	-
+cgr_lux	h	eɐ	-	ʦ	-
+cgr_mur	h	ɛ	ʁ	ʦ	-
+dan_std	j	ɛə	-	d	ə
+dut_ant	h	a	ɾ	t	-
+dut_bel	h	a	r	t	-
+dut_lim	h	ɑ	-	t	-
+dut_ost	-	a	r	t	ə
+dut_std	h	a	ɹ	t	-
+eng_auc	h	aː	-	t	-
+eng_buc	h	eɐ	ɾ	tʰ	-
+eng_del	h	ɑː	-	t	-
+eng_igb	h	ɑː	-	t	-
+eng_joh	h	ɑ	-	tʰ	-
+eng_lin	h	ɑː	ʁ	t	-
+eng_liv	h	ɑː	-	θ	-
+eng_lon	h	ɑː	-	ʔ	-
+eng_nca	h	ɑː	ɹ	t	-
+eng_per	h	aː	-	t	-
+eng_sin	h	ɑ	-	t	-
+eng_std	h	ɑː	-	tʰ	-
+eng_tyr	h	a	ɻ	t	-
+far_std	j	a	ɹː	t	a
+grm_std	h	ɛɐ	-	ʦ	-
+hgr_als	h	a	χ	ʦ	-
+hgr_bie	h	a	r	ʦ	-
+hgr_bod	h	ɛ	ʁ	ʦ	-
+hgr_gra	h	ɛ	r	ʦ	-
+hgr_her	h	a	χ	ʦ	-
+hgr_ort	h	ɛ	χ	ʦ	-
+hgr_tue	h	ɛ	ʁ	ʦ	-
+hgr_wal	h	a	ɹ	ʦ	-
+ice_std	hʲ	a	s	t	a
+lgr_ach	h	a	-	t	ə
+lgr_bar	h	a	-	t	-
+nor_sta	j	ɛ	χː	t	ə
+sco_std	h	ɒ	ɹ	tʰ	-
+swe_ska	j	a	χ	t	ɐ
+swe_sto	j	a	-	tː	a
+wfr_gro	h	ɛ	-	t	-
+yid_nyo	h	a	r	ʦ	-
+LOCAL..	*	*	*	*
+SWAPS..					

@@ -1,0 +1,50 @@
+GermDial (ref_50, 40)
+needle
+ame_std	n	i	d	ʌ	ɫ	-	-	-
+can_std	n	i	d	ə	ɫ	-	-	-
+cgr_col	n	ɔː	d	-	l	-	-	-
+cgr_hon	n	oʊɤ	tʰ	-	-	-	-	-
+cgr_lux	n	ʊ	-	-	l	-	-	-
+cgr_mur	n	ɔː	d	-	l	-	-	-
+dan_std	n	o	-	-	lˀ	-	-	-
+dut_ant	n	ɑ	-	-	ɫ	-	t	-
+dut_bel	n	aː	-	-	ɫ	-	t	-
+dut_lim	n	ɔ	-	-	l	-	t	-
+dut_ost	n	ɑɔ	d	-	ɫ̩	-	-	-
+dut_std	n	aː	-	-	ɫ	-	t	-
+eng_auc	n	ɪi	d	ʊ	-	-	-	-
+eng_buc	n	iː	d	ə	ɫ	-	-	-
+eng_del	n	i	d	-	l	-	-	-
+eng_igb	n	i	d	ʊ	ɫ	-	-	-
+eng_joh	n	i	d	ə	ɫ	-	-	-
+eng_lin	n	i	d	-	l	-	-	-
+eng_liv	n	i	d	-	ɫ	-	-	-
+eng_lon	n	ɪi	d	ɤ	-	-	-	-
+eng_nca	n	ɪi	d	ɤ	-	-	-	-
+eng_per	n	ɪi	d	ə	ɫ	-	-	-
+eng_sin	n	i	d	ʊ	-	-	-	-
+eng_std	n	i	d	-	ɫ	-	-	-
+eng_tyr	n	i	d	-	l	-	-	-
+far_std	n	ɔa	-	-	l	-	-	-
+grm_std	n	aː	d	ə	l	-	-	-
+hgr_als	n	aː	d	-	l	-	-	-
+hgr_bie	n	ɑː	d	ʊ	-	-	-	-
+hgr_bod	n	ɔː	d	-	l	-	-	-
+hgr_gra	n	ɑː	d	-	l	-	-	-
+hgr_her	n	aː	d	-	l	-	-	-
+hgr_ort	n	ɔː	d	-	l	-	-	-
+hgr_tue	n	ɔː	d	-	l	-	-	-
+hgr_wal	n	aː	d	-	l	ə	-	-
+ice_std	n	aʊ	-	-	ɬ	-	-	-
+lgr_ach	n	ɔː	-	-	ɫ	-	d	ə
+lgr_bar	n	oː	d	-	l	-	-	-
+nor_sta	n	ɔː	-	-	l	-	-	-
+prt_grm	n	eː	θ	-	l	oː	-	-
+sco_std	n	i	d	ə	ɫ	-	-	-
+swe_ska	n	ɐʉ	-	-	l	-	-	-
+swe_sto	n	oə	-	-	l	-	-	-
+wfr_gro	n	œ	-	-	ɫ	ə	-	-
+yid_nyo	n	ɔ	d	ə	ɫ	-	-	-
+LOCAL..	*	*	*		*			
+SWAPS..				+	-	+		
+#SWAPS..			+				+

@@ -12,6 +12,7 @@ __date__="2013-10-25"
 
 from lingpyd import *
 from lingpyd.convert.plot import *
+from lingpyd.convert.html import msa2html
 from glob import glob
 import os
 import re
@@ -130,7 +131,10 @@ for f in sorted(infiles,key=lambda x:x.lower()):
         m.seq_id = newseqid.replace('"','&quot;')
 
         # prohibit to make a swapindex on tone languages
-        if m.swap_index and m.dataset in ['Bai','Sinitic']:
+        if hasattr(m, 'swap_index'): 
+            if m.swap_index and m.dataset in ['Bai','Sinitic']:
+                m.swap_index = []
+        else:
             m.swap_index = []
 
         # write temporary msa for html-conversion
