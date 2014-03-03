@@ -12,7 +12,7 @@
             	    	</tr>
             	    	<tr>
             	    	    <td><b>Dataset: </b></td>
-			    <td><b><a href="multiple.php?dataset={dataset}">{dataset}</a></b></td>
+			    <td><b><a href="sources.php#{dataset}">{dataset}</a></b></td>
             	    	</tr>
 
             	    	<tr>
@@ -39,16 +39,24 @@
 		    </table>
 		</td>
 	    </tr> 
-	</table>
-	<table align="left" border=0 class="msa-table" width="{table_width}">
 	    <tr>
-		<td align="left"><b>Taxon</b></td>
-		<td align="left" colspan="{width}"><b>Alignment</b></td>
+		<td id="stable" class="button" onclick="sortTable();">Sort phonetic</td>
+		<td></td>
+		<td id="useq" class="button" onclick="toggle();">Show unique sequences</td>
 	    </tr>
-{table}
 	</table>
-	<div
-	    style="clear:left;margin-top:50px;text-align:left;padding-top:15px;font-size:8;font-weight:bold;text-align:center">
-Created using <a
-		href="http://lingpy.org">LingPy</a> (Version 2.0). 
-	</div>
+<table id="msa" class="msa" width="{table_width}">
+  <thead>
+    <tr>
+      <th>
+Variety
+      </th>
+      <th colspan="{width}">
+	  Alignment
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+{table}
+  </tbody>
+</table>

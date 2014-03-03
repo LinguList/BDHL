@@ -1,13 +1,13 @@
 # author   : Johann-Mattis List
 # email    : mattis.list@uni-marburg.de
 # created  : 2013-08-29 20:52
-# modified : 2013-10-25 11:32
+# modified : 2014-03-03 16:08
 """
 Script converts raw msa data to nice html output.
 """
 
 __author__="Johann-Mattis List"
-__date__="2013-10-25"
+__date__="2014-03-03"
 
 
 from lingpyd import *
@@ -140,17 +140,8 @@ for f in sorted(infiles,key=lambda x:x.lower()):
         # write temporary msa for html-conversion
         # output full msa
         m.output('msa',sorted_seqs='tree',unique_seqs=False)
-        msa2html(m.infile+'.msa',filename='../website/bdhl.de/align/multiple/long/'+m.infile+'.html',template='templates/msa.html')
-        os.system('rm '+m.infile+'.msa')
-
-        ## output short msa
-        #m.output('msa',sorted_seqs='taxa',unique_seqs=True)
-        #msa2html(m.infile+'.msa',filename='website/bdhl.de/align/multiple/short/'+m.infile+'.html',template='templates/msa.html')
-        #os.system('rm '+m.infile+'.msa')
-        
-        # output tree-based msa
-        m.output('msa',sorted_seqs='taxa',unique_seqs=True)
-        msa2html(m.infile+'.msa',filename='../website/bdhl.de/align/multiple/short/'+m.infile+'.html',template='templates/msa.html')
+        msa2html(m.infile+'.msa',filename='../website_new/bdhl.de/align/multiple/html/'+m.infile+'.html',template='templates/msa.html',
+                compact=True)
         os.system('rm '+m.infile+'.msa')
 
         try:
