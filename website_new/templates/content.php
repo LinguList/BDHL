@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>BDHL</title>
+<title>BDPA</title>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="description" content="benchmarks for quantitative historical linguistics">
@@ -69,6 +69,12 @@
  </div>
  </div>
  <div id="footer">
+<table>
+<tr><td>
+<div class="footer_left">
+<a href="http://www.hhu.de/"><img width="120px" src="http://www.hhu.de/home/fileadmin/images/uni_duesseldorf_logo.gif" alt="HHUD" /></a>
+ </div></td>
+<td><div class="footer_center">
  <p>Last updated on {update}</p>
  <p>
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US">Creative Commons Attribution-NonCommercial 3.0 Unported License</a>.</p><br>
@@ -76,7 +82,11 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
    <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US"><img
 		alt="Creative Commons License" style="border-width:0;width:80px;"
 		src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a> </p>
- 
+</div></td>
+<td><div class="footer_right">
+<a href="http://www.uni-marburg.de/"><img width="120px" src="http://www.uni-marburg.de/bilder/logo_uni1.gif/image" alt="PUD" /></a>
+
+</div></td></tr></table>
  </div><!-- end footer -->
 
 </div><!-- end wrapper-->

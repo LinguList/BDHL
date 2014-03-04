@@ -394,4 +394,19 @@ div.sidebar  a {
   color: #000000;
 }
 
+div.footer_left {
+	display: table-cell;
+	text-align: left;
+	width: 300px;
+}
+div.footer_center {
+	text-align: center;
+	display: table-cell;
+	width: 600px;
+}
+div.footer_right {
+	text-align: right;
+	display: table-cell;
+	width: 300px;
+}
 

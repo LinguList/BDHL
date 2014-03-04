@@ -16,18 +16,16 @@ The data comes from the <a href="http://www.arch.cam.ac.uk/~pah1003/quechua/Eng/
 <li><b>Compiled by:</b> Paul Heggarty</li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Andean.zip">Andean.zip</a></li>
-<!-- <li><b>How to Quote:</b> List, Johann-Mattis (2013): Multiple alignments of Andean languages. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 <br>
 <h3><a style="color:black" name="Bai">Bai</a></h3>
 <br>
-The data on the Bai dialects is a compilation of the two independently conducted studies by <a href="http://lingulist.de/evobib/evobib.php?Wang2006"</a>Wang (2006)</a> and <a href="http://lingulist.de/evobib/evobib.php?Allen2007"</a>Bryan Allen (2007)</a>. From these sources, 90 cognate sets distributed over 17 language varieties were extracted.
+The data on the Bai dialects is a compilation of the two independently conducted studies by <a href="http://lingulist.de/evobib/evobib.php?key=Wang2006"</a>Wang (2006)</a> and <a href="http://lingulist.de/evobib/evobib.php?key=Allen2007"</a>Bryan Allen (2007)</a>. From these sources, 90 cognate sets distributed over 17 language varieties were extracted.
 <br><br>
-<ul><li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?Wang2006"</a>Wang (2006)</a>, <a href="http://lingulist.de/evobib/evobib.php?Allen2007"</a>Allen (2007)</a></li>
+<ul><li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?key=Wang2006"</a>Wang (2006)</a>, <a href="http://lingulist.de/evobib/evobib.php?key=Allen2007"</a>Allen (2007)</a></li>
 <li><b>Compiled by:</b> Feng Wang and Bryan Allen</li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Bai.zip">Bai.zip</a></li>
-<!-- <li><b>How to Quote:</b> List, Johann-Mattis (2013): Multiple alignments of Bai dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 
@@ -50,7 +48,6 @@ features described in the traditional literature on Bulgarian dialects.
 <ul><li><b>Original data:</b> <a href="http://www.jelenaprokic.eu/buldialect">http://www.jelenaprokic.eu/buldialect</a></li>
 <li><b>Aligned by:</b> Jelena Prokić</li>
 <li><b>Download:</b> <a href="data/Bulgarian.zip">Bulgarian.zip</a></li>
-<!-- <li><b>How to Quote:</b> Prokić, Jelena (2013): Multiple alignments of Bulgarian dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 <br>
 <h3><a style="color:black" name="Dutch">Dutch</a></h3><br>
@@ -66,7 +63,6 @@ places.
 <li><b>Original data:</b> <a href="http://www.meertens.knaw.nl/mand/database/">http://www.meertens.knaw.nl/mand/database/</a></li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Dutch.zip">Dutch.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Dutch dialect alignments. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 <br>
 <h3><a style="color:black" name="French">French</a></h3>
@@ -81,7 +77,6 @@ collection is based on a simplified conversion of the original phonetic orthogra
 <li><b>Digitized by:</b> Hans Geisler</b>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/French.zip">French.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 <br>
 <h3><a style="color:black" name="Germanic">Germanic</a></h3>
@@ -93,7 +88,6 @@ The data was taken from the <a href="http://www.languagesandpeoples.com/">Langua
 <li><b>Compiled by:</b> Paul Heggarty</b>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Germanic.zip">Germanic.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 <br>
 <h3><a style="color:black" name="Japanese">Japanese</a></h3>
@@ -108,7 +102,6 @@ to be in concordance with IPA standard.
 <li><b>Digitized by:</b> Mathias Dickmanns, Sayako Maike Oetzel, and Karl Vogt </b></li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Japanese.zip">Japanese.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 <br>
@@ -142,7 +135,6 @@ The data was digitized and compiled from different sources by M. Zhivlov (March 
 <li><b>Compiled by:</b> M. Zhivlov</li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Ob-Ugrian.zip">Ob-Ugrian.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of Norwegian dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 <br>
@@ -155,7 +147,6 @@ The data was taken from the <a href="http://www.languagesandpeoples.com/">Langua
 <li><b>Compiled by:</b> Paul Heggarty</b>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Germanic.zip">Germanic.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 <br>
@@ -168,7 +159,6 @@ set of 20 cognate sets with slightly modified IPA transcriptions.
 <li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?key=Hou2004">Hóu (2004)</a></li>
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Sinitic.zip">Sinitic.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 <br>
@@ -178,10 +168,9 @@ This is but a small collection of 20 cognate sets distributed over 5 Slavic lang
 <br><br>
 <ul>
 <li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?key=Derksen2008">Derksen (2008)</a></li>
-<li><b>Compiled by:</b> Jelena Prokić and Johann-Mattis List</li>
+<li><b>Compiled by:</b> Johann-Mattis List and Jelena Prokić</li>
 <li><b>Aligned by:</b> Johann-Mattis List and Jelena Prokić</li>
 <li><b>Download:</b> <a href="data/Slavic.zip">Slavic.zip</a></li>
-<!-- <li><b>How to quote:</b> List, Johann-Mattis (2013): Multiple alignments of French dialects. In: List, Johann-Mattis and Prokić, Jelena (eds.) <i>Benchmark Database for Phonetic Alignments</i>. URL: http://www.quanthistling.info/bdhl/alignments.php.</li> -->
 </ul>
 
 

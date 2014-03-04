@@ -75,3 +75,26 @@ td.button{
   font-weight: bold;
   cursor: pointer;
 }
+
+div.dolgo_ERROR{background-color: white; color:red;}
+div.dolgo_V{background-color: #c86464;}
+div.dolgo_K{background-color: #c89664;} 
+div.dolgo_P{background-color: #c8c864;} 
+div.dolgo_H{background-color: #96c864;} 
+div.dolgo_J{background-color: #64c864;} 
+div.dolgo_M{background-color: #64c896;} 
+div.dolgo_N{background-color: #64c8c8;} 
+div.dolgo_S{background-color: #6496c8;} 
+div.dolgo_R{background-color: #6464c8;} 
+div.dolgo_T{background-color: #9664c8;} 
+div.dolgo_W{background-color: #c864c8;} 
+div.dolgo_TONE{background-color: #c86496;} 
+div.dolgo_X{background-color: #bbbbbb;}
+div.dolgo_GAP{background-color: #bbbbbb;}
+div.residue{
+	width: 50px;
+	color: white;
+	font-weight: bold;
+	display: table-cell;
+	text-align: center;
+}
