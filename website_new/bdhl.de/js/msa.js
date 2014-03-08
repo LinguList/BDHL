@@ -1,4 +1,4 @@
-var sorted = "alpha";
+var sorted = "phonetic";
 
 function sortTable(){
   var tbl = document.getElementById("msa").tBodies[0];
