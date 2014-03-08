@@ -10,7 +10,7 @@
 <meta name="distribution" CONTENT="global">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-<link rel="icon" href="pics/favicon.png" type="image/png">  
+<link rel="icon" href="pics/align.png" type="image/png">  
 <link rel="stylesheet" href="css/bdhl.css" type="text/css" media="screen" /> 
 <link rel="stylesheet" href="http://code.jquery.com/ui/1.9.2/themes/base/jquery-ui.css" />
 <link rel="stylesheet" href="css/msa.css" type="text/css" />
@@ -33,19 +33,21 @@
 
 <div id="wrapper">
   <div id="header">
-  <a href="http://alignments.lingpy.org/"><img id="logo" src="pics/favicon.png" width="60px" alt="logo" title="CLiPs" /></a>
+  <a href="http://alignments.lingpy.org/"><img id="logo" src="pics/align.png" height="50px" alt="logo" title="BDPA" /></a>
   <div id="mainnav">
     <ul id="nav">
     <li>
-      <a href="about.php">About</a>
+	<a href="main.php">HOME</a>
+    </li>
+    <li>
+      <a href="intro.php">About</a>
       <ul id="home">
-	<li><a href="about.php">About</a></li>
+	<li><a href="intro.php">Introduction</a></li>
 	<li><a href="faq.php">FAQ</a></li>
-	<li><a href="contact.php">Contact</a></li>
       </ul>
     </li>
     <li>
-      <a href="browse.php">Browse</a>
+      <a href="pairwise.php">Browse</a>
       <ul id="browse">
 	<li><a href="pairwise.php">Pairwise</a></li>
 	<li><a href="multiple.php">Multiple</a></li>
@@ -74,6 +76,9 @@
 <div class="footer_left">
 <a href="http://www.hhu.de/"><img width="120px" src="http://www.hhu.de/home/fileadmin/images/uni_duesseldorf_logo.gif" alt="HHUD" /></a>
  </div></td>
+ <td><div class="footer_left">
+<a href="http://www.bmbf.de/"><img width="120px" src="http://www.bmbf.de/_img/common/BMBF_Logo.png" alt="BMBF" /></a>
+ </div></td>
 <td><div class="footer_center">
  <p>Last updated on {update}</p>
  <p>
@@ -84,7 +89,12 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 		src="http://i.creativecommons.org/l/by-nc/3.0/88x31.png" /></a> </p>
 </div></td>
 <td><div class="footer_right">
-<a href="http://www.uni-marburg.de/"><img width="120px" src="http://www.uni-marburg.de/bilder/logo_uni1.gif/image" alt="PUD" /></a>
+<a href="http://erc.europa.eu/"><img width="80px" src="http://quanthistling.info/theme/qhl/images/logo_erc.png" alt="ERC" /></a>
+
+
+</div></td>
+<td><div class="footer_right">
+<a href="http://www.uni-marburg.de/"><img width="120px" src="http://www.uni-marburg.de/bilder/logo_uni1.gif" alt="PUD" /></a>
 
 </div></td></tr></table>
  </div><!-- end footer -->

@@ -1,15 +1,19 @@
 <!-- SIDEBAR sources -->
-<h2>The Sources of the Benchmark Database for Phonetic Alignments</h2>
+<h2>The Sources of the BDPA</h2>
 <br>
-The following table gives an overview over the sources in our database. 
-Click on the links in the table in order to view a more detailed description of the sources.
+The following table gives an overview over the sources in the database. Click on the links in the 
+table in order to view a more detailed description of the sources.
 <br><br>
 <?php include('statistics.html'); ?>
 <br>
 <br>
 <h3><a style="color:black" name="Andean">Andean</a></h3>
 <br>
-The data comes from the <a href="http://www.arch.cam.ac.uk/~pah1003/quechua/Eng/Cpv/">Sounds of the Andean Languages</a> project (2001-2004) at the university of Sheffield, UK. Main contributor was Paul Heggarty, who conducted the field work and provided the sound recordings and the phonetic transcriptions which are available on the project website. For our benchmark database, we used 76 cognate sets distributed over 21 varieties of Quechua and Aymara. 
+The data comes from the <a href="http://www.arch.cam.ac.uk/~pah1003/quechua/Eng/Cpv/">Sounds of the 
+Andean Languages</a> project (2001-2004) at the university of Sheffield, UK. Main contributor was 
+Paul Heggarty, who conducted the field work and provided the sound recordings and the phonetic 
+transcriptions which are available on the project website. For our benchmark database, we used 76 
+cognate sets distributed over 21 varieties of Quechua and Aymara. 
 
 <br><br>
 <ul><li><b>Original data:</b> <a href="http://www.arch.cam.ac.uk/~pah1003/quechua/Eng/Cpv/">http://www.arch.cam.ac.uk/~pah1003/quechua/Eng/Cpv/</a></li>
@@ -27,8 +31,6 @@ The data on the Bai dialects is a compilation of the two independently conducted
 <li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Bai.zip">Bai.zip</a></li>
 </ul>
-
-
 <br>
 <h3><a style="color:black" name="Bulgarian">Bulgarian</a></h3>
 <br>
@@ -48,6 +50,7 @@ features described in the traditional literature on Bulgarian dialects.
 <ul><li><b>Original data:</b> <a href="http://www.jelenaprokic.eu/buldialect">http://www.jelenaprokic.eu/buldialect</a></li>
 <li><b>Aligned by:</b> Jelena Prokić</li>
 <li><b>Download:</b> <a href="data/Bulgarian.zip">Bulgarian.zip</a></li>
+<li><b>Cite as:</b> Prokić, J.; Nerbonne, J.; Zhobov, V.; Osenova, P.; Simov, K.; Zastrow, T. and E. Hinrichs (2009): &quot;The computational analysis of Bulgarian dialect pronunciation&quot;. <i>Serdica Journal of Computing</i> 3.3:269—298.</li>
 </ul>
 <br>
 <h3><a style="color:black" name="Dutch">Dutch</a></h3><br>

@@ -165,7 +165,7 @@ else{
 
 Our multiple alignment benchmark database contains a total of 750 manually corrected
 multiple alignments taken from 12 different sources. In order to browse the data, use the interface below. 
-For a download of the complete dataset, please follow <a href="align_download.php">this link</a>. For a detailed description of the sources from which the data was taken, please follow <a href="align_sources.php">this link</a>.
+You can also <a href="download.php">download</a> the whole data or data of the individual <a href="sources.php">sources</a> we used.
 <br><br>
 
 <b>Browse the data:</b>
@@ -198,7 +198,7 @@ and more than <input type="text" name="piddown" id="piddown" style="width:40px">
 </td>
 </tr>
 <tr>
-<td><div id="popup">Taxon (Language)
+<td><div id="popup">Variety (Language)
 <div id="text">Use this field to narrow down the number of alignments to browse by typing in the name of the language in which you are interested.</div></div>
 </td>
 <td><input type="text" name="taxa" id="taxa" style="width:300px"></td>

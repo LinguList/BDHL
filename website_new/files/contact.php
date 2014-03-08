@@ -1,4 +1,4 @@
-<!-- SIDEBAR home -->
+<!-- SIDEBAR about -->
 <br><br>
 <table>
 <tr>
