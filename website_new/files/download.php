@@ -1,5 +1,5 @@
 <!-- SIDEBAR download -->
-<h2>Download the Data of the BDPA</h2>
+<h3>Download the Data of the BDPA</h3>
 <br>
 The phonetic alignment data is available in different formats and variants. In all cases, we offer 
 the raw, unedited files, and the edited, benchmark files. The formats we use are those which are 
@@ -15,7 +15,7 @@ For pairwise alignments, we offer three different benchmarks:<br><br>
 <li> a benchmark containing a selection of the most diverse 1089 sequence pairs automatically drawn from those languages in our multiple alignment benchmark that are <i>tone</i> languages, again, both in a <i>global</i> and in a <i>local</i> variant.
 </ul>
 <br>
-All files can be downloaded from <a href="data/pairwise.zip">here</a>.
+All files can be downloaded from <a href="https://www.dropbox.com/s/ywybwcl9mgelt9j/pairwise.zip" target="_blank">here</a>.
 <br><br>
 <h3>Multiple Phonetic Alignments</h3><br>
 For multiple alignments, we offer a large benchmark masterset of 750 files. We provide the files again in both raw and edited format. This masterset can be subdivided into several small datasets according to different criteria, such as
@@ -24,4 +24,4 @@ For multiple alignments, we offer a large benchmark masterset of 750 files. We p
 <li> the language family from which the data is taken, or </li>
 <li> the diversity of the phonetic sequences that occur in the alignments. </li>
 </ul>
-All files can be downloaded from <a href="data/multiple.zip">here</a>.
+All files can be downloaded from <a href="https://www.dropbox.com/s/kbxvbni75jseavx/multiple.zip" target="_blank">here</a>.

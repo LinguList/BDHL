@@ -13,7 +13,7 @@
     }
     else{
 ?>
-<h2>Browse Pairwise Alignments in BDPA</h2>
+<h3>Browse Pairwise Alignments in BDPA</h3>
 <br>
 <br>
 In this section we offer a collection of manually edited pairwise alignments. For details on the dataset, see the descriptions 

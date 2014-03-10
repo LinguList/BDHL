@@ -417,3 +417,15 @@ div.footer_right {
 	width: 300px;
 }
 
+table.sources {
+  border: 2px solid gray;
+}
+table.sources th {
+  width: 20%;
+  border: 2px solid gray;
+  vertical-align: top;
+}
+table.sources td {
+  border: 2px solid gray;
+}
+

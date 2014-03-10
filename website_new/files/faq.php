@@ -1,5 +1,5 @@
 <!-- SIDEBAR about -->
-<h2>Frequently Asked Questions</h2>
+<h3>Frequently Asked Questions</h3>
 <br><br>
 <br>
 <ul>
@@ -7,7 +7,7 @@
 <li><a href="faq.php#formats">What formats do you use to display and share the alignments?</a></li>
 <li><a href="faq.php#cite">How do I cite the BDPA?</a></li>
 <li><a href="faq.php#sources">Which sources did you use?</a></li>
-<li><a href="faq.php#script">Is there a way convert the multiple alignments into pairwise alignments?</a></li>
+<!--<li><a href="faq.php#script">Is there a way convert the multiple alignments into pairwise alignments?</a></li>-->
 <li><a href="faq.php#contact">Whom should I contact if I have additional questions or want to contribute?</a></li>
 <!--<li><a href="faq.php#"></a></li>
 <li><a href="faq.php#"></a></li>
@@ -16,7 +16,7 @@
 </ul>
 <br>
 
-<h2><a style="color:black" name="alignments">Alignment Analyses</a></h2>
+<h3><a style="color:black" name="alignments">Alignment Analyses</a></h3>
 <br>
 <i>Alignment analyses</i> are the most common way to compare sequences. Given that phonetic
 sequences are the basic comparanda in both historical linguistics and dialectology, it is therefore
@@ -28,7 +28,7 @@ of words, it is rarely explicitly visualized or termed as such, and in the rare 
 explicitly use alignments to visualize correspondence patterns in words, it merely serves
 illustrational purposes.
 <br><br>
-<h2><a style="color:black" name="formats">Basic Formats for Alignments Analyses</a></h2>
+<h3><a style="color:black" name="formats">Basic Formats for Alignments Analyses</a></h3>
 <br>
 <p>In order to exchange, edit, and compare phonetic alignments, different formats are used in the BDPA. 
 We distinguish between formats for pairwise alignments and for multiple
@@ -118,7 +118,7 @@ example, consider the file <a href="data/harry_potter.msa">harry_potter.msa</a>:
 <span class="LineNr">7 </span><span class="localPeaks">LOCAL.      *     *     *     .     *     *     *     *     *     .</span>
 </pre>
 <br>
-<h2><a style="color:black" name="cite">Citing BDPA</a></h2>
+<h3><a style="color:black" name="cite">Citing BDPA</a></h3>
 <br>
 <p>If you use this database, please cite it as:<br><br>
 <ul><li>List, J.-M. and Prokić, J. (2014): <i>Benchmark Database for Phonetic alignments</i>. URL: <a href="http://alignments.lingpy.org">http://alignments.lingpy.org</a></li></ul></p>
@@ -128,15 +128,15 @@ example, consider the file <a href="data/harry_potter.msa">harry_potter.msa</a>:
 <li>Wang, F. (2006): <i>Comparison of languages in contact. The distillation method and the case of Bai</i>. Taipei: INstitue of Linguistics Academia Sinica.</li>
 <li>Allen, B. (2007): <i>Bai dialect survey.</i> SIL International. ULR: <a href="http://www.sil.org/silesr/2007/silesr2007-012.pdf">http://www.sil.org/silesr/2007/silesr2007-012.pdf</a></li></ul>
 <br>
-<h2><a style="color:blacl" name="scripts">Converting Multiple to Pairwise Alignments</a></h2>
+<!--<h3><a style="color:blacl" name="scripts">Converting Multiple to Pairwise Alignments</a></h3>
 <br>
 <font color="red">ADD github GIST</font>
-<br>
-<h2><a style="color:black" name="sources">Sources</a></h2>
+<br>-->
+<h3><a style="color:black" name="sources">Sources</a></h3>
 <br>
 All the sources we used to create the alignments can be found <a href="sources.php">here</a>.
 <br><br>
-<h2><a style="color:black" name="contact">Contact</a></h2>
+<h3><a style="color:black" name="contact">Contact</a></h3>
 <br>
 For technical questions regarding the data, please contact
 <a href="mailto:mattis.list@uni-marburg.de">Johann-Mattis List</a> (Philipps-Universität Marburg) or

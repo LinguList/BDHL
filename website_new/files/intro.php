@@ -1,5 +1,5 @@
 <!-- SIDEBAR about -->
-<h2>Introduction to the BDPA</h2>
+<h3>Introduction to the BDPA</h3>
 <br><br>
 <!--<div class="sidebar">
 <p><b><u>Contents:</u></b></p><br>
@@ -44,4 +44,21 @@ automatic alignment algorithms. The database consists of a great variety of alig
 a number of different sources. The data is arranged in a such way that typical problems
 encountered in phonetic alignment analyses (metathesis, splits and mergers of sounds, diversity of
 phonetic strings) are represented and can be directly tested.</p>
-
+<br><br>
+<table>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Release:</b></td>
+  <td> 1.0 </td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
+  <td> ?, ?</td>
+  <td></td>
+</tr>
+<tr>
+  <td style="background-color:#ffa600;width:100px"><b>Editors:</b></td>
+  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td></td>
+</tr>
+</table>

@@ -75,7 +75,7 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"])){
 	if($filenumber == 1){$filestring = $filenumber." file";}
 	else{$filestring = $filenumber." files";}
 ?>
-    <h2>Browse Multiple Alignments in BDPA</h2>
+    <h3>Browse Multiple Alignments in BDPA</h3>
 
 <br>
 
@@ -133,7 +133,7 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"])){
     }
     else{
 ?>
-<h2>Browse Multiple Alignments in BDPA</h2>
+<h3>Browse Multiple Alignments in BDPA</h3>
 <br>
 
 <form action="multiple.php" method="post">
@@ -146,7 +146,7 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"])){
     }
 }
 else if(isset($_POST["msa_source"])){
-    echo '<h2>Browse Multiple Alignments in BDPA</h2><br><b>Source of file "';
+    echo '<h3>Browse Multiple Alignments in BDPA</h3><br><b>Source of file "';
     echo $_POST["filename"].'":</b> ';
     echo '<a href="javascript:history.go(-1)">[BACK]</a>';
     echo "<pre><code>";
@@ -159,7 +159,7 @@ else if(isset($_POST["msa"])){
 else{
 ?>
 
-<h2>Browse Multiple Alignments in BDPA</h2>
+<h3>Browse Multiple Alignments in BDPA</h3>
 <br>
 
 
