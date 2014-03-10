@@ -1,8 +1,12 @@
 <!-- SIDEBAR sources -->
 <h2>The Sources of the BDPA</h2>
 <br>
-The following table gives an overview over the sources in the database. Click on the links in the 
-table in order to view a more detailed description of the sources.
+The table below gives an overview of all the sources in the BDHL database. Click on the
+links in the table in order to view a more detailed description of each source.
+Detail description includes information on the original source from which the data was taken, link
+to the original data source, name(s) of the person(s) who compiled and aligned the data,
+as well as a link where manually edited pairwise and multiple sequence alignments for a given
+source can be downloaded (along with the unaligned input files).
 <br><br>
 <?php include('statistics.html'); ?>
 <br>
@@ -171,8 +175,8 @@ This is but a small collection of 20 cognate sets distributed over 5 Slavic lang
 <br><br>
 <ul>
 <li><b>Original data:</b> <a href="http://lingulist.de/evobib/evobib.php?key=Derksen2008">Derksen (2008)</a></li>
-<li><b>Compiled by:</b> Johann-Mattis List and Jelena Prokić</li>
-<li><b>Aligned by:</b> Johann-Mattis List and Jelena Prokić</li>
+<li><b>Compiled by:</b> Johann-Mattis List</li>
+<li><b>Aligned by:</b> Johann-Mattis List</li>
 <li><b>Download:</b> <a href="data/Slavic.zip">Slavic.zip</a></li>
 </ul>
 

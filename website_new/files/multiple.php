@@ -163,7 +163,7 @@ else{
 <br>
 
 
-Our multiple alignment benchmark database contains a total of 750 manually corrected
+Our multiple alignment benchmark database contains a total of 750 sets of manually corrected
 multiple alignments taken from 12 different sources. In order to browse the data, use the interface below. 
 You can also <a href="download.php">download</a> the whole data or data of the individual <a href="sources.php">sources</a> we used.
 <br><br>

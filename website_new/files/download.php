@@ -4,7 +4,7 @@
 The phonetic alignment data is available in different formats and variants. In all cases, we offer 
 the raw, unedited files, and the edited, benchmark files. The formats we use are those which are 
 also
-traditionally used in the <a href="http://lingpy.org">LingPy</a> library for automatic tasks in 
+used in the <a href="http://lingpy.org">LingPy</a> library for automatic tasks in 
 quantitative historical linguistics, and a closer desription of the nature of these formats can be found <a href="http://lingpy.org/tutorial/formats.html#basic-formats-for-phonetic-alignments">here</a>.
 <br><br>
 <h3>Pairwise Phonetic Alignment Benchmark</h3><br>
