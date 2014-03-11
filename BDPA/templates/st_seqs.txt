@@ -266,12 +266,12 @@ French_265	French <i id="form">le saule</i> (< Latin <i id="form">salice</i>)
 French_266	French <i id="form">a moins</i> (< Latin <i id="form">minus</i>
 French_267	French <i id="form">de nœuds</i> (< Latin <i id="form">nodos</i>)
 French_268	French <i id="form">que le hêtre</i> (< Latin <i id="form">fagu</i>
-French_269	French <i id="form">voilà</i> (< Latin <i id="form">*- </i>)
+French_269	French <i id="form">voilà</i> (< Latin <i id="form">*-</i>)
 French_270	French <i id="form">une plante</i> (< Latin <i id="form">planta</i>
 French_271	French <i id="form">sans</i> (< Latin <i id="form">sine</i>)
 French_272	French <i id="form">épines</i> (< Latin <i id="form">spinas</i>
 French_273	French <i id="form">on vient</i> (< Latin <i id="form">homo venit</i>)
-French_274	French <i id="form">m’appeler</i> (< Latin <i id="form">appellare (quiriare)</i>
+French_274	French <i id="form">m’appeler</i> (< Latin <i id="form">appellare (quiritare)</i>
 French_275	French <i id="form">pour</i> (< Latin <i id="form">pro</i>)
 French_276	French <i id="form">manger</i> (< Latin <i id="form">manducare</i>
 French_277	French <i id="form">chasser</i> (< Latin <i id="form">captiare</i>)
@@ -543,7 +543,7 @@ Bulgarian_61	 Bulgarian жътва ("harvest")
 Bulgarian_62	 Bulgarian звезда ("star")
 Bulgarian_63	 Bulgarian здрав ("healthy")
 Bulgarian_64	 Bulgarian земя ("earth")
-Bulgarian_65	 Bulgarian зет ("son" — in-law;brother-in-law)
+Bulgarian_65	 Bulgarian зет ("son-in-law; brother-in-law")
 Bulgarian_66	 Bulgarian им ("them" — dative, short form;their)
 Bulgarian_67	 Bulgarian име ("name")
 Bulgarian_68	 Bulgarian й ("her" — dative, short form)
@@ -636,56 +636,56 @@ Bulgarian_154	 Bulgarian ядеш ("eat" — 2nd singular)
 Bulgarian_155	 Bulgarian яйца ("eggs")
 Bulgarian_156	 Bulgarian яйце ("egg")
 Bulgarian_157	 Bulgarian ям ("eat" — 1st singular)
-'n aap  	Dutch <i id="form">'n aap  </i>
-'n appel        	Dutch <i id="form">'n appel        </i>
-'n arm  	Dutch <i id="form">'n arm  </i>
-'n baard        	Dutch <i id="form">'n baard        </i>
-'n been 	Dutch <i id="form">'n been </i>
-'n beest        	Dutch <i id="form">'n beest        </i>
-'n beitel       	Dutch <i id="form">'n beitel       </i>
-'n berg 	Dutch <i id="form">'n berg </i>
-'n blad 	Dutch <i id="form">'n blad </i>
-'n bloem        	Dutch <i id="form">'n bloem        </i>
-'n brief        	Dutch <i id="form">'n brief        </i>
-'n broer        	Dutch <i id="form">'n broer        </i>
-'n burgemeester 	Dutch <i id="form">'n burgemeester </i>
-'n dag  	Dutch <i id="form">'n dag  </i>
-'n dak  	Dutch <i id="form">'n dak  </i>
-'n dief 	Dutch <i id="form">'n dief </i>
-'n dochter      	Dutch <i id="form">'n dochter      </i>
-'n gans 	Dutch <i id="form">'n gans </i>
-'n gast 	Dutch <i id="form">'n gast </i>
-'n glas 	Dutch <i id="form">'n glas </i>
-'n kalf 	Dutch <i id="form">'n kalf </i>
-'n kat  	Dutch <i id="form">'n kat  </i>
-'n roos 	Dutch <i id="form">'n roos </i>
-'n stapel       	Dutch <i id="form">'n stapel       </i>
-'n wijf 	Dutch <i id="form">'n wijf </i>
-aarde   	Dutch <i id="form">aarde   </i>
-adem    	Dutch <i id="form">adem    </i>
-blaadje 	Dutch <i id="form">blaadje </i>
-bloempje        	Dutch <i id="form">bloempje        </i>
-buiten  	Dutch <i id="form">buiten  </i>
-goed    	Dutch <i id="form">goed    </i>
-gras    	Dutch <i id="form">gras    </i>
-graven  	Dutch <i id="form">graven  </i>
-grijs   	Dutch <i id="form">grijs   </i>
-groot   	Dutch <i id="form">groot   </i>
-handje  	Dutch <i id="form">handje  </i>
-kaas    	Dutch <i id="form">kaas    </i>
-kopen   	Dutch <i id="form">kopen   </i>
-kort    	Dutch <i id="form">kort    </i>
-lang    	Dutch <i id="form">lang    </i>
-melk    	Dutch <i id="form">melk    </i>
-regen   	Dutch <i id="form">regen   </i>
-spelen  	Dutch <i id="form">spelen  </i>
-tam     	Dutch <i id="form">tam     </i>
-twaalf  	Dutch <i id="form">twaalf  </i>
-twijfel 	Dutch <i id="form">twijfel </i>
-vader   	Dutch <i id="form">vader   </i>
-zand    	Dutch <i id="form">zand    </i>
-zeker   	Dutch <i id="form">zeker   </i>
-zeven   	Dutch <i id="form">zeven   </i>
+'n aap  	Dutch <i id="form">'n aap</i>
+'n appel        	Dutch <i id="form">'n appel</i>
+'n arm  	Dutch <i id="form">'n arm</i>
+'n baard        	Dutch <i id="form">'n baard</i>
+'n been 	Dutch <i id="form">'n been</i>
+'n beest        	Dutch <i id="form">'n beest</i>
+'n beitel       	Dutch <i id="form">'n beitel</i>
+'n berg 	Dutch <i id="form">'n berg</i>
+'n blad 	Dutch <i id="form">'n blad</i>
+'n bloem        	Dutch <i id="form">'n bloem</i>
+'n brief        	Dutch <i id="form">'n brief</i>
+'n broer        	Dutch <i id="form">'n broer</i>
+'n burgemeester 	Dutch <i id="form">'n burgemeester</i>
+'n dag  	Dutch <i id="form">'n dag</i>
+'n dak  	Dutch <i id="form">'n dak</i>
+'n dief 	Dutch <i id="form">'n dief</i>
+'n dochter      	Dutch <i id="form">'n dochter</i>
+'n gans 	Dutch <i id="form">'n gans</i>
+'n gast 	Dutch <i id="form">'n gast</i>
+'n glas 	Dutch <i id="form">'n glas</i>
+'n kalf 	Dutch <i id="form">'n kalf</i>
+'n kat  	Dutch <i id="form">'n kat</i>
+'n roos 	Dutch <i id="form">'n roos</i>
+'n stapel       	Dutch <i id="form">'n stapel</i>
+'n wijf 	Dutch <i id="form">'n wijf</i>
+aarde   	Dutch <i id="form">aarde</i>
+adem    	Dutch <i id="form">adem</i>
+blaadje 	Dutch <i id="form">blaadje</i>
+bloempje        	Dutch <i id="form">bloempje</i>
+buiten  	Dutch <i id="form">buiten</i>
+goed    	Dutch <i id="form">goed</i>
+gras    	Dutch <i id="form">gras</i>
+graven  	Dutch <i id="form">graven</i>
+grijs   	Dutch <i id="form">grijs</i>
+groot   	Dutch <i id="form">groot</i>
+handje  	Dutch <i id="form">handje</i>
+kaas    	Dutch <i id="form">kaas</i>
+kopen   	Dutch <i id="form">kopen</i>
+kort    	Dutch <i id="form">kort</i>
+lang    	Dutch <i id="form">lang</i>
+melk    	Dutch <i id="form">melk</i>
+regen   	Dutch <i id="form">regen</i>
+spelen  	Dutch <i id="form">spelen</i>
+tam     	Dutch <i id="form">tam</i>
+twaalf  	Dutch <i id="form">twaalf</i>
+twijfel 	Dutch <i id="form">twijfel</i>
+vader   	Dutch <i id="form">vader</i>
+zand    	Dutch <i id="form">zand</i>
+zeker   	Dutch <i id="form">zeker</i>
+zeven   	Dutch <i id="form">zeven</i>
 aquam "water "	Latin <i id="form">aquam</i>  "water"
 auriculam "ear"	Latin <i id="form">auriculam</i>  "ear"
 brācchium "arm"	Latin <i id="form">brācchium</i>  "arm"
@@ -840,25 +840,25 @@ ajɪce  	Proto-Slavic <i id="form">*ajɪce</i>
 azə    	Proto-Slavic <i id="form">*azə</i>
 edinə  	Proto-Slavic <i id="form">*edinə</i>
 jɪmẽ   	Proto-Slavic <i id="form">*jɪmẽ</i>
-korenɪ 	Proto-Slavic <i id="form">*korenɪ </i>
+korenɪ 	Proto-Slavic <i id="form">*korenɪ</i>
 kortəkə	Proto-Slavic <i id="form">*kortəkə</i>
 kostɪ  	Proto-Slavic <i id="form">*kostɪ</i>
-leʒati 	Proto-Slavic <i id="form">*leʒati </i>
+leʒati 	Proto-Slavic <i id="form">*leʒati</i>
 mẽso   	Proto-Slavic <i id="form">*mẽso</i>
 novə   	Proto-Slavic <i id="form">*novə</i>
 ognɪ   	Proto-Slavic <i id="form">*ognɪ</i>
-pepelə 	Proto-Slavic <i id="form">*pepelə </i>
+pepelə 	Proto-Slavic <i id="form">*pepelə</i>
 piti   	Proto-Slavic <i id="form">*piti</i>
-sɐdɐti 	Proto-Slavic <i id="form">*sɐdɐti </i>
+sɐdɐti 	Proto-Slavic <i id="form">*sɐdɐti</i>
 səlnɪce	Proto-Slavic <i id="form">*səlnɪce</i>
 sɪrdɪce	Proto-Slavic <i id="form">*sɪrdɪce</i>
-zelenə 	Proto-Slavic <i id="form">*zelenə </i>
-zemlja 	Proto-Slavic <i id="form">*zemlja </i>
+zelenə 	Proto-Slavic <i id="form">*zelenə</i>
+zemlja 	Proto-Slavic <i id="form">*zemlja</i>
 ʒɪltə  	Proto-Slavic <i id="form">*ʒɪltə</i>
 ẽzykə  	Proto-Slavic <i id="form">*ẽzykə</i>
-all    	Norwegian <i id="form">all</i>
+all_norsk   	Norwegian <i id="form">all</i>
 andre  	Norwegian <i id="form">andre</i>
-blåste 	Norwegian <i id="form">blåste </i>
+blåste 	Norwegian <i id="form">blåste</i>
 enige  	Norwegian <i id="form">enige</i>
 frakk  	Norwegian <i id="form">frakk</i>
 frakken	Norwegian <i id="form">frakken</i>
@@ -867,15 +867,15 @@ få     	Norwegian <i id="form">få</i>
 først  	Norwegian <i id="form">først</i>
 gav    	Norwegian <i id="form">gav</i>
 gjelde/regne   	Norwegian <i id="form">gjelde/regne</i>
-gåande 	Norwegian <i id="form">gåande </i>
+gåande 	Norwegian <i id="form">gåande</i>
 inrømme	Norwegian <i id="form">inrømme</i>
-kjekla 	Norwegian <i id="form">kjekla </i>
+kjekla 	Norwegian <i id="form">kjekla</i>
 kom    	Norwegian <i id="form">kom</i>
 kven   	Norwegian <i id="form">kven</i>
 kʉɲ    	Norwegian <i id="form">kʉɲ</i>
 makt   	Norwegian <i id="form">makt</i>
 mann   	Norwegian <i id="form">mann</i>
-mannen 	Norwegian <i id="form">mannen </i>
+mannen 	Norwegian <i id="form">mannen</i>
 med    	Norwegian <i id="form">med</i>
 meir   	Norwegian <i id="form">meir</i>
 måtte  	Norwegian <i id="form">måtte</i>
@@ -886,12 +886,12 @@ rund   	Norwegian <i id="form">rund</i>
 seg    	Norwegian <i id="form">seg</i>
 sist   	Norwegian <i id="form">sist</i>
 skein/skinte   	Norwegian <i id="form">skein/skinte</i>
-skulle 	Norwegian <i id="form">skulle </i>
+skulle 	Norwegian <i id="form">skulle</i>
 sola   	Norwegian <i id="form">sola</i>
 som    	Norwegian <i id="form">som</i>
 sterkare       	Norwegian <i id="form">sterkare</i>
 sterkaste      	Norwegian <i id="form">sterkaste</i>
-straks 	Norwegian <i id="form">straks </i>
+straks 	Norwegian <i id="form">straks</i>
 tettare	Norwegian <i id="form">tettare</i>
 trakk  	Norwegian <i id="form">trakk</i>
 var    	Norwegian <i id="form">var</i>
@@ -916,8 +916,8 @@ blood  	"blood"
 blow (V)       	"to blow"
 boil (V)       	"to boil"
 bone   	"bone"
-breast 	"breast "
-bridge 	"bridge "
+breast 	"breast"
+bridge 	"bridge"
 buckwheat      	"buckwheat"
 buy (V)	"to buy"
 chicken	"chicken"
@@ -939,13 +939,13 @@ day    	"day"
 die (V)	"to die"
 dog    	"dog"
 door   	"door"
-dragon 	"dragon "
+dragon 	"dragon"
 drink (V)      	"to drink"
 dry    	"dry"
 early  	"early"
 earring	"earring"
 earth  	"earth"
-earthworm;worm 	"earthworm, worm "
+earthworm;worm 	"earthworm, worm"
 eat (V)	"to eat"
 egg    	"egg"
 eight  	"eight"
@@ -953,7 +953,7 @@ eye    	"eye"
 fall down (V);drop (V) 	"to fall down, to drop"
 far    	"far"
 fat    	"fat"
-finger 	"finger "
+finger 	"finger"
 finger-nail    	"fingernail"
 fire   	"fire"
 firewood       	"firewood"
@@ -967,7 +967,7 @@ frog   	"frog"
 frost  	"frost"
 ghost  	"ghost"
 give   	"give"
-glutinous rice 	"glutinous rice "
+glutinous rice 	"glutinous rice"
 good   	"good"
 grind (V)      	"to grind"
 hair   	"hair"
@@ -1007,10 +1007,10 @@ long   	"long"
 louse  	"louse"
 mouth  	"mouth"
 one    	"one"
-person 	"person "
+person 	"person"
 small  	"small"
 that   	"that"
-tongue 	"tongue "
+tongue 	"tongue"
 two    	"two"
 who    	"who"
 woman  	"woman"
@@ -1029,7 +1029,7 @@ foot   	"foot"
 four   	"four"
 hair   	"hair"
 hand   	"hand"
-he/she 	"he/she "
+he/she 	"he/she"
 heart  	"heart"
 here   	"here"
 horn   	"horn"
@@ -1043,7 +1043,7 @@ nine   	"nine"
 nose   	"nose"
 not    	"not"
 one    	"one"
-person 	"person "
+person 	"person"
 seven  	"seven"
 six    	"six"
 skin   	"skin"
@@ -1054,12 +1054,12 @@ that   	"that"
 they   	"they"
 this   	"this"
 three  	"three"
-tongue 	"tongue "
+tongue 	"tongue"
 tooth  	"tooth"
 two    	"two"
 water  	"water"
 we     	"we"
-who?   	"who
+who?   	"who"
 woman  	"woman"
 world  	"world"
 year   	"year"
@@ -1069,7 +1069,7 @@ big    	"big"
 bird   	"bird"
 black  	"black"
 bone   	"bone"
-breast 	"breast "
+breast 	"breast"
 cloud  	"cloud"
 cold   	"cold"
 fingernail     	"fingernail"
@@ -1094,7 +1094,7 @@ neck   	"neck"
 new    	"new"
 nose   	"nose"
 not    	"not"
-person 	"person "
+person 	"person"
 rain   	"rain"
 red    	"red"
 road   	"road"

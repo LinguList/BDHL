@@ -54,6 +54,7 @@ pids = csv2dict('templates/pids.txt')
 dbase = {}
 dlang = {}
 
+
 idx = 0
 # iterate over files
 for f in sorted(infiles,key=lambda x:x.lower()):
@@ -156,6 +157,17 @@ for f in sorted(infiles,key=lambda x:x.lower()):
         else:
             mswap = 0
         
+        # store metadata in the metadata dictionary
+        dbase[idx+1] = (
+                m.infile,
+                m.dataset,
+                m.seq_id,
+                mpid,
+                seqnum,
+                sequnique,
+                ';'.join(m.taxa)
+                )
+
         # change sequence identifiers
         m.seq_id = m.seq_id.replace('&quot;','"')
         m.seq_id = m.seq_id.replace('</i>','*')
@@ -182,16 +194,6 @@ for f in sorted(infiles,key=lambda x:x.lower()):
             except KeyError:
                 dlang[t] = [idx+1]
 
-        # store metadata in the metadata dictionary
-        dbase[idx+1] = (
-                m.infile,
-                m.dataset,
-                m.seq_id,
-                mpid,
-                seqnum,
-                sequnique,
-                ';'.join(m.taxa)
-                )
 
         # increase the index
         idx += 1
@@ -220,11 +222,22 @@ for k,v in dbase.items():
         )
 out.close()
 
+import sqlite3
+conn = sqlite3.connect('../website_new/bdhl.de/data/data.sqlite3')
+cursor = conn.cursor()
+try:
+    cursor.execute('drop table alignments;')
+except:
+    pass
 
+cursor.execute('create table alignments(id int, file text, dataset text, sequence tex, pid int, seqnum int, uniques int, taxa text);')
 
+for k,v in sorted(dbase.items(), key=lambda x:x[0]):
 
-        
-        
+    cursor.execute(
+            'insert into alignments values(?,?,?,?,?,?,?,?);',
+            tuple([k]+list(v))
+            )
 
-        
-    
+conn.commit()
+
