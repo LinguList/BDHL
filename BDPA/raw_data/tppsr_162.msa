@@ -1,64 +1,50 @@
 tppsr (ref_50, 45)
 162,racérer,reaciariare
-1.	-	r	a	s	ə	r	-	-	i
-2.	-	r	a	s	ɛ	r	-	-	i
-3.	-	r	a	s	ə	r	-	-	i
-4.	-	-	a	s	ə	r	-	-	i
-5.	-	r	a	s	ə	r	-	j	e
-6.	-	r	a	s	ə	r	-	-	iː
-7.	-	r	a	s	ə	r	-	-	i
-8.	-	r	a	s	ə	r	-	-	i
-9.	-	r	a	ʃ	ə	r	-	-	i
-10	-	r	a	s	ə	r	-	-	i
-11	-	r	a	s	ə	r	-	-	ɪː
-12	-	r	a	s	e	r	-	-	i
-13	-	r	a	h	œ	r	-	-	i
-14	-	r	a	s	ə	r	-	-	i
-15	-	r	ɛ	ʦ	ɛ	r	ʣ	-	iː
-16	-	r	a	θ	a	r	-	-	i
-17	-	r	a	f	e	r	-	-	i
-18	-	r	a	s	ə	r	-	j	e
-19	-	-	a	θ	ə	r	-	-	i
-20	-	r	ə	ʦ	a	r	ʣ	-	i
-21	-	r	e	ʧ	æ	r	ʤ	-	i
-22	-	-	-	ʦ	a	r	ʣ	j	ə
-23	-	r	ə	ʦ	a	r	ʣ	-	e
-24	-	-	a	θ	ɛ	r	-	j	e
-25	-	-	-	ʦ	a	r	ʤ	j	e
-26	-	-	a	s	e	r	-	j	e
-28	-	-	-	s	i	r	-	j	e
-29	-	-	a	s	i	r	-	j	ɛ
-30	-	r	ə	ʦ	a	r	ʒ	j	ɛ
-32	-	r	a	s	-	r	-	-	i
-33	-	-	a	s	ə	r	-	-	i
-34	-	r	a	s	ə	r	-	-	i
-35	-	r	a	s	ə	r	-	-	i
-36	-	r	a	s	ə	r	-	-	i
-37	-	r	a	θ	ə	r	-	-	i
-38	-	r	a	θ	ɛ	r	-	-	i
-39	-	r	a	θ	ə	r	-	-	i
-40	-	r	ɛ	ʦ	ɛ	r	z	-	i
-41	-	r	a	s	ə	r	-	-	i
-42	-	r	a	θ	ə	r	-	-	i
-43	-	r	ɛ	ʦ	e	r	ʣ	-	i
-44	-	r	-	ʦ	ɛ	r	ʣ	-	i
-45	-	ʁ	a	s	a͜i	ʁ	-	-	iː
-46	-	r	a	s	e	r	-	-	iː
-47	-	r	-	ʧ	y	-	s	-	iː
-48	-	-	r	s	a	r	-	-	iː
-49	-	r	a	s	-	r	-	-	iː
-50	-	r	ɛ	s	ə	r	-	-	i
-51	-	r	a	s	eː	r	-	-	i
-52	-	ʁ	a	s	i	ʁ	-	-	iː
-53	-	r	ɛ	s	i	r	-	-	iː
-54	ə	r	-	ʧ	y	-	s	-	iː
-55	-	r	a	s	i	r	-	-	iː
-56	-	r	a	s	i	r	-	-	iː
-57	-	r	a	s	i	r	-	-	iː
-58	-	r	a	s	i	r	-	-	iː
-59	-	r	-	ʧ	ɑː	-	s	-	iː
-60	-	-	æ	s	i	r	-	-	i
-61	-	r	æ	s	i	r	-	-	iː
-62	-	r	æ	s	i	r	-	-	iː
-LOCAL		*	*	*	*	*			*
-SWAPS	+	-	+						
+1.	r	a	s	ə	r	-	i
+2.	r	a	s	ɛ	r	-	i
+3.	r	a	s	ə	r	-	i
+4.	-	a	s	ə	r	-	i
+5.	r	a	s	ə	r	j	e
+6.	r	a	s	ə	r	-	iː
+7.	r	a	s	ə	r	-	i
+8.	r	a	s	ə	r	-	i
+9.	r	a	ʃ	ə	r	-	i
+10	r	a	s	ə	r	-	i
+11	r	a	s	ə	r	-	ɪː
+12	r	a	s	e	r	-	i
+13	r	a	h	œ	r	-	i
+14	r	a	s	ə	r	-	i
+16	r	a	θ	a	r	-	i
+17	r	a	f	e	r	-	i
+18	r	a	s	ə	r	j	e
+19	-	a	θ	ə	r	-	i
+24	-	a	θ	ɛ	r	j	e
+26	-	a	s	e	r	j	e
+28	-	-	s	i	r	j	e
+29	-	a	s	i	r	j	ɛ
+32	r	a	s	-	r	-	i
+33	-	a	s	ə	r	-	i
+34	r	a	s	ə	r	-	i
+35	r	a	s	ə	r	-	i
+36	r	a	s	ə	r	-	i
+37	r	a	θ	ə	r	-	i
+38	r	a	θ	ɛ	r	-	i
+39	r	a	θ	ə	r	-	i
+41	r	a	s	ə	r	-	i
+42	r	a	θ	ə	r	-	i
+45	ʁ	a	s	a͜i	ʁ	-	iː
+46	r	a	s	e	r	-	iː
+48	r	-	s	a	r	-	iː
+49	r	a	s	-	r	-	iː
+50	r	ɛ	s	ə	r	-	i
+51	r	a	s	eː	r	-	i
+52	ʁ	a	s	i	ʁ	-	iː
+53	r	ɛ	s	i	r	-	iː
+55	r	a	s	i	r	-	iː
+56	r	a	s	i	r	-	iː
+57	r	a	s	i	r	-	iː
+58	r	a	s	i	r	-	iː
+60	-	æ	s	i	r	-	i
+61	r	æ	s	i	r	-	iː
+62	r	æ	s	i	r	-	iː
+LOCAL	*	*	*	*	*		*
