@@ -18,10 +18,10 @@ import os
 import re
 
 # make initial preparations
-os.system('rm ../website/bdhl.de/align/multiple/msa/*.msa')
-os.system('rm ../website/bdhl.de/align/multiple/msq/*.msq')
-os.system('rm ../website/bdhl.de/align/multiple/long/*.html')
-os.system('rm ../website/bdhl.de/align/multiple/short/*.html')
+os.system('rm ../website_new/bdhl.de/align/multiple/msa/*.msa')
+os.system('rm ../website_new/bdhl.de/align/multiple/msq/*.msq')
+os.system('rm ../website_new/bdhl.de/align/multiple/long/*.html')
+os.system('rm ../website_new/bdhl.de/align/multiple/short/*.html')
 
 os.system('rm phonalign/multiple/msq/*')
 
@@ -54,8 +54,9 @@ pids = csv2dict('templates/pids.txt')
 dbase = {}
 dlang = {}
 
-
+swap_count = 0
 idx = 0
+badt = []
 # iterate over files
 for f in sorted(infiles,key=lambda x:x.lower()):
     
@@ -108,6 +109,8 @@ for f in sorted(infiles,key=lambda x:x.lower()):
                 newt = lngr[m.dataset+'_'+t][0]
             except KeyError:
                 newt = t
+                badt += [t]
+                
         m.taxa[i] = newt
 
     # change the sequence identifiers, here it is important to first check
@@ -132,11 +135,14 @@ for f in sorted(infiles,key=lambda x:x.lower()):
         m.seq_id = newseqid.replace('"','&quot;')
 
         # prohibit to make a swapindex on tone languages
-        if hasattr(m, 'swap_index'): 
-            if m.swap_index and m.dataset in ['Bai','Sinitic']:
-                m.swap_index = []
+        if hasattr(m, 'swaps'): 
+            if m.dataset in ['Bai','Sinitic']:
+                m.swaps = []
+            else:
+                if m.swaps:
+                    swap_count += 1
         else:
-            m.swap_index = []
+            m.swaps = []
 
         # write temporary msa for html-conversion
         # output full msa
@@ -152,7 +158,7 @@ for f in sorted(infiles,key=lambda x:x.lower()):
         m.output('msa',filename='subsets/'+m.dataset+'/'+m.infile)
  
         # set swap-flag to true if this is a swap sequence
-        if m.swap_index:
+        if m.swaps:
             mswap = 1
         else:
             mswap = 0
@@ -165,25 +171,27 @@ for f in sorted(infiles,key=lambda x:x.lower()):
                 mpid,
                 seqnum,
                 sequnique,
-                ';'.join(m.taxa)
+                ';'.join(m.taxa),
+                mswap
                 )
 
         # change sequence identifiers
         m.seq_id = m.seq_id.replace('&quot;','"')
         m.seq_id = m.seq_id.replace('</i>','*')
+        m.seq_id = m.seq_id.replace('&lt;','<')
         m.seq_id = m.seq_id.replace('<i id="form">','*')
-        m.seq_id = re.sub(r'\s+',r' ',m.seq_id)
-        m.seq_id = m.seq_id.replace(' *','*')
+        #m.seq_id = re.sub(r'\s+',r' ',m.seq_id)
+        #m.seq_id = re.sub((' *','*')
 
         # write msas to file
         m.output(
                 'msa',
-                filename='../website/bdhl.de/align/multiple/msa/phonalign_{0}'.format(idx+1),
+                filename='../website_new/bdhl.de/align/multiple/msa/phonalign_{0}'.format(idx+1),
                 unique_seqs=False
                 )
         m.output(
                 'msq',
-                filename='../website/bdhl.de/align/multiple/msq/phonalign_{0}'.format(idx+1),
+                filename='../website_new/bdhl.de/align/multiple/msq/phonalign_{0}'.format(idx+1),
                 unique_seqs=False
                 )
 
@@ -230,14 +238,15 @@ try:
 except:
     pass
 
-cursor.execute('create table alignments(id int, file text, dataset text, sequence tex, pid int, seqnum int, uniques int, taxa text);')
+cursor.execute('create table alignments(id int, file text, dataset text, sequence tex, pid int, seqnum int, uniques int, taxa text,swap int);')
 
 for k,v in sorted(dbase.items(), key=lambda x:x[0]):
 
     cursor.execute(
-            'insert into alignments values(?,?,?,?,?,?,?,?);',
+            'insert into alignments values(?,?,?,?,?,?,?,?,?);',
             tuple([k]+list(v))
             )
 
 conn.commit()
 
+for t in sorted(set(badt)): print(t)

@@ -28,7 +28,7 @@ in the table below.
 <form action="pairwise.php" method="post">
 <tr>
 <td>Covington</td>
-<td>82 Sequences</td>
+<td>82 alignments</td>
 <td>Dataset by <a href="http://lingulist.de/evobib/evobib.php?key=Covington1996">Covington (1996)</a>, here in a slightly modified form containing plain IPA transcriptions instead of the original hybrid format.</td>
 <td><input type="hidden" value="covington" name="select" />
 <input type="submit" value="BROWSE" /></td></tr></form>
@@ -36,7 +36,7 @@ in the table below.
 <form action="pairwise.php" method="post">
 <tr>
 <td>GLOBAL</td>
-<td>7126 Sequences</td>
+<td>7197 alignments</td>
 <td>Dataset was automatically extracted from our masterset of multiple alignments by selecting the most diverse sequence pairs of all multiple alignments. Parts of this dataset were used in order to test the performance of the SCA alignment algorithm (<a href="http://lingulist.de/evobib/evobib.php?key=List2012a">List 2012</a>).</td>
 <td><input type="hidden" value="global" name="select" />
 <input type="submit" value="BROWSE" /></td></tr></form>
@@ -44,7 +44,7 @@ in the table below.
 <form action="pairwise.php" method="post">
 <tr>
 <td>TONAL</td>
-<td>1089 Sequences</td>
+<td>1088 alignments</td>
 <td>Dataset was automatically extracted from our masterset by selecting the most diverse sequence pairs of all multiple alignments consisting of tone languages. In contrast to the GLOBAL dataset above, this dataset contains only phonetic sequences from tone languages (Chinese, Bai).</td>
 <td><input type="hidden" value="tone" name="select" />
 <input type="submit" value="BROWSE" /></td></tr>

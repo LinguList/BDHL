@@ -1,0 +1,256 @@
+Aldomirovci (slivnica)	Aldomirovci (slivnica)
+Amami	Amami
+Asparuhovo (lom)	Asparuhovo (lom)
+Asparuhovo (prov)	Asparuhovo (prov)
+Babjak (razl)	Babjak (razl)
+Bachkovo (asgr)	Bachkovo (asgr)
+Bagrenci (kjust)	Bagrenci (kjust)
+Balgari (carev)	Balgari (carev)
+Banishte (brezn)	Banishte (brezn)
+Bansko (razl)	Bansko (razl)
+Beglezh (luk)	Beglezh (luk)
+Beijing	Běijīng
+Belene (svisht)	Belene (svisht)
+Belica (razl)	Belica (razl)
+Bistrica (blgr)	Bistrica (blgr)
+Bogdanov dol (pern)	Bogdanov dol (pern)
+Borisovo (elh)	Borisovo (elh)
+Bov (svog)	Bov (svog)
+Brashljan (mtarn)	Brashljan (mtarn)
+Buchin prohod (god)	Buchin prohod (god)
+Caparevo (sand)	Caparevo (sand)
+Cerovica (kjust)	Cerovica (kjust)
+Changsha	Chángshà
+Chengdu	Chéngdū
+Chepelare (asgr)	Chepelare (asgr)
+Chernogorovo (paz)	Chernogorovo (paz)
+Chernomorec (bs)	Chernomorec (bs)
+Chukovec (radom)	Chukovec (radom)
+Dermanci (luk)	Dermanci (luk)
+Devenci (luk)	Devenci (luk)
+Devesilica (krgr)	Devesilica (krgr)
+Dichin (vtarn)	Dichin (vtarn)
+Dinevo (hask)	Dinevo (hask)
+Diva slatina (mont)	Diva slatina (mont)
+Divdjadovo (shum)	Divdjadovo (shum)
+Dobarsko (razl)	Dobarsko (razl)
+Dobroselec (topgr)	Dobroselec (topgr)
+Dobroslavci (sof)	Dobroslavci (sof)
+Dobrotino (gd)	Dobrotino (gd)
+Dolna beshovica (vrach)	Dolna beshovica (vrach)
+Dolna dikanja (radom)	Dolna dikanja (radom)
+Dolna melna (tran)	Dolna melna (tran)
+Dolna riksa (mont)	Dolna riksa (mont)
+Dolna srudena (bel)	Dolna srudena (bel)
+Dolni bogrov (sof)	Dolni bogrov (sof)
+Dolno levski (pan)	Dolno levski (pan)
+Dorkovo (velgr)	Dorkovo (velgr)
+Drabishna (ivgr)	Drabishna (ivgr)
+Dragizhevo (vtarn)	Dragizhevo (vtarn)
+Dragodanovo (sliv)	Dragodanovo (sliv)
+Dragoevo (presl)	Dragoevo (presl)
+Dragojchinci (kjust)	Dragojchinci (kjust)
+Elov dol (pk)	Elov dol (pk)
+Enina (kaz)	Enina (kaz)
+Ezerovo (parvom)	Ezerovo (parvom)
+French	French
+Furen (vrach)	Furen (vrach)
+Fuzhou	Fùzhōu
+Gabare (bslat)	Gabare (bslat)
+Gabra (elpel)	Gabra (elpel)
+Galata (tetev)	Galata (tetev)
+Ganchovec (drjan)	Ganchovec (drjan)
+Garmen (gd)	Garmen (gd)
+Garvan (sil)	Garvan (sil)
+Gega (petr)	Gega (petr)
+Glozhene (orjah)	Glozhene (orjah)
+Golema rakovica (elpel)	Golema rakovica (elpel)
+Golemo malovo (sliven)	Golemo malovo (sliven)
+Golica (varn)	Golica (varn)
+Goljama zheljazna (tetev)	Goljama zheljazna (tetev)
+Goljamo shivachevo (sliv)	Goljamo shivachevo (sliv)
+Gorna rosica (sevl)	Gorna rosica (sevl)
+Gorni varpishta (drjan)	Gorni varpishta (drjan)
+Govedarci (sam)	Govedarci (sam)
+Gradec (vd)	Gradec (vd)
+Guangzhou	Guǎngzhōu
+Guiyang	Guìyáng
+Haerbin	Hǎrbīn
+Haikou	Hǎikǒu
+Hangzhou	Hángzhōu
+Hefei	Héfēi
+Huhehaote	Hohhot
+Huhla (ivgr)	Huhla (ivgr)
+Hvojna (asgr)	Hvojna (asgr)
+Indzhe vojvoda (mtarn)	Indzhe vojvoda (mtarn)
+Italian	Italian
+Ivanski (shum)	Ivanski (shum)
+Izvorovo (harm)	Izvorovo (harm)
+Javorovo (asgr)	Javorovo (asgr)
+Jinan	Jìnán
+Kagoshima	Kagoshima
+Kalipetrovo (sil)	Kalipetrovo (sil)
+Kalojanovo (plov)	Kalojanovo (plov)
+Karaisen (pavl)	Karaisen (pavl)
+Karanovo (ajt)	Karanovo (ajt)
+Kaspichan (np)	Kaspichan (np)
+Kolju marinovo (chirp)	Kolju marinovo (chirp)
+Konska (brezn)	Konska (brezn)
+Kopilovci (mont)	Kopilovci (mont)
+Koprivshtica (pird)	Koprivshtica (pird)
+Korten (nzag)	Korten (nzag)
+Kostenec (iht)	Kostenec (iht)
+Kovachevci (sam)	Kovachevci (sam)
+Kozichino (pom)	Kozichino (pom)
+Kramolin (sevl)	Kramolin (sevl)
+Kravenik (sevl)	Kravenik (sevl)
+Kreta (vrach)	Kreta (vrach)
+Krivnja (razgr)	Krivnja (razgr)
+Kunming	Kùnmíng
+Kyoto	Kyoto
+Ladino	Ladino
+Lanzhou	Lánzhōu
+Levunovo (sand)	Levunovo (sand)
+Ligurian	Ligurian
+Liljache (vr)	Liljache (vr)
+Lipnica (botgr)	Lipnica (botgr)
+Ljubenova mahala (nzag)	Ljubenova mahala (nzag)
+Lobosh (rad)	Lobosh (rad)
+Lozen (sof)	Lozen (sof)
+Malomirovo (elh)	Malomirovo (elh)
+Marchaevo (sof)	Marchaevo (sof)
+Marikostinovo (petr)	Marikostinovo (petr)
+Markovo (shum)	Markovo (shum)
+Meixian	Měixiàn
+Merdanja (vtarn)	Merdanja (vtarn)
+Merichleri (chirp)	Merichleri (chirp)
+Mihalci (pavl)	Mihalci (pavl)
+Milchina laka (kul)	Milchina laka (kul)
+Miyako	Miyako
+Momchilovci (smol)	Momchilovci (smol)
+Momina banja (pl)	Momina banja (pl)
+Momina klisura (pz)	Momina klisura (pz)
+Momkovo (svgr)	Momkovo (svgr)
+Mugla (dev)	Mugla (dev)
+Nanchang	Nánchàng
+Nanjing	Nánjīng
+Nanning	Nánníng
+Nikolovo (hask)	Nikolovo (hask)
+Nikolovo(lipnik) (rus)	Nikolovo(lipnik) (rus)
+Noevci (brezn)	Noevci (brezn)
+Nova lovcha (gd)	Nova lovcha (gd)
+Nova nadezhda (hs)	Nova nadezhda (hs)
+Novo selo (trojan)	Novo selo (trojan)
+Occitan	Occitan
+Ognen (karn)	Ognen (karn)
+Oki	Oki
+Omarchevo (nzag)	Omarchevo (nzag)
+Opan (stzag)	Opan (stzag)
+Osenec (razgr)	Osenec (razgr)
+Panagjurishte (gd)	Panagjurishte (gd)
+Paskalevec (pavl)	Paskalevec (pavl)
+Pavelsko (asgr)	Pavelsko (asgr)
+Pelatikovo (kjust)	Pelatikovo (kjust)
+Petarnica (plev)	Petarnica (plev)
+Pevec (targ)	Pevec (targ)
+Pingyao	Pingyao
+Plakovo (vt)	Plakovo (vt)
+Podvis (karn)	Podvis (karn)
+Pozharevo (tutr)	Pozharevo (tutr)
+Qingdao	Qingdao
+Rabisha (belgr)	Rabisha (belgr)
+Radovene (vr)	Radovene (vr)
+Rakevo (vr)	Rakevo (vr)
+Rakovica (kul)	Rakovica (kul)
+Rani lug (tryn)	Rani lug (tryn)
+Razboishte (god)	Razboishte (god)
+Ruzhinci (belgr)	Ruzhinci (belgr)
+Sadina (pop)	Sadina (pop)
+Sado	Sado
+Saparevo (dup)	Saparevo (dup)
+Sekirovo (plov)	Sekirovo (plov)
+Senokos (blgr)	Senokos (blgr)
+Sestrino (petr)	Sestrino (petr)
+Shanghai	Shànghǎi
+Shantou	Shāntóu
+Shexian	Shèxiàn
+Shipka (kaz)	Shipka (kaz)
+Shiroka laka (dev)	Shiroka laka (dev)
+Shiroki dol (sam)	Shiroki dol (sam)
+Shtipsko (prov)	Shtipsko (prov)
+Shuri	Shuri
+Skobelevo (sliv)	Skobelevo (sliv)
+Slaveino (smol)	Slaveino (smol)
+Slavjanovo (plev)	Slavjanovo (plev)
+Smochevo (dupn)	Smochevo (dupn)
+Smolsko (pird)	Smolsko (pird)
+Solishta (dev)	Solishta (dev)
+Sredec (zlgr)	Sredec (zlgr)
+Stakevci (blgr)	Stakevci (blgr)
+Stambolovo (hask)	Stambolovo (hask)
+Starmen (bel)	Starmen (bel)
+Stoilovo (mt)	Stoilovo (mt)
+Straldzha (jamb)	Straldzha (jamb)
+Stroevo (plov)	Stroevo (plov)
+Suhindol (vtarn)	Suhindol (vtarn)
+Sushica (blgr)	Sushica (blgr)
+Suzhou	Sùzhōu
+Svetlina (topgr)	Svetlina (topgr)
+Svirkovo (harm)	Svirkovo (harm)
+Taibei	Táiběi
+Taiyuan	Tàiyuán
+Taoyuan	Táoyuán
+Tianjin	Tiānjìn
+Tihomir (krgr)	Tihomir (krgr)
+Tihomirovo (stzag)	Tihomirovo (stzag)
+Tokyo	Tokyo
+Topolchane (sliv)	Topolchane (sliv)
+Trancovica (nik)	Trancovica (nik)
+Trastenik (plev)	Trastenik (plev)
+Tunxi	Tūnxī
+Ustovo (sm)	Ustovo (sm)
+Vabel (nik)	Vabel (nik)
+Vaklinovo (gd)	Vaklinovo (gd)
+Valche pole (svgr)	Valche pole (svgr)
+Varbica (presl)	Varbica (presl)
+Varbovo (blgr)	Varbovo (blgr)
+Vardun (targ)	Vardun (targ)
+Varvara (paz)	Varvara (paz)
+Vasiljovo (tetev)	Vasiljovo (tetev)
+VasjuganKhanti	VasjuganKhanti
+Velkovci (pk)	Velkovci (pk)
+Venetian	Venetian
+Vinarovo (vid)	Vinarovo (vid)
+Vinishte (mont)	Vinishte (mont)
+Vladinja (lov)	Vladinja (lov)
+Voden (elh)	Voden (elh)
+Vojnjagovo (karl)	Vojnjagovo (karl)
+Vrachesh (botgr)	Vrachesh (botgr)
+Vranilovci (gabr)	Vranilovci (gabr)
+Vresovo (ajt)	Vresovo (ajt)
+Wenzhou	Wénzhōu
+Wuhan	Wǔhàn
+Wulumuqi	Ürümqi
+Xiamen	Xiàmén
+Xianggang	Xiānggǎng
+Xiangtan	Xiāngtàn
+Xining	Xīníng
+Yinchuan	Yīnchuàn
+Zabardo (asgr)	Zabardo (asgr)
+Zabernovo (mt)	Zabernovo (mt)
+Zamfirovo (berk)	Zamfirovo (berk)
+Zanozhene (berk)	Zanozhene (berk)
+Zdravkovec (gabr)	Zdravkovec (gabr)
+Zelenigrad (tran)	Zelenigrad (tran)
+Zhaltusha (ard)	Zhaltusha (ard)
+Zheglica (vid)	Zheglica (vid)
+Zhelen (svog)	Zhelen (svog)
+Zheljazkovo (sred)	Zheljazkovo (sred)
+Zhengzhou	Zhèngzhōu
+Zheravna (kot)	Zheravna (kot)
+asparuhovo__lom	Asparuhovo (lom)
+bucin_prohod	Asparuhovo (lom)
+dolna_studena	Dolna srudena (bel)
+momchivovci	Momchilovci (smol)
+nikolovo_lipniik	Nikolovo(lipnik) (rus)
+tranchovica	Trancovica (nik)

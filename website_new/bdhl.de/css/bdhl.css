@@ -429,3 +429,13 @@ table.sources td {
   border: 2px solid gray;
 }
 
+tr.swap td {
+  border: 1px dotted black;
+}
+
+table.browse {
+  border: 2px solid gray;
+}
+table.browse td {
+  border: 2px solid gray;
+}
