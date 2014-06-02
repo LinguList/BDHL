@@ -50,11 +50,11 @@ Devesilica (krgr)........	ɕ	-	ʊ	-	-
 Dichin (vtarn)...........	ʃ	-	ə	-	-
 Dichin (vtarn)...........	ʃ	-	-	-	-
 Dichin (vtarn)...........	ʒ	-	-	-	-
-Dichin (vtarn)...........	ʃ	-	e	-	-
+Dichin (vtarn)...........	ˈʃ	-	e	-	-
 Dinevo (hask)............	z	-	ə	-	-
 Diva slatina (mont)......	ʧ	-	e	-	-
 Divdjadovo (shum)........	ʃ	-	ə	-	-
-Dobarsko (razl)..........	ʨ	-	e	-	-
+Dobarsko (razl)..........	ˈʨ	-	e	-	-
 Dobroselec (topgr).......	ʒ	-	ɤ	-	-
 Dobroselec (topgr).......	ʒ	-	i	-	-
 Dobroslavci (sof)........	ʧ	-	e	-	-
@@ -191,7 +191,7 @@ Petarnica (plev).........	ʃ	t	ɤ	-	-
 Petarnica (plev).........	ʃ	-	ɤ	-	-
 Pevec (targ).............	ʃ	-	ə	-	-
 Plakovo (vt).............	ʃ	-	ə	-	-
-Plakovo (vt).............	ʃ	-	e	-	-
+Plakovo (vt).............	ˈʃ	-	e	-	-
 Podvis (karn)............	ʃ	-	ə	-	-
 Podvis (karn)............	ʃ	-	i	-	-
 Pozharevo (tutr).........	ʃ	-	i	-	-
@@ -232,7 +232,7 @@ Starmen (bel)............	ʃ	-	ə	-	-
 Stoilovo (mt)............	ʃ	-	e	-	-
 Straldzha (jamb).........	ʃ	-	i	-	-
 Straldzha (jamb).........	ʃ	-	-	-	-
-Straldzha (jamb).........	ʃ	-	e	-	-
+Straldzha (jamb).........	ˈʃ	-	e	-	-
 Stroevo (plov)...........	ʒ	-	ə	-	-
 Suhindol (vtarn).........	ʃ	-	ə	-	-
 Sushica (blgr)...........	c	-	e	-	-
@@ -293,5 +293,3 @@ Zheglica (vid)...........	ʧ	-	e	-	-
 Zhelen (svog)............	ʃ	-	e	-	-
 Zheljazkovo (sred).......	c	-	e	-	-
 Zheravna (kot)...........	ʃ	-	ə	-	-
-LOCAL....................	*	.	*	.	.
-# Created using LingPy-2.0

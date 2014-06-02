@@ -30,42 +30,68 @@ illustrational purposes.
 <br><br>
 <h3><a style="color:black" name="formats">Basic Formats for Alignments Analyses</a></h3>
 <br>
+<p>
 <p>In order to exchange, edit, and compare phonetic alignments, different formats are used in the BDPA. 
-We distinguish between formats for pairwise alignments and for multiple
-alignments. Both formats are further divided into an input and output format.</p><br>
-<p>Formats for pairwise alignments include input format used to store unaligned
-pairs of phonetic sequences (PSQ format) and output format which stores aligned and
-manually corrected pairwise alignments (PSA format). The PSQ files have the extension <tt class="docutils literal">psq</tt>. 
-The first line of a PSQ-file contains information
-regarding the dataset. The sequence pairs are given in triplets, with a sequence identifier in the
-first line of a triplet (containing the meaning, or orthographical information) and the two
-sequences in the second and third line, whereas the first column of each sequence line contains the
-name of the language variety and the second column the sequence in IPA format. All triplets are divided by one
-empty line. As an example, consider the file <a href="data/harry_potter.psq">harry_potter.psq</a>:</p>
+Basically, we distinguish between formats for <em>pairwise alignments</em> and for <em>multiple
+alignments</em>.
+For practical reasons, the BDPA uses the alignment
+formats generally employed in <a href="http://lingpy.org">LingPy</a>. All formats are 
+text-based and can be edited with help of simple text editors.</p> 
+<p>The basic format for the 
+representation of multiple alignment analyses is the MSA-format. Files in this format have the 
+extension <code style="display:inline;color:Green">"msa"</code>. The first line of an MSA file 
+serves as an identifier for the dataset from which the alignment was taken. There are no further 
+format restrictions and the user can freely decide what to use as an identifier, as long as it does 
+not exceed the first line. In the BDPA, we use the names of our subsets 
+as dataset identifiers.  The second line is reserved as an identifier for the set of 
+aligned sound sequences. The identifier can again be freely chosen by the user. In the BDPA, we 
+generally use the meaning of the sound sequences as identifier, but we also add additional 
+information, such as the anceestral from (in language families) or the orthography of the 
+corresponding word in the standard variety (in dialect datasets). The following lines give the 
+phonetic sequences in aligned form, separated by a tab-stop, and preceded by language identifiers 
+(ISO-code, language name, dialect location) in the first column of the alignment matrix. The hash 
+symbol (<code style="display:inline;color:Green">"#"</code>) is used as a comment character. When placed in the beginning of a line, it indicates 
+that the line should be ignored when parsing the file . Inspired from 
+alignment formats in bioinformatics, LingPy allows for specific additional lines which can be used 
+to annotate the alignments. Instances of metathesis, for example, may be represented by adding a 
+line which starts with the keyword <code style="display:inline;color:Green">"SWAPS"</code>, with a plus character (<code style="display:inline;color:Green">"+"</code>) marking the beginning of a 
+swapped region, the dash character (<code style="display:inline;color:Green">"-"</code>) its center and another plus character the end. All sites 
+which are not affected by swaps contain a dot (<code style="display:inline;color:Green">"."</code>). In the BDPA, 66 out of 
+750 multiple alignments contain instances of metathesis and are regularly annotated in the way just 
+described.
+As an
+example, consider the file <a href="data/harry_potter.msa">harry_potter.msa</a>:</p>
 
 <pre id='vimCodeElement'>
-<span class="LineNr"> 1 </span><span class="dataSet">Harry Potter Testset</span>
-<span class="LineNr"> 2 </span><span class="seqId">Woldemort in German and Russian</span>
-<span class="LineNr"> 3 </span><span class="msaTaxa">German</span>      <span class="dolgoGlides">w</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">l</span> d <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">r</span>
-<span class="LineNr"> 4 </span><span class="msaTaxa">Russian</span>     <span class="dolgoGlides">v</span> <span class="dolgoLaterals">l</span> <span class="dolgoVowels">a</span> d <span class="dolgoVowels">i</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">i</span> <span class="dolgoLaterals">r</span>
-<span class="LineNr"> 5 </span>
-<span class="LineNr"> 6 </span><span class="seqId">Woldemort in English and Russian</span>
-<span class="LineNr"> 7 </span><span class="msaTaxa">English</span>     <span class="dolgoGlides">w</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">l</span> d <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">r</span> t
-<span class="LineNr"> 8 </span><span class="msaTaxa">Russian</span>     <span class="dolgoGlides">v</span> <span class="dolgoLaterals">l</span> <span class="dolgoVowels">a</span> d <span class="dolgoVowels">i</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">i</span> <span class="dolgoLaterals">r</span>
-<span class="LineNr"> 9 </span>
-<span class="LineNr">10 </span><span class="seqId">Woldemort in English and German</span>
-<span class="LineNr">11 </span><span class="msaTaxa">English</span>     <span class="dolgoGlides">w</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">l</span> d <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">r</span> t
-<span class="LineNr">12 </span><span class="msaTaxa">German</span>      <span class="dolgoGlides">w</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">l</span> d <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">r</span>
+<span class="LineNr">1 </span><span class="dataSet">Harry Potter Testset</span>
+<span class="LineNr">2 </span><span class="seqId">Woldemort (in different languages)</span>
+<span class="LineNr">3 </span><span class="msaTaxa">English</span>     <span class="dolgoGlides">v</span>     <span class="dolgoVowels">o</span>     <span class="dolgoLaterals">l</span>     -     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">e</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">o</span>     <span class="dolgoLaterals">r</span>     <span class="dolgoDentals">t</span>
+<span class="LineNr">4 </span><span class="msaTaxa">German.</span>     <span class="dolgoGlides">w</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">l</span>     -     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">e</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">r</span>     -
+<span class="LineNr">5 </span><span class="msaTaxa">Russian</span>     <span class="dolgoGlides">v</span>     -     <span class="dolgoLaterals">l</span>     <span class="dolgoVowels">a</span>     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">i</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">i</span>     <span class="dolgoLaterals">r</span>     -
+<span class="LineNr">6 </span><span class="swapSites">SWAPS..     .     +     -     +     .     .     .     .     .     .</span>
 </pre>
-<p>The output counterpart of the PSQ-format is the PSA-format. It is a specific format for text files
-containing already aligned sequence pairs. Files in this format have the extension <tt class="docutils literal">psa</tt>. The
-first line of a PSA-file contains information regarding the dataset. The sequence pairs are given in
-triplets, with a sequence identifier in the first line of a triplet (containing the meaning, or
-orthographical information) and the aligned sequences in the second and third line, whith the name
-of the language variety in the first column and all aligned segments in the following columns, separated by
-tabstops. All triplets are divided by one empty line. As an example, consider the file
-<a href="data/harry_potter.psa">harry_potter.psa</a>:</p>
 
+<p>
+Basically, the MSA-format can also be used to represent pairwise alignment analyses. However, since each
+MSA-file, is a single text-file, we would need 7 197
+different text-files to represent all sequence pairs of
+our master benchmark for pairwise alignment analyses. Using such a large amount of text-files to represent the rather small amount of information available in pairwise alignments is not only impractical as
+a shared digital resource, but also very inefficient for
+computation.
+</p>
+<p>
+In order to deal with large amounts of pairwise alignments in one and the same text-file, LingPy offers
+an additional format for pairwise alignment analyses.
+This format is called PSA-format, and files in the format have the extension <code style="display:inline;color:Green">"psa"</code>. As for the MSA-format,
+the first line of a PSA-file is reserved for an identifier that refers to the dataset from which the data
+was taken. The sequence pairs themselves are given
+in triplets, with a sequence identifier in the first line
+of a triplet (containing the meaning, or orthographical
+information) and the
+two sequences in the second and third line contain the alignment
+matrix with the language identifiers being placed in
+the first column. All triplets (sequence pair identifier
+and two sequences) are separated by one empty line. As an example, consider the file <a href="data/harry_potter.psa">harry_potter.psa</a>:</p>
 <pre id='vimCodeElement'>
 <span class="LineNr"> 1 </span><span class="dataSet">Harry Potter Testset</span>
 <span class="LineNr"> 2 </span><span class="seqId">Woldemort in German and Russian</span>
@@ -81,42 +107,12 @@ tabstops. All triplets are divided by one empty line. As an example, consider th
 <span class="LineNr">12 </span><span class="msaTaxa">German.</span>     <span class="dolgoGlides">w</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">l</span>     d     <span class="dolgoVowels">e</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">r</span>     -
 <span class="LineNr">13 </span>
 </pre>
-<p>Input format for multiple alignments is the so-called MSQ-format and it contains multiple unaligned sequences.
-Files in this
-format have the extension <tt class="docutils literal">msq</tt>. The first line of an msq-file contains information regarding
-the dataset. The second line contains information regarding the sequence (meaning, identifier), and
-the following lines contain the name of the language variety in the first column and the sequences in IPA format
-in the second column, separated by a tabstop. As an example, consider the file <a href="data/harry_potter.msq">harry_potter.msq</a>:</p>
+<p>In the BDPA, the pairwise benchmarks, as described above, are provided in
+PSA-format. Additionally, we extracted all possible
+pairwise alignments inherent in our master set of 750
+multiple alignments and offer them for download in
+PSA-format. You can download both MSA and PSA files for each subset from <a href="sources.php">here</a>.</p>
 
-<pre id='vimCodeElement'>
-<span class="LineNr">1 </span><span class="dataSet">Harry Potter Testset</span>
-<span class="LineNr">2 </span><span class="seqId">Woldemort (in different languages)</span>
-<span class="LineNr">3 </span><span class="msaTaxa">English</span>     <span class="dolgoGlides">v</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">l</span> <span class="dolgoDentals">d</span> <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">o</span> <span class="dolgoLaterals">r</span> <span class="dolgoDentals">t</span>
-<span class="LineNr">4 </span><span class="msaTaxa">German</span>      <span class="dolgoGlides">w</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">l</span> <span class="dolgoDentals">d</span> <span class="dolgoVowels">e</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">a</span> <span class="dolgoLaterals">r</span>
-<span class="LineNr">5 </span><span class="msaTaxa">Russian</span>     <span class="dolgoGlides">v</span> <span class="dolgoLaterals">l</span> <span class="dolgoVowels">a</span> <span class="dolgoDentals">d</span> <span class="dolgoVowels">i</span> <span class="dolgoMy">m</span> <span class="dolgoVowels">i</span> <span class="dolgoLaterals">r</span>
-</pre>
-<p>The MSA-format is an output format for multiple alignments which contains already aligned and manually checked multiple sequence. Files
-in this format have the extension <tt class="docutils literal">msa</tt>. The first line of a MSA-file contains information
-regarding the dataset. The second line contains information regarding the sequence (its meaning, the
-protoform corresponding to the cognate set, etc.). The aligned sequences are given in the following
-lines, whereas the language varieties are given in the first column and the aligned segments in the following
-columns. Additionally, there may be a specific line indicating the presence of swaps and a specific
-line indicating highly consistent positions (local peaks) in the MSA. The line for swaps starts with the
-headword SWAPS whereas a plus character (+) marks the beginning of a swapped region, the dash
-character (-) its center and another plus character the end. All sites which are not affected by
-swaps contain a dot. The line for local peaks starts with the headword LOCAL. All positions which are
-highly consistent are marked with an asterisk (*), all other positions are marked with a dot (.). As an
-example, consider the file <a href="data/harry_potter.msa">harry_potter.msa</a>:</p>
-
-<pre id='vimCodeElement'>
-<span class="LineNr">1 </span><span class="dataSet">Harry Potter Testset</span>
-<span class="LineNr">2 </span><span class="seqId">Woldemort (in different languages)</span>
-<span class="LineNr">3 </span><span class="msaTaxa">English</span>     <span class="dolgoGlides">v</span>     <span class="dolgoVowels">o</span>     <span class="dolgoLaterals">l</span>     -     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">e</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">o</span>     <span class="dolgoLaterals">r</span>     <span class="dolgoDentals">t</span>
-<span class="LineNr">4 </span><span class="msaTaxa">German.</span>     <span class="dolgoGlides">w</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">l</span>     -     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">e</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">a</span>     <span class="dolgoLaterals">r</span>     -
-<span class="LineNr">5 </span><span class="msaTaxa">Russian</span>     <span class="dolgoGlides">v</span>     -     <span class="dolgoLaterals">l</span>     <span class="dolgoVowels">a</span>     <span class="dolgoDentals">d</span>     <span class="dolgoVowels">i</span>     <span class="dolgoMy">m</span>     <span class="dolgoVowels">i</span>     <span class="dolgoLaterals">r</span>     -
-<span class="LineNr">6 </span><span class="swapSites">SWAPS..     .     +     -     +     .     .     .     .     .     .</span>
-<span class="LineNr">7 </span><span class="localPeaks">LOCAL.      *     *     *     .     *     *     *     *     *     .</span>
-</pre>
 <br>
 <h3><a style="color:black" name="cite">Citing BDPA</a></h3>
 <br>

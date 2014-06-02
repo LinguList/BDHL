@@ -1,11 +1,8 @@
 <!-- SIDEBAR download -->
 <h3>Download the Data of the BDPA</h3>
 <br>
-The phonetic alignment data is available in different formats and variants. In all cases, we offer 
-the raw, unedited files, and the edited, benchmark files. The formats we use are those which are 
-also
-used in the <a href="http://lingpy.org">LingPy</a> library for automatic tasks in 
-quantitative historical linguistics, and a closer desription of the nature of these formats can be found <a href="http://lingpy.org/tutorial/formats.html#basic-formats-for-phonetic-alignments">here</a>.
+The phonetic alignment data is available in form of specific text-based alignment formats for pairwise and multiple alignments.
+A closer description of the formats we use can be found <a href="faq.php#formats">here</a>.
 <br><br>
 <h3>Pairwise Phonetic Alignment Benchmark</h3><br>
 For pairwise alignments, we offer three different benchmarks:<br><br>
@@ -18,7 +15,8 @@ For pairwise alignments, we offer three different benchmarks:<br><br>
 All files can be downloaded from <a href="https://www.dropbox.com/s/ywybwcl9mgelt9j/pairwise.zip" target="_blank">here</a>.
 <br><br>
 <h3>Multiple Phonetic Alignments</h3><br>
-For multiple alignments, we offer a large benchmark masterset of 750 files. We provide the files again in both raw and edited format. This masterset can be subdivided into several small datasets according to different criteria, such as
+For multiple alignments, we offer a large master dataset of 750 files. 
+This masterset can be subdivided into several small datasets according to different criteria, such as
 <br><br>
 <ul>
 <li> the language family from which the data is taken, or </li>

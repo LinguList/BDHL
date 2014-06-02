@@ -8,54 +8,58 @@ $conn = new PDO ($dsn); ?>
 
 <?php 
 
-if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"]))
+if(isset($_GET["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"]))
 {
-  if(isset($_POST["query"]))
-  {
+  //if(isset($_GET["query"]))
+  //{
     // set the query string
     $qstring = "select * from alignments where ";
 
-    if($_POST["dataset"] == "")
+    if($_GET["dataset"] == "")
     {
 	    $qstring = $qstring.'dataset like "%" and ';
     }
     else
     {
-  	  $qstring = $qstring.'dataset like "'.$_POST["dataset"].'" and ';
+  	  $qstring = $qstring.'dataset like "'.$_GET["dataset"].'" and ';
     }
-    if($_POST["sequence"] == "")
+    if($_GET["sequence"] == "")
     {
 	    $qstring = $qstring.'sequence like "%" and ';
     }
     else
     {
-	    $qstring = $qstring.'sequence like "%'.$_POST["sequence"].'%" and ';
+	    $qstring = $qstring.'sequence like "%'.$_GET["sequence"].'%" and ';
     }
-    if($_POST["taxa"] == "")
+    if($_GET["taxa"] == "")
     {
 	    $qstring = $qstring.'taxa like "%" and ';
     }
     else
     {
-	    $qstring = $qstring.'taxa like "%'.$_POST["taxa"].'%" and ';
+	    $qstring = $qstring.'taxa like "%'.$_GET["taxa"].'%" and ';
     }
-    if(is_numeric($_POST["pidup"]))
+    if(is_numeric($_GET["pidup"]))
     {
-	    $qstring = $qstring.'pid <= '.$_POST["pidup"].' and ';
+	    $qstring = $qstring.'pid <= '.$_GET["pidup"].' and ';
     }
     else
     {
 	    $qstring = $qstring.'pid <= 100 and ';
     }
-    if(is_numeric($_POST["piddown"]))
+    if(is_numeric($_GET["piddown"]))
     {
-	    $qstring = $qstring.'pid >= '.$_POST["piddown"].' and ';
+	    $qstring = $qstring.'pid >= '.$_GET["piddown"].' and ';
     }
     else
     {
 	    $qstring = $qstring.'pid >= 0 and ';
     }
-    if(isset($_POST['swap']))
+    if(is_numeric($_GET['pid']))
+    {
+      $qstring = $qstring.' pid = '.$_GET['pid'].' and ';
+    }
+    if(isset($_GET['swap']))
     {
       $qstring = $qstring.'swap == 1;';
     }
@@ -63,8 +67,8 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"]))
     {
       $qstring = $qstring.'swap < 2;';
     }
-  }
-  else
+  //}
+  /*else
   {
 	  $qstring = 'select * from alignments where file like "%"';
     if(isset($_GET["dataset"]))
@@ -75,7 +79,7 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"]))
     {
 	    $qstring = $qstring.' and pid = '.$_GET["pid"].';';
 	  }
-  }  
+  }*/  
   // carry out the query
   $query = $conn->query($qstring);
   $results = array();
@@ -118,11 +122,11 @@ if(isset($_POST["query"]) || isset($_GET["dataset"]) || isset($_GET["pid"]))
 <div id="text">The HTML visualization of multiple sequence alignments colors phonetic segments depending on their sound class. This format is useful for inspecting and evaluating a given alignment analysis.</div></div>
 </td>
 <td><div id="popup"><b>MSA</b>
-<div id="text">The MSA format is the basic machine-readable format for multiple sequence alignments. For a closer description of this format, see <a href="http://lingpy.org/tutorial/formats.html#multiple-alignments-msq-and-msa">this link</a>.</div></div>
+<div id="text">The MSA format is the basic machine-readable format for multiple sequence alignments. For a closer description of this format, see <a href="faq.php#formats">this link</a>.</div></div>
 </td>
-<td><div id="popup"><b>MSQ</b>
+<!--<td><div id="popup"><b>MSQ</b>
 <div id="text">The MSQ format is the basic machine-readable format for unaligned sets of multiple sequences. For a closer description of this format, see <a href="http://lingpy.org/tutorial/formats.html#multiple-alignments-msq-and-msa">this link</a>.</div></div>
-</td>
+</td>-->
 </tr>
 
 <?php
@@ -145,21 +149,16 @@ foreach($results as &$result){
   echo "<td>".$result['sequence']."</td>";
 	echo "<td>".$result["pid"]."</td>";
 ?>
-<form action="multiple.php" method="post">
+<form action="multiple.php" method="get">
   <td>
-    <input type="hidden" name="msa" value="align/multiple/html/<?php echo $result["file"]?>.html" />
+    <input type="hidden" name="msa" value="<?php echo $result["file"]?>.html" />
     <input type="submit" value="HTML" />
   </td>
 </form>
-<form action="multiple.php" method="post">
-    <td><input type="hidden" name="msa_source" value="align/multiple/msa/<?php echo $result["file"]?>.msa" />
+<form action="multiple.php" method="get">
+    <td><input type="hidden" name="msa_source" value="<?php echo $result["file"]?>.msa" />
 	<input type="submit" value="MSA" /></td>
 	<input type="hidden" name="filename" value="<?php echo $result["file"]; ?>.msa" />
-</form>
-<form action="multiple.php" method="post">
-    <td><input type="hidden" name="msa_source" value="align/multiple/msq/<?php echo $result["file"]?>.msq" />
-	<input type="hidden" name="filename" value="<?php echo $result["file"]; ?>.msq" />
-	<input type="submit" value="MSQ" /></td></tr>
 </form>
 <?php } ?>
 </table>
@@ -170,7 +169,7 @@ foreach($results as &$result){
 <h3>Browse Multiple Alignments in BDPA</h3>
 <br>
 
-<form action="multiple.php" method="post">
+<form action="multiple.php" method="get">
 <label for="back"><b><font color="red">No results found for your query.</font><b></label>
 <input type="submit" value="NEW QUERY" name="back"/></form> 
 <br>
@@ -179,16 +178,22 @@ foreach($results as &$result){
         //echo "<p align=left><font color=red><b>No results found for your query.</b></font></p>";
     }
 }
-else if(isset($_POST["msa_source"])){
-    echo '<h3>Browse Multiple Alignments in BDPA</h3><br><b>Source of file "';
-    echo $_POST["filename"].'":</b> ';
-    echo '<a href="javascript:history.go(-1)">[BACK]</a>';
-    echo "<pre><code>";
-    include($_POST["msa_source"]);
-    echo "</code></pre>";
+else if(isset($_POST["msa_source"]) or isset($_GET["msa_source"])){
+  if(isset($_GET['msa_source']))
+  {
+    $_POST['msa_source'] = $_GET['msa_source'];
+    $_POST['filename'] = $_GET['msa_source'];
+  }
+  echo '<h3>Browse Multiple Alignments in BDPA</h3><br><b>Source of file "';
+  echo $_POST["filename"].'":</b> ';
+  echo '<a href="javascript:history.go(-1)">[BACK]</a>';
+  echo "<pre><code>";
+  include("align/multiple/msa/".$_POST["msa_source"]);
+  echo "</code></pre>";
 }
-else if(isset($_POST["msa"])){
-    include($_POST["msa"]);
+else if(isset($_POST["msa"]) or isset($_GET['msa'])){
+  if(isset($_GET['msa'])){$_POST['msa'] = $_GET['msa'];}
+  include('align/multiple/html/'.$_POST["msa"]);
 }
 else{
 ?>
@@ -203,7 +208,7 @@ You can also <a href="download.php">download</a> the whole data or data of the i
 <br><br>
 
 <b>Browse the data:</b>
-<form action="multiple.php" method="post">
+<form action="multiple.php" method="get">
 <table class="browse">
   <tr>
     <td>

@@ -53,12 +53,15 @@ phonetic strings) are represented and can be directly tested.</p>
 </tr>
 <tr>
   <td style="background-color:#ffa600;width:100px"><b>Date:</b></td>
-  <td> ?, ?</td>
+  <td> June 5, 2014 </td>
   <td></td>
 </tr>
 <tr>
   <td style="background-color:#ffa600;width:100px"><b>Editors:</b></td>
-  <td> Johann-Mattis List, Jelena Prokić </td>
+  <td> 
+    <div class="popup">Johann-Mattis List<sup>1</sup>,<div class="text"><br>Research Center Deutscher Sprachatlas, Philipps-University Marbrg<br></div></div> 
+    <div class="popup">Jelena Prokić <sup>1</sup><div class="text"><br>Research Center Deutscher Sprachatlas, Philipps-University Marbrg</div></div>
+  </td>
   <td></td>
 </tr>
 </table>
